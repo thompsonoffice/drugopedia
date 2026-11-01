@@ -68,3 +68,16 @@ F["meptazinol"]={
 "Misuse and dependence are uncommon but possible with long use."]}
 for k,v in F.items():
     if k in D: D[k]["feel"]=v
+D["benzhydrocodone"]["feel"]={
+"onset":["Benzhydrocodone, sold with acetaminophen as Apadaz, is a prodrug: it does nothing until enzymes in the gut convert it into hydrocodone. Swallowed as intended, the onset feels much like a hydrocodone combination tablet, building gradually over the first hour: a warmth settling into the stomach and chest, muscles loosening, and pain softening into a dull, distant pressure.",
+"Mentally the onset brings hydrocodone's mellow, cozy calm. Worries lose their sharpness, the mind slows a little, and many people feel a gentle, comfortable contentment rather than a bright rush.",
+"Because the conversion happens in the gut, it was designed so that other routes do not produce a faster or stronger effect. The acetaminophen in the tablet adds liver risk if too much is taken overall, including from other cold or pain products."],
+"peak":["At its peak the body feels warm, heavy and loose. An itch often creeps across the nose, face or chest, pupils narrow, and breathing slows and deepens.",
+"Mentally the peak is a dreamy, contented mellowness. Some people become chatty and sociable, others quietly drowsy; music and conversation may feel pleasantly soft, and time slides by.",
+"Breathing suppression rises sharply with alcohol, benzodiazepines or other opioids. Acetaminophen overdose can silently damage the liver over the following days even when the person feels fine."],
+"plateau":["The plateau lasts a few hours of steady, mild sedation and pain relief. Dry mouth, constipation and sometimes nausea develop.",
+"Mentally the state is calm, slowed and somewhat inward, with weaker concentration and slower reactions, so driving is unsafe.",
+"Breathing remains suppressed, and people who sleep during the plateau after mixing sedatives are at greatest risk."],
+"comedown":["The comedown brings tiredness, a heavy-headed feeling and the return of pain.",
+"Emotionally some feel flat, restless or mildly irritable as the comfort fades.",
+"Regular use causes hydrocodone-like dependence; withdrawal brings aches, yawning, runny nose, diarrhea and craving."]}

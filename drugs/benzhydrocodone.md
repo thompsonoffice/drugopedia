@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Oral: about 30 to 60 minutes (slightly slower than plain hydrocodone).
+Benzhydrocodone, sold with acetaminophen as Apadaz, is a prodrug: it does nothing until enzymes in the gut convert it into hydrocodone. Swallowed as intended, the onset feels much like a hydrocodone combination tablet, building gradually over the first hour: a warmth settling into the stomach and chest, muscles loosening, and pain softening into a dull, distant pressure.
+
+Mentally the onset brings hydrocodone's mellow, cozy calm. Worries lose their sharpness, the mind slows a little, and many people feel a gentle, comfortable contentment rather than a bright rush.
+
+Because the conversion happens in the gut, it was designed so that other routes do not produce a faster or stronger effect. The acetaminophen in the tablet adds liver risk if too much is taken overall, including from other cold or pain products.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Gentle warmth.
 
 ### Peak (1-2 h)
 
-Peak around 1 to 2 hours.
+At its peak the body feels warm, heavy and loose. An itch often creeps across the nose, face or chest, pupils narrow, and breathing slows and deepens.
+
+Mentally the peak is a dreamy, contented mellowness. Some people become chatty and sociable, others quietly drowsy; music and conversation may feel pleasantly soft, and time slides by.
+
+Breathing suppression rises sharply with alcohol, benzodiazepines or other opioids. Acetaminophen overdose can silently damage the liver over the following days even when the person feels fine.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-A few hours of relief.
+The plateau lasts a few hours of steady, mild sedation and pain relief. Dry mouth, constipation and sometimes nausea develop.
+
+Mentally the state is calm, slowed and somewhat inward, with weaker concentration and slower reactions, so driving is unsafe.
+
+Breathing remains suppressed, and people who sleep during the plateau after mixing sedatives are at greatest risk.
 
 ### Comedown (4-6 h total)
 
-Fades over 4 to 6 hours.
+The comedown brings tiredness, a heavy-headed feeling and the return of pain.
+
+Emotionally some feel flat, restless or mildly irritable as the comfort fades.
+
+Regular use causes hydrocodone-like dependence; withdrawal brings aches, yawning, runny nose, diarrhea and craving.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
