@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (45-90 min)
 
-Mescaline, from peyote and San Pedro cacti, comes on slowly. The first hour often brings nausea and vomiting, a bitter taste, and a restless, stimulated body with tingling and warmth.
+Mescaline, from the peyote cactus and San Pedro (Echinopsis) cacti, comes on slowly over an hour or two. The first stretch often brings nausea and vomiting from the intensely bitter taste, a heavy or cramping stomach, and a restless, stimulated body with tingling, warmth, yawning and goosebumps.
 
-Mentally the onset feels like a gradual brightening, with a heightened sense of beauty and openness.
+Mentally the onset feels like a gradual brightening and opening. Colors begin to glow, small details seem fascinating, and a sense of beauty and significance creeps in, often accompanied by a light, giggly mood.
 
-Pupils widen and the heart rate rises.
+Pupils widen, the heart rate rises, and some feel jittery or chilled.
 
 Mescaline is absorbed slowly from the gut and needs much more than LSD to act, because it binds 5-HT2A weakly.
 
@@ -64,9 +64,9 @@ Colors and emotions intensify.
 
 ### Peak (3-5 h)
 
-At the peak colors are intensely vivid and saturated, often more so than with LSD, and surfaces breathe and shimmer. The body may feel warm, energized and sometimes heavy.
+At the peak colors are intensely vivid and saturated, often more so than with LSD; surfaces breathe and shimmer, and geometric patterns flow with eyes closed. The body feels warm and energized, sometimes heavy, with waves of tingling.
 
-Emotionally the peak is often warm, empathetic and earthy, with a sense of connection to nature. Thought is clearer and less chaotic than with LSD for many people.
+Emotionally the peak is often warm, empathetic and earthy, with a deep sense of connection to nature, other people and the land. Many say thought stays clearer and less chaotic than with LSD, though anxiety and difficult insights can also arise. Peyote is a sacrament in the Native American Church.
 
 Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
@@ -76,19 +76,19 @@ Heart rate and blood pressure rise modestly.
 
 ### Plateau (5-8 h)
 
-The plateau is long, many hours of vivid, flowing visuals and reflective thought.
+The plateau is long, many hours of vivid, flowing visuals and reflective, unhurried thought. Time seems to stretch.
 
-Mood is usually gentle and introspective.
+Mood is usually gentle and introspective, sometimes joyful, sometimes melancholy.
 
-Fatigue builds as the hours pass.
+Fatigue builds as the hours pass, and stomach discomfort can linger.
 
 ### Comedown (8-12 h)
 
-The comedown is slow, with visuals softening into the evening.
+The comedown is slow, with visuals softening into the evening and a tired, contented body.
 
-Emotionally calm and tired.
+Emotionally calm and tired, often reflective about what was seen and felt.
 
-Sleep can be difficult until it fully clears.
+Sleep can be difficult until it fully clears, sometimes well into the night.
 
 Half-life about 6 hours.
 

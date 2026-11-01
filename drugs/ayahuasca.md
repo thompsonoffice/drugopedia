@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Ayahuasca, a brew combining a DMT-containing plant with an MAO-inhibiting vine, comes on slowly. The first signs are stomach unease, a heavy, warm body and a subtle shift in vision, with colors deepening and soft patterns appearing in the dark.
+Ayahuasca, a brew of a DMT-containing leaf (usually chacruna) and the MAO-inhibiting Banisteriopsis caapi vine, comes on slowly over the first hour. The brew itself is thick, bitter and earthy. As it takes hold, the stomach grows uneasy and heavy, the body warms or chills, and a buzzing vibration may rise through the limbs. In the dark, faint colors and shifting patterns begin to appear behind the eyelids.
 
-Mentally the onset often brings anticipation and anxiety, then a feeling of being drawn inward. Thoughts and memories surface with unusual vividness.
+Mentally the onset often brings anticipation and anxiety, then a feeling of being drawn inward and downward. Memories, faces and emotions surface with unusual vividness, sometimes unbidden, and sounds such as singing (icaros) or rain can seem to shape the visions.
 
-Nausea builds and vomiting ('the purge') is common and considered part of the ritual in traditional settings. Diarrhea, sweating and shivering can come too.
+Nausea builds steadily and vomiting ('the purge') is common; in traditional settings it is considered cleansing and part of the ceremony. Diarrhea, sweating, yawning, shivering and crying can come in waves.
 
 Harmala alkaloids inhibit MAO-A in the gut and liver within minutes, allowing DMT to reach the bloodstream.
 
@@ -76,19 +76,19 @@ MAO inhibition can cause serotonin syndrome with SSRIs, SNRIs, MDMA, tramadol, D
 
 ### Plateau (2-3 h)
 
-The plateau is a long stretch of rolling visions and emotional processing, with intermittent nausea.
+The plateau is a long stretch, often hours, of rolling visions and emotional processing. Visions may come in waves, separated by calmer periods, and nausea or purging may return intermittently. The body can feel heavy and unable to move or charged with energy.
 
-Thinking moves between insight and confusion.
+Thinking moves between moments of striking insight and confusion. People often revisit relationships, trauma or regrets, sometimes experiencing them as if from the outside, and may feel overwhelming forgiveness or grief.
 
-People are vulnerable and need a safe setting and trustworthy people around.
+People are vulnerable in this state and need a safe setting and trustworthy, experienced people around them. Sexual abuse by so-called shamans in unregulated retreats has been widely reported.
 
 ### Comedown (3-6 h)
 
-The comedown is gradual, leaving tiredness, emptiness of the stomach, and a sense of having been through something.
+The comedown is gradual, leaving deep tiredness, an empty stomach, aching muscles from purging, and sometimes a lingering shimmer when the eyes close. Sleep usually comes eventually.
 
-Emotionally people often feel cleansed and reflective, though some feel shaken.
+Emotionally people often feel cleansed, tender and reflective, sometimes euphoric for days. Others feel shaken, raw or disturbed by what surfaced, and integration support helps.
 
-Deaths have been reported, usually involving drug interactions, other substances added to the brew, or pre-existing heart problems.
+Deaths have been reported, usually involving drug interactions (especially SSRIs and stimulants), extra plants or substances added to the brew, or pre-existing heart problems. People are often advised to avoid certain foods and medicines before and after.
 
 Effects fade as DMT is cleared, but MAO inhibition lasts longer.
 

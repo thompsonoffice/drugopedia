@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-The 2C family (2C-I, 2C-E, 2C-T-7 and others) varies widely. The onset often brings body load: nausea, tension and a jittery energy.
+The 2C family (2C-I, 2C-E, 2C-T-2, 2C-T-7, 2C-C and others) varies widely, but many share a heavy 'body load' at onset: nausea, muscle tension, a tight jaw, goosebumps and a jittery, buzzing energy.
 
-Mentally anticipation and a building intensity.
+Mentally the onset brings anticipation and a slowly building intensity, sometimes with anxiety before the visuals arrive.
 
-Effects and durations differ greatly between compounds.
+Effects, strength and duration differ greatly between compounds, and amounts that are mild for one can be overwhelming for another.
 
 Absorption and onset vary by compound; 2C-P and 2C-E are slow.
 
@@ -64,11 +64,11 @@ Visuals and body load build.
 
 ### Peak (2-4 h)
 
-At the peak strong visuals and altered thinking; 2C-E is known for heavy, intense experiences, 2C-I for energetic visuals.
+At the peak strong visuals and altered thinking take over. 2C-E is known for heavy, intense, sometimes grueling experiences; 2C-I for energetic, colorful visuals; 2C-T-7 for a long, bodily trip.
 
-Emotionally can be euphoric or difficult.
+Emotionally the peak can be euphoric, insightful or difficult and confusing.
 
-Some 2C compounds, especially 2C-T-7, have been linked to deaths. Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
+Some 2C compounds, especially 2C-T-7 and 2C-T-21, have been linked to deaths. Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
 At peak, strong 5-HT2A effects; seizures and overheating are reported with some compounds.
 
@@ -78,15 +78,15 @@ At peak, strong 5-HT2A effects; seizures and overheating are reported with some 
 
 The plateau is long.
 
-Body discomfort can persist.
+Body discomfort and tension can persist.
 
-Fatigue grows.
+Fatigue grows as the hours pass.
 
 ### Comedown (6-12 h)
 
-The comedown is slow.
+The comedown is slow, with lingering stimulation.
 
-Mood mixed.
+Mood mixed, often tired.
 
 Mixing with other drugs is dangerous.
 

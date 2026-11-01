@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20 min-3 h)
 
-Research tryptamines like 4-AcO-DMT, 4-HO-MET and DPT vary. Onset may bring mild nausea, yawning and a tingly energy.
+Research tryptamines like 4-AcO-DMT ('synthetic shrooms'), 4-HO-MET, 4-HO-MiPT, DPT and 5-MeO-MiPT vary. The onset often brings mild nausea, yawning, a slight chill and a tingly energy.
 
-Mentally a gradual opening.
+Mentally a gradual opening and brightening, with giggles or anticipation.
 
-Many feel similar to psilocybin.
+Many 4-substituted ones feel similar to psilocybin; others are more stimulating or bodily.
 
 Absorption varies; 4-AcO-DMT converts to psilocin.
 
@@ -64,9 +64,9 @@ Body load and visuals build.
 
 ### Peak (2-6 h)
 
-At the peak visuals and altered thinking.
+At the peak there are visuals and altered thinking; 4-HO-MET is known as colorful and lighthearted, DPT as intense and ritualistic, 5-MeO-MiPT as tactile and sensual.
 
-Emotionally euphoric or difficult.
+Emotionally euphoric or difficult, like other psychedelics.
 
 Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
@@ -76,7 +76,7 @@ AMT's MAO inhibition can cause serotonin syndrome with other drugs.
 
 ### Plateau (2-8 h)
 
-The plateau is a few hours.
+The plateau lasts a few hours.
 
 Mood varies.
 
@@ -84,11 +84,11 @@ Fatigue builds.
 
 ### Comedown (4-16 h)
 
-The comedown is gradual.
+The comedown is gradual and tired.
 
 Mood reflective.
 
-Unregulated products may be mislabeled.
+Unregulated products may be mislabeled or contaminated.
 
 Durations range from a few hours to over a day.
 

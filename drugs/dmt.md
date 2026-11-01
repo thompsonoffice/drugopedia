@@ -76,19 +76,19 @@ People with heart disease or high blood pressure face the greatest risk.
 
 ### Plateau (5-10 min)
 
-The intense phase is very short. Within minutes the visuals soften back into geometric overlays on the real room, and body sensation returns as tingling and heaviness.
+After the first few minutes the intensity drains away quickly. The hyper-real spaces fold back into geometric overlays on the real room: fine lattice patterns on the ceiling, colors pulsing around edges, a shimmer over skin and fabric. Body sensation returns as tingling, a vibrating buzz, heaviness in the limbs and sometimes a racing heart that slowly settles.
 
-Mentally people drift back with a sense of awe, confusion or shock, often trying to remember what happened.
+Mentally people drift back with awe, confusion or shock. Many lie still trying to hold on to fading memories of what they saw, which slip away like a dream. Some laugh uncontrollably, cry, or speak repeatedly about the 'beings' or places they encountered; others feel unsettled and want reassurance.
 
-Being in a safe, seated or lying position with a sober person present matters, because people cannot protect themselves during the peak.
+Being seated or lying down in a safe place with a sober person present matters, because people may stand up suddenly, fall or panic in this transition and cannot protect themselves during the peak just before.
 
 ### Comedown (10-20 min)
 
-The comedown is quick, typically leaving a clear head within the hour.
+The comedown is quick: within roughly half an hour most people feel physically close to normal, perhaps slightly tired, lightheaded or with a mild headache and a lingering pleasant body glow.
 
-Emotionally there may be euphoria, gratitude, or unsettled anxiety needing time to process.
+Emotionally there may be euphoria, gratitude and an urge to describe the experience, or a lingering anxiety that needs time and conversation to process. Some people feel the experience changed how they see reality; a few feel shaken for days.
 
-DMT does not cause physical dependence. Combining with MAO inhibitors, as in ayahuasca, changes the experience and adds interaction risks.
+DMT does not cause physical dependence. Taken with MAO inhibitors, as in ayahuasca, the experience becomes far longer and adds interaction risks, and in people with heart disease the brief spike in blood pressure can be dangerous.
 
 MAO breaks DMT down within minutes, ending effects rapidly.
 

@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-PMA and PMMA are often sold as fake ecstasy. The onset is slow and weak, which leads people to take more, a deadly pattern.
+PMA and PMMA are often sold as fake ecstasy. The onset is slow and weak, which leads people to take more — a deadly pattern.
 
-Mentally less euphoria than expected.
+Mentally there is less euphoria than expected, and some feel disappointed or confused.
 
-Body heat and heart rate climb.
+Body heat and heart rate climb steadily while the person feels relatively little.
 
 PMA is absorbed slowly, so effects seem weak at first.
 
@@ -64,7 +64,7 @@ Mild stimulation without much euphoria.
 
 ### Peak (3-5 h)
 
-At the peak, people may feel only mildly high while their body is overheating dangerously.
+At the peak, people may feel only mildly high while their body is overheating dangerously, with flushed skin, rigid muscles and a racing heart.
 
 Emotionally confused or agitated.
 

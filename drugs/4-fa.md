@@ -48,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-4-FA (4-fluoroamphetamine) has a moderate onset of clean energy and mild warmth.
+4-FA (4-fluoroamphetamine), popular in the Netherlands before its ban, has a moderate onset of clean energy and mild warmth.
 
 Mentally a mix of amphetamine focus and mild MDMA-like sociability.
 
@@ -64,11 +64,11 @@ Energy rises.
 
 ### Peak (2-3 h)
 
-At the peak euphoria, sociability and energy.
+At the peak there is euphoria, sociability and energy.
 
-Emotionally upbeat.
+Emotionally upbeat and talkative.
 
-Severe headaches and strokes have been reported.
+Severe headaches, bleeding in the brain and strokes have been reported, sometimes hours after use.
 
 At peak, severe headache can signal brain bleeding and needs emergency care.
 
@@ -86,9 +86,9 @@ Sleep is hard.
 
 The comedown is tired.
 
-Mood mild low.
+Mood mildly low.
 
-Repeated use risky.
+A sudden, severe headache after use is an emergency.
 
 Effects last 4 to 8 hours.
 

@@ -48,9 +48,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-3 h)
 
-DOx compounds (DOM, DOB, DOC) have a very slow onset, sometimes hours, which leads people to take more. Body stimulation and tension build gradually.
+DOx compounds (DOM, DOB, DOC, DOI) have a very slow onset, sometimes hours, which leads people to take more before the first has taken effect. Body stimulation and tension build gradually: a tight jaw, cold extremities, restlessness and a growing buzz.
 
-Mentally a slow, building intensity.
+Mentally a slow, building intensity, sometimes with impatience or anxiety.
 
 Pupils widen and the jaw may clench.
 
@@ -64,9 +64,9 @@ Slow build.
 
 ### Peak (4-8 h)
 
-At the peak strong visuals and stimulation.
+At the peak there are strong visuals and stimulation, often for many hours, with a physical edginess like amphetamine.
 
-Emotionally intense; can be anxious.
+Emotionally intense; can be euphoric or anxious and exhausting.
 
 DOB and DOC can constrict blood vessels and have caused deaths. Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
@@ -78,15 +78,15 @@ Very long duration increases exhaustion and risk.
 
 The plateau can last most of a day or more.
 
-Exhaustion grows.
+Exhaustion grows while sleep remains impossible.
 
 Sleep is very difficult.
 
 ### Comedown (14-24 h)
 
-The comedown is very long.
+The comedown is very long, often into the next day.
 
-Mood drained.
+Mood drained and frazzled.
 
 Dangerous with other drugs.
 

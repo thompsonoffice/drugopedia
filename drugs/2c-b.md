@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-75 min)
 
-2C-B has a moderate onset of tingling body energy, warmth and a slight stomach unease.
+2C-B (Nexus, 'tusi' in name only — street 'tusi' or 'pink cocaine' rarely contains 2C-B) has a moderate onset with tingling body energy, warmth, goosebumps and sometimes a brief queasy stomach. The body feels charged and sensual.
 
-Mentally a lighthearted, giggly openness, often called a mix between a psychedelic and MDMA.
+Mentally the onset is lighthearted and giggly, an open, playful mood often described as halfway between a psychedelic and MDMA.
 
-Colors start to brighten.
+Colors start to brighten and surfaces gain a sheen.
 
 2C-B is absorbed from the gut and acts as a partial agonist at 5-HT2A and 5-HT2C receptors.
 
@@ -64,9 +64,9 @@ Body tingles and colors brighten.
 
 ### Peak (1.5-3 h)
 
-At the peak, vivid colors and patterns, a sensual, energized body, and heightened touch.
+At the peak, vivid colors, flowing patterns and a sensual, energized body with heightened touch are typical. Music feels physical, and many feel drawn to dance or be close to others.
 
-Emotionally playful and euphoric at lower amounts; at higher amounts intensely visual and potentially overwhelming.
+Emotionally playful and euphoric at lower amounts; at higher amounts intensely visual, bodily and potentially overwhelming or frightening, with strong distortions.
 
 Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
@@ -78,17 +78,17 @@ Mixing with stimulants raises heart risk.
 
 The plateau is several hours of steady effects.
 
-Mood warm and talkative.
+Mood stays warm and talkative.
 
 Overheating and dehydration are possible in clubs.
 
 ### Comedown (4-6 h)
 
-The comedown is fairly gentle.
+The comedown is fairly gentle, with tiredness and residual visuals.
 
-Mood usually stable.
+Mood usually stable, sometimes slightly flat.
 
-Mixing with other drugs raises risk.
+Mixing with other drugs, especially stimulants or MDMA, raises risk.
 
 Half-life is about 2.5 hours.
 

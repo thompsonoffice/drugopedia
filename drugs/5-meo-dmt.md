@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-5-MeO-DMT, from certain plants and the toad Incilius alvarius, is very fast and very different from DMT. Within seconds, a powerful rush of pressure and vibration sweeps through the body, and the sense of having a body can vanish.
+5-MeO-DMT, found in certain plants and in the venom of the Sonoran Desert toad (Incilius alvarius), is extremely fast and very different from DMT. Within seconds a powerful rush of pressure, heat and vibration sweeps up through the body, the ears roar, and the sense of having a body can vanish entirely. Many describe being hit by a wave or launched like a rocket.
 
-Mentally the onset is often described as total dissolution: ego, thoughts, time and space disappear into a white light or void. There are usually few colorful visuals.
+Mentally the onset is often described as total dissolution: self, thoughts, memory, time and space disappear into an overwhelming white light, void or pure awareness. Unlike DMT, there are usually few colorful visuals or 'beings' — the experience is more like being erased.
 
-People may cry out, thrash, vomit or become unresponsive without knowing it.
+From the outside, people may cry out, moan, thrash, roll around, vomit or become unresponsive without any awareness of doing so. Breathing can become irregular.
 
 Inhaled 5-MeO-DMT reaches the brain within seconds.
 
@@ -64,11 +64,11 @@ Rapid loss of contact with surroundings.
 
 ### Peak (1-5 min)
 
-At the peak many report complete 'non-dual' unity, a sense of being everything and nothing at once.
+At the peak many report complete 'non-dual' unity, a sense of being everything and nothing at once, of meeting death or God. There is no 'I' left to observe it.
 
-Emotionally it can be blissful or utterly terrifying.
+Emotionally it can be blissful beyond words or utterly terrifying, and sometimes both; people may come out of it weeping or laughing.
 
-The physical risks are higher than DMT: seizures, vomiting while unaware, and dangerous interactions, especially with MAO inhibitors. Deaths have occurred. Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
+The physical risks are higher than with DMT: seizures, vomiting while unaware, choking, falls, and dangerous serotonin toxicity, especially with MAO inhibitors, which has caused deaths. Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
 At peak, strong 5-HT1A and 5-HT2A activation produces loss of awareness; people may stop responding entirely.
 
@@ -76,19 +76,19 @@ Combined with MAO inhibitors (including ayahuasca), 5-MeO-DMT has caused fatal s
 
 ### Plateau (5-15 min)
 
-The plateau is short, and sensory awareness returns over minutes.
+The plateau is short, and sensory awareness returns over minutes: first sounds, then the body, then the room. Body sensations come back as trembling, heat or heaviness.
 
-Mentally people return disoriented and shaken.
+Mentally people return disoriented, shaken or exalted, often unable to speak for a while and struggling to describe what happened.
 
-A sober sitter is essential.
+A sober, experienced sitter is essential, and people should be lying down where they cannot hurt themselves.
 
 ### Comedown (15-30 min)
 
-The comedown may bring euphoria or lingering anxiety.
+The comedown may bring euphoria, calm and a sense of being reborn, or lingering anxiety and confusion.
 
-Some experience 'reactivations' of the state in the following days.
+Some experience 'reactivations', sudden brief returns of the state in the following days or weeks, which can be distressing.
 
-No physical dependence develops.
+No physical dependence develops, but psychological destabilization is possible, especially in people with mental health vulnerabilities.
 
 Rapid breakdown by MAO ends effects in under an hour.
 

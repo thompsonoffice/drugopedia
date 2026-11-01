@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-3 h)
 
-Ibogaine, from the iboga shrub, comes on slowly with nausea, dizziness and a heavy, uncoordinated body. Movement makes nausea worse, and a buzzing or droning sound is common.
+Ibogaine, from the root bark of the West African iboga shrub, comes on slowly with nausea, dizziness, and a heavy, uncoordinated body. Moving the head makes nausea and spinning worse, and a buzzing, droning or ringing sound is common. Many people lie still for hours.
 
-Mentally a dreamlike state begins with closed-eye visions.
+Mentally a dreamlike state begins, with closed-eye visions that feel like watching a film.
 
-Coordination becomes very poor.
+Coordination becomes very poor and walking can be impossible without help.
 
 Ibogaine is absorbed slowly and converted by CYP2D6 into noribogaine.
 
@@ -64,11 +64,11 @@ Nausea and ataxia.
 
 ### Peak (4-8 h)
 
-At the peak, long, vivid, dreamlike visions, often of personal memories, play out with eyes closed.
+At the peak, long, vivid, dreamlike visions, often of personal memories, childhood scenes or symbolic figures, play out with eyes closed for hours.
 
-Emotionally confronting and introspective; it is sometimes studied for addiction treatment.
+Emotionally the experience is confronting and introspective rather than euphoric; it is studied for opioid addiction because it can reduce withdrawal and craving.
 
-Ibogaine can cause dangerous heart rhythm problems (QT prolongation) and has caused deaths, especially in people using opioids or with heart conditions. It requires medical monitoring.
+Ibogaine can cause dangerous heart rhythm problems (QT prolongation) and has caused many deaths, especially in people using opioids or with heart conditions. It requires medical screening and cardiac monitoring.
 
 At peak, ibogaine blocks cardiac hERG potassium channels, lengthening the QT interval and risking torsades de pointes and sudden death.
 
@@ -76,19 +76,19 @@ Medical screening (ECG, electrolytes) and monitoring are essential; deaths have 
 
 ### Plateau (8-20 h)
 
-The plateau is a long, reflective stretch.
+The plateau is a long, reflective stretch of processing, lasting a day or more.
 
-Mind processes memories.
+The mind works through memories and decisions.
 
-People are exhausted but cannot sleep.
+People are exhausted but often cannot sleep.
 
 ### Comedown (20-36 h)
 
-The comedown lasts a day or more.
+The comedown lasts a day or more, with fatigue and poor coordination.
 
-Mood reflective, tired.
+Mood reflective, tired, sometimes low.
 
-Cardiac risk persists for days.
+Cardiac risk persists for days after.
 
 Noribogaine persists for days, extending heart risk.
 

@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (45-90 min)
 
-MDA, MDMA's older cousin, has a moderate onset with a tingly rush, jaw tension and nausea.
+MDA, MDMA's older cousin (once called the 'love drug'), has a moderate onset with a tingly rush, jaw tension, warmth and often nausea. The body feels energized and sensual.
 
-Mentally euphoric and energized, with warmth, but more trippy and less 'loved-up' than MDMA.
+Mentally euphoric and energized, with warmth, but more trippy, visual and stimulating and less 'loved-up' than MDMA.
 
-Pupils widen and heart rate climbs.
+Pupils widen and heart rate climbs; sweating begins.
 
 MDA is absorbed slowly and releases serotonin and dopamine.
 
@@ -64,11 +64,11 @@ Energy and euphoria rise.
 
 ### Peak (2-3 h)
 
-At the peak, euphoria, stimulation and mild visuals.
+At the peak there is euphoria, stimulation, mild visuals and strong urges to move or dance.
 
-Emotionally warm and energized.
+Emotionally warm and energized, sometimes with an edge of anxiety.
 
-Overheating, dehydration, low blood sodium and serotonin syndrome are risks, and MDA is thought to be harder on the brain than MDMA.
+Empathogens push body temperature, heart rate and blood pressure up. Overheating, dehydration, and low blood sodium from drinking too much water are the classic dangers; combining with other stimulants, MAOIs, SSRIs, tramadol or DXM can cause serotonin syndrome. A hot, confused, rigid or seizing person needs 911 and cooling. MDA is thought to be more toxic to the brain than MDMA.
 
 At peak, 5-HT2A activation adds visual effects; overheating and serotonin toxicity are dangers.
 
@@ -76,19 +76,19 @@ Neurotoxicity in animals appears greater than MDMA.
 
 ### Plateau (3-5 h)
 
-The plateau is long.
+The plateau is long, lasting many hours.
 
-Mood energized.
+Mood stays energized.
 
-Body temperature stays high.
+Body temperature stays high, so rest and cooling matter.
 
 ### Comedown (5-8 h)
 
-The comedown brings tiredness and low mood.
+The comedown brings tiredness, muscle aches and low mood.
 
-Mood flat for days.
+Mood can stay flat for days.
 
-Repeated use is risky.
+Repeated use raises risk of lasting harm.
 
 Half-life is long (about 11 hours).
 

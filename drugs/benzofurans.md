@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Benzofurans (5-APB, 6-APB) have a slow onset of warm energy and tingling.
+Benzofurans (5-APB, 6-APB, sometimes sold as 'Benzo Fury') have a slow onset of warm energy, tingling and gentle stimulation.
 
-Mentally a loving, MDMA-like openness.
+Mentally a loving, MDMA-like openness develops, often described as smoother but longer.
 
-Nausea and jaw tension appear.
+Nausea, jaw tension and dilated pupils appear.
 
 Benzofurans are absorbed slowly, which delays onset.
 
@@ -64,11 +64,11 @@ Slow build.
 
 ### Peak (3-5 h)
 
-At the peak warmth, euphoria and mild visuals.
+At the peak there is warmth, euphoria and mild visuals.
 
-Emotionally affectionate.
+Emotionally affectionate and sociable.
 
-Risks include overheating, heart strain, and anxiety; long-term heart valve concerns.
+Empathogens push body temperature, heart rate and blood pressure up. Overheating, dehydration, and low blood sodium from drinking too much water are the classic dangers; combining with other stimulants, MAOIs, SSRIs, tramadol or DXM can cause serotonin syndrome. A hot, confused, rigid or seizing person needs 911 and cooling. There are also concerns about heart valve damage with repeated use.
 
 At peak, empathogenic and visual effects; overheating is possible.
 
@@ -78,7 +78,7 @@ Strong 5-HT2B activation is linked to valve disease with chronic exposure.
 
 The plateau is very long.
 
-Mood warm.
+Mood warm and chatty.
 
 Sleep is hard.
 

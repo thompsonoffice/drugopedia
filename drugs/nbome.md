@@ -48,11 +48,11 @@ Times below are typical for the sublingual and buccal (under the tongue or in th
 
 ### Onset (15-60 min)
 
-NBOMe compounds (like 25I-NBOMe, often sold as fake LSD on blotter) often start with a bitter or numbing taste, which is a warning sign. The onset brings strong stimulation, tension and a racing heart.
+NBOMe compounds (like 25I-NBOMe, often sold as fake LSD on blotter) frequently start with a bitter, metallic or numbing taste on the tongue; LSD itself is tasteless, so this is a key warning sign. The onset brings strong stimulation: a racing heart, tight muscles, cold hands and feet and a tense, edgy body.
 
-Mentally an edgy, intense rise.
+Mentally the rise feels edgy and intense rather than gently opening, with anxiety often building alongside the visuals.
 
-Body temperature may climb.
+Body temperature may climb and pupils widen strongly.
 
 NBOMes are destroyed by first-pass metabolism if swallowed, so blotters are held in the mouth.
 
@@ -64,11 +64,11 @@ Visuals and stimulation.
 
 ### Peak (2-4 h)
 
-At the peak intense visuals with a harsh, stimulating body load.
+At the peak there are intense, sharp visuals with a harsh, stimulating body load, often described as 'dirty' compared with LSD.
 
-Emotionally can tip into confusion, paranoia and agitation.
+Emotionally it can tip into confusion, paranoia and agitation, sometimes violent.
 
-NBOMes have caused many deaths from seizures, overheating, heart problems and violent agitation, even at tiny amounts. Any seizure, very high temperature or extreme agitation is an emergency.
+NBOMes have caused many deaths from seizures, overheating, heart problems, kidney failure and violent agitation, even at tiny amounts. Any seizure, very high temperature or extreme agitation is an emergency.
 
 At peak, seizures, overheating, agitation and arrhythmias can occur; some deaths involved violent trauma.
 
@@ -76,19 +76,19 @@ Rhabdomyolysis and kidney failure follow severe cases.
 
 ### Plateau (4-6 h)
 
-The plateau is long and uncomfortable for many.
+The plateau is long and uncomfortable for many, with persistent tension.
 
-Thinking agitated.
+Thinking agitated and hard to calm.
 
 Medical help may be needed.
 
 ### Comedown (6-10 h)
 
-The comedown is draining.
+The comedown is draining, with exhaustion and muscle soreness.
 
-Mood anxious.
+Mood anxious or low.
 
-Fentanyl test strips do not detect NBOMes.
+Fentanyl test strips do not detect NBOMes; reagent tests can help distinguish them from LSD.
 
 Effects last several hours.
 

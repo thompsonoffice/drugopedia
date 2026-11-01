@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-LSD analogs such as 1P-LSD, AL-LAD and ETH-LAD are research chemicals that people describe as similar to LSD with differences in feel and duration. The onset brings a mild, tingly body energy, yawning and a sense of something shifting.
+LSD analogs such as 1P-LSD, 1cP-LSD, AL-LAD and ETH-LAD are research chemicals sold online, often as blotters. Some, like 1P-LSD, appear to be converted to LSD in the body. The onset is like LSD: a mild, tingly body energy, yawning, a slight tightness in the jaw and stomach, and a sense that something is shifting.
 
-Mentally there is anticipation and a slight brightening of thought and color.
+Mentally there is anticipation and a slight brightening of thought and color, along with a buzzy, slightly anxious alertness.
 
-Because these are unregulated, what is sold may not be what the label says.
+Because these are unregulated, what is sold may not be what the label says, and some 'LSD' blotters contain dangerous NBOMes instead.
 
 Most 1-acyl analogs are converted to LSD by enzymes in the blood and liver.
 
@@ -64,9 +64,9 @@ Visual and emotional changes build.
 
 ### Peak (2-5 h)
 
-At the peak visuals of breathing surfaces, color enhancement and geometric patterns are common. AL-LAD is often described as more visual and shorter; ETH-LAD as more intense and bodily.
+At the peak, breathing surfaces, color enhancement, trails and geometric patterns are common. AL-LAD is often described as more visual, playful and shorter; ETH-LAD as more intense, immersive and bodily; 1P-LSD as nearly identical to LSD.
 
-Emotionally the peak can be euphoric, insightful or anxious.
+Emotionally the peak can be euphoric, insightful, funny or anxious and confusing. Thoughts loop and branch, and ordinary things can feel deeply significant.
 
 Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
@@ -76,19 +76,19 @@ Panic, confusion and accidents are the main dangers.
 
 ### Plateau (4-7 h)
 
-The plateau is long, with continued visuals and thought loops.
+The plateau is long, with continued visuals and thought loops lasting many hours.
 
-Mood varies.
+Mood varies, moving between wonder and fatigue.
 
-Fatigue builds.
+Body energy can make resting difficult.
 
 ### Comedown (7-12 h)
 
-The comedown is a slow taper with lingering stimulation.
+The comedown is a slow taper with lingering stimulation, light visuals and a wired tiredness.
 
-Mood reflective.
+Mood is often reflective, sometimes drained.
 
-Sleep can be hard.
+Sleep can be hard for hours after the visuals fade.
 
 Durations are similar to or slightly shorter than LSD.
 
