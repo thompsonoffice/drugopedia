@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Smoked or injected: seconds; swallowed: about 15 to 45 minutes.
+Nitazenes (isotonitazene, protonitazene, metonitazene and others) are synthetic opioids appearing in counterfeit pills and street drugs. Effects begin quickly, with heavy warmth and sedation.
+
+Mentally people report rapid, deep drowsiness and confusion.
+
+Breathing slows quickly, often more than people expect.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Very fast, overwhelming heaviness.
 
 ### Peak (30 min-2 h)
 
-Peak deep sedation and nodding; breathing can slow sharply.
+The peak is profound sedation with pinpoint pupils and slowed or stopped breathing.
+
+Emotional tone is lost to unconsciousness in many cases.
+
+Nitazenes cause frequent fatal overdoses; naloxone works but may need repeating.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (unpredictable)
 
-Plateau varies; some last longer than fentanyl.
+Effects can outlast naloxone, so people may stop breathing again.
+
+Mentally people remain sedated.
+
+Close monitoring is needed.
 
 ### Comedown (often longer than fentanyl)
 
-Fade is unpredictable and overdose can return after naloxone wears off.
+Survivors feel exhausted and nauseated.
+
+Withdrawal may follow naloxone.
+
+Fentanyl test strips do not detect nitazenes; nitazene strips exist.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

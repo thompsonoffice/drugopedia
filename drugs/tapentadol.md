@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Tapentadol starts within about 30 minutes with a gentle warmth and slight alertness.
+Tapentadol (Nucynta) starts within a short time by mouth, with mild warmth and an easing of pain that many describe as 'cleaner' and less dopey than other opioids.
+
+Mentally there is a light lift and a slightly alert calm, because tapentadol also raises noradrenaline.
+
+Nausea, dizziness and sleepiness are the most common early effects; itch is less frequent.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Tapentadol is active itself (not a prodrug) and is glucuronidated; half-life about 4 hours. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -64,7 +68,11 @@ The come-up is clean, with less nausea than oxycodone. Some feel sweaty or dizzy
 
 ### Peak (1-2 h)
 
-The peak, around 1 to 1.5 hours, brings mild-to-moderate euphoria and strong pain relief.
+At the peak the body feels relaxed and warm with strong pain relief and moderate heaviness.
+
+The emotional tone is calm, mild contentment with less euphoria than oxycodone.
+
+Seizures and serotonin syndrome are possible with antidepressants; breathing depression is real, especially with other sedatives.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -72,11 +80,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-3 h)
 
-The plateau is functional and calm, with light sedation.
+The plateau holds steady relief, mild drowsiness and dry mouth.
+
+Mentally people stay fairly clear, sometimes a little wired.
+
+Constipation is generally milder than with other opioids, but dizziness may continue.
 
 ### Comedown (4-6 h)
 
-The comedown, around 4 to 6 hours for immediate-release, is gradual.
+The comedown is gentle for immediate-release and slow for extended-release.
+
+Mood may turn flat or anxious.
+
+Dependence develops with regular use, and withdrawal resembles both opioid and antidepressant withdrawal.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

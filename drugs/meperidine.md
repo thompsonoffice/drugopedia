@@ -46,7 +46,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV seconds; IM/SC 5-15 min)
 
-Injected meperidine works within a minute or two; swallowed, within 15 to 45 minutes. The first sensation is often a light-headed, spinning warmth.
+Meperidine (Demerol) comes on quickly, especially when injected in hospitals, with a fast, warm, slightly buzzy rush and a lightness in the head.
+
+Mentally the onset is euphoric and a little stimulating, quite different from morphine's dreamy heaviness. Some feel giddy.
+
+Dry mouth, dizziness and a racing heart can occur, because meperidine has anticholinergic effects.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Meperidine is turned into normeperidine, which has a half-life of 15 to 30 hours and builds up with repeated doses or kidney disease. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -58,7 +62,11 @@ The come-up feels quick and heady: a wave of floaty well-being with dry mouth an
 
 ### Peak (IV 2-10 min; IM/SC 20-60 min)
 
-The peak is brief and pleasant, a buzzy euphoria with reduced pain and anxiety, but less body heaviness than morphine.
+The peak is short and intense: warmth, tingling and relaxation, sometimes with tremor or restlessness.
+
+The emotional tone is bright euphoria with little nausea.
+
+Its metabolite normeperidine builds up with repeated use or kidney problems and causes tremor, twitching, agitation and seizures. With MAO inhibitors it can cause fatal serotonin syndrome.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (30 min-2 h)
 
-The plateau is short, roughly 1 to 2 hours. Sedation is moderate; some people feel restless rather than nodding.
+The plateau is brief, with mild sedation and occasional jitteriness.
+
+Mentally people stay pleasantly calm.
+
+Repeated use raises seizure risk.
 
 ### Comedown (2-4 h)
 
-It wears off within 2 to 4 hours, often leaving people wanting more, which drove frequent redosing in hospital patients.
+The comedown arrives within a few hours.
+
+People feel flat and restless.
+
+Dependence develops quickly, and its use in hospitals has declined.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

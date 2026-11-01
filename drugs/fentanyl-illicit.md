@@ -46,7 +46,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Smoked or injected, street fentanyl hits within seconds. Many describe an immediate heavy rush in the head and body, less warm and more 'blank' than heroin.
+Illicitly made fentanyl, sold as powder, in counterfeit pills, or mixed into heroin and other drugs, hits within seconds to a minute when smoked and almost instantly when injected. People describe a sudden heavy warmth falling over the body like a weight, with the limbs going limp and the head dropping.
+
+Mentally the rush is brief and narrow: a flash of relief and calm, then rapidly deepening sedation. Many people who knew heroin say fentanyl has less euphoria and 'more nod', and that they lose minutes or hours without remembering.
+
+Pupils pinpoint and breathing slows almost at once. Because street fentanyl's strength varies wildly from one part of a batch to another, and is often mixed with xylazine or benzodiazepines, the same-looking amount can be harmless or fatal. Rarely, chest-wall rigidity makes breathing physically difficult within minutes.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Fentanyl is very fat-soluble, reaching the brain quickly, and is metabolized by CYP3A4; illicit mixtures contain unknown amounts and other drugs. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -58,7 +62,11 @@ The come-up is almost nonexistent. Some describe a strong sinking feeling, like 
 
 ### Peak (1-3 min)
 
-The peak lasts only minutes: heavy sedation, stillness, and a numb, faraway feeling. Many survivors report no warning before losing consciousness, which is why fentanyl overdose kills so quickly.
+The peak arrives fast and is deeply sedating. The body feels extremely heavy, almost unmovable, and people may slump, fall asleep mid-action, or stop responding.
+
+The emotional tone, when awareness remains, is a blank, warm calm rather than a vivid high. People often describe 'going under' rather than feeling good, and memory of this phase is patchy.
+
+This is the most lethal phase of any drug in this encyclopedia. Breathing can stop within minutes. Signs: unresponsive, gurgling or snoring, blue or gray lips, pinpoint pupils. Call 911, give naloxone, and repeat it if there is no response after a few minutes. Xylazine does not respond to naloxone, so rescue breathing matters.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (5-20 min)
 
-The plateau is short and nod-heavy. With xylazine mixed in, people may stay unconscious for hours.
+The plateau is short: heavy nodding, a warm itch, and slow, shallow breathing. People drift in and out, sometimes for long stretches.
+
+Mentally there is little sense of time; the pleasant part fades quickly, which pushes people to use again soon.
+
+Breathing remains dangerous throughout, and each repeat use stacks on what is still present. Using alone is the biggest risk factor for dying.
 
 ### Comedown (20-60 min)
 
-Fentanyl wears off fast, often in 1 to 2 hours, and the comedown comes harshly with restlessness, sweats, and anxiety.
+Fentanyl's comedown is fast. Within a few hours the heaviness lifts and the body feels restless, sweaty and uncomfortable.
+
+Emotionally people describe sudden anxiety, irritability and craving, far sooner than with heroin.
+
+In dependent people, withdrawal can start within hours: sweating, yawning, goosebumps, cramps, diarrhea and severe restlessness. Wounds linked to xylazine adulteration may worsen. Treatment with buprenorphine or methadone greatly lowers the risk of death.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

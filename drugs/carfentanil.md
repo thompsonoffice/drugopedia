@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (minutes)
 
-Seconds to minutes by any route.
+Carfentanil, an elephant tranquilizer far stronger than fentanyl, appears occasionally in the street supply mixed into heroin or fentanyl. Its effects arrive within moments of exposure.
+
+Mentally there is little time to notice anything; people lose consciousness quickly.
+
+Breathing may slow or stop almost immediately.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ None to speak of: collapse can come first.
 
 ### Peak (collapse possible)
 
-Profound sedation and breathing failure.
+The peak is profound unconsciousness.
+
+There is no meaningful 'high' to describe; people rarely recall the experience.
+
+Overdose is common and fatal without rapid help. Multiple doses of naloxone are often needed, and emergency care is essential.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (long)
 
-Long-acting; can outlast naloxone.
+Effects can last longer than naloxone, so people may stop breathing again after reviving.
+
+Mentally people remain heavily sedated.
+
+Monitoring for hours is needed.
 
 ### Comedown (can outlast naloxone)
 
-Overdose can return after naloxone wears off.
+Survivors feel exhausted and ill.
+
+Withdrawal can be severe after naloxone.
+
+Avoiding any exposure is the only safe approach.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
