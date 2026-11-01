@@ -48,9 +48,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (45-90 min)
 
-MDA, MDMA's older cousin (once called the 'love drug'), has a moderate onset with a tingly rush, jaw tension, warmth and often nausea. The body feels energized and sensual.
+MDA, MDMA's older cousin (once called the 'love drug'), has a moderate onset with a tingly rush, jaw tension, warmth and often nausea. The body feels energized and sensual. MDA usually begins within an hour with warmth, tingling, rising heart rate, wide pupils and a tight jaw. Nausea and a churning stomach are common early, and the body feels energized, restless and hot, with flushed skin and an urge to move. Pupils widen.
 
-Mentally euphoric and energized, with warmth, but more trippy, visual and stimulating and less 'loved-up' than MDMA.
+Mentally euphoric and energized, with warmth, but more trippy, visual and stimulating and less 'loved-up' than MDMA. Mood rises into excitement, sometimes with jitteriness or anxiety.
 
 Pupils widen and heart rate climbs; sweating begins.
 
@@ -64,9 +64,9 @@ Energy and euphoria rise.
 
 ### Peak (2-3 h)
 
-At the peak there is euphoria, stimulation, mild visuals and strong urges to move or dance.
+At the peak there is euphoria, stimulation, mild visuals and strong urges to move or dance. Jaw clenching and sweating are strong. The body can overheat quickly, and visuals stay vivid.
 
-Emotionally warm and energized, sometimes with an edge of anxiety.
+Emotionally warm and energized, sometimes with an edge of anxiety. Pupils are huge, and touch feels electric.
 
 Empathogens push body temperature, heart rate and blood pressure up. Overheating, dehydration, and low blood sodium from drinking too much water are the classic dangers; combining with other stimulants, MAOIs, SSRIs, tramadol or DXM can cause serotonin syndrome. A hot, confused, rigid or seizing person needs 911 and cooling. MDA is thought to be more toxic to the brain than MDMA.
 
@@ -76,19 +76,19 @@ Neurotoxicity in animals appears greater than MDMA.
 
 ### Plateau (3-5 h)
 
-The plateau is long, lasting many hours.
+The MDA plateau lasts several hours, longer than MDMA, with sustained body energy, warmth, tactile pleasure and light visuals such as color shifts, trails and patterns. The heart stays fast, the jaw tense, and the body hot; overheating is a real danger in crowded, warm places.
 
-Mood stays energized.
+Mood is euphoric and sociable, though often described as more stimulating and psychedelic and less emotionally soft than MDMA. Some feel giddy and playful; others become anxious, confused or overwhelmed, especially at higher amounts.
 
-Body temperature stays high, so rest and cooling matter.
+Hyperthermia, dehydration, hyponatremia from drinking too much water, and serotonin toxicity are key risks, especially when combined with other serotonergic drugs. MDA appears to be more neurotoxic than MDMA in animal studies.
 
 ### Comedown (5-8 h)
 
-The comedown brings tiredness, muscle aches and low mood.
+The comedown brings fatigue, a sore jaw, aching muscles and lingering restlessness. The body may feel overheated, dehydrated and wrung out, with a lack of appetite and difficulty settling down. Faint visuals and tingling may linger, and the jaw and teeth may feel sore and sensitive for hours.
 
-Mood can stay flat for days.
+Mood often dips into flatness, irritability or low feelings in the following days, as serotonin stores recover. Some describe a sense of emptiness or anxiety that can be more pronounced than after MDMA. Hydration and rest help.
 
-Repeated use raises risk of lasting harm.
+Sleep is often difficult. Spacing use widely, avoiding mixing, and seeking help for confusion, high temperature or chest pain reduce harm.
 
 Half-life is long (about 11 hours).
 

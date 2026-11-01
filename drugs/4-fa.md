@@ -48,9 +48,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-4-FA (4-fluoroamphetamine), popular in the Netherlands before its ban, has a moderate onset of clean energy and mild warmth.
+4-FA (4-fluoroamphetamine), popular in the Netherlands before its ban, has a moderate onset of clean energy and mild warmth. 4-FA (4-FMP) usually begins within an hour or so, with alertness, a rising heart rate, wide pupils and a slight body warmth. The body may feel jittery, with a tight jaw and suppressed appetite, while mild tingling comes and goes. Thoughts feel crisp and quick, and some people feel unusually motivated or sociable as the stimulant lift builds, with a slight buzz behind the eyes.
 
-Mentally a mix of amphetamine focus and mild MDMA-like sociability.
+Mentally a mix of amphetamine focus and mild MDMA-like sociability. Mood lifts into focus, chattiness and a light sociable warmth.
 
 Heart rate rises.
 
@@ -64,9 +64,9 @@ Energy rises.
 
 ### Peak (2-3 h)
 
-At the peak there is euphoria, sociability and energy.
+At the peak there is euphoria, sociability and energy. The peak sits between amphetamine and MDMA: stimulating and focused with a mild empathogenic glow. The body feels energized, with a fast heartbeat, raised blood pressure, sweating and jaw tension. Severe headaches and strokes have been reported, and blood pressure can climb dangerously. Thoughts race pleasantly, and music and conversation feel engaging.
 
-Emotionally upbeat and talkative.
+Emotionally upbeat and talkative. Mood is upbeat and confident, with modest warmth toward others. Pupils are wide, the mouth is dry, and appetite vanishes.
 
 Severe headaches, bleeding in the brain and strokes have been reported, sometimes hours after use.
 
@@ -76,19 +76,19 @@ Strokes were reported in the Netherlands.
 
 ### Plateau (3-6 h)
 
-The plateau is long.
+The plateau is long, lasting several hours, with continued stimulation, alertness and light euphoria. The body stays energized, with a fast pulse, tight jaw, dry mouth and little appetite, and some people get a pounding headache that warns of high blood pressure. Fatigue hides.
 
-Mood stable.
+Mood is steady, chatty and focused, more stimulant-like than MDMA, with mild sociability. Some become anxious, restless or irritable as the hours pass.
 
-Sleep is hard.
+Severe or sudden headache, chest pain, confusion or weakness needs emergency care, since cerebral hemorrhages have been reported. Mixing with other stimulants or alcohol increases the strain on the heart and blood vessels.
 
 ### Comedown (6-8 h)
 
-The comedown is tired.
+The comedown is gradual, with lingering stimulation, tiredness, a sore jaw and sometimes headache. The body may feel drained but restless, and appetite returns slowly. The heart may stay quick, the mouth dry, and the jaw tense, while a dull headache or eye strain can linger as the body finally slows down.
 
-Mood mildly low.
+Mood often dips mildly into flatness, irritability or low motivation, usually less severe than after MDMA. Some feel anxious or depleted the next day. Concentration may feel patchy. Rest and fluids help recovery.
 
-A sudden, severe headache after use is an emergency.
+Sleep is often difficult for many hours. Repeated use builds tolerance and can lead to compulsive redosing, raising cardiovascular risk.
 
 Effects last 4 to 8 hours.
 

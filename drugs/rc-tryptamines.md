@@ -48,9 +48,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20 min-3 h)
 
-Research tryptamines like 4-AcO-DMT ('synthetic shrooms'), 4-HO-MET, 4-HO-MiPT, DPT and 5-MeO-MiPT vary. The onset often brings mild nausea, yawning, a slight chill and a tingly energy.
+Research tryptamines like 4-AcO-DMT ('synthetic shrooms'), 4-HO-MET, 4-HO-MiPT, DPT and 5-MeO-MiPT vary. The onset often brings mild nausea, yawning, a slight chill and a tingly energy. Research tryptamines such as 4-AcO-DMT, 4-HO-MET, 4-HO-MiPT, 5-MeO-MiPT, DPT and AMT differ greatly in onset: 4-substituted compounds feel like psilocybin and arrive within an hour, while AMT can take hours. The body often feels warm, tingly or queasy, with yawning, chills and widening pupils.
 
-Mentally a gradual opening and brightening, with giggles or anticipation.
+Mentally a gradual opening and brightening, with giggles or anticipation. Mood may lift into giggling or tighten into anxious anticipation.
 
 Many 4-substituted ones feel similar to psilocybin; others are more stimulating or bodily.
 
@@ -64,7 +64,7 @@ Body load and visuals build.
 
 ### Peak (2-6 h)
 
-At the peak there are visuals and altered thinking; 4-HO-MET is known as colorful and lighthearted, DPT as intense and ritualistic, 5-MeO-MiPT as tactile and sensual.
+At the peak there are visuals and altered thinking; 4-HO-MET is known as colorful and lighthearted, DPT as intense and ritualistic, 5-MeO-MiPT as tactile and sensual. Body load varies from light to heavy. Visuals can be strong, with breathing surfaces and vivid closed-eye imagery.
 
 Emotionally euphoric or difficult, like other psychedelics.
 
@@ -76,19 +76,19 @@ AMT's MAO inhibition can cause serotonin syndrome with other drugs.
 
 ### Plateau (2-8 h)
 
-The plateau lasts a few hours.
+The plateau depends on the compound. 4-AcO-DMT and 4-HO-MET give a few hours of steady psilocybin-like visuals and warm body sensations; 4-HO-MET is described as lighter and more visual, 4-HO-MiPT as tactile and colorful. AMT's plateau can last most of a day, with strong stimulation, muscle tension and stomach discomfort.
 
-Mood varies.
+Mood ranges from playful and emotionally open to introspective or overwhelmed, and thought can loop. 5-MeO-MiPT is often described as more tactile and sensual with fewer visuals, while DPT can be intensely spiritual or frightening.
 
-Fatigue builds.
+Overheating, agitation and serotonin toxicity are risks, especially for AMT, which also acts as an MAO inhibitor and is dangerous with antidepressants, MDMA or stimulants. Product identity is often uncertain.
 
 ### Comedown (4-16 h)
 
-The comedown is gradual and tired.
+The comedown is gradual, from gentle and short for 4-substituted compounds to long and draining for AMT. The body feels tired, achy and sometimes tense, with a lingering upset stomach or headache. Faint visuals may linger, and the skin can feel tingly or oversensitive for a while.
 
-Mood reflective.
+Mood is often reflective and calm, though anxiety, flatness or irritability can follow intense or long experiences. Many people feel emotionally tender and want quiet, food and rest.
 
-Unregulated products may be mislabeled or contaminated.
+Sleep may be delayed for hours, especially with AMT. Tolerance builds quickly and is shared with other psychedelics, and mixing compounds or redosing early raises the risk of a difficult trip.
 
 Durations range from a few hours to over a day.
 

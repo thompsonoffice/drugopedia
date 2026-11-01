@@ -48,9 +48,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Benzofurans (5-APB, 6-APB, sometimes sold as 'Benzo Fury') have a slow onset of warm energy, tingling and gentle stimulation.
+Benzofurans (5-APB, 6-APB, sometimes sold as 'Benzo Fury') have a slow onset of warm energy, tingling and gentle stimulation. Benzofurans such as 5-APB, 6-APB and 5-MAPB are slower to begin than MDMA, often taking an hour or two, which tempts people to take more. The body warms gradually, with tingling, wide pupils, a rising pulse, a tight jaw and sometimes nausea or a heavy stomach. Pupils widen and the pulse climbs as warmth spreads.
 
-Mentally a loving, MDMA-like openness develops, often described as smoother but longer.
+Mentally a loving, MDMA-like openness develops, often described as smoother but longer. Anticipation, restlessness and mild anxiety can precede the lift in mood. Skin flushes.
 
 Nausea, jaw tension and dilated pupils appear.
 
@@ -64,7 +64,7 @@ Slow build.
 
 ### Peak (3-5 h)
 
-At the peak there is warmth, euphoria and mild visuals.
+At the peak there is warmth, euphoria and mild visuals. Body heat, sweating, jaw tension and tactile pleasure are strong, and the heart stays fast. Touch feels lovely and music feels immersive, while the body stays hot.
 
 Emotionally affectionate and sociable.
 
@@ -76,19 +76,19 @@ Strong 5-HT2B activation is linked to valve disease with chronic exposure.
 
 ### Plateau (5-7 h)
 
-The plateau is very long.
+The plateau is long, often longer than MDMA, with sustained warmth, gentle euphoria, emotional openness and mild visuals such as color brightening and soft patterns. The body stays energized, with jaw clenching, sweating and a fast heartbeat. Jaw strain builds.
 
-Mood warm and chatty.
+Mood is affectionate and talkative, and some describe it as a gentler, more drawn-out version of MDMA. Others notice more stimulation and anxiety, and the long duration can become tiring.
 
-Sleep is hard.
+Overheating, dehydration, serotonin toxicity and heart strain are real risks, and some benzofurans may affect heart valves with repeated use. Mixing with other stimulants or antidepressants is dangerous.
 
 ### Comedown (7-12 h)
 
-The comedown is long and tired.
+The comedown is slow, with stimulation lingering for hours after euphoria fades. The body feels tired, achy and restless, with a sore jaw, headache and poor appetite. Muscles feel stiff and sore, the skin feels sweaty or chilled, and the heart may stay quick and fluttery for hours.
 
-Mood low.
+Mood can drop into flatness, irritability or anxiety, sometimes for a day or two afterward, as with other serotonin releasers. Many people feel emotionally drained and want rest. Gentle food, fluids and rest help.
 
-Mixing is risky.
+Sleep is often disrupted well into the night. Because onset is slow and products are poorly characterized, redosing and accidental high amounts are a frequent problem.
 
 Long duration extends risk.
 

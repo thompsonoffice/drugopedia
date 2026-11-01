@@ -48,9 +48,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-PMA and PMMA are often sold as fake ecstasy. The onset is slow and weak, which leads people to take more — a deadly pattern.
+PMA and PMMA are often sold as fake ecstasy. The onset is slow and weak, which leads people to take more — a deadly pattern. PMA and PMMA are often sold as ecstasy, and they take longer to be felt than MDMA, so people commonly take more thinking the first pill was weak. The body warms quickly and unevenly, with a racing pulse, flushed skin, dizziness and nausea, while the expected euphoria is weak or absent. Pupils widen.
 
-Mentally there is less euphoria than expected, and some feel disappointed or confused.
+Mentally there is less euphoria than expected, and some feel disappointed or confused. Instead of warmth, many feel uneasy, confused or physically unwell.
 
 Body heat and heart rate climb steadily while the person feels relatively little.
 
@@ -64,9 +64,9 @@ Mild stimulation without much euphoria.
 
 ### Peak (3-5 h)
 
-At the peak, people may feel only mildly high while their body is overheating dangerously, with flushed skin, rigid muscles and a racing heart.
+At the peak, people may feel only mildly high while their body is overheating dangerously, with flushed skin, rigid muscles and a racing heart. Body temperature can rise rapidly to dangerous levels, with heavy sweating, rigid muscles, a pounding heart and confusion. Seizures, collapse and death have occurred, and these drugs are responsible for clusters of fatalities linked to fake ecstasy. Emergency care is needed for overheating, confusion or seizures.
 
-Emotionally confused or agitated.
+Emotionally confused or agitated. Euphoria remains weaker than people expect.
 
 PMA/PMMA have caused many deaths from extreme overheating and organ failure. A very hot, confused person needs 911 immediately.
 
@@ -76,19 +76,19 @@ Redosing after a 'weak' first pill is the classic fatal pattern.
 
 ### Plateau (5-8 h)
 
-The plateau is dangerous.
+There is often no pleasant plateau. The body stays dangerously hot, with sweating, muscle stiffness, fast heartbeat, dizziness and possible vomiting. Temperature may keep climbing for hours, and the risk of organ failure rises with time, heat and exertion. Sweat pours.
 
-Thinking confused.
+Mentally people may become confused, agitated, anxious or disoriented rather than euphoric, sometimes unaware of how unwell they are. Some feel nothing much and take more, which is how many fatal cases develop.
 
-Cooling and medical help are crucial.
+Anyone overheating, confused, seizing or collapsing needs emergency care immediately; cooling and rapid medical treatment can be lifesaving. Never take more of a pill that seems weak.
 
 ### Comedown (8-12 h)
 
-Survivors feel exhausted.
+Recovery, if it occurs without complications, is slow and exhausting, with fatigue, muscle pain, headache, nausea and a feeling of having been seriously ill. Hospital monitoring may be needed for kidney, liver or muscle damage. Muscles may feel weak and sore, urine may darken if muscle breakdown occurred, and appetite and energy return only slowly.
 
-Mood low.
+Mood may be anxious, low or shaken, especially after a frightening medical emergency. Many people feel confused about what happened and feel unwell for days. Follow-up blood tests matter.
 
-Never re-dose a drug that seems weak.
+Drug checking can identify PMA and PMMA in pills sold as ecstasy. Survivors of overheating may need follow-up for organ damage.
 
 Long half-life prolongs danger.
 

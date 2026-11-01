@@ -64,7 +64,7 @@ Slow build.
 
 ### Peak (4-8 h)
 
-At the peak there are strong visuals and stimulation, often for many hours, with a physical edginess like amphetamine. Body stimulation is strong. Pupils are wide and the jaw stays tight.
+At the peak there are strong visuals and stimulation, often for many hours, with a physical edginess like amphetamine. Body stimulation is strong. Pupils are wide and the jaw stays tight. Sweating is common.
 
 Emotionally intense; can be euphoric or anxious and exhausting.
 

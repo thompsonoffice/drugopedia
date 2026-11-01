@@ -488,3 +488,80 @@ Y("ibogaine","onset","The mind becomes inward.",1)
 Y("ibogaine","comedown","Light and noise may still feel harsh, and many people need help moving around safely.",0)
 for k,v in F.items():
     if k in D: D[k]["feel"]=v
+
+# ---- Depth pass 4 ----
+Y("dox","peak","Sweating is common.",0)
+Y("rc-tryptamines","onset","Research tryptamines such as 4-AcO-DMT, 4-HO-MET, 4-HO-MiPT, 5-MeO-MiPT, DPT and AMT differ greatly in onset: 4-substituted compounds feel like psilocybin and arrive within an hour, while AMT can take hours. The body often feels warm, tingly or queasy, with yawning, chills and widening pupils.",0)
+Y("rc-tryptamines","onset","Mood may lift into giggling or tighten into anxious anticipation.",1)
+Y("rc-tryptamines","peak","Body load varies from light to heavy.",0)
+PL("rc-tryptamines","The plateau depends on the compound. 4-AcO-DMT and 4-HO-MET give a few hours of steady psilocybin-like visuals and warm body sensations; 4-HO-MET is described as lighter and more visual, 4-HO-MiPT as tactile and colorful. AMT's plateau can last most of a day, with strong stimulation, muscle tension and stomach discomfort.",
+"Mood ranges from playful and emotionally open to introspective or overwhelmed, and thought can loop. 5-MeO-MiPT is often described as more tactile and sensual with fewer visuals, while DPT can be intensely spiritual or frightening.",
+"Overheating, agitation and serotonin toxicity are risks, especially for AMT, which also acts as an MAO inhibitor and is dangerous with antidepressants, MDMA or stimulants. Product identity is often uncertain.")
+CD("rc-tryptamines","The comedown is gradual, from gentle and short for 4-substituted compounds to long and draining for AMT. The body feels tired, achy and sometimes tense, with a lingering upset stomach or headache.",
+"Mood is often reflective and calm, though anxiety, flatness or irritability can follow intense or long experiences. Many people feel emotionally tender and want quiet, food and rest.",
+"Sleep may be delayed for hours, especially with AMT. Tolerance builds quickly and is shared with other psychedelics, and mixing compounds or redosing early raises the risk of a difficult trip.")
+Y("mda","onset","MDA usually begins within an hour with warmth, tingling, rising heart rate, wide pupils and a tight jaw. Nausea and a churning stomach are common early, and the body feels energized, restless and hot, with flushed skin and an urge to move.",0)
+Y("mda","onset","Mood rises into excitement, sometimes with jitteriness or anxiety.",1)
+Y("mda","peak","Jaw clenching and sweating are strong.",0)
+PL("mda","The MDA plateau lasts several hours, longer than MDMA, with sustained body energy, warmth, tactile pleasure and light visuals such as color shifts, trails and patterns. The heart stays fast, the jaw tense, and the body hot; overheating is a real danger in crowded, warm places.",
+"Mood is euphoric and sociable, though often described as more stimulating and psychedelic and less emotionally soft than MDMA. Some feel giddy and playful; others become anxious, confused or overwhelmed, especially at higher amounts.",
+"Hyperthermia, dehydration, hyponatremia from drinking too much water, and serotonin toxicity are key risks, especially when combined with other serotonergic drugs. MDA appears to be more neurotoxic than MDMA in animal studies.")
+CD("mda","The comedown brings fatigue, a sore jaw, aching muscles and lingering restlessness. The body may feel overheated, dehydrated and wrung out, with a lack of appetite and difficulty settling down.",
+"Mood often dips into flatness, irritability or low feelings in the following days, as serotonin stores recover. Some describe a sense of emptiness or anxiety that can be more pronounced than after MDMA.",
+"Sleep is often difficult. Spacing use widely, avoiding mixing, and seeking help for confusion, high temperature or chest pain reduce harm.")
+Y("benzofurans","onset","Benzofurans such as 5-APB, 6-APB and 5-MAPB are slower to begin than MDMA, often taking an hour or two, which tempts people to take more. The body warms gradually, with tingling, wide pupils, a rising pulse, a tight jaw and sometimes nausea or a heavy stomach.",0)
+Y("benzofurans","onset","Anticipation, restlessness and mild anxiety can precede the lift in mood.",1)
+Y("benzofurans","peak","Body heat, sweating, jaw tension and tactile pleasure are strong, and the heart stays fast.",0)
+PL("benzofurans","The plateau is long, often longer than MDMA, with sustained warmth, gentle euphoria, emotional openness and mild visuals such as color brightening and soft patterns. The body stays energized, with jaw clenching, sweating and a fast heartbeat.",
+"Mood is affectionate and talkative, and some describe it as a gentler, more drawn-out version of MDMA. Others notice more stimulation and anxiety, and the long duration can become tiring.",
+"Overheating, dehydration, serotonin toxicity and heart strain are real risks, and some benzofurans may affect heart valves with repeated use. Mixing with other stimulants or antidepressants is dangerous.")
+CD("benzofurans","The comedown is slow, with stimulation lingering for hours after euphoria fades. The body feels tired, achy and restless, with a sore jaw, headache and poor appetite.",
+"Mood can drop into flatness, irritability or anxiety, sometimes for a day or two afterward, as with other serotonin releasers. Many people feel emotionally drained and want rest.",
+"Sleep is often disrupted well into the night. Because onset is slow and products are poorly characterized, redosing and accidental high amounts are a frequent problem.")
+Y("pma-pmma","onset","PMA and PMMA are often sold as ecstasy, and they take longer to be felt than MDMA, so people commonly take more thinking the first pill was weak. The body warms quickly and unevenly, with a racing pulse, flushed skin, dizziness and nausea, while the expected euphoria is weak or absent.",0)
+Y("pma-pmma","onset","Instead of warmth, many feel uneasy, confused or physically unwell.",1)
+Y("pma-pmma","peak","Body temperature can rise rapidly to dangerous levels, with heavy sweating, rigid muscles, a pounding heart and confusion. Seizures, collapse and death have occurred, and these drugs are responsible for clusters of fatalities linked to fake ecstasy. Emergency care is needed for overheating, confusion or seizures.",0)
+Y("pma-pmma","peak","Euphoria remains weaker than people expect.",1)
+PL("pma-pmma","There is often no pleasant plateau. The body stays dangerously hot, with sweating, muscle stiffness, fast heartbeat, dizziness and possible vomiting. Temperature may keep climbing for hours, and the risk of organ failure rises with time, heat and exertion.",
+"Mentally people may become confused, agitated, anxious or disoriented rather than euphoric, sometimes unaware of how unwell they are. Some feel nothing much and take more, which is how many fatal cases develop.",
+"Anyone overheating, confused, seizing or collapsing needs emergency care immediately; cooling and rapid medical treatment can be lifesaving. Never take more of a pill that seems weak.")
+CD("pma-pmma","Recovery, if it occurs without complications, is slow and exhausting, with fatigue, muscle pain, headache, nausea and a feeling of having been seriously ill. Hospital monitoring may be needed for kidney, liver or muscle damage.",
+"Mood may be anxious, low or shaken, especially after a frightening medical emergency. Many people feel confused about what happened and feel unwell for days.",
+"Drug checking can identify PMA and PMMA in pills sold as ecstasy. Survivors of overheating may need follow-up for organ damage.")
+Y("4-fa","onset","4-FA (4-FMP) usually begins within an hour or so, with alertness, a rising heart rate, wide pupils and a slight body warmth. The body may feel jittery, with a tight jaw and suppressed appetite, while mild tingling comes and goes.",0)
+Y("4-fa","onset","Mood lifts into focus, chattiness and a light sociable warmth.",1)
+Y("4-fa","peak","The peak sits between amphetamine and MDMA: stimulating and focused with a mild empathogenic glow. The body feels energized, with a fast heartbeat, raised blood pressure, sweating and jaw tension. Severe headaches and strokes have been reported, and blood pressure can climb dangerously.",0)
+Y("4-fa","peak","Mood is upbeat and confident, with modest warmth toward others.",1)
+PL("4-fa","The plateau is long, lasting several hours, with continued stimulation, alertness and light euphoria. The body stays energized, with a fast pulse, tight jaw, dry mouth and little appetite, and some people get a pounding headache that warns of high blood pressure.",
+"Mood is steady, chatty and focused, more stimulant-like than MDMA, with mild sociability. Some become anxious, restless or irritable as the hours pass.",
+"Severe or sudden headache, chest pain, confusion or weakness needs emergency care, since cerebral hemorrhages have been reported. Mixing with other stimulants or alcohol increases the strain on the heart and blood vessels.")
+CD("4-fa","The comedown is gradual, with lingering stimulation, tiredness, a sore jaw and sometimes headache. The body may feel drained but restless, and appetite returns slowly.",
+"Mood often dips mildly into flatness, irritability or low motivation, usually less severe than after MDMA. Some feel anxious or depleted the next day.",
+"Sleep is often difficult for many hours. Repeated use builds tolerance and can lead to compulsive redosing, raising cardiovascular risk.")
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v
+for n,p,t in [
+("rc-tryptamines","peak","Visuals can be strong, with breathing surfaces and vivid closed-eye imagery."),
+("rc-tryptamines","comedown","Faint visuals may linger, and the skin can feel tingly or oversensitive for a while."),
+("mda","onset","Pupils widen."),
+("mda","peak","The body can overheat quickly, and visuals stay vivid."),
+("mda","comedown","Faint visuals and tingling may linger, and the jaw and teeth may feel sore and sensitive for hours."),
+("benzofurans","onset","Pupils widen and the pulse climbs as warmth spreads."),
+("benzofurans","peak","Touch feels lovely and music feels immersive, while the body stays hot."),
+("benzofurans","plateau","Jaw strain builds."),
+("benzofurans","comedown","Muscles feel stiff and sore, the skin feels sweaty or chilled, and the heart may stay quick and fluttery for hours."),
+("pma-pmma","onset","Pupils widen."),
+("pma-pmma","plateau","Sweat pours."),
+("pma-pmma","comedown","Muscles may feel weak and sore, urine may darken if muscle breakdown occurred, and appetite and energy return only slowly."),
+("4-fa","onset","Thoughts feel crisp and quick, and some people feel unusually motivated or sociable as the stimulant lift builds, with a slight buzz behind the eyes."),
+("4-fa","peak","Thoughts race pleasantly, and music and conversation feel engaging."),
+("4-fa","plateau","Fatigue hides."),
+("4-fa","comedown","The heart may stay quick, the mouth dry, and the jaw tense, while a dull headache or eye strain can linger as the body finally slows down."),
+("4-fa","comedown","Concentration may feel patchy."),]:
+    Y(n,p,t,0 if p!="comedown" or "Concentration" not in t else 1)
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v
+for n,p,t in [("mda","peak","Pupils are huge, and touch feels electric."),("mda","comedown","Hydration and rest help."),("benzofurans","onset","Skin flushes."),("benzofurans","comedown","Gentle food, fluids and rest help."),("pma-pmma","comedown","Follow-up blood tests matter."),("4-fa","peak","Pupils are wide, the mouth is dry, and appetite vanishes."),("4-fa","comedown","Rest and fluids help recovery.")]:
+    Y(n,p,t,1)
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v
