@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Clobazam (Onfi) is a 1,5-benzodiazepine used mainly for epilepsy. Its onset is gradual, with mild relaxation.
+Clobazam (Onfi, Frisium) is a 1,5-benzodiazepine, a slightly different shape from most benzos, used mainly for epilepsy such as Lennox-Gastaut syndrome and in some countries for anxiety. Swallowed, it comes on gradually with a mild relaxation of muscles and a calming of nervous energy.
 
-Mentally it tends to cause less sedation than other benzos; people feel calmer with clearer thinking.
+Mentally many people find it less sedating than classic benzos at similar effect: they feel calmer while thinking stays relatively clear.
 
-Drowsiness can still occur.
+Drowsiness, unsteadiness and drooling (in children) can still occur, especially early in treatment.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Gentle calm.
 
 ### Peak (1-4 h)
 
-At its peak mild calm and relaxation.
+At its peak there is mild calm and relaxation rather than heavy sedation.
 
-Mentally steady with less euphoria.
+Mentally the state is steady, with little euphoria; some people, especially children, become irritable, aggressive or hyperactive instead of calmer.
 
-Risks rise with alcohol or opioids.
+Risks rise sharply with alcohol or opioids.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (long)
 
-The plateau is long, with a long-acting metabolite.
+The plateau is long because its active metabolite, N-desmethylclobazam, builds up over days.
 
-Mentally mostly clear.
+Mentally most people remain clear enough to function, though attention and memory can be modestly reduced.
 
-Behavior changes and irritability occur in some.
+Rare but serious skin reactions can occur; a new rash needs urgent review.
 
 ### Comedown (many hours)
 
-The comedown is gradual.
+The comedown is gradual because of the long-lived metabolite.
 
-Emotionally steady.
+Emotionally mood is usually steady.
 
-Stopping suddenly can trigger seizures.
+Stopping suddenly can trigger seizures, including in people who never had them before, so any change must be supervised.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

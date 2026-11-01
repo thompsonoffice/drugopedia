@@ -46,9 +46,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Chlordiazepoxide (Librium), the first benzodiazepine, is long-acting and gentle in onset. Swallowed, it builds slowly: a mild loosening in the muscles and a quieting of jitteriness rather than a sudden drop.
+Chlordiazepoxide (Librium), discovered in 1955 and marketed in 1960, was the first benzodiazepine. It is long-acting and gentle in onset: over a while a mild loosening spreads through the muscles and the jitteriness of anxiety or alcohol withdrawal quiets.
 
-Mentally the onset is a soft, gradual calm that people often barely notice until they realize they are no longer tense. It is commonly used for alcohol withdrawal for this reason.
+Mentally the calm builds gradually, and many people barely notice it until they realize they are no longer tense or shaky. This slow, steady quality is why it remains a standard medicine for alcohol withdrawal.
 
 Drowsiness and slight unsteadiness are the earliest side effects.
 
@@ -62,11 +62,11 @@ Slow build of relaxation.
 
 ### Peak (1-4 h)
 
-At its peak the body feels relaxed and slightly heavy, with mild clumsiness.
+At its peak the body feels relaxed and slightly heavy, with mild clumsiness; withdrawal tremor, sweating and racing heart settle.
 
 Mentally there is steady calm and reduced worry, with less euphoria than faster benzos.
 
-Combined with alcohol or opioids, breathing and consciousness can be dangerously depressed.
+Combined with alcohol or opioids, breathing and consciousness can be dangerously depressed, which matters because people in withdrawal sometimes keep drinking.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -74,19 +74,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (4-12 h)
 
-Its long-lasting breakdown products keep a mild sedation going for a very long time, sometimes building over days with repeated use. The body feels steady and slow.
+Its long-lasting breakdown products keep mild sedation going for a very long time, building over days of repeated doses.
 
 Mentally people feel level and dulled, with weakened memory and concentration that may go unnoticed.
 
-Accumulation is a particular risk in older adults, causing confusion and falls.
+Accumulation is a particular risk in older adults and people with liver disease, causing confusion and falls.
 
 ### Comedown (12-48 h)
 
-The comedown is very slow and soft, which is why it is used for tapering.
+The comedown is very slow and soft, which is why it is used for tapering off alcohol and other sedatives.
 
 Emotionally anxiety returns gradually rather than suddenly.
 
-Dependence still develops with long use; stopping should be done gradually.
+Long use still causes dependence; stopping should be done gradually under medical guidance.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

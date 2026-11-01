@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (10-30 min)
 
-Midazolam (Versed) is a fast, short benzodiazepine used before procedures and in seizures, by injection, nasal spray or mouth. Onset is very quick: a swift heaviness and relaxation, often within minutes.
+Midazolam (Versed, Hypnovel, Buccolam) is a fast, short benzodiazepine used before procedures, for seizure emergencies and in intensive care, given by injection, nasal spray or into the cheek. Onset is very quick: within minutes a warm heaviness spreads and the body goes loose.
 
-Mentally anxiety vanishes almost immediately, replaced by a dreamy, uncaring calm.
+Mentally anxiety vanishes almost instantly, replaced by a dreamy, uncaring calm; patients often chat cheerfully or say things they would not normally say.
 
-Its strong amnesic effect means patients usually remember little of the procedure.
+Its strong amnesic effect means patients usually remember little or nothing of the procedure, sometimes including the minutes before it was given.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Very quick heaviness.
 
 ### Peak (30-60 min)
 
-At its peak deeply relaxed, drowsy and uncoordinated.
+At its peak the body is deeply relaxed, drowsy and uncoordinated.
 
-Mentally hazy and forgetful; some patients become talkative or disinhibited.
+Mentally hazy and forgetful; a minority, especially children and older adults, become agitated or confused instead (a 'paradoxical reaction').
 
-Breathing can be depressed, especially with opioids, so it is used with monitoring.
+Breathing can be depressed, particularly when combined with opioids, so it is used with monitoring.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (under 1 h)
 
-The plateau is short, under an hour or two.
+The plateau is short, often under an hour or two after a single dose.
 
-Mentally drifting and foggy.
+Mentally patients drift in a foggy, contented twilight.
 
-Flumazenil can reverse it in emergencies.
+Flumazenil can reverse it in emergencies, though sedation may return as the reversal wears off.
 
 ### Comedown (2-4 h total)
 
-The comedown is a groggy waking with patchy memory.
+The comedown is a groggy waking with patchy memory, sometimes with nausea or hiccups.
 
-Emotionally calm or briefly confused.
+Emotionally people may feel calm, puzzled about lost time, or briefly tearful.
 
-Prolonged infusions in intensive care can cause dependence and withdrawal.
+After prolonged infusions in intensive care, dependence and withdrawal, including agitation and seizures, can occur and require tapering.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

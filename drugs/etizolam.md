@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Etizolam is a thienodiazepine prescribed in Japan, India and Italy and sold widely as a research chemical and in counterfeit pills, especially 'street Valium' in Scotland. Its onset is quick: muscles release, the chest eases and a warm drowsiness spreads.
+Etizolam is a thienodiazepine prescribed in Japan, India and Italy and sold widely as a research chemical and in counterfeit pills, especially 'street Valium' in Scotland. It comes on quickly: muscles release, the chest eases and a warm drowsiness spreads up the neck.
 
-Mentally it feels like a bright, sociable calm, often compared to alprazolam, with anxiety vanishing fast.
+Mentally it feels like a bright, sociable calm, often compared with alprazolam: anxiety vanishes fast and people feel talkative and relaxed, with a mild euphoric ease.
 
-Counterfeit products vary in strength and may contain other drugs.
+Counterfeit products vary hugely in strength and may contain other benzos or opioids.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Calm.
 
 ### Peak (1-2 h)
 
-At its peak heavy relaxation and clumsiness.
+At its peak the body is heavily relaxed, with clumsiness, slurred speech and drooping eyelids.
 
-Mentally calm, disinhibited and forgetful.
+Mentally people are calm, disinhibited and forgetful; blackouts are common at higher amounts.
 
-With opioids it has been involved in many deaths in Scotland.
+Mixed with opioids, etizolam has been involved in a large share of drug deaths in Scotland.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (2-4 h)
 
-The plateau is a few hours of drowsy calm.
+The plateau is a few hours of drowsy calm, shorter than diazepam.
 
-Mentally foggy.
+Mentally foggy, with poor judgment.
 
-Redosing to maintain the effect is common.
+Its short action makes repeated dosing through the day common, which accelerates tolerance.
 
 ### Comedown (6-8 h total)
 
-The comedown brings rebound anxiety and tiredness.
+The comedown brings rebound anxiety, tiredness and sometimes a heavy head.
 
-Emotionally irritable and low.
+Emotionally irritable, low and restless, with a pull to take more.
 
-Dependence develops fast; withdrawal can include seizures.
+Dependence develops fast; withdrawal can include seizures, so medically supervised tapering is important.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

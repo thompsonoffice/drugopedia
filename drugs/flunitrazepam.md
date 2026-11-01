@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Flunitrazepam (Rohypnol) is a potent sleep benzodiazepine, not sold in the US, notorious for misuse in drug-facilitated assault. Its onset brings heavy, sudden sedation and loss of coordination.
+Flunitrazepam (Rohypnol) is a potent sleep benzodiazepine, not sold in the US, notorious for misuse in drug-facilitated assault. It comes on fairly quickly with a heavy, sudden sedation: the legs grow weak, the head heavy and coordination falls apart.
 
-Mentally there is quick confusion and blankness, and strong amnesia.
+Mentally confusion and blankness arrive fast, with strong amnesia that may wipe out hours.
 
-The manufacturer added a dye so it turns drinks blue, but generics and counterfeits may not.
+The manufacturer added a dye so it turns drinks blue and a coating to slow dissolving, but generics and counterfeits may not have these.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Heavy drowsiness.
 
 ### Peak (1-2 h)
 
-At its peak extreme drowsiness, slurred speech and inability to stand.
+At its peak there is extreme drowsiness, slurred speech and inability to stand or protect oneself.
 
-Mentally disinhibition or unconsciousness, with little or no memory.
+Mentally the person may appear awake and talking yet be disinhibited and later remember nothing.
 
-With alcohol it can cause dangerous breathing suppression.
+With alcohol it can cause dangerous breathing suppression and deep unconsciousness.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -78,17 +78,17 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 The plateau lasts many hours of deep sleep or stupor.
 
-Mentally absent or confused.
+Mentally the person is absent or confused.
 
-Anyone who suspects they were drugged should seek medical help and testing quickly.
+Anyone who suspects they were drugged should seek medical help and testing quickly, ideally within a day or two, since the drug clears from urine and blood.
 
 ### Comedown (8-12 h total)
 
 The comedown brings grogginess, headache and gaps in memory.
 
-Emotionally confusion, fear or distress.
+Emotionally confusion, fear or distress are common, especially when memory loss hides what happened.
 
-Dependence develops with repeated use.
+Dependence develops with repeated use, and withdrawal can include seizures.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

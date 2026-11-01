@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Clorazepate (Tranxene) is converted in the stomach to nordazepam, a very long-acting benzodiazepine. Onset is moderately fast: muscles loosen and anxiety settles.
+Clorazepate (Tranxene) is changed by stomach acid into nordazepam before it is absorbed, so it comes on moderately fast for a long-acting benzo. Within a short while the neck and shoulders loosen, the chest stops feeling tight and a light heaviness settles over the body.
 
-Mentally a steady calm.
+Mentally the onset is a steady, warm calm, with a mild 'nothing to worry about' quality. It is used for anxiety, alcohol withdrawal and as an add-on for seizures.
 
-Drowsiness appears early.
+Drowsiness and unsteadiness appear early, and the nordazepam it produces will remain for days.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Muscle and mental relaxation.
 
 ### Peak (1-2 h)
 
-At its peak relaxed and mildly sedated.
+At its peak the body is relaxed and mildly sedated, with clumsiness at higher amounts.
 
-Mentally calm and less reactive.
+Mentally people feel calm, less reactive and a little distant, with weakened short-term memory.
 
-Combining with depressants is dangerous.
+Combining with alcohol, opioids or other sedatives is dangerous.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau is very long as nordazepam lingers for days.
+The plateau is very long because nordazepam lingers for days; with repeated doses it builds into a constant low sedation.
 
-Mentally dulled, with reduced memory and focus.
+Mentally people feel dulled, slower and more forgetful, sometimes without connecting it to the medicine.
 
-Accumulation causes confusion in older people.
+Older adults are especially prone to confusion and falls from this accumulation.
 
 ### Comedown (many hours to days)
 
-The comedown is extremely gradual.
+The comedown after stopping is extremely gradual, stretching over a week or more.
 
-Emotionally slow return of anxiety.
+Emotionally anxiety and sleeplessness return slowly, which can make withdrawal less sharp but longer.
 
-Dependence develops with long use.
+Dependence develops with long use; tapering under medical supervision is recommended.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

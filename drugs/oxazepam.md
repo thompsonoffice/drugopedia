@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (45-90 min)
 
-Oxazepam (Serax) is a slow-onset, medium-acting benzodiazepine often used for anxiety and alcohol withdrawal. Its onset is gradual and gentle: tension eases over a while without a rush.
+Oxazepam (Serax, Serepax) is absorbed slowly, so its onset is one of the gentlest among benzos. Over an hour or so tension drains out in stages: the hands stop fidgeting, the stomach settles and the breath slows without any distinct drop or rush.
 
-Mentally a quiet, even calm builds slowly.
+Mentally the calm arrives so quietly that people often notice it only in hindsight, realizing that a worry they were chewing on has lost its grip. There is little euphoria, which is why it has a lower misuse reputation than fast-acting benzos.
 
-Its slow start makes it less likely to be misused for a 'hit'.
+Mild drowsiness and slowed reactions begin early. Because it is cleared without relying on the liver's main oxidizing enzymes, it is often chosen for older people and those with liver disease, including during alcohol withdrawal.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Slow, soft relaxation.
 
 ### Peak (2-3 h)
 
-At its peak the body is relaxed and mildly drowsy.
+At its peak the body feels relaxed and loose, with mild heaviness and some clumsiness at higher amounts. The shakes, sweating and racing pulse of alcohol withdrawal ease.
 
-Mentally calm and less worried, with little euphoria.
+Mentally the peak is calm, even and somewhat detached; worries feel manageable rather than gone. Memory for this stretch can be weaker than the person realizes.
 
-It is processed without the liver's main enzyme pathway, making it safer for people with liver disease.
+Combined with alcohol or opioids, breathing and consciousness can still be dangerously depressed, despite its gentle reputation.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (3-6 h)
 
-The plateau is several hours of steady calm.
+The plateau lasts several hours of steady calm, without the long carry-over of diazepam because oxazepam has no long-lived active metabolites. The body stays quiet and slightly slowed.
 
-Mentally clear-ish but slowed.
+Mentally people can function but think and react more slowly; reading, driving and complex tasks are impaired.
 
-Breathing risk rises with alcohol or opioids.
+Taken several times a day, levels stay fairly even, which is why it is used in scheduled doses for withdrawal.
 
 ### Comedown (6-10 h total)
 
-The comedown is soft.
+The comedown is soft: a gradual return of alertness with some tiredness.
 
-Emotionally anxiety returns gradually.
+Emotionally anxiety tends to seep back gradually, though regular users may notice end-of-dose restlessness between doses.
 
-Dependence develops with long use.
+Long-term daily use still leads to dependence; stopping suddenly can cause rebound anxiety, insomnia and seizures, so tapering is needed.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

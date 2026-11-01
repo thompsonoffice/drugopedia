@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Temazepam (Restoril) is a medium-short benzodiazepine used for sleep. Swallowed, its onset brings a heaviness in the limbs and eyelids, a warm loosening and an urge to lie down.
+Temazepam (Restoril, Normison) is a medium-short benzodiazepine used for sleep. Swallowed, it comes on over a short while: a heaviness in the limbs and eyelids, a warm loosening across the shoulders and an urge to lie down.
 
-Mentally the onset is a drowsy calm that dissolves the restless, wired feeling of insomnia; thoughts get slower and softer.
+Mentally the onset dissolves the restless, wired feeling of insomnia; thoughts slow, soften and stop looping.
 
-In the 1990s, liquid-filled capsules were misused by injection in the UK, causing severe vein damage, and were withdrawn.
+In the 1990s, liquid-filled capsules were misused in the UK in harmful ways, causing severe vein damage and amputations, and were withdrawn.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -66,9 +66,9 @@ Heaviness and yawning.
 
 At its peak the body is relaxed and sleepy, coordination poor and speech possibly thick.
 
-Mentally there is a drifting, dreamy calm leading to sleep; people who stay awake can become disinhibited and forgetful.
+Mentally there is a drifting, dreamy calm leading to sleep; people who stay awake can become disinhibited, careless and forgetful.
 
-With alcohol or opioids breathing can be dangerously suppressed.
+With alcohol or opioids, breathing can be dangerously suppressed during sleep.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -78,17 +78,17 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 The plateau is a few hours of deep sleep or heavy drowsiness.
 
-Mentally foggy, with patchy memory.
+Mentally foggy, with patchy memory for any waking moments.
 
-Waking in the night may bring confusion and unsteadiness.
+Waking in the night may bring confusion and unsteadiness, so falls are a risk, especially for older people.
 
 ### Comedown (6-10 h total)
 
-Next morning some feel a mild hangover: grogginess, slowed thinking and dry mouth.
+Next morning some feel a mild hangover: grogginess, slowed thinking and dry mouth that clear over a few hours.
 
-Emotionally a slightly flat mood or anxiety may follow.
+Emotionally a slightly flat mood or edgy anxiety may follow.
 
-Nightly use leads to tolerance and rebound insomnia when stopped.
+Nightly use leads to tolerance and rebound insomnia when stopped; tapering helps.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
