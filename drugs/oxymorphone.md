@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-45 min)
 
-Swallowed oxymorphone can be slow and inconsistent to start, often 30 to 60 minutes, and is strongly affected by food. The first sign is usually a deep, sinking heaviness rather than a bright lift.
+Oxymorphone (Opana) taken by mouth is absorbed poorly and slowly at first, so the onset is gradual: a growing warmth in the chest and a slow loosening of the muscles.
+
+Mentally the onset is calm, steady relief that builds rather than rushes.
+
+Pupils narrow, the mouth dries, and some itch and nausea can appear. Taking it with food or alcohol can sharply increase how much is absorbed.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Oxymorphone is glucuronidated in the liver; its oral bioavailability is only about 10 percent and food raises it. Half-life about 7 to 9 hours. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -64,7 +68,11 @@ The come-up is heavy and warm: a strong pull toward the couch, flushing, and a p
 
 ### Peak (1-2 h)
 
-At the peak, oxymorphone is described as one of the strongest pill highs: dense, warm, and euphoric, often compared to heroin. Thinking slows and the body feels like lead. Breathing suppression is strong.
+At the peak the body feels very heavy and warm, with deep muscle relaxation and slowed breathing.
+
+The emotional tone is strong, sedated euphoria; people describe it as among the most potent pill opioids, with heavy, dreamy contentment.
+
+Oxymorphone is highly potent. The reformulated Opana ER was withdrawn in 2017 after its injection misuse was linked to an HIV and hepatitis C outbreak and a blood-clotting disorder.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -72,11 +80,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-The plateau is long and nod-heavy. People report drifting off repeatedly, with dreamlike half-sleep.
+The plateau is long and heavily sedated, with nodding and warm, flushed skin.
+
+Mentally people are drowsy, dreamy and slow.
+
+Breathing stays suppressed, and constipation builds.
 
 ### Comedown (4-6 h)
 
-The comedown is slow and sleepy. Many fall asleep as effects fade over 4 to 6 hours for immediate-release.
+The comedown is gradual for extended-release forms and quicker for immediate-release.
+
+People feel tired and flat.
+
+Dependence and withdrawal follow regular use.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

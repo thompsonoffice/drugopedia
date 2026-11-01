@@ -54,7 +54,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-60 min)
 
-Tramadol starts around 30 to 60 minutes after swallowing, often with a light, slightly stimulating lift in mood and subtle body warmth.
+Tramadol by mouth starts gently: a slight warmth and a mild lift in mood, often with a hint of nausea and lightheadedness.
+
+Mentally the onset can feel mildly energizing and antidepressant-like, because tramadol also increases serotonin and noradrenaline; some describe feeling chatty and upbeat rather than sleepy.
+
+Dry mouth, sweating, dizziness and nausea are common early on.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Tramadol is turned by CYP2D6 into O-desmethyltramadol, which carries most of the opioid effect; the parent drug provides serotonin and norepinephrine effects. Half-life about 6 hours. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -66,7 +70,11 @@ The come-up feels energetic and talkative for many, more like an antidepressant 
 
 ### Peak (2-3 h)
 
-The peak, around 2 to 3 hours, is mild euphoria with gentle body warmth and brightened mood. Less sedating than most opioids.
+At the peak people feel mild warmth, relaxation and reduced pain, sometimes with restlessness or a tingling, slightly 'wired' feeling.
+
+The emotional tone is mild euphoria with an energized, talkative quality unusual for opioids.
+
+Tramadol can cause seizures, especially at high levels or with other drugs, and serotonin syndrome when combined with antidepressants. Its effect depends on CYP2D6 conversion, so some people get almost nothing and others get strong opioid effects.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -74,11 +82,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-6 h)
 
-The plateau is steady and functional. Sedation is light; some feel wired.
+The plateau brings steady mild relief with warmth, sweating and sometimes itch.
+
+Mentally people feel calm or slightly stimulated.
+
+Nausea and dizziness may continue.
 
 ### Comedown (6-10 h)
 
-The comedown, after 6 to 8 hours, can bring irritability and low mood.
+The comedown brings tiredness and sometimes irritability.
+
+Some notice low mood or anxiety.
+
+Regular use causes dependence, and withdrawal can include both opioid symptoms and antidepressant-like symptoms such as anxiety, 'brain zaps' and confusion.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

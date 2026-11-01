@@ -54,7 +54,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-90 min)
 
-Methadone starts slowly, roughly 20 to 90 minutes after swallowing. The first sensations are quiet: a slight warmth, eased tension, and, in someone in withdrawal, the gradual fading of sickness.
+Methadone taken by mouth, usually as a liquid at a treatment clinic, has a slow, gentle onset. Over the first hour or so people notice the restless, aching, anxious feelings of withdrawal quietly fading: the legs stop twitching, the stomach settles, and the body warms.
+
+Mentally, for people in treatment, the onset is less a high than a return to feeling 'normal': calmer, less preoccupied with drugs, able to think about other things. People without tolerance feel a much stronger, sleepier effect.
+
+Sweating, constipation and a mild drowsiness are common. Methadone builds up in the body over the first days of treatment, so effects grow day by day even when the dose stays the same; most methadone overdose deaths happen during this early period.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Methadone is metabolized by CYP3A4, CYP2B6, and CYP2D6, and its half-life varies enormously, from about 8 to 59 hours, so it accumulates over several days. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -66,7 +70,11 @@ The come-up is gradual and underwhelming, which is part of the danger. People wi
 
 ### Peak (2-6 h)
 
-The felt peak is around 2 to 4 hours, but methadone keeps accumulating, and breathing suppression can deepen after the 'high' has leveled off. People describe a calm, heavy, dull contentment, sweating, and drowsiness.
+Methadone's peak is broad and flat rather than sharp. The body feels warm, relaxed and heavy, with reduced pain and steady comfort.
+
+The emotional tone in tolerant patients is calm and even, with little euphoria. People without tolerance may feel sedated, dreamy and heavy.
+
+Methadone's breathing effects last far longer than its pain-relieving or pleasant effects, so overdose can develop slowly, often during sleep, many hours after taking it. It can also prolong the QT interval and cause dangerous heart rhythms. Mixing with benzodiazepines or alcohol is especially dangerous.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -74,11 +82,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (6-19 h)
 
-The plateau is very long, often the rest of the day. For people in treatment it feels like being normal: no craving, no sickness, clear enough to work. For people without tolerance it is a long, sedated state.
+The plateau lasts most of a day: steady relief from withdrawal, mild drowsiness, warmth and constipation.
+
+Mentally people feel stable and even, sometimes slightly flat or sleepy.
+
+Sweating, weight gain and reduced libido are common long-term effects.
 
 ### Comedown (12-36 h)
 
-Methadone fades over 24 hours or more. There is no sharp comedown; it slowly thins out.
+Methadone's comedown is very slow, which is why it works for treatment: the next dose usually arrives before withdrawal.
+
+When methadone is stopped, people describe the gradual return of anxiety and restlessness.
+
+Methadone withdrawal is long, often lasting weeks, and should be managed with a slow medical taper.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

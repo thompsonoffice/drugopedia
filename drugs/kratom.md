@@ -46,7 +46,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-40 min)
 
-Swallowed kratom powder or tea usually begins within about 20 to 40 minutes, often first as a bitter taste, a slight warmth, and a mild lift in energy or calm depending on the amount and strain.
+Kratom leaf powder or capsules come on within a short time. At lower amounts, people notice a mild coffee-like alertness, a slight tingle and a lift in energy and focus.
+
+Mentally lower amounts feel stimulating and sociable, while higher amounts feel calmer and more opioid-like, with a warm, sedated contentment.
+
+Nausea, stomach upset and a bitter aftertaste are common, and some feel dizzy or itchy.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Mitragynine is metabolized by CYP3A4, partly into 7-hydroxymitragynine; effects vary with leaf alkaloid content. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -58,7 +62,11 @@ Over the next half hour, lower amounts feel coffee-like and talkative, while lar
 
 ### Peak (1-3 h)
 
-The peak, around 1 to 2 hours, is either a stimulating focus or a sedated calm with itching and pinpoint-ish pupils; too much brings 'the wobbles': dizziness, blurry eyes and vomiting.
+At the peak with higher amounts, the body feels warm, relaxed and heavy, with reduced pain. Pupils may narrow and sweating is common.
+
+The emotional tone is calm contentment, milder than prescription opioids.
+
+Risks include vomiting, liver injury, seizures and dangerous interactions with other sedatives. Products can be contaminated or concentrated with 7-hydroxymitragynine.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-A plateau of a few hours.
+The plateau holds mild warmth and drowsiness or stimulation depending on amount.
+
+Mentally people feel calm or energized.
+
+Constipation and dry mouth build.
 
 ### Comedown (3-7 h total)
 
-Effects fade over about 3 to 7 hours in total.
+The comedown is gradual with tiredness.
+
+Some feel irritable or low.
+
+Daily use causes dependence, with withdrawal including aches, irritability, runny nose and insomnia.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

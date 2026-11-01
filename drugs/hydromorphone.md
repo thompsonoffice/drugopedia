@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Swallowed hydromorphone starts within 15 to 30 minutes with a quick, clean warmth, with less stomach upset and itch than morphine.
+Hydromorphone (Dilaudid) by mouth comes on fairly quickly with a strong, clean warmth that rises from the stomach into the chest and head. Compared with morphine there is less of a heavy, queasy start; the body loosens quickly and the limbs begin to feel weighted and soft.
+
+Mentally the onset is a fast, intense easing: pain and worry drop away together, and people describe a smooth, bright euphoria that some compare to heroin more than to other pills. Thoughts remain fairly clear at first.
+
+Itch is usually milder than with morphine because hydromorphone releases less histamine, though a tingling flush on the face and scalp is common. Pupils narrow, the mouth dries, and some feel lightheaded on standing.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Hydromorphone is glucuronidated in the liver; half-life about 2 to 3 hours. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -64,7 +68,11 @@ The come-up is fast and strong for a pill: a surge of comfort, heaviness, and ca
 
 ### Peak (30-60 min)
 
-The peak, around 30 to 90 minutes, is intense and warm, closer to heroin than to oxycodone, with heavy sedation close behind the euphoria. It is several times stronger than morphine by weight, and breathing suppression is strong.
+The peak is strong and comparatively short. The whole body feels deeply warm and heavy, with a velvety, sinking relaxation and a pleasant tingle in the skin. Breathing slows noticeably and can become shallow; the heart may slow.
+
+The emotional tone is intense, blissful calm, often described as more euphoric and 'cleaner' than morphine, with fewer side effects in the way. Worries feel entirely irrelevant, and people may become quiet and inward or warmly talkative.
+
+Hydromorphone is very potent, and the peak is when breathing is most suppressed. Hospital patients on it are monitored closely; outside the hospital, mixing with alcohol or benzodiazepines, or use without tolerance, can quickly lead to overdose.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -72,11 +80,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-3 h)
 
-The plateau is shorter than with morphine or oxycodone. Nodding is common, with a peaceful, dreamy stillness.
+The plateau is heavy and drowsy, with nodding, slack muscles and a warm, flushed face. Sweating and mild itch come and go.
+
+Mentally people drift between dreamy wakefulness and light sleep, with vivid fragments of imagery and a slowed sense of time. The euphoria softens into contentment.
+
+Constipation, dry mouth and slow urination build. Breathing remains slowed, so sleep during this phase carries risk, especially with other depressants.
 
 ### Comedown (3-4 h total)
 
-The comedown begins after 2 to 4 hours and feels relatively quick, which is why hydromorphone is linked to frequent redosing.
+Because immediate-release hydromorphone is short-acting, the comedown arrives relatively quickly: warmth recedes, the limbs feel ordinary, and pain returns.
+
+Emotionally people describe a noticeable drop into flatness or restlessness, which drives the urge to re-dose.
+
+In dependent people, early withdrawal (yawning, runny nose, sweating, anxiety, craving) can begin within hours. Extended-release Exalgo has a much longer, flatter course.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
