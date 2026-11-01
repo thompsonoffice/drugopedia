@@ -76,17 +76,17 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-3 h)
 
-The plateau is shorter than morphine's, a couple of hours of fading heaviness.
+The plateau is shorter than morphine's, a couple of hours in which the heaviness slowly lightens and the warmth recedes into a quiet tiredness.
 
-Mentally the calm thins out into quiet tiredness.
+Mentally the calm thins out; people remain relaxed but more aware, and thoughts become clearer.
 
-Shorter action can lead to more frequent redosing and faster tolerance.
+Shorter action can lead to more frequent redosing, faster tolerance and stacking that increases overdose risk.
 
 ### Comedown (about 4 h total)
 
-The comedown brings aches, restlessness and sometimes nausea.
+The comedown brings aches, a restless body and sometimes nausea.
 
-Emotionally people feel flat and irritable.
+Emotionally people feel flat and irritable, sometimes anxious.
 
 Dependence and withdrawal resemble morphine's.
 

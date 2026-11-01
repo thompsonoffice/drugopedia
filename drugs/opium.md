@@ -74,19 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-The plateau is long and drowsy: hours of warmth, heaviness and dozing, with dry mouth and constipation.
+Opium's plateau is long and drowsy. The body stays sunk into whatever it is resting on, skin warm and faintly itchy, mouth dry and the bowels slowing almost to a stop. Breathing is slow and deep, and many people drift between waking and a light, dream-filled doze.
 
-Mentally people drift in and out of dreamlike states, often with little interest in moving or talking.
+Mentally this is the classic 'opium reverie': half-dreams flicker past with the eyes closed, thoughts wander without effort and time loses its edges. Interest in moving, eating or talking fades, and people can feel cut off from those around them even as they feel content.
 
-Breathing remains suppressed throughout.
+Breathing remains suppressed throughout, and because natural opium varies so much in strength, a person may be much deeper than they intended. Alcohol or benzodiazepines make this period especially dangerous.
 
 ### Comedown (4-6 h)
 
-The comedown is slow: tiredness, aching and sometimes nausea.
+The comedown is slow. Warmth thins into heaviness, then aching, sometimes with nausea, a dull headache and an uncomfortable, crawling restlessness in the legs.
 
-Emotionally people often describe a gray, flat mood and a longing for the calm to return.
+Emotionally people often describe a gray, flat mood, a sense that colors and pleasures are muted, and a longing for the calm to return.
 
-Regular use causes dependence and withdrawal like other opioids: aches, sweats, goosebumps, diarrhea, insomnia and strong craving.
+Regular use causes dependence and classic opioid withdrawal: aches, sweats, goosebumps, yawning, diarrhea, insomnia and strong craving.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

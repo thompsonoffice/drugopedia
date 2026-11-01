@@ -76,19 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-The plateau was a few hours of light sedation and pain relief.
+The plateau lasted a few hours of light sedation and pain relief. The body felt mildly heavy and loose, with dry mouth and sometimes dizziness when standing.
 
-Mentally the state was mild and drowsy, with reduced focus.
+Mentally the state was calm and slightly foggy, with weaker concentration but little euphoria; many patients felt more sleepy than high.
 
-Repeated use let the cardiac-toxic metabolite build up, which is a key reason it was withdrawn.
+With repeated doses, its breakdown product norpropoxyphene built up and could disturb heart rhythm silently, which is a central reason it was withdrawn in 2010.
 
 ### Comedown (4-6 h)
 
-The comedown was mild: tiredness and returning aches.
+The comedown was mild: tiredness, returning aches and sometimes headache.
 
-Emotionally some felt flat or irritable.
+Emotionally some felt flat, irritable or restless.
 
-Dependence occurred with regular use. It is no longer prescribed in the US, UK or EU.
+Regular use produced dependence, and its overdoses were notorious for sudden heart-rhythm collapse and seizures alongside slowed breathing.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

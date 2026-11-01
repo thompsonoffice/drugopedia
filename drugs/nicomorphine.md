@@ -76,15 +76,15 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-3 h)
 
-The plateau lasts a few hours of warm, heavy sedation with nodding, dry mouth and constipation.
+The plateau lasts a few hours of warm, heavy sedation. The body feels sunk, nodding comes in waves, the mouth is dry and the bowel slows.
 
-Mentally people feel calm, slow and inward, with fragmented dreamy moments.
+Mentally people feel calm, slow and inward, drifting through fragments of dreams and memories with little interest in the room around them.
 
-Breathing remains suppressed, especially during sleep.
+Breathing remains suppressed, especially during sleep, and itching from histamine release may continue.
 
 ### Comedown (3-5 h total)
 
-The comedown brings tiredness, aching and the return of pain, sometimes with nausea.
+The comedown brings tiredness, aching and returning pain, sometimes with nausea and a dull headache.
 
 Emotionally a gray, flat mood and restlessness can follow.
 

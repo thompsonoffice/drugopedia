@@ -74,19 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-The plateau is long, with continued constipation, dry mouth and drowsiness.
+At misuse levels the plateau is long and uncomfortable: the gut stays almost paralyzed, the mouth and skin are dry, vision may stay blurry, and drowsiness alternates with a restless, overheated feeling from the atropine.
 
-Mentally people may feel foggy, irritable or confused.
+Mentally people tend to feel foggy, irritable or confused rather than pleasantly high; the anticholinergic part can cause muddled thinking or even delirium.
 
-Delayed and recurring breathing suppression is the main danger.
+Breathing suppression can appear late, many hours after taking it, and can return after seeming to improve. Children who swallow it need hospital observation even if they look fine.
 
 ### Comedown (4-6 h)
 
-As it fades, the gut gradually returns to normal, sometimes swinging toward cramping.
+As it fades the bowel gradually wakes up, sometimes with cramping, and the dryness and blurred vision clear.
 
-Emotionally the comedown is usually unremarkable at medical use.
+Emotionally the comedown is usually unremarkable at medical use; after misuse people may feel drained and unsettled.
 
-Dependence is rare at prescribed use but possible with long misuse.
+Dependence is rare at prescribed use but possible with long-term misuse.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

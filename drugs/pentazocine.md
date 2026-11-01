@@ -78,9 +78,9 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-3 h)
 
-The plateau lasts a few hours: sleepy, dizzy and heavy, with continued sweating and dry mouth.
+The plateau lasts a few hours: sleepy, dizzy and heavy, with continued sweating, dry mouth and sometimes a raised heart rate and blood pressure.
 
-Mentally the mood may be dreamy and calm or uneasy and confused, sometimes alternating.
+Mentally the mood may be dreamy and calm or uneasy and confused, sometimes swinging between the two; strange thoughts or brief hallucinations can recur.
 
 Confusion and falls are risks, especially in older adults.
 

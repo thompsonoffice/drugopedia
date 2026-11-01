@@ -76,11 +76,11 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (a few hours)
 
-The plateau lasts a few hours of light sedation and eased cough.
+The plateau lasts a few hours of light sedation, a warm body and an eased cough, with constipation and dry mouth building.
 
-Mentally people feel calm and slow.
+Mentally people feel calm, slow and contented, somewhat stronger than codeine.
 
-Constipation and dry mouth build.
+Breathing remains suppressed, especially with alcohol.
 
 ### Comedown (4 to 6 hours)
 

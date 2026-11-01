@@ -76,19 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (about an hour)
 
-The plateau is very short, often only an hour or two, which drives frequent repeated use.
+The plateau is very short, often an hour or two. The heaviness and warmth recede fast, leaving the body tired but already starting to ache.
 
-Mentally the calm fades quickly into restlessness and craving.
+Mentally the calm fades quickly into restlessness, anxiety and preoccupation with getting more, which drives repeated use around the clock.
 
-Repeated use multiplies exposure to toxic contaminants.
+Each repeat exposure to crude homemade product adds more toxic contaminants, worsening tissue damage, infections and organ injury.
 
 ### Comedown (2 to 3 hours)
 
-The comedown is rapid and harsh: aches, sweating, restlessness and intense craving.
+The comedown is rapid and harsh: aches, sweating, chills, diarrhea and intense craving.
 
-Emotionally people often describe despair, anxiety and a compulsion to use again.
+Emotionally people describe despair, panic and hopelessness, made worse by visible wounds and illness.
 
-Dependence develops fast, and the tissue damage can be permanent. Medical care for wounds and addiction treatment are urgent.
+Dependence develops fast and the tissue damage can be permanent. Wound care, infection treatment and addiction treatment are urgent.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

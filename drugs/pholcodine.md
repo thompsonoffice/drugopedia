@@ -76,11 +76,11 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (several hours)
 
-Pholcodine lasts a long time, so the plateau stretches for many hours of quieted cough and mild drowsiness.
+Pholcodine lasts a long time, so the plateau stretches for many hours of quieted cough and, for some, mild drowsiness and dry mouth.
 
-Mentally people feel normal or slightly sleepy.
+Mentally most people feel normal or slightly sleepy, with no real high.
 
-Children and older adults are more sensitive to its sedating effects.
+Children and older adults are more sensitive to its sedation, and combining it with other sedatives adds risk.
 
 ### Comedown (about 8 to 12 hours)
 
@@ -88,7 +88,7 @@ As it fades the cough gradually returns.
 
 There is usually no notable mood change.
 
-Dependence is rare. Anyone who has taken it and is due for surgery should tell their anesthetist.
+Dependence is rare. Anyone who has taken it and is due for surgery should tell their anesthetist, because of the allergy link.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

@@ -76,17 +76,17 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-4 h)
 
-The plateau lasts a few hours of light sedation, dry mouth and pain relief.
+The plateau lasts a few hours of light sedation and steady pain relief. The body feels slack and drowsy, the mouth dry, and standing up may bring a wave of dizziness.
 
-Mentally people feel quiet and slightly slowed, content to rest.
+Mentally people feel quiet and slightly slowed, content to rest; some notice a foggy or vaguely uneasy edge from its mixed receptor action.
 
-Dizziness on standing and nausea may continue.
+Nausea may linger, and combining it with other sedatives still raises breathing risk.
 
 ### Comedown (3-6 h total)
 
-As it fades, people feel tired and sometimes headachy, and pain returns.
+As it fades people feel tired and sometimes headachy, and pain returns.
 
-Emotionally the comedown is usually mild, with occasional low mood.
+Emotionally the comedown is usually mild, with occasional low mood or irritability.
 
 Its misuse potential is considered lower than full opioids, but dependence is possible with long use.
 

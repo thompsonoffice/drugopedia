@@ -76,11 +76,11 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-4 h)
 
-The plateau lasts a few hours of light drowsiness and reduced pain.
+The plateau lasts a few hours of light drowsiness and reduced pain. The body feels relaxed and slow, sometimes with sweating.
 
-Mentally the state is quiet and unremarkable for most, sometimes with mild dysphoria.
+Mentally the state is quiet and unremarkable for most; some notice mild dysphoria or foggy thinking at higher amounts.
 
-Because it blocks mu receptors it can reduce full-opioid itching, which is one of its hospital uses.
+Because it blocks mu receptors it can reduce itching from other opioids, one of its hospital uses, but it can also bring on withdrawal in people dependent on full opioids.
 
 ### Comedown (3-6 h total)
 

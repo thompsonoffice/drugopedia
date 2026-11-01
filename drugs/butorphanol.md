@@ -76,17 +76,17 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-3 h)
 
-The plateau is several hours of drowsy, dizzy heaviness, with sweating, dry mouth and sometimes a pounding sensation in the head.
+The plateau is several hours of drowsy, dizzy heaviness. Sweating, dry mouth and sometimes a pounding head continue, and balance stays unsteady.
 
-Mentally people drift between sleep and foggy wakefulness, often with vivid dreams. The mood can sour into restlessness or unease.
+Mentally people drift between sleep and foggy wakefulness, often with vivid, sometimes unsettling dreams; the kappa activity can make the mood sour into restlessness, unreality or anxiety.
 
-Falls and confusion are a real risk, especially for older people.
+Falls and confusion are real risks, especially for older people, and other sedatives add danger.
 
 ### Comedown (3-5 h total)
 
 The comedown brings tiredness, headache and sometimes nausea or a hungover feeling.
 
-Emotionally some feel low or irritable, and the odd kappa mood can linger.
+Emotionally some feel low, irritable or strangely detached as the odd kappa mood lingers.
 
 Repeated nasal use, often for migraine, can lead to dependence and rebound headaches, and stopping can bring withdrawal.
 

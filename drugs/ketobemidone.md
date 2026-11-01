@@ -76,19 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (a few hours)
 
-The plateau lasts a few hours of steady sedation and relief.
+The plateau lasts a few hours of steady sedation and strong relief. The body stays heavy and comfortable, with less itch than morphine, and constipation builds.
 
-Mentally calm and dreamy.
+Mentally the state is calm and dreamy, sometimes with a floating detachment linked to its NMDA-blocking action.
 
-Constipation builds.
+Breathing remains suppressed, and its euphoric quality encourages repeated use.
 
 ### Comedown (3 to 5 hours)
 
 The comedown brings tiredness and returning pain.
 
-Emotionally a flat, restless mood.
+Emotionally people often feel flat and restless.
 
-Dependence develops with regular use.
+Dependence develops with regular use; it has a high misuse reputation in Nordic countries.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

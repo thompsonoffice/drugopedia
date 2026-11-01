@@ -76,11 +76,11 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-2 h)
 
-The plateau was relatively short, a couple of hours of mild warmth.
+The plateau was short, a couple of hours of mild warmth and loose muscles while dry mouth and slight dizziness continued.
 
-Mentally the lift faded into quiet tiredness.
+Mentally the lift faded into a quiet, slightly tired calm.
 
-Frequent redosing was a misuse risk.
+Its short action encouraged frequent redosing, which raised misuse and breathing risks.
 
 ### Comedown (2-3 h total)
 
@@ -88,7 +88,7 @@ The comedown brought aches, restlessness and tiredness.
 
 Emotionally people felt low and anxious.
 
-Dependence developed with regular use. It is no longer marketed.
+Dependence developed with regular use; it is no longer marketed.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

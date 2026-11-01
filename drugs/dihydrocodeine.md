@@ -74,19 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-The plateau lasts a few hours of steady warmth, itch and mild sedation; constipation builds.
+The plateau lasts a few hours. The body stays warm and pleasantly heavy, the itch comes and goes across the nose and chest, and constipation and dry mouth start to build.
 
-Mentally people feel calm, slow and inward.
+Mentally people feel calm, slow and comfortably inward, with a soft contentment; conversation may feel easy but attention wanders and reactions are slower.
 
-Variations in how people metabolize it mean some feel stronger effects than expected.
+How strongly people feel it varies with how their liver processes it, so some are much more sedated than expected. Mixing with alcohol is a common route to dangerous sleepiness.
 
 ### Comedown (4-6 h)
 
-The comedown brings tiredness, itchy skin fading, and returning aches.
+The comedown brings tiredness, a heavy head and the return of aches or cough, sometimes with mild nausea.
 
-Emotionally a mild low or restlessness can follow.
+Emotionally a mild low, irritability or restlessness can follow as the cozy feeling fades.
 
-Regular use leads to dependence, with codeine-like withdrawal: aches, runny nose, yawning and craving.
+Regular use leads to codeine-like dependence; withdrawal brings aches, runny nose, yawning, diarrhea and craving.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

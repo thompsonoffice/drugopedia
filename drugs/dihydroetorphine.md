@@ -76,19 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (about an hour)
 
-The plateau is relatively short, a few hours of fading sedation.
+The plateau is relatively short, a few hours during which deep sedation gradually lightens into drowsy calm.
 
-Mentally people feel calm and slow.
+Mentally people feel slow, dreamy and detached as the strong effect fades.
 
-Its short action led to frequent use and rapid dependence in China during the 1990s, when it became a drug of misuse.
+Its short action and potency led to frequent use and rapid dependence in China during the 1990s.
 
 ### Comedown (2 to 3 hours)
 
-The comedown brings aches and restlessness.
+The comedown brings aches, sweating and restlessness.
 
 Emotionally a low, anxious mood with craving.
 
-Dependence and withdrawal like other strong opioids.
+Dependence and withdrawal resemble other strong opioids.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
