@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (about 15 min)
 
-Injection: about 15 minutes.
+Dezocine (Dalgan) is a mixed opioid that was used by injection in US hospitals and remains common in China. Its onset brings a quick heaviness, drowsiness and noticeable pain relief, often with dizziness.
+
+Mentally the onset is calm but muted. People describe sleepy relaxation with little euphoria; it partly blocks the receptors responsible for the strongest highs.
+
+Nausea, sweating and light-headedness are common, and in people dependent on full opioids it can bring on withdrawal.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Drowsiness.
 
 ### Peak (30-60 min)
 
-Peak 30 to 60 minutes.
+At its peak the body feels slack and sleepy, pain greatly reduced, and breathing somewhat slowed, though less than with morphine.
+
+Mentally the peak is drowsy and detached. Some people feel foggy or mildly uneasy; vivid dreams can come with dozing.
+
+Its breathing suppression has a ceiling, but combining it with other sedatives still carries real danger.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-4 h)
 
-A few hours.
+The plateau lasts a few hours of light sedation, dry mouth and pain relief.
+
+Mentally people feel quiet and slightly slowed, content to rest.
+
+Dizziness on standing and nausea may continue.
 
 ### Comedown (3-6 h total)
 
-Fades over 3 to 6 hours.
+As it fades, people feel tired and sometimes headachy, and pain returns.
+
+Emotionally the comedown is usually mild, with occasional low mood.
+
+Its misuse potential is considered lower than full opioids, but dependence is possible with long use.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

@@ -48,7 +48,11 @@ Times below are typical for the sublingual and buccal (under the tongue or in th
 
 ### Onset (minutes under the tongue)
 
-Under the tongue, dihydroetorphine begins within a few minutes with a quick warm wave.
+Dihydroetorphine is an extremely potent opioid, thousands of times stronger than morphine, used in China as tablets dissolved under the tongue for severe pain. Its onset is fast: a strong warmth and heaviness spreading through the body and pain disappearing.
+
+Mentally the onset brings a quick, deep calm and sedation; people describe a short euphoric lift and then drowsiness.
+
+Its potency means tiny differences in amount can dramatically change the effect and the breathing risk.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Warmth and euphoria rise fast.
 
 ### Peak (strong and short)
 
-The peak is strong and heroin-like but short.
+At its peak the body is heavy, warm and still; breathing slows markedly and pupils are pinpoint.
+
+Mentally the peak is drowsy and dreamlike.
+
+Overdose can come quickly; naloxone works but may need repeating.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (about an hour)
 
-The plateau lasts about an hour.
+The plateau is relatively short, a few hours of fading sedation.
+
+Mentally people feel calm and slow.
+
+Its short action led to frequent use and rapid dependence in China during the 1990s, when it became a drug of misuse.
 
 ### Comedown (2 to 3 hours)
 
-Effects fade within 2 to 3 hours.
+The comedown brings aches and restlessness.
+
+Emotionally a low, anxious mood with craving.
+
+Dependence and withdrawal like other strong opioids.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

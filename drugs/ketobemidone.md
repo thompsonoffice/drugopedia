@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15 to 30 minutes when swallowed)
 
-Swallowed ketobemidone begins within about 15 to 30 minutes with warmth and lightness.
+Ketobemidone (Ketogan) is a strong synthetic opioid used for severe pain mainly in Scandinavia. Its onset brings a smooth warmth, loosening muscles and strong pain relief, without as much histamine itch as morphine.
+
+Mentally the onset brings a pleasant, clear-headed calm and euphoria. It also has NMDA-blocking activity, and some describe a slightly detached, floating quality.
+
+Nausea and dizziness can occur early; breathing begins to slow.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ A quick, clean rise in mood with less itch than morphine.
 
 ### Peak (strong and euphoric)
 
-The peak brings strong euphoria and pain relief; its NMDA-blocking action may make it useful for nerve pain.
+At its peak the body feels heavy and comfortable, with small pupils and slowed breathing.
+
+Mentally the peak is a strong contentment and detachment, sometimes described as more euphoric than morphine, which gives it a high misuse reputation in Nordic countries.
+
+Breathing suppression is dangerous, especially with alcohol or benzodiazepines.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (a few hours)
 
-A few hours of contentment.
+The plateau lasts a few hours of steady sedation and relief.
+
+Mentally calm and dreamy.
+
+Constipation builds.
 
 ### Comedown (3 to 5 hours)
 
-Effects fade over 3 to 5 hours.
+The comedown brings tiredness and returning pain.
+
+Emotionally a flat, restless mood.
+
+Dependence develops with regular use.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
