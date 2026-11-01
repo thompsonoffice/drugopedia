@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30 min)
 
-Blue lotus brings a mild, dreamy relaxation; kanna brings a gentle mood lift and slight numbness.
+Blue lotus (Nymphaea caerulea), a water lily depicted in ancient Egyptian art, and kanna (Sceletium tortuosum), a South African succulent traditionally chewed by Khoisan peoples, are sold as 'legal' relaxants. Blue lotus is drunk as tea or smoked, bringing a gentle warmth and relaxation within half an hour. Kanna, chewed, snuffed or swallowed, can bring a light, warm mood lift and slight numbness of the mouth.
 
-Mentally calm and contented.
+Mentally blue lotus brings a mild, dreamy calm and sometimes vivid dreams; kanna brings a soft, mood-brightening ease and sociability, a little like a mild empathogen.
 
-Effects are subtle.
+Kanna acts on serotonin and should never be combined with antidepressants or other serotonin drugs. Product strength varies greatly.
 
 Absorption varies.
 
@@ -64,11 +64,11 @@ Mild calm.
 
 ### Peak (about 1 h)
 
-At the peak, mild euphoria and calm.
+At the peak the body feels relaxed and warm with mild sedation (blue lotus) or gentle stimulation (kanna). Blue lotus can bring heavy eyelids, mild nausea and a slow, floating heaviness; kanna may bring a light buzz, mild headache or nausea at higher amounts. Some feel their hands and feet grow warm.
 
-Emotionally pleasant.
+Mentally there is calm, contentment and gentle euphoria. Blue lotus users often describe a dreamy, drifting peace and enhanced dreams if they fall asleep; kanna users describe a warm, open, talkative mood, sometimes with lowered anxiety.
 
-Kanna with serotonergic drugs may risk serotonin syndrome.
+Both are poorly studied, and serious effects are possible with high amounts or mixing. Pregnant people and those with heart conditions should avoid both.
 
 Kanna inhibits serotonin reuptake.
 
@@ -76,19 +76,19 @@ Serotonin syndrome risk with other drugs.
 
 ### Plateau (1-2 h)
 
-The plateau is short.
+The plateau lasts a couple of hours. Blue lotus may keep a person drowsy and relaxed, sometimes sleeping lightly; kanna may keep the body softly energized, sometimes with a numb mouth or mild nausea. Both may cause mild dizziness on standing. Thirst is common.
 
-Mood mellow.
+Mentally the calm or uplift persists. Blue lotus brings a quiet, dreamy calm; kanna brings a lingering gentle uplift and sociability, fading over a couple of hours. Some feel nothing much at all, given product variability.
 
-Products vary.
+Driving may be impaired. Driving may be impaired, especially with blue lotus. Mixing with alcohol, sedatives or antidepressants raises risk. Wait to see how they feel first.
 
 ### Comedown (2-3 h)
 
-The comedown is gentle.
+The comedown is usually gentle, with mild tiredness. The comedown is usually gentle, with mild tiredness after blue lotus and a slight flatness or headache after kanna. Some notice mild nausea. Sleep is often easy and deep after blue lotus.
 
-Mood steady.
+Mentally people often feel rested. Most feel rested or calm; a few feel slightly low after kanna as the uplift fades. Vivid dreams may follow blue lotus.
 
-Unregulated.
+Avoid combining with alcohol or medicines without advice. Because they are sold as supplements, products are not tested consistently, and labels may be inaccurate. Avoid combining with alcohol or medicines without advice. Pharmacists can check for interactions.
 
 Effects fade within hours.
 

@@ -52,11 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Quetiapine (Seroquel) brings a heavy, pulling sleepiness and a stuffy nose.
+Quetiapine (Seroquel) is an antipsychotic used for schizophrenia, bipolar disorder and sometimes depression, and it is often prescribed off-label in low amounts for sleep. It is sometimes misused, especially in prisons, for its sedation. Taken, it brings heavy drowsiness within about an hour, a dry mouth, stuffy nose, and often dizziness on standing.
 
-Mentally a thick, dull calm; misused, a sedated haze rather than a high.
+Mentally the onset is a heavy, blunting calm. Many describe thoughts slowing, worries fading and a strong pull toward sleep. Some feel a dreamy, detached state if they fight the sleepiness.
 
-Standing up can bring dizziness.
+Quetiapine lowers blood pressure, which causes fainting and falls, and in overdose it can cause dangerously low blood pressure, fast heart rate, heart rhythm problems, seizures and coma, especially mixed with alcohol or other sedatives.
 
 Quetiapine is absorbed quickly.
 
@@ -68,11 +68,11 @@ Heaviness.
 
 ### Peak (1-2 h)
 
-At the peak strong sedation.
+At the peak the body is very heavy, clumsy and sleepy. Standing may bring a rush of dizziness or fainting. The heart may race, the mouth is dry and constipation can begin. Some feel their legs twitch or restless, and some notice a stuffed nose and blurred vision.
 
-Emotionally flat.
+Mentally the peak is deep sedation and mental slowing. Some feel calm and numb; others feel confused or restless, an inner jitteriness called akathisia. Larger amounts can cause confusion and delirium. Some describe a heavy, cotton-wool feeling in the head.
 
-Overdose can cause low blood pressure, fast heart rate and coma.
+Very sedated people should be placed on their side and monitored, and emergency services called if they cannot be woken or their breathing seems abnormal.
 
 At high levels, deep sedation and QT prolongation.
 
@@ -80,19 +80,19 @@ Mixing with depressants adds danger.
 
 ### Plateau (4-8 h)
 
-The plateau is long sleep.
+The plateau is long, often a full night's sleep, sometimes extending into the morning. The body stays heavy and slow, appetite may increase, and dreams can be vivid or absent. The mouth stays dry and the heart may beat faster than usual through the night. Waking to use the toilet may bring dizziness and risk of falls.
 
-Thinking slow.
+Mentally the mind stays dulled and emotionally blunted, with little interest or motivation. Some people value this as relief from racing thoughts or anxiety. Waking briefly during the night, people may feel confused or dazed.
 
-Next-day grogginess common.
+Long-term use can cause weight gain, diabetes, high cholesterol and movement disorders, which is why low-dose sleep use is debated.
 
 ### Comedown (8-12 h)
 
-The comedown is groggy.
+Waking often brings a heavy 'hangover', with grogginess, dry mouth and slowed movement into the morning. Some people sleep through alarms and find it hard to get up. Dizziness on standing and constipation may continue, and appetite may be strong in the morning.
 
-Mood flat.
+Mentally people may feel foggy, flat and slow to get going. Some feel emotionally numb or slowed through the morning, and concentration can be poor at work or school.
 
-Stopping suddenly can cause insomnia and nausea.
+Stopping suddenly after regular use can cause insomnia, nausea, sweating, irritability and, in people with bipolar disorder or psychosis, relapse. Tapering with a doctor is important. Taking it earlier in the evening or adjusting the amount with a prescriber may reduce morning grogginess.
 
 Half-life about 6 hours (XR longer).
 

@@ -64,7 +64,7 @@ Dry mouth.
 
 ### Peak (2-4 h)
 
-At the peak of poisoning the body is hot, dry and flushed, with a racing heart, wide pupils and urinary retention. Muscles may twitch, speech may slur and walking may be unsteady. The skin feels hot because sweating stops, and urination is difficult. The heart may pound and the person may collapse.
+At the peak of poisoning the body is hot, dry and flushed, with a racing heart, wide pupils and urinary retention. Muscles may twitch, speech may slur and walking may be unsteady. The skin feels hot because sweating stops, and urination is difficult. The heart may pound and the person may collapse. Pupils stay wide.
 
 Mentally there can be delirium, hallucinations and agitation. People may see insects or shadow figures, talk to people who aren't there, and lose track of where they are. Agitation and fear are common. Memory is often lost.
 
@@ -86,7 +86,7 @@ Older adults are especially vulnerable. Someone should stay with them and call p
 
 The comedown brings tiredness, dry mouth and blurred vision. Blurred vision, dry mouth, constipation and exhaustion may linger for a day or more, and the person may feel weak and shaky. Muscles may ache from twitching.
 
-Mentally confusion may linger. Memory gaps, anxiety and low mood are common, and some people feel frightened by what they remember. Sleep may be broken by vivid dreams.
+Mentally confusion may linger. Memory gaps, anxiety and low mood are common, and some people feel frightened by what they remember. Sleep may be broken by vivid dreams. Anxiety may linger.
 
 Doctors can adjust medicines to reduce misuse risk. People prescribed these medicines who notice cravings or misuse should talk to their doctor. Never stop a prescribed medicine suddenly without advice. A doctor can check the heart and bladder.
 

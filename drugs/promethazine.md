@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20 min)
 
-Promethazine, the antihistamine in prescription cough syrups used in lean, brings a heavy, syrupy sleepiness and a thick, dry mouth. The limbs feel weighted and slow, as if moving through honey.
+Promethazine (Phenergan) is a sedating antihistamine prescribed for nausea, allergies and sleep, and it is the main ingredient besides codeine in cough syrups misused as 'lean', 'purple drank' or 'sizzurp'. Taken as directed, it brings drowsiness within about half an hour, a dry mouth, heavy eyelids and a relaxed, slowed body.
 
-Mentally there is a dreamy, sinking fog and a sense of not caring about much.
+Mentally the onset is a heavy, cloudy calm, often with mild confusion and a dreamy detachment. Combined with codeine, many describe a warm, slow, syrupy euphoria; promethazine alone is mostly sedating.
 
-Restless legs and an uncomfortable inner restlessness can occur.
+Promethazine strengthens the breathing-slowing effects of opioids, alcohol, benzodiazepines and other sedatives. Lean mixtures have caused deaths, and naloxone can reverse the opioid component.
 
 Promethazine is absorbed well and crosses into the brain.
 
@@ -64,11 +64,11 @@ Heaviness.
 
 ### Peak (2-3 h)
 
-At the peak there is heavy sedation and slowed movement; the eyes droop.
+At the peak the body is very heavy and drowsy, coordination is poor, and speech may slow. The mouth is dry, vision may blur and some feel dizzy on standing because blood pressure drops. Muscles feel loose and limbs heavy, and some people notice unusual stiffness or twitching of the face or neck.
 
-Emotionally detached and drowsy.
+Mentally there is deep sedation and slowed thinking. Larger amounts can cause confusion, restlessness, agitation or even hallucinations, as it has anticholinergic effects like diphenhydramine. Some feel strangely restless, an unpleasant feeling called akathisia. Lean users often describe time slowing to a crawl.
 
-With opioids or alcohol it deepens breathing suppression; large amounts can cause delirium and seizures.
+Children under two must never be given promethazine because it can stop breathing. In adults, overdose can cause seizures, heart rhythm problems and coma.
 
 At high levels, delirium and seizures; with opioids, breathing depression.
 
@@ -76,19 +76,19 @@ It can cause neuroleptic malignant syndrome rarely.
 
 ### Plateau (4-6 h)
 
-The plateau is long and sleepy.
+The plateau lasts several hours. The body stays heavy and sluggish, often drifting into a long sleep. In lean use, people may nod in and out, especially with codeine. The mouth stays dry, the bladder may be slow to empty, and constipation can begin.
 
-Thinking slow.
+Mentally the mind stays slow and foggy, with poor memory and a dreamy, detached mood. Some feel low or flat as the sedation lingers. Many people lose hours sitting or lying motionless.
 
-Driving is unsafe.
+Sleeping on the back while very sedated risks choking on vomit, and combinations with opioids or alcohol risk stopped breathing; anyone hard to wake should be placed on their side, given naloxone if opioids may be involved, and emergency help called.
 
 ### Comedown (6-12 h)
 
-The comedown is groggy and dry-mouthed.
+Waking from promethazine often comes with grogginess, dry mouth, headache and a heavy, slowed body that can last into the next day. Some feel unsteady on standing and notice blurred vision until midmorning. Appetite may be low, and constipation can persist, especially with codeine.
 
-Mood flat.
+Mentally there can be fog, low motivation and mild irritability or anxiety. Sleep may have felt heavy but not refreshing, and some people feel restless or low as the sedation wears off.
 
-Repeated heavy use may worsen memory.
+Regular lean users can develop opioid dependence and dental problems from sugary syrups, and stopping can bring withdrawal symptoms. Treatment for opioid use disorder can help. Promethazine taken with other sedatives should be discussed with a doctor.
 
 Long half-life.
 

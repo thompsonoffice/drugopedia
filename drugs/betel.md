@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (minutes)
 
-Betel (areca nut) chewing brings a warm flush, sweating and mild alertness.
+Betel quid is a preparation of areca nut, often wrapped in betel leaf, chewed by hundreds of millions of people across South and Southeast Asia and the Pacific. Its main stimulant, arecoline, acts within minutes: a warm flush across the face and body, sweating, a slight rise in heart rate and a red-staining, bitter saliva. Some feel slightly dizzy or light-headed, especially new chewers.
 
-Mentally a slight euphoric lift.
+Mentally the onset is a mild alertness and well-being, similar to a strong cup of coffee or tobacco, with improved focus and a sense of social comfort. Many describe a pleasant, social buzz.
 
-The mouth turns red.
+Areca nut is classified as a cause of cancer, especially mouth cancer, and many products are mixed with tobacco, which increases harm.
 
 Arecoline is absorbed through the mouth.
 
@@ -64,11 +64,11 @@ Warmth and alertness.
 
 ### Peak (10-15 min)
 
-At the peak, mild stimulation.
+At the peak the body is warm and alert, with flushing, sweating, extra saliva and mild heart-rate increase. Some feel their heart beat faster and notice a warm flush across the face and chest. The mouth and lips stain red, and the gums may tingle.
 
-Emotionally upbeat.
+Mentally there is mild euphoria, alertness and calm. Many feel a mild sense of energy and focus useful for work or long journeys; others feel relaxed and sociable, enjoying the shared ritual.
 
-Long-term use causes mouth cancer.
+Heavy use can cause gum disease, staining, and oral submucous fibrosis, a stiffening of the mouth that limits opening and can become cancer. Chewers should regularly check their mouth for white or red patches or sores and see a dentist or doctor.
 
 At peak, mild stimulation.
 
@@ -76,19 +76,19 @@ Long-term oral cancer risk.
 
 ### Plateau (1-2 h)
 
-The plateau is short.
+The plateau lasts as long as chewing continues. The body stays warm and slightly stimulated. Saliva stays red and frequent spitting is common. Some notice sweating and a slightly raised pulse that continues while chewing, and the jaw may tire. Some people chew one quid after another for hours.
 
-Mood steady.
+Mentally a mild, steady alertness continues. The calm, mild alertness continues, and some feel it helps them stay awake through long work shifts or night travel. It also eases hunger for some. Some find it calming.
 
-Dependence common.
+Many people chew throughout the day. Chewing with tobacco adds nicotine dependence and further cancer risk. Spitting red saliva in public is banned in some places.
 
 ### Comedown (2-3 h)
 
-The comedown is mild.
+As effects fade, people may feel slightly tired. As effects fade, people may feel slightly tired, with a stained, dry or sore mouth. Some notice mild headaches or irritability between chews. Teeth may darken over time with regular use.
 
-Mood slight craving.
+Mentally a mild craving may appear. A craving to chew again may appear, and regular users may feel restless, tired or moody when they cannot chew. Some feel mildly irritable or flat until the next chew, especially daily users.
 
-Withdrawal can cause irritability.
+Regular use causes dependence; quitting support helps. Quitting support, especially for those who also use tobacco, is offered by many health services in Asia and the Pacific. Dentists can spot early warning signs.
 
 Effects fade within hours.
 

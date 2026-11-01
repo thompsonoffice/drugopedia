@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Salvia divinorum hits within seconds when smoked: a pulling or twisting pressure in the body and a sudden shift of reality.
+Salvia divinorum is a Mexican sage traditionally used by Mazatec healers. Its active compound, salvinorin A, acts on kappa-opioid receptors. Smoked or vaped, it takes effect within seconds: a pressure or pulling sensation in the body, as if gravity has shifted, tingling and a sudden heaviness.
 
-Mentally a bizarre, overwhelming dissociation, often feeling like becoming an object or being pulled into another world.
+Mentally the onset is an abrupt loss of normal reality. People often describe the world folding, peeling or turning like pages, being pulled into a different place, or merging with objects. Laughter or fear can erupt suddenly.
 
-People may move or speak without awareness.
+Because people often lose awareness of their surroundings, they may stand, walk, or fall. A sober sitter and a safe, clear space matter.
 
 Salvinorin A reaches the brain within seconds.
 
@@ -64,11 +64,11 @@ Rapid loss of contact.
 
 ### Peak (1-5 min)
 
-The peak is brief and intense.
+At the peak, which lasts only a few minutes, the body may feel absent, twisted or stretched, with loss of coordination and sometimes involuntary movement. Some laugh uncontrollably or speak nonsensically, and some lie frozen and staring. Breathing and heart rate remain fairly normal.
 
-Emotionally confusing, often frightening.
+Mentally the peak can be one of the most intense altered states: complete detachment from ordinary reality, becoming part of a pattern or object, meeting entities or living another life. Many find it frightening or overwhelming, not pleasurable. Some feel they have been gone for hours or years though only minutes have passed, and some forget they took a drug at all.
 
-Accidental injuries are the main danger; a sober sitter is essential.
+Physical toxicity is low, but accidents and panic are the main risks. A sitter should keep the person from wandering or falling and stay calm and reassuring.
 
 At peak, kappa-opioid activation causes dissociation and dysphoria.
 
@@ -76,19 +76,19 @@ Accidents are the main risk.
 
 ### Plateau (5-10 min)
 
-Effects fade within minutes.
+The plateau is short, followed by a gradual return over several minutes. The body slowly reconnects, often with a tingling, heavy feeling. Some feel a tingling, pulling sensation in the limbs and a lingering odd heaviness or lightness. Some notice sweating or chills.
 
-Mind returns slowly.
+Mentally people may feel confused, unsure of what is real, laughing or emotional as the ordinary world reassembles. Some feel shaken, others amused or awed by what they experienced, and many struggle to describe it in words. Unease about reality may linger briefly.
 
-Laughter or confusion follows.
+Most people do not want to repeat it often. Smoking it again right away usually brings confusion rather than insight, and the experiences can be harder to integrate.
 
 ### Comedown (15-30 min)
 
-The comedown is quick.
+The comedown is quick, usually within half an hour, with mild headache or tiredness. Some feel tired, drained and slightly headachy for a while, and a few feel lightheaded or queasy. Most feel physically normal soon. Some feel thirsty.
 
-Mood unsettled.
+Mentally there can be a lingering sense of strangeness or reflection. Some feel uneasy or dissociated for a few hours, and a few have lingering anxiety about the strangeness of what happened. Talking it through can help. Writing down impressions can help some people.
 
-It is not addictive.
+People with a history of psychosis should avoid salvia. Salvia should never be used while driving or near water or heights. Its legal status varies by state and country.
 
 Rapid metabolism ends effects quickly.
 

@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-30 min)
 
-Kava has a quick onset with a numb, tingly tongue and lips, then a gentle body relaxation.
+Kava is a drink made from the root of a Pacific Island plant, traditionally shared in ceremonies and social gatherings in Fiji, Vanuatu, Tonga and Samoa. Its active compounds, kavalactones, come on within half an hour. The first sensation is a tingling numbness of the tongue and lips from the earthy, bitter drink, followed by a warm, loose relaxation in the muscles.
 
-Mentally a clear-headed calm and sociability.
+Mentally the onset is a calm, clear-headed sociability. Many describe it as quieting anxiety without clouding thought, with a gentle contentment and openness to conversation.
 
-Muscles loosen.
+Kava is generally considered low risk in traditional use, but heavy use, poor-quality products made from stems and leaves, and mixing with alcohol have been linked to liver injury.
 
 Kavalactones are absorbed within an hour.
 
@@ -64,11 +64,11 @@ Mouth numbness and relaxation.
 
 ### Peak (1-2 h)
 
-At the peak, relaxed, content and chatty, with heavy legs.
+At the peak the body feels relaxed and heavy, especially the legs, with mild numbness and sometimes a slight unsteadiness. Some feel nauseous from the taste or volume of drink. The tongue and lips may remain numb, and some people feel their eyes become slightly sensitive and the room soften. Muscles feel loose, as if after a massage.
 
-Emotionally peaceful.
+Mentally there is calm, warmth, contentment and an easy, unhurried sociability. Larger amounts bring drowsiness and a dreamy detachment, and people often fall asleep. Conversations slow into peaceful pauses, and many people feel contented and unhurried rather than drunk; thoughts often stay clear.
 
-Heavy use is linked to liver damage and skin scaling.
+Coordination is impaired, and driving after heavy kava drinking is unsafe. Mixing kava with alcohol or sedatives increases drowsiness and risk to the liver.
 
 At high levels, sedation and loss of coordination.
 
@@ -76,19 +76,19 @@ Liver injury reports led to bans.
 
 ### Plateau (2-3 h)
 
-The plateau is a few hours.
+The plateau lasts a couple of hours. The body stays relaxed and sleepy, and some people's vision becomes sensitive to light. Legs may feel heavy and wobbly when standing, and some people feel mildly nauseated. The stomach may feel full from the volume of drink.
 
-Mood calm.
+Mentally people stay calm and quiet, often enjoying conversation or music, and gradually become sleepy. Some people become quiet and reflective, enjoying the shared ritual, and drowsiness often grows into an easy sleep.
 
-Combining with alcohol raises liver risk.
+Heavy daily drinkers can develop dry, scaly skin (kava dermopathy), weight loss and red eyes, which resolve when use is reduced. Moderation, good-quality root products and avoiding alcohol reduce risk.
 
 ### Comedown (3-6 h)
 
-The comedown is mild tiredness.
+Most people wake after kava sessions without a hangover, though heavy drinking can leave them sluggish and groggy. After heavy sessions, the legs may feel weak and the stomach slightly unsettled the next morning. Eyes may be red. Hydration and food help.
 
-Mood steady.
+Mentally many feel rested and calm. Some feel slightly slow or less sharp the next day after very heavy drinking. Kava does not usually cause the craving or withdrawal seen with alcohol.
 
-Dependence is uncommon.
+People with liver disease, or taking medicines that affect the liver, should avoid kava. Yellowing skin or eyes, dark urine or abdominal pain need medical care. Liver checks are wise for regular heavy drinkers.
 
 Effects last several hours.
 

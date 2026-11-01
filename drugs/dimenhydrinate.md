@@ -78,7 +78,7 @@ Heart rhythm toxicity matches diphenhydramine.
 
 The plateau lasts many hours with the body staying hot, dry and racing. Pupils stay wide and vision blurry, the mouth parched and urination difficult. Muscles may twitch, and the person may be unable to sleep despite being exhausted. Breathing may quicken and the skin stays hot and flushed.
 
-Mentally confusion and hallucinations continue. Confusion and hallucinations continue, often frightening, and the person may not recognize familiar people or places. Many talk in mumbles or pick at the air.
+Mentally confusion and hallucinations continue. Confusion and hallucinations continue, often frightening, and the person may not recognize familiar people or places. Many talk in mumbles or pick at the air. Some cry out or try to leave.
 
 Hospital monitoring is often needed. Someone should stay with them and call poison control or emergency services. Activated charcoal may be given early.
 
@@ -86,9 +86,9 @@ Hospital monitoring is often needed. Someone should stay with them and call pois
 
 The comedown brings exhaustion, dry mouth and blurred vision. Vision may stay blurred and light uncomfortable for a day or two, with headache, constipation and deep tiredness. Muscles may ache from twitching, and appetite is poor.
 
-Mentally confusion and low mood may linger. Memory gaps, anxiety and an unsettled feeling about what happened are common for days. Sleep may be broken by vivid, unsettling dreams.
+Mentally confusion and low mood may linger. Memory gaps, anxiety and an unsettled feeling about what happened are common for days. Sleep may be broken by vivid, unsettling dreams. Guilt may follow.
 
-Repeated misuse can harm memory and lead to dependence. Mental-health support helps, especially if misuse is linked to self-harm or distress. Regular misuse can harm memory and lead to dependence. Counseling helps.
+Repeated misuse can harm memory and lead to dependence. Mental-health support helps, especially if misuse is linked to self-harm or distress. Regular misuse can harm memory and lead to dependence. Counseling helps. Poison control can advise families.
 
 Effects last many hours.
 

@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30 min-2 h)
 
-Amanita muscaria mushrooms bring a slow onset with nausea, sweating, drooling and muscle twitching.
+Amanita muscaria is the classic red-capped, white-spotted mushroom of fairy tales. Its active chemicals, ibotenic acid and muscimol, act on GABA and glutamate receptors rather than serotonin, so it is not a psilocybin mushroom. Effects begin slowly, over an hour or two, with nausea, salivation, sweating and a heavy, dizzy drowsiness.
 
-Mentally a dreamy, drunken, sometimes delirious state.
+Mentally the onset is a dreamy, foggy sedation, sometimes with odd euphoria, confusion or a sense of drifting between waking and sleep. Some people feel restless and twitchy before sleep comes.
 
-Sleepiness alternates with excitement.
+Amanita muscaria is easily confused with deadly mushrooms, especially other Amanita species. Amanita products, sold as gummies in US shops since around 2023, have caused poisonings, and potency varies greatly.
 
 Ibotenic acid is converted to muscimol.
 
@@ -64,11 +64,11 @@ Nausea and drowsiness.
 
 ### Peak (2-3 h)
 
-At the peak, confusion, distorted size perception, and dreamlike visions.
+At the peak the body may be heavy and floppy or twitchy, with muscle jerks, unsteady walking, sweating, drooling and sometimes vomiting. Some people feel very hot or cold, and pupils may be wide or narrow. Speech may slur, vision may blur, and coordination is badly impaired.
 
-Emotionally unpredictable.
+Mentally there may be a dream-like delirium, with distorted size and shape of objects, confusion, euphoria or agitation, and drifting in and out of sleep with vivid dreams. Memory is often patchy. Some feel they are giant or tiny, and others feel strangely strong or energetic before collapsing into sleep.
 
-Poisoning can cause seizures and coma; mistaking deadly Amanita species is a serious risk.
+Severe poisoning causes seizures, deep sedation, coma and agitation, and needs emergency care. Medical teams support breathing and manage seizures.
 
 At peak, deep sedation and delirium.
 
@@ -76,19 +76,19 @@ Seizures and coma in severe cases.
 
 ### Plateau (3-6 h)
 
-The plateau is long and sleepy.
+The plateau lasts several hours, often spent in a deep, dream-filled sleep. Muscle twitches and nausea may continue. Some people wake briefly and feel confused, clumsy and sick before drifting off again. Drooling and sweating may continue, and the skin can feel clammy. Some notice slow, heavy breathing.
 
-Thinking confused.
+Mentally confusion and dreaminess persist. Dreams may be vivid and strange, and brief waking moments may feel unreal. Some people feel euphoric, others frightened or agitated. Time may feel distorted and slow.
 
-Vomiting possible.
+Children who eat these mushrooms or gummies need urgent care. Anyone who cannot be woken, has seizures or breathes abnormally needs emergency help.
 
 ### Comedown (6-10 h)
 
-The comedown is groggy.
+The comedown brings tiredness, headache and sometimes nausea. Some feel weak, achy and unsteady the next day, with poor appetite and a lingering headache. Sleep may have been long but unrefreshing. Nausea may return when eating.
 
-Mood tired.
+Mentally there may be fogginess and confusion. Memory for the experience is often fragmented, and some feel unsettled or low for a while. Others feel calm and rested. Some report a lingering dreamy feeling for a day or so.
 
-Medical help may be needed.
+Never eat wild mushrooms unless identified by an expert. Gummy products are often mislabeled, so poison centers urge caution. Children and pets are especially vulnerable to poisoning from these products.
 
 Effects last hours.
 

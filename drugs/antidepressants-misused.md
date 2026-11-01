@@ -52,11 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Misused antidepressants (bupropion, trazodone, amitriptyline and others) vary. Bupropion brings a jittery stimulant-like edge; trazodone and amitriptyline bring heavy sedation and dry mouth.
+Some antidepressants are occasionally misused, most notably bupropion (Wellbutrin), which is sometimes crushed and snorted for a stimulant effect, and the older tricyclics and trazodone or mirtazapine for sedation. At prescribed doses most antidepressants produce no high at all. Misused bupropion can bring a mild, jittery, stimulant buzz with a fast heart and dry mouth.
 
-Mentally there is usually little pleasure.
+Mentally misused bupropion may give a short, anxious alertness rather than real euphoria. Sedating antidepressants mostly bring heavy drowsiness and grogginess, with a dull, dreamy calm.
 
-Side effects dominate.
+Bupropion in large amounts can cause seizures, sometimes many hours later, along with heart rhythm problems. Tricyclic antidepressant overdose is one of the most dangerous medicine overdoses, causing seizures, heart rhythm problems and death.
 
 Bupropion blocks dopamine and noradrenaline reuptake; trazodone blocks serotonin 5-HT2A and H1; amitriptyline blocks reuptake and many receptors.
 
@@ -68,11 +68,11 @@ Stimulation (bupropion) or sedation (trazodone, amitriptyline).
 
 ### Peak (2-4 h)
 
-At the peak, stimulation (bupropion) or deep sedation (trazodone, tricyclics).
+At the peak with bupropion, the body may feel tense, jittery and hot, with a racing heart, tremor and nausea. With tricyclics or mirtazapine, the body is heavy, sleepy and dry-mouthed, with blurred vision and constipation. Some people feel shaky and sweaty or notice their pulse thumping in their ears.
 
-Emotionally unpleasant for many.
+Mentally there is restlessness and anxiety with bupropion, or heavy sedation and confusion with sedating antidepressants. Large amounts of tricyclics cause delirium and hallucinations from anticholinergic effects. Some feel nervous and edgy instead of high.
 
-Bupropion can cause seizures, and tricyclic overdose causes deadly heart rhythms.
+Seizures, heart rhythm problems and serotonin syndrome (especially when mixed with other serotonin drugs) need emergency care.
 
 At high levels, bupropion lowers the seizure threshold; tricyclics block cardiac sodium channels.
 
@@ -80,19 +80,19 @@ Serotonin syndrome is possible when combined with other serotonergic drugs.
 
 ### Plateau (4-8 h)
 
-The plateau varies.
+Effects can last many hours. Bupropion misuse keeps the body wired and uncomfortable; sedating antidepressants keep a person heavily drowsy with dizziness on standing. The mouth stays dry and sleep is hard to reach after bupropion, while sedating antidepressants may cause stumbling and blurred vision. Snorted bupropion irritates the nose.
 
-Thinking foggy or wired.
+Mentally there is lingering anxiety or a heavy, dull fog, and sometimes confusion. Some people feel disappointed or uneasy that no real high came, or feel trapped in grogginess.
 
-Medical help may be needed.
+Overdose symptoms may be delayed, so anyone who has taken large amounts should be checked in hospital even if they feel fine. Hospitals can monitor heart rhythm and treat seizures.
 
 ### Comedown (8-12 h)
 
-The comedown is draining.
+The comedown brings tiredness, nausea, headache and sometimes shakiness. Sleep may be broken after bupropion, and sedating antidepressants can leave a heavy, groggy morning with dry mouth and constipation. Some people feel slightly feverish or achy.
 
-Mood low.
+Mentally mood may dip, with anxiety, irritability or flatness. Some feel shaky, worried or tearful, and people with depression may feel worse. Suicidal thoughts should be taken seriously and discussed with someone.
 
-Combinations can cause serotonin syndrome.
+Stopping prescribed antidepressants suddenly can cause discontinuation symptoms, including dizziness, 'brain zaps', irritability and flu-like feelings. Changes should be made with a doctor. Crisis lines can help.
 
 Half-lives range widely.
 

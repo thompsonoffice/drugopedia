@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Non-beverage alcohols (hand sanitizer, mouthwash, rubbing alcohol, methanol-containing products) feel at first like drinking: warmth, looseness and dizziness. Rubbing alcohol (isopropanol) is roughly twice as intoxicating and burns the stomach.
+Non-beverage alcohol means alcohol-containing products not meant to be drunk: mouthwash, hand sanitizer, rubbing alcohol (isopropyl), cooking extracts, cologne, and methylated or denatured spirits. They are usually drunk when beverage alcohol is unaffordable or unavailable. Ethanol-based products hit like strong liquor, with a burning throat, warm stomach and spreading flush; isopropyl causes a harsher burn, nausea and stomach pain.
 
-Mentally drunken disinhibition.
+Mentally ethanol products bring the familiar loosening of drunkenness, but often quickly and heavily because of their high strength. Isopropyl brings a heavier, more sedating intoxication, roughly twice as intoxicating as ethanol, with confusion and dizziness.
 
-Nausea and stomach pain are common.
+Many products contain other toxins. Methanol, found in some windshield fluid, fuel and illegally made spirits, can cause blindness and death, often after a delay of many hours in which the person seems only drunk. Mass methanol poisonings happen worldwide.
 
 Methanol and isopropyl alcohol are absorbed quickly from the gut.
 
@@ -64,11 +64,11 @@ Drunkenness similar to ethanol.
 
 ### Peak (1-2 h)
 
-At the peak, heavy drunkenness and stupor.
+At the peak the body is clumsy and heavy, with slurred speech, poor balance, nausea and vomiting. Isopropyl causes stomach bleeding, a fruity smell on the breath, and low blood pressure. Methanol poisoning brings headache, abdominal pain and rapid breathing hours later.
 
-Emotionally sloppy.
+Mentally there is heavy drunkenness: confusion, poor judgment, memory blackouts and mood swings. Methanol poisoning adds blurred or 'snowstorm' vision and confusion that worsens rather than improves.
 
-Methanol can cause blindness and death hours after drinking, with blurred 'snowfield' vision and breathing problems. Any suspected methanol ingestion needs emergency care, even if the person feels fine.
+Breathing can slow and stop, people can choke on vomit, and methanol or ethylene glycol cause severe acid buildup, blindness, kidney failure and death. Emergency treatment, including antidotes like fomepizole and dialysis, can save sight and life if started early.
 
 Methanol's metabolite formic acid causes severe metabolic acidosis and damages the optic nerve, causing blurry 'snowfield' vision and blindness.
 
@@ -76,19 +76,19 @@ Isopropyl alcohol causes deep sedation, low blood pressure and stomach bleeding.
 
 ### Plateau (2-6 h)
 
-The plateau is heavy and sick.
+Because these products are so strong, people may stay heavily intoxicated for many hours, with repeated vomiting, falls and stupor. Sanitizer gels and mouthwashes can also irritate the stomach and throat. Breath may smell of mint, perfume or chemicals, and the skin may be cold and clammy.
 
-Thinking confused.
+Mentally the plateau is a fog of confusion, memory loss and fluctuating mood. Some people become withdrawn and drowsy, others agitated. Some people drink continuously to hold off withdrawal shakes and anxiety.
 
-Vomiting common.
+Any vision changes, severe headache, fast breathing or worsening confusion after drinking unknown alcohol or industrial products needs emergency care immediately, even if the person seemed fine at first. Outreach workers and shelters can call for help quickly.
 
 ### Comedown (12-24 h)
 
-The comedown brings a harsh hangover.
+The comedown is a severe hangover: headache, nausea, vomiting, stomach pain, shakiness and dehydration. After isopropyl, stomach irritation and weakness can persist. Hands may shake and sweat may pour as the alcohol leaves the body.
 
-Mood low.
+Mentally people feel foggy, low, anxious and ashamed, often with blackouts of the night before. Craving for more alcohol to relieve withdrawal is common in people with alcohol dependence.
 
-Organ damage can follow.
+People drinking non-beverage alcohol are often severely dependent and may face dangerous withdrawal, including seizures and delirium tremens, if they stop suddenly. Medically supported withdrawal, housing support and harm-reduction services save lives. Methanol victims may need eye checks.
 
 Fomepizole blocks alcohol dehydrogenase, preventing methanol's toxic breakdown; dialysis removes it.
 

@@ -7,7 +7,7 @@ from touch import touch
 from lohi import lohi
 from er import er
 import dep_common as DC
-for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo","spec","dep_common","data_dep","data_audit","data_audit2","rewrite","new_common","data_new","new_common2","data_split","data_psy","data_emp","data_alc","data_del","data_oth","ext_new","feel_a","feel_b","feel_c","feel_d","feel_e","feel_f","feel_g","feel_h","feel_i","feel_j","feel_k","feel_l","feel_m","feel_n","feel_o","feel_p","feel_q","feel_r","feel_s","feel_t","feel_u","feel_v","feel_w","feel_x","feel_y","feel_z","feel_zz","feel_zz2","feel_zz3","feel_zz4","feel_zz5","feel_zz6"]:
+for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo","spec","dep_common","data_dep","data_audit","data_audit2","rewrite","new_common","data_new","new_common2","data_split","data_psy","data_emp","data_alc","data_del","data_oth","ext_new","feel_a","feel_b","feel_c","feel_d","feel_e","feel_f","feel_g","feel_h","feel_i","feel_j","feel_k","feel_l","feel_m","feel_n","feel_o","feel_p","feel_q","feel_r","feel_s","feel_t","feel_u","feel_v","feel_w","feel_x","feel_y","feel_z","feel_zz","feel_zz2","feel_zz3","feel_zz4","feel_zz5","feel_zz6","feel_zz7","feel_zz8"]:
     try: importlib.import_module(m)
     except ModuleNotFoundError as e:
         if e.name!=m: raise

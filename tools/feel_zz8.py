@@ -1,0 +1,71 @@
+# Depth additions for feel_zz7 drugs.
+from gen import D
+F={}
+A={
+"dimenhydrinate":{"comedown":["","","Poison control can advise families."]},
+"alcohol-nonbeverage":{"plateau":["Breath may smell of mint, perfume or chemicals, and the skin may be cold and clammy.","Some people drink continuously to hold off withdrawal shakes and anxiety.","Outreach workers and shelters can call for help quickly."],
+"comedown":["Hands may shake and sweat may pour as the alcohol leaves the body.","","Methanol victims may need eye checks."]},
+"promethazine":{"peak":["Muscles feel loose and limbs heavy, and some people notice unusual stiffness or twitching of the face or neck.","Lean users often describe time slowing to a crawl.",""],
+"plateau":["The mouth stays dry, the bladder may be slow to empty, and constipation can begin.","Many people lose hours sitting or lying motionless.",""],
+"comedown":["Some feel unsteady on standing and notice blurred vision until midmorning. Appetite may be low, and constipation can persist, especially with codeine.","Sleep may have felt heavy but not refreshing, and some people feel restless or low as the sedation wears off.","Promethazine taken with other sedatives should be discussed with a doctor."]},
+"quetiapine":{"peak":["Some feel their legs twitch or restless, and some notice a stuffed nose and blurred vision.","Some describe a heavy, cotton-wool feeling in the head.",""],
+"plateau":["The mouth stays dry and the heart may beat faster than usual through the night. Waking to use the toilet may bring dizziness and risk of falls.","Waking briefly during the night, people may feel confused or dazed.",""],
+"comedown":["Some people sleep through alarms and find it hard to get up. Dizziness on standing and constipation may continue, and appetite may be strong in the morning.","Some feel emotionally numb or slowed through the morning, and concentration can be poor at work or school.","Taking it earlier in the evening or adjusting the amount with a prescriber may reduce morning grogginess."]},
+"antidepressants-misused":{"peak":["Some people feel shaky and sweaty or notice their pulse thumping in their ears.","Some feel nervous and edgy instead of high.",""],
+"plateau":["The mouth stays dry and sleep is hard to reach after bupropion, while sedating antidepressants may cause stumbling and blurred vision. Snorted bupropion irritates the nose.","Some people feel disappointed or uneasy that no real high came, or feel trapped in grogginess.","Hospitals can monitor heart rhythm and treat seizures."],
+"comedown":["Sleep may be broken after bupropion, and sedating antidepressants can leave a heavy, groggy morning with dry mouth and constipation. Some people feel slightly feverish or achy.","Some feel shaky, worried or tearful, and people with depression may feel worse. Suicidal thoughts should be taken seriously and discussed with someone.","Crisis lines can help."]},
+"kava":{"peak":["The tongue and lips may remain numb, and some people feel their eyes become slightly sensitive and the room soften. Muscles feel loose, as if after a massage.","Conversations slow into peaceful pauses, and many people feel contented and unhurried rather than drunk; thoughts often stay clear.","Mixing kava with alcohol or sedatives increases drowsiness and risk to the liver."],
+"plateau":["Legs may feel heavy and wobbly when standing, and some people feel mildly nauseated. The stomach may feel full from the volume of drink.","Some people become quiet and reflective, enjoying the shared ritual, and drowsiness often grows into an easy sleep.","Moderation, good-quality root products and avoiding alcohol reduce risk."],
+"comedown":["After heavy sessions, the legs may feel weak and the stomach slightly unsettled the next morning. Eyes may be red.","Some feel slightly slow or less sharp the next day after very heavy drinking. Kava does not usually cause the craving or withdrawal seen with alcohol.","Liver checks are wise for regular heavy drinkers."]},
+"nutmeg":{"onset":["Some feel a heavy, slowed pulse in the head.","",""],
+"peak":["Some notice a pounding headache and feel hot and cold by turns. Pupils may change size and the eyes feel heavy.","Time may seem stretched, and some people feel detached from their body. Many describe it as like a bad fever dream.",""],
+"plateau":["Nausea and stomach pain may continue, the mouth stays parched and the heart may stay fast. Some feel cold, shaky and dizzy whenever they stand, and walking remains unsteady.","Thinking stays muddled and slow, and some people feel restless and frightened by the unreal feeling that won't lift. Others sleep heavily.","Children who eat large amounts of nutmeg need urgent medical review."],
+"comedown":["Heaviness and grogginess may continue into a second day, along with nausea and poor appetite. Sleep may be broken.","Some feel unsettled, foggy or depressed for days, and memory for the experience may be patchy.","Poison control can advise on whether hospital care is needed."]},
+"amanita-muscaria":{"peak":["Some people feel very hot or cold, and pupils may be wide or narrow.","Some feel they are giant or tiny, and others feel strangely strong or energetic before collapsing into sleep.",""],
+"plateau":["Some people wake briefly and feel confused, clumsy and sick before drifting off again. Drooling and sweating may continue, and the skin can feel clammy.","Dreams may be vivid and strange, and brief waking moments may feel unreal. Some people feel euphoric, others frightened or agitated.","Anyone who cannot be woken, has seizures or breathes abnormally needs emergency help."],
+"comedown":["Some feel weak, achy and unsteady the next day, with poor appetite and a lingering headache. Sleep may have been long but unrefreshing.","Memory for the experience is often fragmented, and some feel unsettled or low for a while. Others feel calm and rested.","Gummy products are often mislabeled, so poison centers urge caution."]},
+"salvia":{"peak":["Some laugh uncontrollably or speak nonsensically, and some lie frozen and staring. Breathing and heart rate remain fairly normal.","Some feel they have been gone for hours or years though only minutes have passed, and some forget they took a drug at all.","A sitter should keep the person from wandering or falling and stay calm and reassuring."],
+"plateau":["Some feel a tingling, pulling sensation in the limbs and a lingering odd heaviness or lightness. Some notice sweating or chills.","Some feel shaken, others amused or awed by what they experienced, and many struggle to describe it in words. Unease about reality may linger briefly.","Smoking it again right away usually brings confusion rather than insight, and the experiences can be harder to integrate."],
+"comedown":["Some feel tired, drained and slightly headachy for a while, and a few feel lightheaded or queasy. Most feel physically normal soon.","Some feel uneasy or dissociated for a few hours, and a few have lingering anxiety about the strangeness of what happened. Talking it through can help.","Salvia should never be used while driving or near water or heights."]},
+"betel":{"onset":["Some feel slightly dizzy or light-headed, especially new chewers.","Many describe a pleasant, social buzz.",""],
+"peak":["Some feel their heart beat faster and notice a warm flush across the face and chest. The mouth and lips stain red, and the gums may tingle.","Many feel a mild sense of energy and focus useful for work or long journeys; others feel relaxed and sociable, enjoying the shared ritual.","Chewers should regularly check their mouth for white or red patches or sores and see a dentist or doctor."],
+"plateau":["Saliva stays red and frequent spitting is common. Some notice sweating and a slightly raised pulse that continues while chewing, and the jaw may tire.","The calm, mild alertness continues, and some feel it helps them stay awake through long work shifts or night travel. It also eases hunger for some.","Chewing with tobacco adds nicotine dependence and further cancer risk."],
+"comedown":["As effects fade, people may feel slightly tired, with a stained, dry or sore mouth. Some notice mild headaches or irritability between chews.","A craving to chew again may appear, and regular users may feel restless, tired or moody when they cannot chew.","Quitting support, especially for those who also use tobacco, is offered by many health services in Asia and the Pacific."]},
+"blue-lotus-kanna":{"peak":["Blue lotus can bring heavy eyelids, mild nausea and a slow, floating heaviness; kanna may bring a light buzz, mild headache or nausea at higher amounts.","Blue lotus users often describe a dreamy, drifting peace and enhanced dreams if they fall asleep; kanna users describe a warm, open, talkative mood, sometimes with lowered anxiety.","Pregnant people and those with heart conditions should avoid both."],
+"plateau":["Blue lotus may keep a person drowsy and relaxed, sometimes sleeping lightly; kanna may keep the body softly energized, sometimes with a numb mouth or mild nausea. Both may cause mild dizziness on standing.","Blue lotus brings a quiet, dreamy calm; kanna brings a lingering gentle uplift and sociability, fading over a couple of hours. Some feel nothing much at all, given product variability.","Driving may be impaired, especially with blue lotus. Mixing with alcohol, sedatives or antidepressants raises risk."],
+"comedown":["The comedown is usually gentle, with mild tiredness after blue lotus and a slight flatness or headache after kanna. Some notice mild nausea.","Most feel rested or calm; a few feel slightly low after kanna as the uplift fades. Vivid dreams may follow blue lotus.","Because they are sold as supplements, products are not tested consistently, and labels may be inaccurate. Avoid combining with alcohol or medicines without advice."]},
+}
+for k,ph in A.items():
+    for p,lst in ph.items():
+        for i,t in enumerate(lst):
+            if t: D[k]["feel"][p][i]+=" "+t
+for k,p,i,t in [
+("kava","comedown",0,"Hydration and food help."),
+("nutmeg","plateau",0,"Some notice constipation and flushed, dry skin."),
+("nutmeg","comedown",0,"Muscles may ache and the head feel thick and heavy."),
+("nutmeg","comedown",2,"Pregnant people are at particular risk of complications."),
+("amanita-muscaria","peak",0,"Speech may slur, vision may blur, and coordination is badly impaired."),
+("amanita-muscaria","peak",2,"Medical teams support breathing and manage seizures."),
+("amanita-muscaria","plateau",0,"Some notice slow, heavy breathing."),
+("amanita-muscaria","comedown",0,"Nausea may return when eating."),
+("amanita-muscaria","comedown",2,"Children and pets are especially vulnerable to poisoning from these products."),
+("salvia","comedown",0,"Some feel thirsty."),
+("salvia","comedown",2,"Its legal status varies by state and country."),
+("betel","plateau",0,"Some people chew one quid after another for hours."),
+("betel","plateau",2,"Spitting red saliva in public is banned in some places."),
+("betel","comedown",0,"Teeth may darken over time with regular use."),
+("betel","comedown",2,"Dentists can spot early warning signs."),
+("blue-lotus-kanna","peak",0,"Some feel their hands and feet grow warm."),
+("blue-lotus-kanna","plateau",2,"Wait to see how they feel first."),
+("blue-lotus-kanna","plateau",0,"Thirst is common."),
+("blue-lotus-kanna","comedown",0,"Sleep is often easy and deep after blue lotus."),
+]: D[k]["feel"][p][i]+=" "+t
+for k,p,i,t in [
+("nutmeg","comedown",1,"Rest and fluids help recovery."),
+("amanita-muscaria","plateau",1,"Time may feel distorted and slow."),
+("amanita-muscaria","comedown",1,"Some report a lingering dreamy feeling for a day or so."),
+("salvia","comedown",1,"Writing down impressions can help some people."),
+("betel","plateau",1,"Some find it calming."),
+("betel","comedown",1,"Some feel mildly irritable or flat until the next chew, especially daily users."),
+("blue-lotus-kanna","comedown",2,"Pharmacists can check for interactions."),
+]: D[k]["feel"][p][i]+=" "+t

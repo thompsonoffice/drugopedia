@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (3-6 h)
 
-Nutmeg's onset is very slow, often many hours, with nausea, dry mouth and a racing heart.
+Nutmeg is a common kitchen spice that, in large amounts, contains myristicin and related compounds that cause intoxication. Its onset is very slow, often several hours, so many people believe it hasn't worked. The first signs are a dry mouth, flushing, a fast heart and nausea, sometimes with abdominal pain. Some feel a heavy, slowed pulse in the head.
 
-Mentally a confused, dreamlike state.
+Mentally the onset is a vague, heavy unreality, with confusion and a dreamlike mood creeping in. Many people describe it as unpleasant rather than euphoric.
 
-Many find it unpleasant.
+Because effects take so long to begin, people often take more, leading to severe poisoning. Most experiences reported to poison centers are uncomfortable and frightening.
 
 Myristicin is absorbed slowly.
 
@@ -64,11 +64,11 @@ Slow nausea and confusion.
 
 ### Peak (6-12 h)
 
-At the peak, drowsy confusion, possible hallucinations and anxiety.
+At the peak the body feels heavy, dizzy and sick, with a fast heart, flushed face, dry mouth and sometimes vomiting. Walking is unsteady. Some notice a pounding headache and feel hot and cold by turns. Pupils may change size and the eyes feel heavy.
 
-Emotionally uneasy.
+Mentally there can be confusion, distorted perception, anxiety, agitation and, in higher amounts, hallucinations and a sense of impending doom. Time may seem stretched, and some people feel detached from their body. Many describe it as like a bad fever dream.
 
-Poisoning causes vomiting, palpitations and agitation.
+Severe poisoning can cause heart rhythm problems, low blood pressure, seizures and, very rarely, death, especially in combination with other drugs.
 
 At peak, confusion and fast heart rate.
 
@@ -76,19 +76,19 @@ Combined with other drugs, risk rises.
 
 ### Plateau (12-24 h)
 
-The plateau can last a day or more.
+The plateau is very long, often lasting a day or more. The body remains drowsy, nauseated, dry and heavy. Nausea and stomach pain may continue, the mouth stays parched and the heart may stay fast. Some feel cold, shaky and dizzy whenever they stand, and walking remains unsteady. Some notice constipation and flushed, dry skin.
 
-Thinking foggy.
+Mentally confusion, fogginess and anxiety persist, and many people sleep a long time. Thinking stays muddled and slow, and some people feel restless and frightened by the unreal feeling that won't lift. Others sleep heavily.
 
-Exhaustion builds.
+Poison control can advise on symptoms. Children who eat large amounts of nutmeg need urgent medical review.
 
 ### Comedown (24-48 h)
 
-The comedown lasts days.
+The comedown can last days, with exhaustion, headache, dry mouth and body aches. Heaviness and grogginess may continue into a second day, along with nausea and poor appetite. Sleep may be broken. Muscles may ache and the head feel thick and heavy.
 
-Mood drained.
+Mentally there may be confusion, low mood and a strong wish never to repeat it. Some feel unsettled, foggy or depressed for days, and memory for the experience may be patchy. Rest and fluids help recovery.
 
-Medical help may be needed.
+Large amounts are dangerous, especially for pregnant people and those with heart conditions. Poison control can advise on whether hospital care is needed. Pregnant people are at particular risk of complications.
 
 Effects last a day or two.
 
