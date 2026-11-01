@@ -9,6 +9,7 @@
 
 - [Naloxone (Narcan)](narcan/naloxone.md)
 - [Nalmefene (Opvee)](narcan/nalmefene.md)
+- [Benzodiazepine safety](safety/benzodiazepine-safety.md)
 
 ## Opioids (prescription, heroin, and fentanyl): general pages
 
@@ -69,6 +70,49 @@
 - [MT-45](drugs/mt-45.md)
 - [Carfentanil](drugs/carfentanil.md)
 
+## Benzodiazepines (prescription): general pages
+
+- [Alprazolam (Xanax)](drugs/alprazolam.md)
+- [Diazepam (Valium)](drugs/diazepam.md)
+- [Clonazepam (Klonopin)](drugs/clonazepam.md)
+- [Lorazepam (Ativan)](drugs/lorazepam.md)
+- [Chlordiazepoxide (Librium)](drugs/chlordiazepoxide.md)
+- [Temazepam (Restoril)](drugs/temazepam.md)
+- [Triazolam (Halcion)](drugs/triazolam.md)
+- [Oxazepam (Serax)](drugs/oxazepam.md)
+- [Clorazepate (Tranxene)](drugs/clorazepate.md)
+- [Flurazepam (Dalmane)](drugs/flurazepam.md)
+- [Estazolam (ProSom)](drugs/estazolam.md)
+- [Quazepam (Doral)](drugs/quazepam.md)
+- [Midazolam (Versed)](drugs/midazolam.md)
+- [Remimazolam (Byfavo)](drugs/remimazolam.md)
+- [Flunitrazepam (Rohypnol)](drugs/flunitrazepam.md)
+- [Nitrazepam (Mogadon)](drugs/nitrazepam.md)
+- [Bromazepam (Lexotan)](drugs/bromazepam.md)
+- [Clobazam (Onfi)](drugs/clobazam.md)
+- [Lormetazepam (Noctamid)](drugs/lormetazepam.md)
+- [Prazepam (Centrax)](drugs/prazepam.md)
+- [Etizolam](drugs/etizolam.md)
+
+## Designer and research-chemical benzodiazepines: general pages
+
+- [Flualprazolam (designer benzodiazepine)](drugs/flualprazolam.md)
+- [Flubromazolam (designer benzodiazepine)](drugs/flubromazolam.md)
+- [Clonazolam (designer benzodiazepine)](drugs/clonazolam.md)
+- [Bromazolam (designer benzodiazepine)](drugs/bromazolam.md)
+- [Diclazepam (designer benzodiazepine)](drugs/diclazepam.md)
+- [Deschloroetizolam (designer benzodiazepine)](drugs/deschloroetizolam.md)
+- [Pyrazolam (designer benzodiazepine)](drugs/pyrazolam.md)
+- [Nifoxipam (designer benzodiazepine)](drugs/nifoxipam.md)
+- [Meclonazepam (designer benzodiazepine)](drugs/meclonazepam.md)
+- [Phenazepam (designer benzodiazepine)](drugs/phenazepam.md)
+- [Flubromazepam (designer benzodiazepine)](drugs/flubromazepam.md)
+- [Metizolam (designer benzodiazepine)](drugs/metizolam.md)
+- [Adinazolam (designer benzodiazepine)](drugs/adinazolam.md)
+- [Desalkylgidazepam (bromonordiazepam) (designer benzodiazepine)](drugs/desalkylgidazepam.md)
+- [Flunitrazolam (designer benzodiazepine)](drugs/flunitrazolam.md)
+- [Norfludiazepam (designer benzodiazepine)](drugs/norfludiazepam.md)
+
 ## Route: Oral (swallowed)
 
 - [Morphine](routes/oral/morphine.md)
@@ -110,6 +154,42 @@
 - [AH-7921](routes/oral/ah-7921.md)
 - [MT-45](routes/oral/mt-45.md)
 - [Carfentanil](routes/oral/carfentanil.md)
+- [Alprazolam (Xanax)](routes/oral/alprazolam.md)
+- [Diazepam (Valium)](routes/oral/diazepam.md)
+- [Clonazepam (Klonopin)](routes/oral/clonazepam.md)
+- [Lorazepam (Ativan)](routes/oral/lorazepam.md)
+- [Chlordiazepoxide (Librium)](routes/oral/chlordiazepoxide.md)
+- [Temazepam (Restoril)](routes/oral/temazepam.md)
+- [Triazolam (Halcion)](routes/oral/triazolam.md)
+- [Oxazepam (Serax)](routes/oral/oxazepam.md)
+- [Clorazepate (Tranxene)](routes/oral/clorazepate.md)
+- [Flurazepam (Dalmane)](routes/oral/flurazepam.md)
+- [Estazolam (ProSom)](routes/oral/estazolam.md)
+- [Quazepam (Doral)](routes/oral/quazepam.md)
+- [Midazolam (Versed)](routes/oral/midazolam.md)
+- [Flunitrazepam (Rohypnol)](routes/oral/flunitrazepam.md)
+- [Nitrazepam (Mogadon)](routes/oral/nitrazepam.md)
+- [Bromazepam (Lexotan)](routes/oral/bromazepam.md)
+- [Clobazam (Onfi)](routes/oral/clobazam.md)
+- [Lormetazepam (Noctamid)](routes/oral/lormetazepam.md)
+- [Prazepam (Centrax)](routes/oral/prazepam.md)
+- [Etizolam](routes/oral/etizolam.md)
+- [Flualprazolam (designer benzodiazepine)](routes/oral/flualprazolam.md)
+- [Flubromazolam (designer benzodiazepine)](routes/oral/flubromazolam.md)
+- [Clonazolam (designer benzodiazepine)](routes/oral/clonazolam.md)
+- [Bromazolam (designer benzodiazepine)](routes/oral/bromazolam.md)
+- [Diclazepam (designer benzodiazepine)](routes/oral/diclazepam.md)
+- [Deschloroetizolam (designer benzodiazepine)](routes/oral/deschloroetizolam.md)
+- [Pyrazolam (designer benzodiazepine)](routes/oral/pyrazolam.md)
+- [Nifoxipam (designer benzodiazepine)](routes/oral/nifoxipam.md)
+- [Meclonazepam (designer benzodiazepine)](routes/oral/meclonazepam.md)
+- [Phenazepam (designer benzodiazepine)](routes/oral/phenazepam.md)
+- [Flubromazepam (designer benzodiazepine)](routes/oral/flubromazepam.md)
+- [Metizolam (designer benzodiazepine)](routes/oral/metizolam.md)
+- [Adinazolam (designer benzodiazepine)](routes/oral/adinazolam.md)
+- [Desalkylgidazepam (bromonordiazepam) (designer benzodiazepine)](routes/oral/desalkylgidazepam.md)
+- [Flunitrazolam (designer benzodiazepine)](routes/oral/flunitrazolam.md)
+- [Norfludiazepam (designer benzodiazepine)](routes/oral/norfludiazepam.md)
 
 ## Route: Sublingual and buccal (under the tongue or in the cheek)
 
@@ -118,6 +198,11 @@
 - [Sufentanil](routes/sublingual-buccal/sufentanil.md)
 - [Dextromoramide](routes/sublingual-buccal/dextromoramide.md)
 - [Salvinorin A and kappa-opioid agonists](routes/sublingual-buccal/salvinorin-kappa.md)
+- [Alprazolam (Xanax)](routes/sublingual-buccal/alprazolam.md)
+- [Diazepam (Valium)](routes/sublingual-buccal/diazepam.md)
+- [Clonazepam (Klonopin)](routes/sublingual-buccal/clonazepam.md)
+- [Lorazepam (Ativan)](routes/sublingual-buccal/lorazepam.md)
+- [Midazolam (Versed)](routes/sublingual-buccal/midazolam.md)
 
 ## Route: Intranasal (nasal sprays and snorting)
 
@@ -136,6 +221,9 @@
 - [AH-7921](routes/intranasal/ah-7921.md)
 - [MT-45](routes/intranasal/mt-45.md)
 - [Carfentanil](routes/intranasal/carfentanil.md)
+- [Alprazolam (Xanax)](routes/intranasal/alprazolam.md)
+- [Diazepam (Valium)](routes/intranasal/diazepam.md)
+- [Midazolam (Versed)](routes/intranasal/midazolam.md)
 
 ## Route: Rectal (suppositories)
 
@@ -148,6 +236,7 @@
 - [Tramadol](routes/rectal/tramadol.md)
 - [Dextromoramide](routes/rectal/dextromoramide.md)
 - [Nicomorphine](routes/rectal/nicomorphine.md)
+- [Diazepam (Valium)](routes/rectal/diazepam.md)
 
 ## Route: Transdermal (skin patches)
 
@@ -188,6 +277,11 @@
 - [AH-7921](routes/injected/ah-7921.md)
 - [MT-45](routes/injected/mt-45.md)
 - [Carfentanil](routes/injected/carfentanil.md)
+- [Diazepam (Valium)](routes/injected/diazepam.md)
+- [Lorazepam (Ativan)](routes/injected/lorazepam.md)
+- [Chlordiazepoxide (Librium)](routes/injected/chlordiazepoxide.md)
+- [Midazolam (Versed)](routes/injected/midazolam.md)
+- [Remimazolam (Byfavo)](routes/injected/remimazolam.md)
 
 ## Route: Inhaled and smoked
 
