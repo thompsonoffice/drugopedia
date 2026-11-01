@@ -103,3 +103,4 @@ A("salvinorin-kappa","Salvinorin A and kappa-opioid agonists","Salvinorin A, fro
 "Overdose like mu opioids does not happen, but people can injure themselves during the experience. Naloxone does not reliably help. Have a sober sitter.",
 ["Roth BL, et al. Salvinorin A is a kappa opioid agonist (PNAS, 2002)","PsychonautWiki, Salvinorin A","Erowid Salvia divinorum vault"],
 times={"inhaled-smoked":["15-60 sec","under 1 min","1-5 min","5-10 min","10-20 min","20-60 min","next day"],"sublingual-buccal":["5-15 min","10-20 min","20-40 min","30-60 min","1-1.5 h","1-2 h","next day"]})
+D["salvinorin-kappa"]["noext"]=True

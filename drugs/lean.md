@@ -42,6 +42,10 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 Sipped slowly, lean begins working in 20 to 45 minutes: a warm, heavy feeling in the limbs and a softening of the mind.
 
+From a medical point of view, the onset reflects how quickly the drug reaches the brain. Codeine is converted by CYP2D6 into morphine; promethazine is a phenothiazine antihistamine metabolized by CYP2D6 with a half-life of 10 to 19 hours. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
+
+Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
+
 ### Come-up (45-90 min)
 
 The come-up is gradual. Promethazine's drowsiness and codeine's warmth build together; people describe their body getting heavy and their movements slowing down, with an itch on the face or chest.
@@ -49,6 +53,10 @@ The come-up is gradual. Promethazine's drowsiness and codeine's warmth build tog
 ### Peak (1-2 h)
 
 The peak, around 1 to 2 hours, is a dreamy, deeply relaxed, almost underwater feeling. Speech and reactions slow, eyelids droop, and music and time feel stretched. Breathing slows, and with alcohol or pills this is when it becomes dangerous.
+
+Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
+
+Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
 ### Plateau (2-6 h)
 
@@ -58,6 +66,10 @@ The plateau can last several hours with continued sipping, with nodding, napping
 
 The comedown is drowsy and foggy; many simply sleep for many hours.
 
+The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
+
+For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
+
 ### After-effects (8-24 h)
 
 After-effects include a heavy hangover, dry mouth, constipation, and grogginess. Promethazine can cause a lingering, restless, 'can't get comfortable' feeling.
@@ -65,6 +77,10 @@ After-effects include a heavy hangover, dry mouth, constipation, and grogginess.
 ### Next day
 
 The next day is often sluggish. Regular lean use leads to codeine dependence, weight gain and tooth decay from the sugar, and withdrawal with insomnia, sweating, and irritability.
+
+### Why the same amount affects people differently
+
+Why the same amount affects people differently: tolerance is the biggest factor, since daily users may need many times more to feel the same effect, and tolerance drops quickly after a break. Liver enzymes (especially CYP2D6 and CYP3A4) vary by genetics and are changed by other medicines and even grapefruit. Body size, age, kidney and liver health, sleep apnea, and lung disease all matter. Mixing with alcohol, benzodiazepines, or other sedatives multiplies the effect on breathing. Stronger effects do not stop at a higher level of pleasure: the line between deep sedation and overdose is thin and invisible from the inside.
 
 ## How the route changes the experience
 

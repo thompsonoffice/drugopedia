@@ -42,6 +42,10 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 Smoked, heroin acts within seconds; injected, within seconds to a minute; snorted, a few minutes. The first feeling is a rush of warmth from the stomach up through the chest into the head.
 
+From a medical point of view, the onset reflects how quickly the drug reaches the brain. Heroin crosses into the brain faster than morphine and is turned within minutes into 6-monoacetylmorphine and then morphine, which carry the effect; heroin itself lasts only minutes in the blood. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
+
+Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
+
 ### Come-up (IV under 1 min; IM/SC 10-20 min)
 
 Injected, the rush is described as overwhelming: a hot flush, a sense of release, heavy limbs, and sometimes nausea or vomiting. Smoked or snorted, it is gentler and builds over minutes.
@@ -49,6 +53,10 @@ Injected, the rush is described as overwhelming: a hot flush, a sense of release
 ### Peak (IV 2-10 min; IM/SC 20-60 min)
 
 The peak is the deep heroin calm: complete safety and warmth, pain and worry gone, heavy eyelids, pinpoint pupils, dry mouth, and strong itch. Many describe it as the most comforting feeling of their lives.
+
+Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
+
+Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
 ### Plateau (30 min-2 h)
 
@@ -58,6 +66,10 @@ The plateau is classic nodding: drifting in and out, chin dropping, dreamy visio
 
 After 3 to 5 hours, the comedown starts: warmth fades, and in dependent people craving and restlessness begin.
 
+The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
+
+For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
+
 ### After-effects (4-12 h)
 
 Constipation, dry mouth, and fatigue. With street supply now dominated by fentanyl, duration and intensity are unpredictable.
@@ -65,6 +77,10 @@ Constipation, dry mouth, and fatigue. With street supply now dominated by fentan
 ### Next day
 
 After regular use, withdrawal begins 6 to 12 hours after last use and peaks at 1 to 3 days: sweats, chills, goosebumps, aches, diarrhea, vomiting, restless legs, and insomnia.
+
+### Why the same amount affects people differently
+
+Why the same amount affects people differently: tolerance is the biggest factor, since daily users may need many times more to feel the same effect, and tolerance drops quickly after a break. Liver enzymes (especially CYP2D6 and CYP3A4) vary by genetics and are changed by other medicines and even grapefruit. Body size, age, kidney and liver health, sleep apnea, and lung disease all matter. Mixing with alcohol, benzodiazepines, or other sedatives multiplies the effect on breathing. Stronger effects do not stop at a higher level of pleasure: the line between deep sedation and overdose is thin and invisible from the inside.
 
 ## How the route changes the experience
 

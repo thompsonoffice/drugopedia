@@ -42,6 +42,10 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Smoked or injected, street fentanyl hits within seconds. Many describe an immediate heavy rush in the head and body, less warm and more 'blank' than heroin.
 
+From a medical point of view, the onset reflects how quickly the drug reaches the brain. Fentanyl is very fat-soluble, reaching the brain quickly, and is metabolized by CYP3A4; illicit mixtures contain unknown amounts and other drugs. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
+
+Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
+
 ### Come-up (seconds)
 
 The come-up is almost nonexistent. Some describe a strong sinking feeling, like falling into a soft hole.
@@ -49,6 +53,10 @@ The come-up is almost nonexistent. Some describe a strong sinking feeling, like 
 ### Peak (1-3 min)
 
 The peak lasts only minutes: heavy sedation, stillness, and a numb, faraway feeling. Many survivors report no warning before losing consciousness, which is why fentanyl overdose kills so quickly.
+
+Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
+
+Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
 ### Plateau (5-20 min)
 
@@ -58,6 +66,10 @@ The plateau is short and nod-heavy. With xylazine mixed in, people may stay unco
 
 Fentanyl wears off fast, often in 1 to 2 hours, and the comedown comes harshly with restlessness, sweats, and anxiety.
 
+The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
+
+For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
+
 ### After-effects (1-4 h)
 
 Withdrawal begins within hours in dependent people. With xylazine, wounds and long sedation are common.
@@ -65,6 +77,10 @@ Withdrawal begins within hours in dependent people. With xylazine, wounds and lo
 ### Next day (withdrawal may begin)
 
 People who use daily describe needing to use many times a day to stay out of withdrawal, which is intense.
+
+### Why the same amount affects people differently
+
+Why the same amount affects people differently: tolerance is the biggest factor, since daily users may need many times more to feel the same effect, and tolerance drops quickly after a break. Liver enzymes (especially CYP2D6 and CYP3A4) vary by genetics and are changed by other medicines and even grapefruit. Body size, age, kidney and liver health, sleep apnea, and lung disease all matter. Mixing with alcohol, benzodiazepines, or other sedatives multiplies the effect on breathing. Stronger effects do not stop at a higher level of pleasure: the line between deep sedation and overdose is thin and invisible from the inside.
 
 ## How the route changes the experience
 

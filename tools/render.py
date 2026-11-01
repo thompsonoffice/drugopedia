@@ -2,6 +2,7 @@ import os,sys,importlib
 sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 os.chdir(os.path.dirname(os.path.abspath(__file__))+"/..")
 from gen import *
+from med import expand,VARY
 for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo"]:
     try: importlib.import_module(m)
     except ModuleNotFoundError as e:
@@ -40,7 +41,11 @@ for slug,d in D.items():
     s+=f"## How it entered recreational use\n\n{d['recreational']}\n\n## Legal status\n\n{d['legal']}\n\n"
     s+=f"## What it feels like\n\n### The character of its effects\n\n"+"\n\n".join(d["flavor"])+f"\n\n{d.get('tol',TOL[b])}\n\n"
     s+=f"### Timeline\n\nTimes below are typical for the {ROUTES[main][0].lower()} route and vary a lot between people. Other routes change the timing; see the route pages.\n\n"
-    s+=phases("",list(zip(t,ph)))
+    E=expand(slug,d,b); ph2=list(ph)
+    if d.get("noext"): E={"onset":[],"peak":[],"comedown":[]}
+    ph2[0]=ph2[0]+"\n\n"+"\n\n".join(E["onset"]); ph2[2]=ph2[2]+"\n\n"+"\n\n".join(E["peak"]); ph2[4]=ph2[4]+"\n\n"+"\n\n".join(E["comedown"])
+    s+=phases("",list(zip(t,ph2)))
+    s+=f"### Why the same amount affects people differently\n\n{VARY[b]}\n\n"
     s+="## How the route changes the experience\n\n"
     for r,note in d["routes"].items():
         s+=f"- [{ROUTES[r][0]}](../routes/{r}/{slug}.md): {note}\n"

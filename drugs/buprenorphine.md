@@ -46,6 +46,10 @@ Times below are typical for the sublingual and buccal (under the tongue or in th
 
 Under the tongue, buprenorphine dissolves over several minutes with a bitter or flavored taste. Effects start around 30 to 60 minutes. In someone in withdrawal at the right time, the first feeling is relief.
 
+From a medical point of view, the onset reflects how quickly the drug reaches the brain. Buprenorphine is metabolized by CYP3A4 to norbuprenorphine; it binds receptors very tightly and has a half-life of about 24 to 42 hours. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
+
+Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
+
 ### Come-up (1-2 h)
 
 In people without tolerance, the come-up is surprisingly strong: warm, floaty, nauseous, and sleepy. In people with tolerance, it is mostly the steady disappearance of craving and sickness.
@@ -53,6 +57,10 @@ In people without tolerance, the come-up is surprisingly strong: warm, floaty, n
 ### Peak (1-4 h)
 
 The peak, roughly 1 to 4 hours, is a long, mellow high in non-tolerant people, often with heavy nausea. Because of the ceiling effect, more drug does not keep adding euphoria or breathing suppression the same way. Tolerant people describe clear-headedness and feeling 'normal.'
+
+Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
+
+Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
 ### Plateau (4-12 h)
 
@@ -62,6 +70,10 @@ The plateau lasts a very long time, often a full day. People describe being calm
 
 The effect fades over 24 to 72 hours, so there is usually no noticeable comedown between daily treatment doses.
 
+The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
+
+For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
+
 ### After-effects (24-72 h)
 
 Headache, constipation, sweating, and insomnia are common. Precipitated withdrawal, if it is taken while a full agonist is still active, feels like sudden severe sickness: vomiting, diarrhea, sweats, and agitation.
@@ -69,6 +81,10 @@ Headache, constipation, sweating, and insomnia are common. Precipitated withdraw
 ### Next day (still active)
 
 Still active the next day and beyond. Withdrawal after stopping is slow to start (often 2 to 4 days) and milder but longer than with full agonists.
+
+### Why the same amount affects people differently
+
+Why the same amount affects people differently: tolerance is the biggest factor, since daily users may need many times more to feel the same effect, and tolerance drops quickly after a break. Liver enzymes (especially CYP2D6 and CYP3A4) vary by genetics and are changed by other medicines and even grapefruit. Body size, age, kidney and liver health, sleep apnea, and lung disease all matter. Mixing with alcohol, benzodiazepines, or other sedatives multiplies the effect on breathing. Stronger effects do not stop at a higher level of pleasure: the line between deep sedation and overdose is thin and invisible from the inside.
 
 ## How the route changes the experience
 

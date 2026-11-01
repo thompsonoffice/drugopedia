@@ -42,6 +42,10 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 Swallowed morphine announces itself slowly and often through the stomach first: a vague queasiness or heaviness, then warmth spreading from the belly. Many people notice the itch before any pleasure, typically a prickle at the tip of the nose, the scalp, or the chest.
 
+From a medical point of view, the onset reflects how quickly the drug reaches the brain. Morphine is processed mainly by glucuronidation in the liver into morphine-3-glucuronide and the active morphine-6-glucuronide, both cleared by the kidneys; its half-life is about 2 to 4 hours. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
+
+Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
+
 ### Come-up (30-60 min)
 
 Morphine's come-up is a slow tide rather than a wave. Limbs feel weighted and warm, the face flushes, and a drowsy, dreamy contentment builds. Nausea peaks here for many, and some vomit, which people new to opioids often find surprising given how relaxed they otherwise feel.
@@ -49,6 +53,10 @@ Morphine's come-up is a slow tide rather than a wave. Limbs feel weighted and wa
 ### Peak (1-2 h)
 
 The peak is the classic morphine state: heavy, warm, sleepy bliss, with the body feeling sunk into the bed or chair. Thinking becomes slow and soft, and pain, even severe pain, stops seeming to matter. Pupils shrink, breathing slows, and heavy itching is common. This is when breathing is most depressed.
+
+Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
+
+Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
 ### Plateau (2-4 h)
 
@@ -58,6 +66,10 @@ Morphine's plateau is dominated by the nod: drifting into dreamy, half-awake ima
 
 As morphine fades, the warmth recedes unevenly: the dreaminess goes first, the heaviness and itch linger. People describe a sleepy, foggy flatness, and many simply fall asleep. With immediate-release morphine this happens 3 to 6 hours in; extended-release stretches it far longer.
 
+The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
+
+For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
+
 ### After-effects (6-24 h)
 
 Constipation is the most persistent after-effect, along with dry mouth and a dull headache. Morphine's metabolite morphine-6-glucuronide is active and builds up if the kidneys are weak, so in some people sedation outlasts the high by many hours.
@@ -65,6 +77,10 @@ Constipation is the most persistent after-effect, along with dry mouth and a dul
 ### Next day
 
 The next day often brings grogginess and a 'hangover' of lethargy. After repeated use, withdrawal begins roughly 8 to 24 hours after the last exposure: yawning, runny nose, watery eyes, aches, chills, diarrhea, and restlessness, with a flu-like peak at 2 to 3 days.
+
+### Why the same amount affects people differently
+
+Why the same amount affects people differently: tolerance is the biggest factor, since daily users may need many times more to feel the same effect, and tolerance drops quickly after a break. Liver enzymes (especially CYP2D6 and CYP3A4) vary by genetics and are changed by other medicines and even grapefruit. Body size, age, kidney and liver health, sleep apnea, and lung disease all matter. Mixing with alcohol, benzodiazepines, or other sedatives multiplies the effect on breathing. Stronger effects do not stop at a higher level of pleasure: the line between deep sedation and overdose is thin and invisible from the inside.
 
 ## How the route changes the experience
 

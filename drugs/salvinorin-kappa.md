@@ -42,6 +42,8 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Smoked, effects begin within 15 to 60 seconds.
 
+
+
 ### Come-up (under 1 min)
 
 Reality shifts rapidly.
@@ -49,6 +51,8 @@ Reality shifts rapidly.
 ### Peak (1-5 min)
 
 Peak at 1 to 5 minutes: intense dissociation and hallucinations.
+
+
 
 ### Plateau (5-10 min)
 
@@ -58,6 +62,8 @@ Lasts a few minutes.
 
 Fades over 10 to 20 minutes.
 
+
+
 ### After-effects (20-60 min)
 
 Confusion and an afterglow or unease.
@@ -65,6 +71,10 @@ Confusion and an afterglow or unease.
 ### Next day
 
 Usually normal next day.
+
+### Why the same amount affects people differently
+
+Why the same amount affects people differently: tolerance is the biggest factor, since daily users may need many times more to feel the same effect, and tolerance drops quickly after a break. Liver enzymes (especially CYP2D6 and CYP3A4) vary by genetics and are changed by other medicines and even grapefruit. Body size, age, kidney and liver health, sleep apnea, and lung disease all matter. Mixing with alcohol, benzodiazepines, or other sedatives multiplies the effect on breathing. Stronger effects do not stop at a higher level of pleasure: the line between deep sedation and overdose is thin and invisible from the inside.
 
 ## How the route changes the experience
 
