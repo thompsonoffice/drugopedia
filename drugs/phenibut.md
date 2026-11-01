@@ -1,0 +1,122 @@
+# Phenibut
+
+> Educational harm-reduction content. Not medical advice, not a guide to use. Nothing here gives amounts, preparation, or sourcing. Mixing depressants (alcohol, opioids, benzodiazepines, gabapentinoids, sleep drugs, muscle relaxants) is the leading cause of deaths with these drugs. Some must never be stopped suddenly after daily use.
+
+## At a glance
+
+GABA-B agonist and gabapentinoid-like drug (beta-phenyl-GABA).
+
+**Brand and street names:** Noofen, Anvifen (Russia); sold online as a 'supplement'.
+
+## History and origins
+
+Developed in the Soviet Union in the 1960s at the Herzen Institute and reportedly included in cosmonaut medical kits. Sold online in the West as a 'nootropic' supplement since the 2000s.
+
+## Medical use, then and now
+
+Prescribed in Russia and some Eastern European countries for anxiety, insomnia and alcohol withdrawal; not approved in the US, EU or UK.
+
+## How it entered recreational use
+
+Used for social ease, relaxation, and sleep; dependence is common.
+
+## Legal status
+
+Not approved by the FDA; the FDA has warned it is not a lawful supplement. Controlled in Australia, Hungary, Italy and others.
+
+## What the pills feel like
+
+Capsules or powder; unregulated products vary in content.
+
+**Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
+
+## What it feels like
+
+### The character of its effects
+
+Phenibut's character is a slow-building, sociable calm with mild euphoria, sometimes compared to alcohol, that appears hours after swallowing.
+
+Because it is slow, people often take more before the first amount takes effect, leading to sudden heavy sedation, confusion and vomiting.
+
+Daily use causes tolerance and a severe withdrawal: rebound anxiety, insomnia, agitation, hallucinations and sometimes psychosis.
+
+Tolerance to the pleasant and sleep effects builds with regular use, but tolerance to slowed breathing builds more slowly, so the danger stays. Daily use can lead to dependence, and stopping suddenly can be dangerous.
+
+### Timeline
+
+Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
+
+### Onset (2-4 h)
+
+Swallowed, it takes about 2 to 4 hours to be felt.
+
+Medically, the onset reflects absorption and entry into the brain. Phenibut is cleared mostly unchanged by the kidneys with a half-life of about 5 hours, though effects last longer. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
+
+Clinicians advise taking hypnotics only right before bed, because people who stay awake can experience confusion, hallucinations, and memory loss.
+
+### Come-up (3-4 h)
+
+A slow-building calm and talkativeness.
+
+### Peak (4-6 h)
+
+Peak around 4 to 6 hours.
+
+Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
+
+Combined with alcohol, opioids, or other sedatives, breathing can slow dangerously, and amnesia is much more likely.
+
+### Plateau (several hours)
+
+Long plateau.
+
+### Comedown (15-24 h total)
+
+Fades over about 15 to 24 hours.
+
+As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
+
+Nightly use can cause tolerance and rebound insomnia on stopping; some hypnotics (GHB, methaqualone, older drugs) cause severe dependence and dangerous withdrawal.
+
+### After-effects (next day)
+
+Fatigue, low mood, poor sleep.
+
+### Next day (rebound anxiety)
+
+Next-day rebound anxiety is common.
+
+### Lower vs higher doses (described without amounts)
+
+At lower doses, hypnotics bring sleepiness and calm. At higher doses, or when the person stays awake, confusion, memory loss, hallucinations, and sleep-walking or sleep-driving become likely. With alcohol or opioids, or with drugs like GHB and methaqualone, effects can tip into unconsciousness, vomiting while unconscious, and stopped breathing.
+
+At higher doses phenibut causes heavy sedation, confusion, vomiting and unconsciousness; daily use leads to serious withdrawal.
+
+### Why the same amount affects people differently
+
+Why the same amount affects people differently: tolerance, body size, age, liver and kidney function, genetics, and especially other depressants (alcohol, opioids, benzodiazepines, gabapentinoids, antihistamines) change the effect. Older adults and people with sleep apnea or lung disease are at higher risk. Stronger effects do not stop at more pleasure: they shade into blackouts, falls, and slowed breathing.
+
+## How the route changes the experience
+
+- [Oral (swallowed)](../routes/oral/phenibut.md): Capsules and powders sold online.
+
+Not covered: Other routes are not used medically and are not covered.
+
+## Overdose note for Phenibut
+
+Overdose causes deep sedation, confusion, delirium and unconsciousness; risks are higher with alcohol or other depressants.
+
+Read the shared page: [Mixing depressants: why combinations kill and what to do](../safety/depressant-mixing.md).
+
+## Getting help
+
+SAMHSA National Helpline: **1-800-662-4357** (free, confidential, 24/7, English and Spanish). In an emergency, call **911**.
+
+## Sources
+
+- Lapin I. Phenibut: a tranquilizer and nootropic drug. CNS Drug Rev 2001
+- FDA warning letters on phenibut (2019)
+- DailyMed prescribing information
+- FDA Drug Safety Communication on complex sleep behaviors (2019)
+- DEA Drugs of Abuse (2024 edition)
+- PsychonautWiki

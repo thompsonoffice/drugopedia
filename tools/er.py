@@ -19,7 +19,7 @@ ER={
 "codeine":("Codeine is mostly immediate-release. Extended-release codeine (Codeine Contin) is sold in Canada, and Tuzistra XR is an extended-release cough suspension in the US.",""),
 }
 def er(slug):
-    v=ER.get(slug)
+    v=ER.get(slug) or (D[slug].get('er') and (D[slug]['er'],''))
     if not v: return ""
     t,extra=v
     s=f"## Immediate-release vs extended-release\n\n{t}"

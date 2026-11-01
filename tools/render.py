@@ -6,11 +6,12 @@ from med import expand,VARY
 from touch import touch
 from lohi import lohi
 from er import er
-for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo","spec"]:
+import dep_common as DC
+for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo","spec","dep_common","data_dep"]:
     try: importlib.import_module(m)
     except ModuleNotFoundError as e:
         if e.name!=m: raise
-CATS={"opioid":"Opioids (prescription, heroin, and fentanyl)","atypical":"Atypical opioids","nso":"Novel synthetic opioids","benzo":"Benzodiazepines (prescription)","rcbenzo":"Designer and research-chemical benzodiazepines"}
+CATS={"opioid":"Opioids (prescription, heroin, and fentanyl)","atypical":"Atypical opioids","nso":"Novel synthetic opioids","benzo":"Benzodiazepines (prescription)","rcbenzo":"Designer and research-chemical benzodiazepines","relax":"Muscle relaxants","barb":"Barbiturates","hyp":"Sedative-hypnotics (sleep drugs and related)","gaba":"Gabapentinoids"}
 SAFE={"opioid":("opioid-overdose.md","What an opioid overdose feels and looks like, and what to do"),
 "benzo":("benzodiazepine-safety.md","Benzodiazepine safety: overdose, mixing, blackouts, and withdrawal")}
 TOL={"opioid":"Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.",
@@ -28,10 +29,23 @@ BOD="""## Signs of a benzodiazepine overdose or dangerous sedation
 - If opioids may be involved (including counterfeit pills), give naloxone; it will not reverse the benzo but can reverse the opioid part.
 - Put them on their side in the recovery position and stay with them.
 """
+DOD="""## Signs of dangerous sedation or overdose
+
+- Cannot be woken, or very confused and slurring.\n- Slow, shallow, or stopped breathing; snoring or gurgling.\n- Blue or gray lips; cold, clammy skin.\n- Seizures or vomiting while drowsy.
+
+## What to do
+
+- Call 911. Good Samaritan laws in most US states protect people who call.\n- Give naloxone if opioids might be involved; it will not reverse these drugs but can reverse an opioid part.\n- Put them in the recovery position on their side and stay with them.
+"""
 def w(p,s):
     os.makedirs(os.path.dirname(p) or ".",exist_ok=True); open(p,"w").write(s)
 def srcs(d): return "## Sources\n\n"+"\n".join(f"- {s}" for s in d["sources"])+"\n"
-def base(d): return "benzo" if d.get("cat","opioid") in("benzo","rcbenzo") else "opioid"
+def base(d):
+    c=d.get("cat","opioid")
+    return "benzo" if c in("benzo","rcbenzo") else c if c in("relax","barb","hyp","gaba") else "opioid"
+for _c in("relax","barb","hyp","gaba"):
+    SAFE[_c]=("depressant-mixing.md","Mixing depressants: why combinations kill and what to do")
+    TOL[_c]="Tolerance to the pleasant and sleep effects builds with regular use, but tolerance to slowed breathing builds more slowly, so the danger stays. Daily use can lead to dependence, and stopping suddenly can be dangerous."
 counts=0
 for slug,d in D.items():
     b=base(d); sf,st=SAFE[b]
@@ -63,14 +77,15 @@ for slug,d in D.items():
         t=times(slug,r)
         short=[". ".join(x.split(". ")[:2]).rstrip(".")+"." for x in ph]
         rf=d.get("rfeel",{}).get(r,"")
-        rs=f"# {d['name']}: {ROUTES[r][0]}\n\n{d.get('dis',DIS)}\n\n## About this route\n\n{ROUTES[r][1]} For {d['name']}: {note}\n\n## How this route feels different\n\n{rf+' ' if rf else ''}{ROUTE_FEEL[r] if b=='opioid' else BROUTE.get(r,'')}\n\n## Timeline for this route\n\n"
+        rs=f"# {d['name']}: {ROUTES[r][0]}\n\n{d.get('dis',DIS)}\n\n## About this route\n\n{ROUTES[r][1]} For {d['name']}: {note}\n\n## How this route feels different\n\n{rf+' ' if rf else ''}{ROUTE_FEEL[r] if b=='opioid' else BROUTE.get(r,'') if b=='benzo' else DC.DROUTE.get(r,'')}\n\n## Timeline for this route\n\n"
         rs+=phases("",list(zip(t,short)))
         rs+=f"For the full, detailed description of each phase, see the [general {d['name']} page](../../drugs/{slug}.md).\n\n"
-        rs+=f"## Risks of this route\n\n{RISK[r] if b=='opioid' else BRISK[r]}\n\n## Overdose note\n\n{d['od']}\n\n{OD if b=='opioid' else BOD}\nRead more: [{st}](../../safety/{sf})."+(" See also [naloxone (Narcan)](../../narcan/naloxone.md)." if b=='opioid' else '')+f"\n\n## Getting help\n\n{SAMHSA}\n\n"+srcs(d)
+        rs+=f"## Risks of this route\n\n{RISK[r] if b=='opioid' else BRISK[r] if b=='benzo' else DC.DRISK[r]}\n\n## Overdose note\n\n{d['od']}\n\n{OD if b=='opioid' else BOD if b=='benzo' else DOD}\nRead more: [{st}](../../safety/{sf})."+(" See also [naloxone (Narcan)](../../narcan/naloxone.md)." if b=='opioid' else '')+f"\n\n## Getting help\n\n{SAMHSA}\n\n"+srcs(d)
         w(f"routes/{r}/{slug}.md",rs)
 print(len(D),"drugs",counts,"route entries")
 ix="# Drugopedia index\n\n## Safety\n\n- [Opioid overdose: what it feels like, looks like, and what to do](safety/opioid-overdose.md)\n- [Xylazine (tranq) safety](safety/xylazine.md)\n\n## Overdose reversal medicines\n\n- [Naloxone (Narcan)](narcan/naloxone.md)\n- [Nalmefene (Opvee)](narcan/nalmefene.md)\n"
 if os.path.exists("safety/benzodiazepine-safety.md"): ix+="- [Benzodiazepine safety](safety/benzodiazepine-safety.md)\n"
+ix+="- [Mixing depressants](safety/depressant-mixing.md)\n"
 for c,cn in CATS.items():
     L=[k for k,d in D.items() if d.get("cat","opioid")==c]
     if not L: continue
@@ -79,4 +94,7 @@ for r,(n,_) in ROUTES.items():
     ix+=f"\n## Route: {n}\n\n"
     L=[k for k,d in D.items() if r in d["routes"]]
     ix+="".join(f"- [{D[k]['name']}](routes/{r}/{k}.md)\n" for k in L) or "- None yet\n"
+import products
+PI=products.render(D)
+ix+="\n## Brand and combination products\n\n"+"".join(f"- [{n}](products/{k}.md)\n" for k,n in PI)
 w("INDEX.md",ix)

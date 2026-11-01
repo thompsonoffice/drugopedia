@@ -11,7 +11,8 @@ DRUG={"buprenorphine":"Because of its ceiling effect, higher doses of buprenorph
 "lean":"Higher amounts bring heavier sedation from both codeine and promethazine; promethazine can add confusion, restlessness, and seizures, and breathing can slow dangerously, especially during sleep or with alcohol."}
 def lohi(slug,b,d):
     s=CLS[b]
-    if slug in DRUG: s+="\n\n"+DRUG[slug]
+    if d.get('lohi'): s+='\n\n'+d['lohi']
+    elif slug in DRUG: s+="\n\n"+DRUG[slug]
     elif d.get("cat")=="rcbenzo": s+="\n\nWith designer benzodiazepines, nobody can know what dose they are actually taking, so the jump from 'mild' to 'blackout' or overdose can happen without warning."
     elif d.get("cat")=="nso" or slug=="fentanyl-illicit": s+="\n\nWith very potent street opioids, the range between noticeable effects and overdose is extremely narrow and the amount in any product is unknown."
     return f"### Lower vs higher doses (described without amounts)\n\n{s}\n\n"

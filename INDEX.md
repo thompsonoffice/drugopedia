@@ -10,6 +10,7 @@
 - [Naloxone (Narcan)](narcan/naloxone.md)
 - [Nalmefene (Opvee)](narcan/nalmefene.md)
 - [Benzodiazepine safety](safety/benzodiazepine-safety.md)
+- [Mixing depressants](safety/depressant-mixing.md)
 
 ## Opioids (prescription, heroin, and fentanyl): general pages
 
@@ -113,6 +114,55 @@
 - [Flunitrazolam (designer benzodiazepine)](drugs/flunitrazolam.md)
 - [Norfludiazepam (designer benzodiazepine)](drugs/norfludiazepam.md)
 
+## Muscle relaxants: general pages
+
+- [Carisoprodol (Soma)](drugs/carisoprodol.md)
+- [Cyclobenzaprine (Flexeril)](drugs/cyclobenzaprine.md)
+- [Methocarbamol (Robaxin)](drugs/methocarbamol.md)
+- [Tizanidine (Zanaflex)](drugs/tizanidine.md)
+- [Baclofen (Lioresal)](drugs/baclofen.md)
+- [Metaxalone (Skelaxin)](drugs/metaxalone.md)
+- [Orphenadrine (Norflex)](drugs/orphenadrine.md)
+- [Chlorzoxazone (Parafon Forte)](drugs/chlorzoxazone.md)
+- [Dantrolene (Dantrium)](drugs/dantrolene.md)
+- [Meprobamate (Miltown)](drugs/meprobamate.md)
+
+## Barbiturates: general pages
+
+- [Phenobarbital (Luminal)](drugs/phenobarbital.md)
+- [Butalbital (Fioricet, Fiorinal)](drugs/butalbital.md)
+- [Secobarbital (Seconal)](drugs/secobarbital.md)
+- [Pentobarbital (Nembutal)](drugs/pentobarbital.md)
+- [Amobarbital (Amytal)](drugs/amobarbital.md)
+- [Butabarbital (Butisol)](drugs/butabarbital.md)
+- [Methohexital (Brevital)](drugs/methohexital.md)
+- [Thiopental (Pentothal)](drugs/thiopental.md)
+- [Barbital (Veronal)](drugs/barbital.md)
+- [Aprobarbital (Alurate)](drugs/aprobarbital.md)
+- [Primidone (Mysoline)](drugs/primidone.md)
+
+## Sedative-hypnotics (sleep drugs and related): general pages
+
+- [Zolpidem (Ambien)](drugs/zolpidem.md)
+- [Zaleplon (Sonata)](drugs/zaleplon.md)
+- [Eszopiclone (Lunesta)](drugs/eszopiclone.md)
+- [Zopiclone (Imovane)](drugs/zopiclone.md)
+- [GHB and sodium oxybate (Xyrem, Xywav, Lumryz)](drugs/ghb.md)
+- [Methaqualone (Quaaludes)](drugs/methaqualone.md)
+- [Chloral hydrate](drugs/chloral-hydrate.md)
+- [Orexin receptor antagonists (suvorexant, lemborexant, daridorexant)](drugs/orexin-antagonists.md)
+- [Ramelteon (Rozerem)](drugs/ramelteon.md)
+- [Glutethimide (Doriden)](drugs/glutethimide.md)
+- [Ethchlorvynol (Placidyl)](drugs/ethchlorvynol.md)
+- [Methyprylon (Noludar)](drugs/methyprylon.md)
+- [Phenibut](drugs/phenibut.md)
+
+## Gabapentinoids: general pages
+
+- [Gabapentin (Neurontin)](drugs/gabapentin.md)
+- [Pregabalin (Lyrica)](drugs/pregabalin.md)
+- [Mirogabalin (Tarlige)](drugs/mirogabalin.md)
+
 ## Route: Oral (swallowed)
 
 - [Morphine](routes/oral/morphine.md)
@@ -190,6 +240,41 @@
 - [Desalkylgidazepam (bromonordiazepam) (designer benzodiazepine)](routes/oral/desalkylgidazepam.md)
 - [Flunitrazolam (designer benzodiazepine)](routes/oral/flunitrazolam.md)
 - [Norfludiazepam (designer benzodiazepine)](routes/oral/norfludiazepam.md)
+- [Carisoprodol (Soma)](routes/oral/carisoprodol.md)
+- [Cyclobenzaprine (Flexeril)](routes/oral/cyclobenzaprine.md)
+- [Methocarbamol (Robaxin)](routes/oral/methocarbamol.md)
+- [Tizanidine (Zanaflex)](routes/oral/tizanidine.md)
+- [Baclofen (Lioresal)](routes/oral/baclofen.md)
+- [Metaxalone (Skelaxin)](routes/oral/metaxalone.md)
+- [Orphenadrine (Norflex)](routes/oral/orphenadrine.md)
+- [Chlorzoxazone (Parafon Forte)](routes/oral/chlorzoxazone.md)
+- [Dantrolene (Dantrium)](routes/oral/dantrolene.md)
+- [Meprobamate (Miltown)](routes/oral/meprobamate.md)
+- [Phenobarbital (Luminal)](routes/oral/phenobarbital.md)
+- [Butalbital (Fioricet, Fiorinal)](routes/oral/butalbital.md)
+- [Secobarbital (Seconal)](routes/oral/secobarbital.md)
+- [Pentobarbital (Nembutal)](routes/oral/pentobarbital.md)
+- [Amobarbital (Amytal)](routes/oral/amobarbital.md)
+- [Butabarbital (Butisol)](routes/oral/butabarbital.md)
+- [Barbital (Veronal)](routes/oral/barbital.md)
+- [Aprobarbital (Alurate)](routes/oral/aprobarbital.md)
+- [Primidone (Mysoline)](routes/oral/primidone.md)
+- [Zolpidem (Ambien)](routes/oral/zolpidem.md)
+- [Zaleplon (Sonata)](routes/oral/zaleplon.md)
+- [Eszopiclone (Lunesta)](routes/oral/eszopiclone.md)
+- [Zopiclone (Imovane)](routes/oral/zopiclone.md)
+- [GHB and sodium oxybate (Xyrem, Xywav, Lumryz)](routes/oral/ghb.md)
+- [Methaqualone (Quaaludes)](routes/oral/methaqualone.md)
+- [Chloral hydrate](routes/oral/chloral-hydrate.md)
+- [Orexin receptor antagonists (suvorexant, lemborexant, daridorexant)](routes/oral/orexin-antagonists.md)
+- [Ramelteon (Rozerem)](routes/oral/ramelteon.md)
+- [Glutethimide (Doriden)](routes/oral/glutethimide.md)
+- [Ethchlorvynol (Placidyl)](routes/oral/ethchlorvynol.md)
+- [Methyprylon (Noludar)](routes/oral/methyprylon.md)
+- [Phenibut](routes/oral/phenibut.md)
+- [Gabapentin (Neurontin)](routes/oral/gabapentin.md)
+- [Pregabalin (Lyrica)](routes/oral/pregabalin.md)
+- [Mirogabalin (Tarlige)](routes/oral/mirogabalin.md)
 
 ## Route: Sublingual and buccal (under the tongue or in the cheek)
 
@@ -203,6 +288,7 @@
 - [Clonazepam (Klonopin)](routes/sublingual-buccal/clonazepam.md)
 - [Lorazepam (Ativan)](routes/sublingual-buccal/lorazepam.md)
 - [Midazolam (Versed)](routes/sublingual-buccal/midazolam.md)
+- [Zolpidem (Ambien)](routes/sublingual-buccal/zolpidem.md)
 
 ## Route: Intranasal (nasal sprays and snorting)
 
@@ -282,6 +368,14 @@
 - [Chlordiazepoxide (Librium)](routes/injected/chlordiazepoxide.md)
 - [Midazolam (Versed)](routes/injected/midazolam.md)
 - [Remimazolam (Byfavo)](routes/injected/remimazolam.md)
+- [Methocarbamol (Robaxin)](routes/injected/methocarbamol.md)
+- [Baclofen (Lioresal)](routes/injected/baclofen.md)
+- [Orphenadrine (Norflex)](routes/injected/orphenadrine.md)
+- [Dantrolene (Dantrium)](routes/injected/dantrolene.md)
+- [Phenobarbital (Luminal)](routes/injected/phenobarbital.md)
+- [Pentobarbital (Nembutal)](routes/injected/pentobarbital.md)
+- [Methohexital (Brevital)](routes/injected/methohexital.md)
+- [Thiopental (Pentothal)](routes/injected/thiopental.md)
 
 ## Route: Inhaled and smoked
 
@@ -292,3 +386,33 @@
 - [Opium, laudanum, and paregoric](routes/inhaled-smoked/opium.md)
 - [Salvinorin A and kappa-opioid agonists](routes/inhaled-smoked/salvinorin-kappa.md)
 - [Nitazenes (isotonitazene, protonitazene, metonitazene, and others)](routes/inhaled-smoked/nitazenes.md)
+- [Methaqualone (Quaaludes)](routes/inhaled-smoked/methaqualone.md)
+
+## Brand and combination products
+
+- [Vicodin](products/vicodin.md)
+- [Norco](products/norco.md)
+- [Lortab](products/lortab.md)
+- [Vicoprofen](products/vicoprofen.md)
+- [Percocet](products/percocet.md)
+- [Endocet](products/endocet.md)
+- [Roxicet](products/roxicet.md)
+- [Percodan](products/percodan.md)
+- [Combunox](products/combunox.md)
+- [RoxyBond and Oxaydo](products/roxybond.md)
+- [Tylenol with Codeine #3 and #4](products/tylenol-3-4.md)
+- [Fioricet with Codeine](products/fioricet-codeine.md)
+- [Fiorinal with Codeine](products/fiorinal-codeine.md)
+- [Tussionex](products/tussionex.md)
+- [Tuzistra XR and other codeine cough products](products/tuxarin.md)
+- [Ultracet](products/ultracet.md)
+- [Talacen](products/talacen.md)
+- [Talwin NX](products/talwin-nx.md)
+- [Darvocet and Darvon](products/darvocet.md)
+- [Suboxone](products/suboxone.md)
+- [Zubsolv](products/zubsolv.md)
+- [Subutex (buprenorphine alone)](products/subutex.md)
+- [Zohydro ER and Hysingla ER](products/zohydro-hysingla.md)
+- [OxyContin](products/oxycontin.md)
+- [MS Contin](products/ms-contin.md)
+- [Fioricet and Fiorinal (without codeine)](products/fioricet.md)
