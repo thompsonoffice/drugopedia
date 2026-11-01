@@ -14,33 +14,33 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (IV seconds; IM/SC 5-15 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling.
+Codeine starts subtly, often 30 to 60 minutes after swallowing: a slight warmth, relaxation in the shoulders, and frequently an itch on the face, arms, or back that comes before anything pleasant. With cough syrups, the throat feels soothed and the urge to cough fades.
 
 ### Come-up (IV under 1 min; IM/SC 10-20 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring.
+The come-up is gentle and sleepy. People describe a mellow, floaty feeling and mild contentment, like the first glass of wine but heavier in the body.
 
 ### Peak (IV 2-10 min; IM/SC 20-60 min)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow.
+Codeine's peak, typically 1 to 2 hours in, is a soft, cozy calm with mild euphoria, heavy eyelids, and relaxed muscles, notably less intense than oxycodone or morphine. Itchiness is often the most prominent physical sensation.
 
 ### Plateau (30 min-2 h)
 
-The effects level off into a steady, calm state. "Nodding" (mild to moderate with Codeine) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand.
+The plateau is a lazy, sleepy stretch. People describe sinking into the couch, light nodding, and a preference for quiet music or TV.
 
 ### Comedown (2-4 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight.
+Codeine fades over 4 to 6 hours into tiredness. People often nap.
 
 ### After-effects (4-12 h)
 
-Over the following hours: constipation, dry mouth, mild headache, and sluggishness. Sleep may be heavy but not restful.
+Constipation, dry mouth, and a mild headache are common. Combination tablets with acetaminophen add liver strain that is not felt but is real.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving.
+Most people feel close to normal the next day, maybe slightly foggy. After regular daily use, withdrawal is milder than with stronger opioids but real: restlessness, low mood, aches, runny nose, poor sleep, and diarrhea.
 
-For the full, detailed description of each phase and the character of the high, see the [general Codeine page](../../drugs/codeine.md).
+For the full, detailed description of each phase, see the [general Codeine page](../../drugs/codeine.md).
 
 ## Risks of this route
 
@@ -65,7 +65,7 @@ Ultra-rapid metabolizers can overdose on ordinary amounts. Combination tablets c
 - If they are breathing, put them on their side (recovery position) so they do not choke.
 - Never leave the person alone to "sleep it off."
 
-Read more: [What an overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
+Read more: [What an opioid overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
 
 ## Getting help
 

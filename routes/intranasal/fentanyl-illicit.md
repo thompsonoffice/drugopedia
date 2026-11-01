@@ -14,33 +14,33 @@ A noticeably quicker and sharper onset than swallowing, with a mild rush or 'dro
 
 ### Onset (2-10 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling.
+Smoked or injected, street fentanyl hits within seconds. Many describe an immediate heavy rush in the head and body, less warm and more 'blank' than heroin.
 
 ### Come-up (5-15 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring.
+The come-up is almost nonexistent. Some describe a strong sinking feeling, like falling into a soft hole.
 
 ### Peak (10-30 min)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow.
+The peak lasts only minutes: heavy sedation, stillness, and a numb, faraway feeling. Many survivors report no warning before losing consciousness, which is why fentanyl overdose kills so quickly.
 
 ### Plateau (30-60 min)
 
-The effects level off into a steady, calm state. "Nodding" (heavy and sudden with Illicit fentanyl) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand.
+The plateau is short and nod-heavy. With xylazine mixed in, people may stay unconscious for hours.
 
 ### Comedown (1-2 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight.
+Fentanyl wears off fast, often in 1 to 2 hours, and the comedown comes harshly with restlessness, sweats, and anxiety.
 
 ### After-effects (2-6 h)
 
-Short duration often means withdrawal starts within hours, with restlessness and sweats.
+Withdrawal begins within hours in dependent people. With xylazine, wounds and long sedation are common.
 
 ### Next day (withdrawal may begin)
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving.
+People who use daily describe needing to use many times a day to stay out of withdrawal, which is intense.
 
-For the full, detailed description of each phase and the character of the high, see the [general Illicit fentanyl page](../../drugs/fentanyl-illicit.md).
+For the full, detailed description of each phase, see the [general Illicit fentanyl page](../../drugs/fentanyl-illicit.md).
 
 ## Risks of this route
 
@@ -65,7 +65,7 @@ Overdose often comes within seconds to minutes, sometimes before the person can 
 - If they are breathing, put them on their side (recovery position) so they do not choke.
 - Never leave the person alone to "sleep it off."
 
-Read more: [What an overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
+Read more: [What an opioid overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
 
 ## Getting help
 

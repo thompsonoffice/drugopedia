@@ -30,45 +30,45 @@ US Schedule II. UK Class A.
 
 ## What it feels like
 
-### The character of its euphoria
+### The character of its effects
 
 Methadone is generally described as the least euphoric of the full agonists: a heavy, warm, calm body feeling, sedation, and relief from withdrawal, rather than a rush. People without tolerance describe it as slow, dull, sleepy, and long; people on treatment describe feeling "normal."
 
 Its effects build up over days of repeated use because it stays in the body so long. Sweating, constipation, and drowsiness are common. People who have quit both heroin and methadone often describe methadone withdrawal as milder but much longer, lasting weeks.
 
-Tolerance changes everything below. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
+Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
 ### Timeline
 
-Times below are typical for the oral (swallowed) route. Other routes change the timing; see the route pages.
+Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
 ### Onset (30-60 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling. With Methadone, many say they notice their breathing slow slightly and their thoughts get quieter before they feel anything they would call pleasure.
+Methadone starts slowly, 30 to 60 minutes after swallowing. The first sensations are quiet: a slight warmth, eased tension, and, in someone in withdrawal, the gradual fading of sickness.
 
 ### Come-up (1-2 h)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring. A calm, contented mood rises. Itching, usually mild, often starts on the nose, face, or upper body, caused by histamine release and by opioid effects on the nervous system. Some people feel a wave of nausea at this point, especially if they are new to opioids or moving around.
+The come-up is gradual and underwhelming, which is part of the danger. People without tolerance describe a heavy, warm, sedated feeling building over hours, and may wrongly think it is weak.
 
 ### Peak (2-4 h)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow. Pupils shrink to pinpoints. The peak is vague and drawn-out rather than sharp, which fools people into thinking it is weaker than it is. This is also when breathing is most suppressed and overdose is most likely, often without the person noticing anything wrong.
+The felt peak is around 2 to 4 hours, but methadone keeps accumulating, and breathing suppression can deepen after the 'high' has leveled off. People describe a calm, heavy, dull contentment, sweating, and drowsiness.
 
 ### Plateau (4-12 h)
 
-The effects level off into a steady, calm state. "Nodding" (moderate with Methadone) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand. People report vivid, dreamlike half-sleep. Talkativeness or a quiet, inward contentment are both common. Mouth dryness, flushed skin, and difficulty urinating can appear.
+The plateau is very long, often the rest of the day. For people in treatment it feels like being normal: no craving, no sickness, clear enough to work. For people without tolerance it is a long, sedated state.
 
 ### Comedown (12-36 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight. Tiredness and a flat, slightly gray mood are common. Pain, if it was being treated, returns. In people with dependence, this is where restlessness, yawning, and craving start.
+Methadone fades over 24 hours or more. There is no sharp comedown; it slowly thins out.
 
 ### After-effects (24-72 h)
 
-Effects last much longer than other opioids, often 24 hours or more, and drug keeps building in the body with repeated use. Sweating, constipation, and drowsiness persist.
+Sweating, constipation, low libido, and sleepiness are common ongoing effects. The drug can also change heart rhythm.
 
 ### Next day (still active)
 
-The next day, drug is often still active. Methadone's long half-life (roughly 8 to 59 hours) means a second day of use adds on top of the first.
+Methadone is still active the next day. Daily use builds blood levels for about 5 days before stabilizing, which is why the first week of treatment is the riskiest. Withdrawal starts about 1 to 3 days after stopping and can last weeks.
 
 ## How the route changes the experience
 
@@ -82,7 +82,7 @@ Not covered: No transdermal, sublingual, intranasal, or smoked forms.
 
 Methadone overdose is often delayed and long-lasting. Peak breathing suppression can come hours after the peak 'feeling', and deaths often occur during sleep, the night of use or in the first days of starting or increasing. Naloxone wears off far sooner than methadone, so repeated doses and hospital monitoring are needed. Methadone can also cause a dangerous heart rhythm (QT prolongation). Combining with benzodiazepines or alcohol is especially dangerous.
 
-Read the shared page: [What an overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
 
 ## Getting help
 

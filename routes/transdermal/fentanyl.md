@@ -14,33 +14,33 @@ No rush and no clear peak; a slow, flat, constant effect over days. Medical pati
 
 ### Onset (6-12 h)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling.
+In medicine, IV fentanyl acts within seconds. Patients describe a sudden heaviness, warmth, and sometimes a light-headed spin.
 
 ### Come-up (12-24 h)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring.
+There is almost no come-up; it arrives all at once, a fast drop into sedation more than a climb into euphoria.
 
 ### Peak (24-72 h)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow.
+The peak hits within a few minutes: heavy, warm, blank sedation with relief from pain. Breathing can slow or stop quickly, and chest muscles can stiffen.
 
 ### Plateau (while patch on)
 
-The effects level off into a steady, calm state. "Nodding" (heavy and sudden with Fentanyl) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand.
+The plateau is short, often 30 to 60 minutes after an IV dose, with deep nodding or sleep.
 
 ### Comedown (12-24+ h after removal)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight.
+Fentanyl wears off quickly, and the return is often abrupt, with restless discomfort.
 
 ### After-effects (1-3 days)
 
-Effects fade quickly with fast routes (often within 1 to 2 hours), but fentanyl stored in fat can extend after-effects with repeated use.
+From patches, effects persist for many hours after removal because drug remains in the skin.
 
 ### Next day (after removal)
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving.
+After repeated use, withdrawal comes quickly and is intense.
 
-For the full, detailed description of each phase and the character of the high, see the [general Fentanyl (pharmaceutical) page](../../drugs/fentanyl.md).
+For the full, detailed description of each phase, see the [general Fentanyl (pharmaceutical) page](../../drugs/fentanyl.md).
 
 ## Risks of this route
 
@@ -65,7 +65,7 @@ Fentanyl overdose can happen within seconds to minutes. It can cause 'wooden che
 - If they are breathing, put them on their side (recovery position) so they do not choke.
 - Never leave the person alone to "sleep it off."
 
-Read more: [What an overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
+Read more: [What an opioid overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
 
 ## Getting help
 

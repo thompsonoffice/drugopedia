@@ -26,45 +26,45 @@ US Schedule II. Most analogs are Schedule I, and since 2018 fentanyl-related sub
 
 ## What it feels like
 
-### The character of its euphoria
+### The character of its effects
 
 Fentanyl's effect is described as fast, intense, and short: a strong wave of warmth and sedation, more 'blank' and sleepy than euphoric, with less of the dreamy, glowing warmth of heroin or morphine. Many people say it hits hard and wears off quickly, leaving them wanting more.
 
 From a patch, the effect is slow and constant: steady pain relief, drowsiness, and nausea rather than euphoria.
 
-Tolerance changes everything below. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
+Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
 ### Timeline
 
-Times below are typical for the injected (intravenous, intramuscular, subcutaneous) route. Other routes change the timing; see the route pages.
+Times below are typical for the injected (intravenous, intramuscular, subcutaneous) route and vary a lot between people. Other routes change the timing; see the route pages.
 
 ### Onset (IV seconds)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling. With Fentanyl, many say they notice their breathing slow slightly and their thoughts get quieter before they feel anything they would call pleasure.
+In medicine, IV fentanyl acts within seconds. Patients describe a sudden heaviness, warmth, and sometimes a light-headed spin.
 
 ### Come-up (IV under 1 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring. A calm, contented mood rises. Itching, usually mild, often starts on the nose, face, or upper body, caused by histamine release and by opioid effects on the nervous system. Some people feel a wave of nausea at this point, especially if they are new to opioids or moving around.
+There is almost no come-up; it arrives all at once, a fast drop into sedation more than a climb into euphoria.
 
 ### Peak (IV 3-5 min)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow. Pupils shrink to pinpoints. Sedation can come on so fast that people pass out without warning. This is also when breathing is most suppressed and overdose is most likely, often without the person noticing anything wrong.
+The peak hits within a few minutes: heavy, warm, blank sedation with relief from pain. Breathing can slow or stop quickly, and chest muscles can stiffen.
 
 ### Plateau (5-30 min)
 
-The effects level off into a steady, calm state. "Nodding" (heavy and sudden with Fentanyl) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand. People report vivid, dreamlike half-sleep. Talkativeness or a quiet, inward contentment are both common. Mouth dryness, flushed skin, and difficulty urinating can appear.
+The plateau is short, often 30 to 60 minutes after an IV dose, with deep nodding or sleep.
 
 ### Comedown (30-60 min)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight. Tiredness and a flat, slightly gray mood are common. Pain, if it was being treated, returns. In people with dependence, this is where restlessness, yawning, and craving start.
+Fentanyl wears off quickly, and the return is often abrupt, with restless discomfort.
 
 ### After-effects (1-4 h)
 
-Effects fade quickly with fast routes (often within 1 to 2 hours), but fentanyl stored in fat can extend after-effects with repeated use.
+From patches, effects persist for many hours after removal because drug remains in the skin.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving. Tolerance builds quickly, which means the same effect needs more drug and overdose risk rises, especially after a break, when tolerance drops but habits do not.
+After repeated use, withdrawal comes quickly and is intense.
 
 ## How the route changes the experience
 
@@ -80,7 +80,7 @@ Not covered: Swallowed fentanyl is poorly absorbed, so oral is not a medical rou
 
 Fentanyl overdose can happen within seconds to minutes. It can cause 'wooden chest' (chest-wall rigidity), where the breathing muscles go stiff. More than one naloxone dose may be needed. Heat on a patch speeds release.
 
-Read the shared page: [What an overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
 
 ## Getting help
 

@@ -26,45 +26,45 @@ US Schedule II.
 
 ## What it feels like
 
-### The character of its euphoria
+### The character of its effects
 
 Tapentadol is described as a clean, mild-to-moderate opioid warmth with alertness from its norepinephrine effect, and less nausea and constipation than oxycodone. Many say it is less euphoric than oxycodone and more 'functional'.
 
 Some report dizziness, sweating, and a slightly edgy feeling. Like tramadol, it carries some seizure and serotonin risk.
 
-Tolerance changes everything below. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
+Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
 ### Timeline
 
-Times below are typical for the oral (swallowed) route. Other routes change the timing; see the route pages.
+Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
 ### Onset (15-45 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling. With Tapentadol, many say they notice their breathing slow slightly and their thoughts get quieter before they feel anything they would call pleasure.
+Tapentadol starts within about 30 minutes with a gentle warmth and slight alertness.
 
 ### Come-up (30-60 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring. A calm, contented mood rises. Itching, usually mild, often starts on the nose, face, or upper body, caused by histamine release and by opioid effects on the nervous system. Some people feel a wave of nausea at this point, especially if they are new to opioids or moving around.
+The come-up is clean, with less nausea than oxycodone. Some feel sweaty or dizzy.
 
 ### Peak (1-2 h)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow. Pupils shrink to pinpoints.  This is also when breathing is most suppressed and overdose is most likely, often without the person noticing anything wrong.
+The peak, around 1 to 1.5 hours, brings mild-to-moderate euphoria and strong pain relief.
 
 ### Plateau (2-4 h)
 
-The effects level off into a steady, calm state. "Nodding" (mild to moderate with Tapentadol) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand. People report vivid, dreamlike half-sleep. Talkativeness or a quiet, inward contentment are both common. Mouth dryness, flushed skin, and difficulty urinating can appear.
+The plateau is functional and calm, with light sedation.
 
 ### Comedown (4-6 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight. Tiredness and a flat, slightly gray mood are common. Pain, if it was being treated, returns. In people with dependence, this is where restlessness, yawning, and craving start.
+The comedown, around 4 to 6 hours for immediate-release, is gradual.
 
 ### After-effects (6-24 h)
 
-Over the following hours: constipation, dry mouth, mild headache, and sluggishness. Sleep may be heavy but not restful. Some feel a mild low mood or irritability as the drug clears.
+After-effects include dizziness, dry mouth, and constipation.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving. Tolerance builds quickly, which means the same effect needs more drug and overdose risk rises, especially after a break, when tolerance drops but habits do not.
+After repeated use, withdrawal is opioid-like and may include anxiety and agitation.
 
 ## How the route changes the experience
 
@@ -76,7 +76,7 @@ Not covered: No other medical routes.
 
 Seizure and serotonin syndrome risk, especially with antidepressants. Extended-release forms can release all their drug at once if damaged.
 
-Read the shared page: [What an overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
 
 ## Getting help
 

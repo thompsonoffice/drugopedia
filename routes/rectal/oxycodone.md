@@ -14,33 +14,33 @@ Onset sits between swallowing and snorting. It is mostly used medically; experie
 
 ### Onset (10-30 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling.
+Swallowed immediate-release oxycodone often starts within 10 to 30 minutes. People describe a light, bright warmth in the chest and a lift in mood that comes quickly, with less of the queasy, heavy start of morphine.
 
 ### Come-up (20-40 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring.
+The come-up is where oxycodone's reputation comes from: a clean rush of well-being, confidence, and energy. People say worries evaporate, they feel affectionate and talkative, and tasks feel easy.
 
 ### Peak (45-90 min)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow.
+The peak, roughly 1 to 2 hours in, is described as intense physical comfort, warmth, love, and bliss, with a clearer head than morphine. People report feeling 'like the best version of themselves', relaxed but not yet sleepy.
 
 ### Plateau (1-3 h)
 
-The effects level off into a steady, calm state. "Nodding" (moderate, later in the experience with Oxycodone) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand.
+Later, the energy settles into drowsy contentment. Nodding comes, often while sitting up, sometimes with brief dream-like imagery.
 
 ### Comedown (3-6 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight.
+The comedown, around 4 to 6 hours for immediate-release, can feel abrupt compared with morphine: the brightness drains away and people describe a flat, irritable, restless feeling. PsychonautWiki notes 'opiate rage', irritability and outbursts, as more common in this phase.
 
 ### After-effects (6-24 h)
 
-Over the following hours: constipation, dry mouth, mild headache, and sluggishness. Sleep may be heavy but not restful.
+After-effects include constipation, dry mouth, and fatigue. Many feel a strong pull to take more to keep the good feeling going, a hallmark of oxycodone's addictiveness.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving.
+After one use, the next day is mostly normal. After regular use, withdrawal begins within 6 to 12 hours: anxiety, sweating, yawning, goosebumps, aches, insomnia, and intense craving.
 
-For the full, detailed description of each phase and the character of the high, see the [general Oxycodone page](../../drugs/oxycodone.md).
+For the full, detailed description of each phase, see the [general Oxycodone page](../../drugs/oxycodone.md).
 
 ## Risks of this route
 
@@ -65,7 +65,7 @@ Extended-release tablets contain a large reserve; damaging them releases it all 
 - If they are breathing, put them on their side (recovery position) so they do not choke.
 - Never leave the person alone to "sleep it off."
 
-Read more: [What an overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
+Read more: [What an opioid overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
 
 ## Getting help
 

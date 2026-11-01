@@ -26,45 +26,45 @@ US Schedule I (no accepted medical use). UK Class A, but prescribable as diamorp
 
 ## What it feels like
 
-### The character of its euphoria
+### The character of its effects
 
 Heroin is often described as the deepest, warmest, most complete opioid euphoria: a body-wide warmth and safety, "like being hugged by God" or "returning to the womb", with all pain, anxiety, and loneliness gone. Compared with morphine it arrives faster and feels sharper; compared with fentanyl it is warmer, dreamier, and longer.
 
 Writers like Thomas De Quincey (on opium), William Burroughs, and many people in recovery have described how this feeling becomes the center of life, and then turns into the daily need to avoid withdrawal. Today, almost all street 'heroin' in North America contains fentanyl, so the experience and risk are no longer what they were.
 
-Tolerance changes everything below. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
+Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
 ### Timeline
 
-Times below are typical for the injected (intravenous, intramuscular, subcutaneous) route. Other routes change the timing; see the route pages.
+Times below are typical for the injected (intravenous, intramuscular, subcutaneous) route and vary a lot between people. Other routes change the timing; see the route pages.
 
 ### Onset (IV seconds; IM/SC 5-15 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling. With Heroin, many say they notice their breathing slow slightly and their thoughts get quieter before they feel anything they would call pleasure.
+Smoked, heroin acts within seconds; injected, within seconds to a minute; snorted, a few minutes. The first feeling is a rush of warmth from the stomach up through the chest into the head.
 
 ### Come-up (IV under 1 min; IM/SC 10-20 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring. A calm, contented mood rises. Itching, usually strong, often starts on the nose, face, or upper body, caused by histamine release and by opioid effects on the nervous system. Some people feel a wave of nausea at this point, especially if they are new to opioids or moving around.
+Injected, the rush is described as overwhelming: a hot flush, a sense of release, heavy limbs, and sometimes nausea or vomiting. Smoked or snorted, it is gentler and builds over minutes.
 
 ### Peak (IV 2-10 min; IM/SC 20-60 min)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow. Pupils shrink to pinpoints. The peak is often described as a deep, golden, dreamy calm, with heavy nodding. This is also when breathing is most suppressed and overdose is most likely, often without the person noticing anything wrong.
+The peak is the deep heroin calm: complete safety and warmth, pain and worry gone, heavy eyelids, pinpoint pupils, dry mouth, and strong itch. Many describe it as the most comforting feeling of their lives.
 
 ### Plateau (30 min-2 h)
 
-The effects level off into a steady, calm state. "Nodding" (heavy with Heroin) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand. People report vivid, dreamlike half-sleep. Talkativeness or a quiet, inward contentment are both common. Mouth dryness, flushed skin, and difficulty urinating can appear.
+The plateau is classic nodding: drifting in and out, chin dropping, dreamy visions, then waking with a start, for hours.
 
 ### Comedown (2-4 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight. Tiredness and a flat, slightly gray mood are common. Pain, if it was being treated, returns. In people with dependence, this is where restlessness, yawning, and craving start.
+After 3 to 5 hours, the comedown starts: warmth fades, and in dependent people craving and restlessness begin.
 
 ### After-effects (4-12 h)
 
-Over the following hours: constipation, dry mouth, mild headache, and sluggishness. Sleep may be heavy but not restful. Some feel a mild low mood or irritability as the drug clears.
+Constipation, dry mouth, and fatigue. With street supply now dominated by fentanyl, duration and intensity are unpredictable.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving. Tolerance builds quickly, which means the same effect needs more drug and overdose risk rises, especially after a break, when tolerance drops but habits do not.
+After regular use, withdrawal begins 6 to 12 hours after last use and peaks at 1 to 3 days: sweats, chills, goosebumps, aches, diarrhea, vomiting, restless legs, and insomnia.
 
 ## How the route changes the experience
 
@@ -79,7 +79,7 @@ Not covered: No transdermal or common rectal use; rectal use exists but is rare 
 
 Since street heroin now usually contains fentanyl, overdose risk is unpredictable. Overdoses cluster after time away from use (jail, rehab, hospital), when tolerance is lower.
 
-Read the shared page: [What an overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
 
 ## Getting help
 

@@ -82,3 +82,11 @@ ROUTE_FEEL={
 def times(slug,route):
     o=D[slug].get("times",{}).get(route)
     return o or RT[route]
+BROUTE={
+"oral":"Swallowing is the standard medical route. Effects build gradually, with no rush; food can slow onset.",
+"sublingual-buccal":"Under the tongue, some benzodiazepines start a little faster than when swallowed. Medically used for alprazolam, lorazepam, and others in some countries, and buccal midazolam for seizures.",
+"intranasal":"Medical nasal sprays (midazolam, diazepam) are used to stop seizures quickly. Snorting pills is a misuse route that brings faster onset, more blackouts, and nasal damage.",
+"rectal":"Rectal diazepam gel (Diastat) is used by families and caregivers to stop prolonged seizures.",
+"injected":"Injection is a hospital route for sedation, anesthesia, alcohol withdrawal, and status epilepticus. Effects can begin within a minute, and breathing must be monitored.",
+"inhaled-smoked":"Not a medical route.",
+"transdermal":"Not a medical route."}

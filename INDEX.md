@@ -3,8 +3,9 @@
 ## Safety
 
 - [Opioid overdose: what it feels like, looks like, and what to do](safety/opioid-overdose.md)
+- [Xylazine (tranq) safety](safety/xylazine.md)
 
-## Opioids: general pages
+## Opioids (prescription, heroin, and fentanyl): general pages
 
 - [Morphine](drugs/morphine.md)
 - [Codeine](drugs/codeine.md)

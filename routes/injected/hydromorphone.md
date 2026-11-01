@@ -14,33 +14,33 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (IV seconds; IM/SC 5-15 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling.
+Swallowed hydromorphone starts within 15 to 30 minutes with a quick, clean warmth, with less stomach upset and itch than morphine.
 
 ### Come-up (IV under 1 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring.
+The come-up is fast and strong for a pill: a surge of comfort, heaviness, and calm. Some describe a mild 'rush' even when swallowed.
 
 ### Peak (IV 5-15 min; IM/SC 30-60 min)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow.
+The peak, around 30 to 90 minutes, is intense and warm, closer to heroin than to oxycodone, with heavy sedation close behind the euphoria. It is several times stronger than morphine by weight, and breathing suppression is strong.
 
 ### Plateau (30 min-1.5 h)
 
-The effects level off into a steady, calm state. "Nodding" (moderate to heavy with Hydromorphone) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand.
+The plateau is shorter than with morphine or oxycodone. Nodding is common, with a peaceful, dreamy stillness.
 
 ### Comedown (1.5-3 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight.
+The comedown begins after 2 to 4 hours and feels relatively quick, which is why hydromorphone is linked to frequent redosing.
 
 ### After-effects (3-8 h)
 
-Over the following hours: constipation, dry mouth, mild headache, and sluggishness. Sleep may be heavy but not restful.
+After-effects include constipation, dry mouth, and sleepiness. Some feel nauseous as it wears off.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving.
+After regular use, withdrawal sets in within hours with sweats, aches, and cravings.
 
-For the full, detailed description of each phase and the character of the high, see the [general Hydromorphone page](../../drugs/hydromorphone.md).
+For the full, detailed description of each phase, see the [general Hydromorphone page](../../drugs/hydromorphone.md).
 
 ## Risks of this route
 
@@ -65,7 +65,7 @@ Very potent compared with morphine, so medication errors confusing the two have 
 - If they are breathing, put them on their side (recovery position) so they do not choke.
 - Never leave the person alone to "sleep it off."
 
-Read more: [What an overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
+Read more: [What an opioid overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
 
 ## Getting help
 

@@ -26,45 +26,45 @@ US Schedule II.
 
 ## What it feels like
 
-### The character of its euphoria
+### The character of its effects
 
 Oxymorphone is described as strong, fast, and very heavy: more intensely euphoric and more sedating than oxycodone, with a powerful, sleepy body high. People often compare it to heroin more than to other pills.
 
 It is absorbed poorly when swallowed, so experiences by mouth vary a lot. Many describe a deep, warm, sinking feeling and long nodding.
 
-Tolerance changes everything below. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
+Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
 ### Timeline
 
-Times below are typical for the oral (swallowed) route. Other routes change the timing; see the route pages.
+Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
 ### Onset (15-45 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling. With Oxymorphone, many say they notice their breathing slow slightly and their thoughts get quieter before they feel anything they would call pleasure.
+Swallowed oxymorphone can be slow and inconsistent to start, often 30 to 60 minutes, and is strongly affected by food. The first sign is usually a deep, sinking heaviness rather than a bright lift.
 
 ### Come-up (30-60 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring. A calm, contented mood rises. Itching, usually moderate, often starts on the nose, face, or upper body, caused by histamine release and by opioid effects on the nervous system. Some people feel a wave of nausea at this point, especially if they are new to opioids or moving around.
+The come-up is heavy and warm: a strong pull toward the couch, flushing, and a powerful wave of comfort. Itch is moderate.
 
 ### Peak (1-2 h)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow. Pupils shrink to pinpoints. Described as one of the most intense pill highs, close to heroin. This is also when breathing is most suppressed and overdose is most likely, often without the person noticing anything wrong.
+At the peak, oxymorphone is described as one of the strongest pill highs: dense, warm, and euphoric, often compared to heroin. Thinking slows and the body feels like lead. Breathing suppression is strong.
 
 ### Plateau (2-4 h)
 
-The effects level off into a steady, calm state. "Nodding" (heavy with Oxymorphone) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand. People report vivid, dreamlike half-sleep. Talkativeness or a quiet, inward contentment are both common. Mouth dryness, flushed skin, and difficulty urinating can appear.
+The plateau is long and nod-heavy. People report drifting off repeatedly, with dreamlike half-sleep.
 
 ### Comedown (4-6 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight. Tiredness and a flat, slightly gray mood are common. Pain, if it was being treated, returns. In people with dependence, this is where restlessness, yawning, and craving start.
+The comedown is slow and sleepy. Many fall asleep as effects fade over 4 to 6 hours for immediate-release.
 
 ### After-effects (6-24 h)
 
-Over the following hours: constipation, dry mouth, mild headache, and sluggishness. Sleep may be heavy but not restful. Some feel a mild low mood or irritability as the drug clears.
+After-effects include constipation, sweating, and grogginess. People often describe feeling drained.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving. Tolerance builds quickly, which means the same effect needs more drug and overdose risk rises, especially after a break, when tolerance drops but habits do not.
+After regular use, withdrawal is strong and comparable to heroin's: aches, restless legs, sweating, diarrhea, and insomnia.
 
 ## How the route changes the experience
 
@@ -79,7 +79,7 @@ Not covered: No transdermal, sublingual, or smoked forms.
 
 Taking it with food or alcohol can sharply raise blood levels. The removed Opana ER caused a deadly blood disorder and an HIV outbreak when injected.
 
-Read the shared page: [What an overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
 
 ## Getting help
 

@@ -14,33 +14,33 @@ Onset sits between swallowing and snorting. It is mostly used medically; experie
 
 ### Onset (30-60 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling.
+Methadone starts slowly, 30 to 60 minutes after swallowing. The first sensations are quiet: a slight warmth, eased tension, and, in someone in withdrawal, the gradual fading of sickness.
 
 ### Come-up (1-2 h)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring.
+The come-up is gradual and underwhelming, which is part of the danger. People without tolerance describe a heavy, warm, sedated feeling building over hours, and may wrongly think it is weak.
 
 ### Peak (2-4 h)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow.
+The felt peak is around 2 to 4 hours, but methadone keeps accumulating, and breathing suppression can deepen after the 'high' has leveled off. People describe a calm, heavy, dull contentment, sweating, and drowsiness.
 
 ### Plateau (4-12 h)
 
-The effects level off into a steady, calm state. "Nodding" (moderate with Methadone) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand.
+The plateau is very long, often the rest of the day. For people in treatment it feels like being normal: no craving, no sickness, clear enough to work.
 
 ### Comedown (12-36 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight.
+Methadone fades over 24 hours or more. There is no sharp comedown; it slowly thins out.
 
 ### After-effects (24-72 h)
 
-Effects last much longer than other opioids, often 24 hours or more, and drug keeps building in the body with repeated use. Sweating, constipation, and drowsiness persist.
+Sweating, constipation, low libido, and sleepiness are common ongoing effects. The drug can also change heart rhythm.
 
 ### Next day (still active)
 
-The next day, drug is often still active. Methadone's long half-life (roughly 8 to 59 hours) means a second day of use adds on top of the first.
+Methadone is still active the next day. Daily use builds blood levels for about 5 days before stabilizing, which is why the first week of treatment is the riskiest.
 
-For the full, detailed description of each phase and the character of the high, see the [general Methadone page](../../drugs/methadone.md).
+For the full, detailed description of each phase, see the [general Methadone page](../../drugs/methadone.md).
 
 ## Risks of this route
 
@@ -65,7 +65,7 @@ Methadone overdose is often delayed and long-lasting. Peak breathing suppression
 - If they are breathing, put them on their side (recovery position) so they do not choke.
 - Never leave the person alone to "sleep it off."
 
-Read more: [What an overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
+Read more: [What an opioid overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
 
 ## Getting help
 

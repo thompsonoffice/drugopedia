@@ -14,33 +14,33 @@ Slower and steadier than injecting or snorting, faster than swallowing for some 
 
 ### Onset (30-60 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling.
+Under the tongue, buprenorphine dissolves over several minutes with a bitter or flavored taste. Effects start around 30 to 60 minutes.
 
 ### Come-up (1-2 h)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring.
+In people without tolerance, the come-up is surprisingly strong: warm, floaty, nauseous, and sleepy. In people with tolerance, it is mostly the steady disappearance of craving and sickness.
 
 ### Peak (1-4 h)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow.
+The peak, roughly 1 to 4 hours, is a long, mellow high in non-tolerant people, often with heavy nausea. Because of the ceiling effect, more drug does not keep adding euphoria or breathing suppression the same way.
 
 ### Plateau (4-12 h)
 
-The effects level off into a steady, calm state. "Nodding" (mild to moderate with Buprenorphine) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand.
+The plateau lasts a very long time, often a full day. People describe being calm and functional, sometimes slightly energized, sometimes with headache.
 
 ### Comedown (12-48 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight.
+The effect fades over 24 to 72 hours, so there is usually no noticeable comedown between daily treatment doses.
 
 ### After-effects (24-72 h)
 
-Effects last 24 to 72 hours; constipation, headache, and sleepiness linger.
+Headache, constipation, sweating, and insomnia are common. Precipitated withdrawal, if it is taken while a full agonist is still active, feels like sudden severe sickness: vomiting, diarrhea, sweats, and agitation.
 
 ### Next day (still active)
 
-Often still active the next day or longer, due to its very long action.
+Still active the next day and beyond. Withdrawal after stopping is slow to start (often 2 to 4 days) and milder but longer than with full agonists.
 
-For the full, detailed description of each phase and the character of the high, see the [general Buprenorphine (Subutex, Suboxone) page](../../drugs/buprenorphine.md).
+For the full, detailed description of each phase, see the [general Buprenorphine (Subutex, Suboxone) page](../../drugs/buprenorphine.md).
 
 ## Risks of this route
 
@@ -65,7 +65,7 @@ Its ceiling effect makes overdose from buprenorphine alone much less likely in a
 - If they are breathing, put them on their side (recovery position) so they do not choke.
 - Never leave the person alone to "sleep it off."
 
-Read more: [What an overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
+Read more: [What an opioid overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
 
 ## Getting help
 

@@ -14,33 +14,33 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (15-45 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling.
+Tapentadol starts within about 30 minutes with a gentle warmth and slight alertness.
 
 ### Come-up (30-60 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring.
+The come-up is clean, with less nausea than oxycodone. Some feel sweaty or dizzy.
 
 ### Peak (1-2 h)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow.
+The peak, around 1 to 1.5 hours, brings mild-to-moderate euphoria and strong pain relief.
 
 ### Plateau (2-4 h)
 
-The effects level off into a steady, calm state. "Nodding" (mild to moderate with Tapentadol) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand.
+The plateau is functional and calm, with light sedation.
 
 ### Comedown (4-6 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight.
+The comedown, around 4 to 6 hours for immediate-release, is gradual.
 
 ### After-effects (6-24 h)
 
-Over the following hours: constipation, dry mouth, mild headache, and sluggishness. Sleep may be heavy but not restful.
+After-effects include dizziness, dry mouth, and constipation.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving.
+After repeated use, withdrawal is opioid-like and may include anxiety and agitation.
 
-For the full, detailed description of each phase and the character of the high, see the [general Tapentadol page](../../drugs/tapentadol.md).
+For the full, detailed description of each phase, see the [general Tapentadol page](../../drugs/tapentadol.md).
 
 ## Risks of this route
 
@@ -65,7 +65,7 @@ Seizure and serotonin syndrome risk, especially with antidepressants. Extended-r
 - If they are breathing, put them on their side (recovery position) so they do not choke.
 - Never leave the person alone to "sleep it off."
 
-Read more: [What an overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
+Read more: [What an opioid overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
 
 ## Getting help
 

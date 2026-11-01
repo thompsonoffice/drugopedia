@@ -14,33 +14,33 @@ Onset sits between swallowing and snorting. It is mostly used medically; experie
 
 ### Onset (10-30 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling.
+Swallowed morphine announces itself slowly and often through the stomach first: a vague queasiness or heaviness, then warmth spreading from the belly. Many people notice the itch before any pleasure, typically a prickle at the tip of the nose, the scalp, or the chest.
 
 ### Come-up (20-40 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring.
+Morphine's come-up is a slow tide rather than a wave. Limbs feel weighted and warm, the face flushes, and a drowsy, dreamy contentment builds.
 
 ### Peak (45-90 min)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow.
+The peak is the classic morphine state: heavy, warm, sleepy bliss, with the body feeling sunk into the bed or chair. Thinking becomes slow and soft, and pain, even severe pain, stops seeming to matter.
 
 ### Plateau (1-3 h)
 
-The effects level off into a steady, calm state. "Nodding" (heavy with Morphine) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand.
+Morphine's plateau is dominated by the nod: drifting into dreamy, half-awake imagery, sometimes vivid and story-like, then surfacing again. People describe losing track of time and conversations.
 
 ### Comedown (3-6 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight.
+As morphine fades, the warmth recedes unevenly: the dreaminess goes first, the heaviness and itch linger. People describe a sleepy, foggy flatness, and many simply fall asleep.
 
 ### After-effects (6-24 h)
 
-Over the following hours: constipation, dry mouth, mild headache, and sluggishness. Sleep may be heavy but not restful.
+Constipation is the most persistent after-effect, along with dry mouth and a dull headache. Morphine's metabolite morphine-6-glucuronide is active and builds up if the kidneys are weak, so in some people sedation outlasts the high by many hours.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving.
+The next day often brings grogginess and a 'hangover' of lethargy. After repeated use, withdrawal begins roughly 8 to 24 hours after the last exposure: yawning, runny nose, watery eyes, aches, chills, diarrhea, and restlessness, with a flu-like peak at 2 to 3 days.
 
-For the full, detailed description of each phase and the character of the high, see the [general Morphine page](../../drugs/morphine.md).
+For the full, detailed description of each phase, see the [general Morphine page](../../drugs/morphine.md).
 
 ## Risks of this route
 
@@ -65,7 +65,7 @@ Morphine and its metabolites build up in people with kidney disease and can caus
 - If they are breathing, put them on their side (recovery position) so they do not choke.
 - Never leave the person alone to "sleep it off."
 
-Read more: [What an overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
+Read more: [What an opioid overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
 
 ## Getting help
 

@@ -30,45 +30,45 @@ US Schedule III. UK Class C.
 
 ## What it feels like
 
-### The character of its euphoria
+### The character of its effects
 
 For people without opioid tolerance, buprenorphine can be surprisingly strong: a long, warm, mellow, slightly spacey euphoria with heavy nausea and sleepiness, often lasting a day or more. For people with tolerance, it produces little euphoria; instead people describe relief, clear-headedness, and feeling "normal." Many in recovery value exactly that flatness.
 
 Because it is a partial agonist with a ceiling, the high does not keep climbing the way full agonists do. Users often describe it as "cleaner" and more energetic than methadone. Nausea and headaches are common at first.
 
-Tolerance changes everything below. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
+Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
 ### Timeline
 
-Times below are typical for the sublingual and buccal (under the tongue or in the cheek) route. Other routes change the timing; see the route pages.
+Times below are typical for the sublingual and buccal (under the tongue or in the cheek) route and vary a lot between people. Other routes change the timing; see the route pages.
 
 ### Onset (30-60 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling. With Buprenorphine, many say they notice their breathing slow slightly and their thoughts get quieter before they feel anything they would call pleasure.
+Under the tongue, buprenorphine dissolves over several minutes with a bitter or flavored taste. Effects start around 30 to 60 minutes. In someone in withdrawal at the right time, the first feeling is relief.
 
 ### Come-up (1-2 h)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring. A calm, contented mood rises. Itching, usually mild, often starts on the nose, face, or upper body, caused by histamine release and by opioid effects on the nervous system. Some people feel a wave of nausea at this point, especially if they are new to opioids or moving around.
+In people without tolerance, the come-up is surprisingly strong: warm, floaty, nauseous, and sleepy. In people with tolerance, it is mostly the steady disappearance of craving and sickness.
 
 ### Peak (1-4 h)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow. Pupils shrink to pinpoints. In non-tolerant people the peak is gentle but long and often nauseating; in tolerant people there may be no noticeable peak at all. This is also when breathing is most suppressed and overdose is most likely, often without the person noticing anything wrong.
+The peak, roughly 1 to 4 hours, is a long, mellow high in non-tolerant people, often with heavy nausea. Because of the ceiling effect, more drug does not keep adding euphoria or breathing suppression the same way. Tolerant people describe clear-headedness and feeling 'normal.'
 
 ### Plateau (4-12 h)
 
-The effects level off into a steady, calm state. "Nodding" (mild to moderate with Buprenorphine) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand. People report vivid, dreamlike half-sleep. Talkativeness or a quiet, inward contentment are both common. Mouth dryness, flushed skin, and difficulty urinating can appear.
+The plateau lasts a very long time, often a full day. People describe being calm and functional, sometimes slightly energized, sometimes with headache.
 
 ### Comedown (12-48 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight. Tiredness and a flat, slightly gray mood are common. Pain, if it was being treated, returns. In people with dependence, this is where restlessness, yawning, and craving start.
+The effect fades over 24 to 72 hours, so there is usually no noticeable comedown between daily treatment doses.
 
 ### After-effects (24-72 h)
 
-Effects last 24 to 72 hours; constipation, headache, and sleepiness linger.
+Headache, constipation, sweating, and insomnia are common. Precipitated withdrawal, if it is taken while a full agonist is still active, feels like sudden severe sickness: vomiting, diarrhea, sweats, and agitation.
 
 ### Next day (still active)
 
-Often still active the next day or longer, due to its very long action.
+Still active the next day and beyond. Withdrawal after stopping is slow to start (often 2 to 4 days) and milder but longer than with full agonists.
 
 ## How the route changes the experience
 
@@ -83,7 +83,7 @@ Not covered: Swallowed buprenorphine is poorly absorbed, so oral is not a medica
 
 Its ceiling effect makes overdose from buprenorphine alone much less likely in adults, but combining it with benzodiazepines, alcohol, or other sedatives has caused many deaths. Children who swallow films or tablets can die. Naloxone still helps, though higher amounts may be needed because buprenorphine binds so tightly. Precipitated withdrawal is not an overdose, but it is severe.
 
-Read the shared page: [What an overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
 
 ## Getting help
 

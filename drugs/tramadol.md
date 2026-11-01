@@ -26,45 +26,45 @@ US Schedule IV (since 2014). UK Class C.
 
 ## What it feels like
 
-### The character of its euphoria
+### The character of its effects
 
 Tramadol is described as a mild, stimulating, 'happy' opioid: a mix of light opioid warmth and an antidepressant-like lift in mood and energy, sometimes with restlessness. Many say it feels more like a pleasant buzz than a nod.
 
 Side effects are distinctive: nausea, sweating, dizziness, and feeling 'wired' or anxious. Withdrawal can include unusual symptoms like tingling, panic, and confusion, because of its serotonin and norepinephrine effects.
 
-Tolerance changes everything below. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
+Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
 ### Timeline
 
-Times below are typical for the oral (swallowed) route. Other routes change the timing; see the route pages.
+Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
 ### Onset (15-45 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling. With Tramadol, many say they notice their breathing slow slightly and their thoughts get quieter before they feel anything they would call pleasure.
+Tramadol starts around 30 to 60 minutes after swallowing, often with a light, slightly stimulating lift in mood and subtle body warmth.
 
 ### Come-up (30-60 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring. A calm, contented mood rises. Itching, usually mild, often starts on the nose, face, or upper body, caused by histamine release and by opioid effects on the nervous system. Some people feel a wave of nausea at this point, especially if they are new to opioids or moving around.
+The come-up feels energetic and talkative for many, more like an antidepressant than an opioid. Some feel restless, sweaty, or nauseous.
 
 ### Peak (1-2 h)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow. Pupils shrink to pinpoints. Peak often feels energetic and talkative more than sedated. This is also when breathing is most suppressed and overdose is most likely, often without the person noticing anything wrong.
+The peak, around 2 to 3 hours, is mild euphoria with gentle body warmth and brightened mood. Less sedating than most opioids.
 
 ### Plateau (2-4 h)
 
-The effects level off into a steady, calm state. "Nodding" (mild with Tramadol) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand. People report vivid, dreamlike half-sleep. Talkativeness or a quiet, inward contentment are both common. Mouth dryness, flushed skin, and difficulty urinating can appear.
+The plateau is steady and functional. Sedation is light; some feel wired.
 
 ### Comedown (4-6 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight. Tiredness and a flat, slightly gray mood are common. Pain, if it was being treated, returns. In people with dependence, this is where restlessness, yawning, and craving start.
+The comedown, after 6 to 8 hours, can bring irritability and low mood.
 
 ### After-effects (6-24 h)
 
-Over the following hours: constipation, dry mouth, mild headache, and sluggishness. Sleep may be heavy but not restful. Some feel a mild low mood or irritability as the drug clears.
+Sweating, dizziness, and constipation. Seizure risk is present throughout.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving. Tolerance builds quickly, which means the same effect needs more drug and overdose risk rises, especially after a break, when tolerance drops but habits do not.
+Next day can bring a mood dip. Withdrawal includes typical opioid symptoms plus odd ones: tingling, panic, confusion, and sometimes hallucinations.
 
 ## How the route changes the experience
 
@@ -78,7 +78,7 @@ Not covered: No intranasal, transdermal, sublingual, or smoked forms.
 
 Tramadol can cause seizures, even at ordinary amounts and more in overdose or with other drugs that lower the seizure threshold. Combined with antidepressants and other serotonergic drugs it can cause serotonin syndrome (agitation, high fever, muscle twitching, confusion). Naloxone reverses breathing suppression but not seizures.
 
-Read the shared page: [What an overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
 
 ## Getting help
 

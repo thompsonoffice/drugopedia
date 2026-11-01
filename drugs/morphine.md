@@ -26,45 +26,45 @@ US Schedule II. UK Class A (low-strength preparations lower). Controlled interna
 
 ## What it feels like
 
-### The character of its euphoria
+### The character of its effects
 
 Morphine's euphoria is often called the most "classic" or "body-heavy" of the opioids. People describe it as warm, sleepy, and dreamy, more sedating and less energetic than oxycodone. It produces strong histamine release, so itching and flushing are especially common; many people describe scratching their nose or face constantly.
 
 Compared with heroin (which turns into morphine in the body), morphine taken the same way is described as slower to arrive and less sharp, with a smaller rush and more nausea. Compared with hydromorphone or fentanyl it is mellower and longer. Many people report a pleasant, hazy, dream-laden nod rather than a clear-headed buzz.
 
-Tolerance changes everything below. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
+Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
 ### Timeline
 
-Times below are typical for the oral (swallowed) route. Other routes change the timing; see the route pages.
+Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
 ### Onset (15-45 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling. With Morphine, many say they notice their breathing slow slightly and their thoughts get quieter before they feel anything they would call pleasure.
+Swallowed morphine announces itself slowly and often through the stomach first: a vague queasiness or heaviness, then warmth spreading from the belly. Many people notice the itch before any pleasure, typically a prickle at the tip of the nose, the scalp, or the chest.
 
 ### Come-up (30-60 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring. A calm, contented mood rises. Itching, usually strong, often starts on the nose, face, or upper body, caused by histamine release and by opioid effects on the nervous system. Some people feel a wave of nausea at this point, especially if they are new to opioids or moving around.
+Morphine's come-up is a slow tide rather than a wave. Limbs feel weighted and warm, the face flushes, and a drowsy, dreamy contentment builds. Nausea peaks here for many, and some vomit, which people new to opioids often find surprising given how relaxed they otherwise feel.
 
 ### Peak (1-2 h)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow. Pupils shrink to pinpoints. Morphine is known for vivid, dream-like images at the edge of sleep, a quality behind its name. This is also when breathing is most suppressed and overdose is most likely, often without the person noticing anything wrong.
+The peak is the classic morphine state: heavy, warm, sleepy bliss, with the body feeling sunk into the bed or chair. Thinking becomes slow and soft, and pain, even severe pain, stops seeming to matter. Pupils shrink, breathing slows, and heavy itching is common. This is when breathing is most depressed.
 
 ### Plateau (2-4 h)
 
-The effects level off into a steady, calm state. "Nodding" (heavy with Morphine) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand. People report vivid, dreamlike half-sleep. Talkativeness or a quiet, inward contentment are both common. Mouth dryness, flushed skin, and difficulty urinating can appear.
+Morphine's plateau is dominated by the nod: drifting into dreamy, half-awake imagery, sometimes vivid and story-like, then surfacing again. People describe losing track of time and conversations. Urinating can be difficult, and the mouth dries out.
 
 ### Comedown (4-6 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight. Tiredness and a flat, slightly gray mood are common. Pain, if it was being treated, returns. In people with dependence, this is where restlessness, yawning, and craving start.
+As morphine fades, the warmth recedes unevenly: the dreaminess goes first, the heaviness and itch linger. People describe a sleepy, foggy flatness, and many simply fall asleep. With immediate-release morphine this happens 3 to 6 hours in; extended-release stretches it far longer.
 
 ### After-effects (6-24 h)
 
-Over the following hours: constipation, dry mouth, mild headache, and sluggishness. Sleep may be heavy but not restful. Some feel a mild low mood or irritability as the drug clears.
+Constipation is the most persistent after-effect, along with dry mouth and a dull headache. Morphine's metabolite morphine-6-glucuronide is active and builds up if the kidneys are weak, so in some people sedation outlasts the high by many hours.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving. Tolerance builds quickly, which means the same effect needs more drug and overdose risk rises, especially after a break, when tolerance drops but habits do not.
+The next day often brings grogginess and a 'hangover' of lethargy. After repeated use, withdrawal begins roughly 8 to 24 hours after the last exposure: yawning, runny nose, watery eyes, aches, chills, diarrhea, and restlessness, with a flu-like peak at 2 to 3 days.
 
 ## How the route changes the experience
 
@@ -79,7 +79,7 @@ Not covered: Not available as transdermal patch, sublingual product, or smoked f
 
 Morphine and its metabolites build up in people with kidney disease and can cause delayed, prolonged overdose. Extended-release morphine taken in a damaged form releases a full day's supply at once.
 
-Read the shared page: [What an overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
 
 ## Getting help
 

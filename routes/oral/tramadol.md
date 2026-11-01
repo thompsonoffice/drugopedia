@@ -14,33 +14,33 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (15-45 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling.
+Tramadol starts around 30 to 60 minutes after swallowing, often with a light, slightly stimulating lift in mood and subtle body warmth.
 
 ### Come-up (30-60 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring.
+The come-up feels energetic and talkative for many, more like an antidepressant than an opioid. Some feel restless, sweaty, or nauseous.
 
 ### Peak (1-2 h)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow.
+The peak, around 2 to 3 hours, is mild euphoria with gentle body warmth and brightened mood. Less sedating than most opioids.
 
 ### Plateau (2-4 h)
 
-The effects level off into a steady, calm state. "Nodding" (mild with Tramadol) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand.
+The plateau is steady and functional. Sedation is light; some feel wired.
 
 ### Comedown (4-6 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight.
+The comedown, after 6 to 8 hours, can bring irritability and low mood.
 
 ### After-effects (6-24 h)
 
-Over the following hours: constipation, dry mouth, mild headache, and sluggishness. Sleep may be heavy but not restful.
+Sweating, dizziness, and constipation. Seizure risk is present throughout.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving.
+Next day can bring a mood dip. Withdrawal includes typical opioid symptoms plus odd ones: tingling, panic, confusion, and sometimes hallucinations.
 
-For the full, detailed description of each phase and the character of the high, see the [general Tramadol page](../../drugs/tramadol.md).
+For the full, detailed description of each phase, see the [general Tramadol page](../../drugs/tramadol.md).
 
 ## Risks of this route
 
@@ -65,7 +65,7 @@ Tramadol can cause seizures, even at ordinary amounts and more in overdose or wi
 - If they are breathing, put them on their side (recovery position) so they do not choke.
 - Never leave the person alone to "sleep it off."
 
-Read more: [What an overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
+Read more: [What an opioid overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
 
 ## Getting help
 

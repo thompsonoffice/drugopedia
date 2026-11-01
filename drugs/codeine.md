@@ -26,45 +26,45 @@ US: Schedule II alone; Schedule III in combination tablets; Schedule V in low-st
 
 ## What it feels like
 
-### The character of its euphoria
+### The character of its effects
 
 Codeine is the mildest of the commonly used opioids. People describe a soft, gentle, sleepy calm, with a pleasant body heaviness and a slight floaty feeling, rather than the strong euphoria of oxycodone or heroin. Itchiness is very common and often the most noticeable physical effect.
 
 Because the effect depends on the CYP2D6 enzyme, people vary enormously: some feel almost nothing, others feel strong effects or become dangerously sedated. Promethazine in cough syrup adds heavy sedation and a sluggish, slowed-down, "syrupy" quality that people associate with lean.
 
-Tolerance changes everything below. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
+Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
 ### Timeline
 
-Times below are typical for the oral (swallowed) route. Other routes change the timing; see the route pages.
+Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
 ### Onset (15-45 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling. With Codeine, many say they notice their breathing slow slightly and their thoughts get quieter before they feel anything they would call pleasure.
+Codeine starts subtly, often 30 to 60 minutes after swallowing: a slight warmth, relaxation in the shoulders, and frequently an itch on the face, arms, or back that comes before anything pleasant. With cough syrups, the throat feels soothed and the urge to cough fades.
 
 ### Come-up (30-60 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring. A calm, contented mood rises. Itching, usually strong, often starts on the nose, face, or upper body, caused by histamine release and by opioid effects on the nervous system. Some people feel a wave of nausea at this point, especially if they are new to opioids or moving around.
+The come-up is gentle and sleepy. People describe a mellow, floaty feeling and mild contentment, like the first glass of wine but heavier in the body. Nausea and dizziness are common. Whether anything more happens depends heavily on genetics: some people turn little codeine into morphine and feel mostly drowsiness and itch.
 
 ### Peak (1-2 h)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow. Pupils shrink to pinpoints. The peak is usually gentle and drowsy rather than intensely euphoric; the itch can feel stronger than the high. This is also when breathing is most suppressed and overdose is most likely, often without the person noticing anything wrong.
+Codeine's peak, typically 1 to 2 hours in, is a soft, cozy calm with mild euphoria, heavy eyelids, and relaxed muscles, notably less intense than oxycodone or morphine. Itchiness is often the most prominent physical sensation. In ultra-rapid metabolizers, the peak can be unexpectedly strong and sedating.
 
 ### Plateau (2-4 h)
 
-The effects level off into a steady, calm state. "Nodding" (mild to moderate with Codeine) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand. People report vivid, dreamlike half-sleep. Talkativeness or a quiet, inward contentment are both common. Mouth dryness, flushed skin, and difficulty urinating can appear.
+The plateau is a lazy, sleepy stretch. People describe sinking into the couch, light nodding, and a preference for quiet music or TV. Conversation slows. With promethazine syrups, sedation is much heavier (see the Lean page).
 
 ### Comedown (4-6 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight. Tiredness and a flat, slightly gray mood are common. Pain, if it was being treated, returns. In people with dependence, this is where restlessness, yawning, and craving start.
+Codeine fades over 4 to 6 hours into tiredness. People often nap. Mood can dip slightly, and the itch may linger.
 
 ### After-effects (6-24 h)
 
-Over the following hours: constipation, dry mouth, mild headache, and sluggishness. Sleep may be heavy but not restful. Some feel a mild low mood or irritability as the drug clears.
+Constipation, dry mouth, and a mild headache are common. Combination tablets with acetaminophen add liver strain that is not felt but is real.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving. Tolerance builds quickly, which means the same effect needs more drug and overdose risk rises, especially after a break, when tolerance drops but habits do not.
+Most people feel close to normal the next day, maybe slightly foggy. After regular daily use, withdrawal is milder than with stronger opioids but real: restlessness, low mood, aches, runny nose, poor sleep, and diarrhea.
 
 ## How the route changes the experience
 
@@ -78,7 +78,7 @@ Not covered: No intranasal, transdermal, sublingual, or smoked medical forms; th
 
 Ultra-rapid metabolizers can overdose on ordinary amounts. Combination tablets carry a serious risk of liver failure from acetaminophen. Promethazine-codeine syrup combines two sedatives, increasing breathing suppression, particularly with alcohol or benzos.
 
-Read the shared page: [What an overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
 
 ## Getting help
 

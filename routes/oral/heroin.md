@@ -14,33 +14,33 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (20-45 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling.
+Smoked, heroin acts within seconds; injected, within seconds to a minute; snorted, a few minutes. The first feeling is a rush of warmth from the stomach up through the chest into the head.
 
 ### Come-up (30-60 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring.
+Injected, the rush is described as overwhelming: a hot flush, a sense of release, heavy limbs, and sometimes nausea or vomiting. Smoked or snorted, it is gentler and builds over minutes.
 
 ### Peak (1-2 h)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow.
+The peak is the deep heroin calm: complete safety and warmth, pain and worry gone, heavy eyelids, pinpoint pupils, dry mouth, and strong itch. Many describe it as the most comforting feeling of their lives.
 
 ### Plateau (2-4 h)
 
-The effects level off into a steady, calm state. "Nodding" (heavy with Heroin) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand.
+The plateau is classic nodding: drifting in and out, chin dropping, dreamy visions, then waking with a start, for hours.
 
 ### Comedown (4-6 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight.
+After 3 to 5 hours, the comedown starts: warmth fades, and in dependent people craving and restlessness begin.
 
 ### After-effects (6-24 h)
 
-Over the following hours: constipation, dry mouth, mild headache, and sluggishness. Sleep may be heavy but not restful.
+Constipation, dry mouth, and fatigue. With street supply now dominated by fentanyl, duration and intensity are unpredictable.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving.
+After regular use, withdrawal begins 6 to 12 hours after last use and peaks at 1 to 3 days: sweats, chills, goosebumps, aches, diarrhea, vomiting, restless legs, and insomnia.
 
-For the full, detailed description of each phase and the character of the high, see the [general Heroin (diacetylmorphine) page](../../drugs/heroin.md).
+For the full, detailed description of each phase, see the [general Heroin (diacetylmorphine) page](../../drugs/heroin.md).
 
 ## Risks of this route
 
@@ -65,7 +65,7 @@ Since street heroin now usually contains fentanyl, overdose risk is unpredictabl
 - If they are breathing, put them on their side (recovery position) so they do not choke.
 - Never leave the person alone to "sleep it off."
 
-Read more: [What an overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
+Read more: [What an opioid overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
 
 ## Getting help
 

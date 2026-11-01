@@ -14,33 +14,33 @@ Onset sits between swallowing and snorting. It is mostly used medically; experie
 
 ### Onset (10-30 min)
 
-The first sign is often subtle: a faint warmth in the stomach or chest, a slight heaviness behind the eyes, and a loosening of tension in the shoulders. People describe it as the edge coming off whatever they were feeling.
+Swallowed oxymorphone can be slow and inconsistent to start, often 30 to 60 minutes, and is strongly affected by food. The first sign is usually a deep, sinking heaviness rather than a bright lift.
 
 ### Come-up (20-40 min)
 
-The warmth spreads outward to the arms, legs, and face. Pain, if present, fades into the background rather than disappearing outright; people describe still knowing it is there but no longer caring.
+The come-up is heavy and warm: a strong pull toward the couch, flushing, and a powerful wave of comfort. Itch is moderate.
 
 ### Peak (45-90 min)
 
-At the peak, people describe a deep, cozy contentment, as if wrapped in a warm blanket, with worries feeling far away and unimportant. Body feels heavy and relaxed; speech can slow.
+At the peak, oxymorphone is described as one of the strongest pill highs: dense, warm, and euphoric, often compared to heroin. Thinking slows and the body feels like lead.
 
 ### Plateau (1-3 h)
 
-The effects level off into a steady, calm state. "Nodding" (heavy with Oxymorphone) can occur: drifting in and out of a light sleep, head dropping, then jerking awake, sometimes mid-sentence or with a cigarette or drink in hand.
+The plateau is long and nod-heavy. People report drifting off repeatedly, with dreamlike half-sleep.
 
 ### Comedown (3-6 h)
 
-The glow fades gradually. People describe the world getting "louder" again: light, noise, and small problems regain their weight.
+The comedown is slow and sleepy. Many fall asleep as effects fade over 4 to 6 hours for immediate-release.
 
 ### After-effects (6-24 h)
 
-Over the following hours: constipation, dry mouth, mild headache, and sluggishness. Sleep may be heavy but not restful.
+After-effects include constipation, sweating, and grogginess. People often describe feeling drained.
 
 ### Next day
 
-After a single medical exposure, most people feel close to normal, perhaps a little foggy or constipated. After repeated use, the next day can bring early withdrawal: anxiety, runny nose, goosebumps, aches, diarrhea, and strong craving.
+After regular use, withdrawal is strong and comparable to heroin's: aches, restless legs, sweating, diarrhea, and insomnia.
 
-For the full, detailed description of each phase and the character of the high, see the [general Oxymorphone page](../../drugs/oxymorphone.md).
+For the full, detailed description of each phase, see the [general Oxymorphone page](../../drugs/oxymorphone.md).
 
 ## Risks of this route
 
@@ -65,7 +65,7 @@ Taking it with food or alcohol can sharply raise blood levels. The removed Opana
 - If they are breathing, put them on their side (recovery position) so they do not choke.
 - Never leave the person alone to "sleep it off."
 
-Read more: [What an overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
+Read more: [What an opioid overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
 
 ## Getting help
 
