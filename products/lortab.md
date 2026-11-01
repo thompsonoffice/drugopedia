@@ -20,7 +20,7 @@ Times vary between people; this describes swallowed tablets.
 
 ### Onset
 
-Lortab, another hydrocodone-acetaminophen brand, has the same mellow onset: warmth in the chest and stomach and loosening in the limbs. The liquid form starts a little faster than tablets.
+Lortab, another hydrocodone-acetaminophen brand, has the same mellow onset: warmth in the chest and stomach and loosening in the limbs. The syrup form is absorbed somewhat faster than tablets.
 
 Mentally the onset is calm and relaxed.
 
@@ -28,27 +28,27 @@ Itch and nausea can appear early.
 
 ### Peak
 
-The peak brings warm, heavy comfort and tingling.
+At the peak the body feels warm, heavy and comforted, with waves of tingling and itch, especially on the face and upper body. Breathing slows and pupils narrow.
 
-The emotional tone is calm, sleepy contentment.
+The emotional tone is calm, sleepy contentment, the same soft, dreamy hydrocodone character as Norco and Vicodin rather than Percocet's brighter lift.
 
-Breathing is most suppressed. Because each tablet also contains acetaminophen, taking more to chase or extend the effect quietly raises the risk of liver injury, which may cause no symptoms for a day or more. Alcohol, fasting, liver disease, and other acetaminophen-containing products (many cold and sleep medicines) make it worse.
+Breathing is most suppressed now. Because Lortab syrup is a liquid, measuring errors can lead to taking far more than intended, which is especially dangerous for children. Because each tablet also contains acetaminophen, taking more to chase or extend the effect quietly raises the risk of liver injury, which may cause no symptoms for a day or more. Alcohol, fasting, liver disease, and other acetaminophen-containing products (many cold and sleep medicines) make it worse.
 
 ### Plateau
 
-The plateau is drowsy and heavy.
+The plateau is drowsy and warm. Limbs stay heavy, eyelids droop, and light nodding can occur, especially lying down. Itching continues in patches, and the mouth stays dry.
 
-Mentally people drift.
+Mentally people drift into relaxed, unfocused daydreams. Time stretches and motivation fades; the mood is calm and passive rather than euphoric.
 
-Breathing remains slowed and constipation builds.
+Constipation and slow urination build, and breathing stays slowed. Combining with alcohol, benzodiazepines or sleep aids makes this phase dangerous.
 
 ### Comedown
 
-The comedown is gradual.
+The comedown is gradual, with tiredness, mild aches and sometimes nausea.
 
-Mood is flat or sleepy.
+Mood turns flat or sleepy, with restlessness and craving in regular users.
 
-Repeat use adds dependence and liver risk.
+Constipation can linger, and repeat use builds dependence and adds acetaminophen liver risk.
 
 ## What the added ingredients bring, and their risks
 
@@ -56,7 +56,7 @@ Repeat use adds dependence and liver risk.
 
 ## What it feels like to the touch
 
-Lortab tablets are capsule-shaped or oval, scored, and debossed with the brand name, in white or lightly tinted colors depending on strength. Lortab was also sold as a liquid (Lortab Elixir), a sweet, fruit-flavored syrup; liquids carry a high risk of measuring mistakes and are dangerous for children. **Touch, shape and imprint cannot confirm what a pill is.** Counterfeit copies of these brands are pressed to look and feel real and often contain fentanyl, xylazine or designer benzodiazepines. Ask a pharmacist, read the imprint with Be My Eyes or Seeing AI and look it up on DailyMed, keep medicine in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
+An older DailyMed Lortab tablet label (UCB) describes white tablets with pink specks, capsule-shaped and bisected, debossed 'ucb/901'; other Lortab strengths and later makers used different imprints. DailyMed also lists Lortab as a syrup (formerly called Lortab Elixir). Liquids carry a high risk of measuring mistakes and are dangerous for children. **Touch, shape and imprint cannot confirm what a pill is.** Counterfeit copies of these brands are pressed to look and feel real and often contain fentanyl, xylazine or designer benzodiazepines. Ask a pharmacist, read the imprint with Be My Eyes or Seeing AI and look it up on DailyMed, keep medicine in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 
 ## Overdose and safety
 

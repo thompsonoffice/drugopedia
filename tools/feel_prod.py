@@ -2,7 +2,7 @@
 CW=" **Touch, shape and imprint cannot confirm what a pill is.** Counterfeit copies of these brands are pressed to look and feel real and often contain fentanyl, xylazine or designer benzodiazepines. Ask a pharmacist, read the imprint with Be My Eyes or Seeing AI and look it up on DailyMed, keep medicine in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy."
 LIV="Because each tablet also contains acetaminophen, taking more to chase or extend the effect quietly raises the risk of liver injury, which may cause no symptoms for a day or more. Alcohol, fasting, liver disease, and other acetaminophen-containing products (many cold and sleep medicines) make it worse."
 PF={}
-PF["percocet"]={"touch":"Brand Percocet tablets are small and firm with a smooth, chalky (not glossy) surface, and most are scored with a line you can feel with a fingernail. The common blue tablet is round and flat with bevelled edges; other strengths come as small ovals in pink, peach or yellow. Each is debossed 'PERCOCET' with a strength number, which you can sometimes trace with a fingertip. Generic oxycodone-acetaminophen (Endocet, many 'Watson' or 'Amneal' versions) is often a larger white oblong or round scored tablet. Real Percocet has no glossy coating; the street 'perc 30' or 'M30' blue pill is not Percocet at all but a counterfeit of plain oxycodone."+CW,
+PF["percocet"]={"touch":"Per the current DailyMed Percocet label (SpecGx), the brand comes in four tablets that differ by strength: a pink oval, a blue round tablet (the only one with a bisect score line, on the back), a peach oval, and a yellow capsule-shaped tablet. All are debossed 'PERCOCET' with a strength number on the other side, so the imprint is a raised-in groove you can sometimes trace with a fingertip. They are small, firm and uncoated with a slightly chalky feel. Generic oxycodone-acetaminophen (such as Endocet) varies by maker, often white round or oblong tablets. The street 'perc 30' or 'M30' blue pill is not Percocet at all but a counterfeit of plain oxycodone."+CW,
 "onset":["Percocet starts much like immediate-release oxycodone: within a short time, a light, clean warmth rises in the chest and stomach and the shoulders loosen. The acetaminophen adds a quieter, separate relief: dull aches, headache and inflammation-type pain soften alongside the opioid effect, so many patients feel their pain ease more completely than with oxycodone alone.",
 "Mentally the onset is oxycodone's bright, upbeat lift: anxiety fades, people feel friendlier and more motivated, and the world seems manageable. Acetaminophen adds no buzz or sedation of its own, so the mental character is almost entirely oxycodone's.",
 "Early body signs include a dry mouth, narrowing pupils, a mild itch on the nose or face, and sometimes slight queasiness. Compared with Norco or Vicodin, people often describe Percocet's onset as crisper and less itchy."],
@@ -15,7 +15,7 @@ PF["percocet"]={"touch":"Brand Percocet tablets are small and firm with a smooth
 "comedown":["The comedown is relatively quick, as with oxycodone: warmth drains away, aches return, and the body feels ordinary or slightly sore.",
 "Emotionally, people describe a flat, irritable letdown that makes taking more tempting.",
 "Taking another tablet to avoid the comedown stacks both opioid and acetaminophen. In dependent people, yawning, runny nose, goosebumps and craving begin here."]}
-PF["norco"]={"touch":"Norco tablets are capsule-shaped (oblong with rounded ends), fairly large and firm, with a score line down the middle that you can feel. Depending on strength they are white or pale yellow or light orange, and the brand is debossed 'NORCO' with a number. The surface is uncoated and slightly chalky. Generic hydrocodone-acetaminophen tablets (commonly imprinted 'M365', 'M366', 'M367', 'Watson 853' or '10 325') are usually white oblong scored tablets that feel very similar."+CW,
+PF["norco"]={"touch":"Per a DailyMed Norco label (Watson), the yellow Norco tablet is capsule-shaped (oblong with rounded ends), bisected with a score line on one side you can feel with a fingernail, and debossed 'NORCO 539' on the other. Other Norco strengths have been different colors; check the imprint rather than relying on color. The tablets are uncoated and slightly chalky. Generic hydrocodone-acetaminophen tablets vary by maker, and many are white oblong scored tablets that feel very similar."+CW,
 "onset":["Norco comes on with hydrocodone's mellow, rounded warmth: a softening in the stomach and chest and a gentle heaviness in the arms. The acetaminophen quietly adds relief of aches and fever-type pain without any feeling of its own.",
 "Mentally the onset is calm and easygoing: tension fades and people describe feeling relaxed and cozy rather than energized.",
 "Itch, often on the face, neck and back, is common and can arrive early, and some people feel queasy, especially on an empty stomach."],
@@ -28,7 +28,7 @@ PF["norco"]={"touch":"Norco tablets are capsule-shaped (oblong with rounded ends
 "comedown":["The comedown is gentle: warmth fades into tiredness and mild aches.",
 "Emotionally people feel a bit flat or sleepy; regular users feel restless.",
 "Repeat use to avoid the comedown builds dependence and liver risk."]}
-PF["vicodin"]={"touch":"Original brand Vicodin tablets were white, capsule-shaped, scored and debossed 'VICODIN' (with 'ES' or 'HP' on stronger versions). The brand was discontinued, so most pills called 'Vicodin' today are generic hydrocodone-acetaminophen: usually white oblong scored tablets with imprints like 'M367' or 'Watson 3203'. They feel firm and chalky with a deep score line."+CW,
+PF["vicodin"]={"touch":"The Vicodin brand has been discontinued and no current brand label is listed on DailyMed, so its exact original appearance could not be verified there. Most pills people call 'Vicodin' today are generic hydrocodone-acetaminophen, which varies by maker; many are white, oblong, scored tablets that feel firm and chalky, with a score line you can feel. Identify by imprint, not by feel."+CW,
 "onset":["Vicodin, the name most people still use for hydrocodone-acetaminophen, starts with a mild warmth and loosening. Older Vicodin formulas contained more acetaminophen per tablet than Norco, so the non-opioid share of the pain relief was larger.",
 "Mentally the onset is a gentle, relaxed lift, softer and slower than Percocet.",
 "Itch and mild nausea are common early signs, as with all hydrocodone products."],
@@ -41,8 +41,8 @@ PF["vicodin"]={"touch":"Original brand Vicodin tablets were white, capsule-shape
 "comedown":["The comedown is gradual: tiredness and returning aches.",
 "Mood is slightly flat.",
 "Repeat use adds both dependence and liver risk."]}
-PF["lortab"]={"touch":"Lortab tablets are capsule-shaped or oval, scored, and debossed with the brand name, in white or lightly tinted colors depending on strength. Lortab was also sold as a liquid (Lortab Elixir), a sweet, fruit-flavored syrup; liquids carry a high risk of measuring mistakes and are dangerous for children."+CW,
-"onset":["Lortab, another hydrocodone-acetaminophen brand, has the same mellow onset: warmth in the chest and stomach and loosening in the limbs. The liquid form starts a little faster than tablets.",
+PF["lortab"]={"touch":"An older DailyMed Lortab tablet label (UCB) describes white tablets with pink specks, capsule-shaped and bisected, debossed 'ucb/901'; other Lortab strengths and later makers used different imprints. DailyMed also lists Lortab as a syrup (formerly called Lortab Elixir). Liquids carry a high risk of measuring mistakes and are dangerous for children."+CW,
+"onset":["Lortab, another hydrocodone-acetaminophen brand, has the same mellow onset: warmth in the chest and stomach and loosening in the limbs. The syrup form is absorbed somewhat faster than tablets.",
 "Mentally the onset is calm and relaxed.",
 "Itch and nausea can appear early."],
 "peak":["The peak brings warm, heavy comfort and tingling.",
@@ -54,3 +54,24 @@ PF["lortab"]={"touch":"Lortab tablets are capsule-shaped or oval, scored, and de
 "comedown":["The comedown is gradual.",
 "Mood is flat or sleepy.",
 "Repeat use adds dependence and liver risk."]}
+# Fuller later phases for hydrocodone brands.
+PF["norco"]["plateau"]=["During the plateau the body settles into a heavy, warm stillness, as though sinking into the chair. Itch comes in waves across the nose, neck and back, and people scratch without noticing. Eyelids feel weighted, and nodding (drifting off and jerking awake) can appear. Nausea may return with movement.",
+"Mentally the plateau is quiet, dreamy and unhurried. Conversations slow, attention drifts to music or a screen, and brief half-dream images appear when the eyes close. The mood is passive contentment, sleepier than the more alert plateau people describe with Percocet, and an hour can pass unnoticed.",
+"The gut is almost still, so fullness and constipation build and urination can be slow to start. The face may be flushed and slightly sweaty. Breathing remains slowed, and falling asleep in this phase after alcohol or a sleeping pill is a common overdose setting."]
+PF["norco"]["comedown"]=["Norco's comedown is usually gentle: the warmth recedes from the limbs, itch fades, and the body is left tired, a little stiff and achy. Pain being treated returns gradually rather than all at once.",
+"Emotionally people tend to feel flat, sleepy or slightly foggy rather than sharply irritable, though those who use regularly feel restlessness and a pull to take another tablet.",
+"Headache, dry mouth, nausea and constipation can linger. With dependence, yawning, sneezing, watery eyes and craving start here. Repeating doses to stay comfortable builds tolerance and adds acetaminophen to the liver with each tablet."]
+PF["vicodin"]["peak"].insert(1,"Body sensations at the peak include a pleasant pins-and-needles tingle in the hands and feet, a warm flush across the face and chest, and pinpoint pupils that make light feel softer. Many feel a mild queasiness when they stand or walk.")
+PF["vicodin"]["plateau"]=["The plateau is drowsy and warm. Limbs stay heavy, eyelids droop, and light nodding can occur, especially lying down. Itching continues in patches, and the mouth stays dry.",
+"Mentally people drift into relaxed, unfocused daydreams. Time stretches and motivation fades; the mood is calm and passive rather than euphoric.",
+"Constipation and slow urination build, and breathing stays slowed. Combining with alcohol, benzodiazepines or sleep aids makes this phase dangerous."]
+PF["vicodin"]["comedown"]=["The comedown is gradual: heaviness gives way to tiredness, a dull headache, and the return of aches.",
+"Mood is slightly flat and sluggish; regular users feel restless, irritable and craving.",
+"Constipation and nausea can linger. Each repeat dose adds both opioid dependence risk and acetaminophen exposure to the liver."]
+PF["lortab"]["peak"]=["At the peak the body feels warm, heavy and comforted, with waves of tingling and itch, especially on the face and upper body. Breathing slows and pupils narrow.",
+"The emotional tone is calm, sleepy contentment, the same soft, dreamy hydrocodone character as Norco and Vicodin rather than Percocet's brighter lift.",
+"Breathing is most suppressed now. Because Lortab syrup is a liquid, measuring errors can lead to taking far more than intended, which is especially dangerous for children. "+LIV]
+PF["lortab"]["plateau"]=PF["vicodin"]["plateau"]
+PF["lortab"]["comedown"]=["The comedown is gradual, with tiredness, mild aches and sometimes nausea.",
+"Mood turns flat or sleepy, with restlessness and craving in regular users.",
+"Constipation can linger, and repeat use builds dependence and adds acetaminophen liver risk."]

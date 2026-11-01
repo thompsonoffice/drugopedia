@@ -30,25 +30,27 @@ Itch and mild nausea are common early signs, as with all hydrocodone products.
 
 At the peak people feel warm, heavy and comfortable, with tingling skin and slowed breathing.
 
+Body sensations at the peak include a pleasant pins-and-needles tingle in the hands and feet, a warm flush across the face and chest, and pinpoint pupils that make light feel softer. Many feel a mild queasiness when they stand or walk.
+
 The emotional tone is calm, content and dreamy. People familiar with both often say Vicodin felt milder and sleepier than Percocet.
 
 Breathing is most suppressed now. Because each tablet also contains acetaminophen, taking more to chase or extend the effect quietly raises the risk of liver injury, which may cause no symptoms for a day or more. Alcohol, fasting, liver disease, and other acetaminophen-containing products (many cold and sleep medicines) make it worse.
 
 ### Plateau
 
-The plateau is drowsy and warm, with light nodding and occasional itching.
+The plateau is drowsy and warm. Limbs stay heavy, eyelids droop, and light nodding can occur, especially lying down. Itching continues in patches, and the mouth stays dry.
 
-Mentally people drift into relaxed daydreams.
+Mentally people drift into relaxed, unfocused daydreams. Time stretches and motivation fades; the mood is calm and passive rather than euphoric.
 
-Constipation builds and breathing stays slowed.
+Constipation and slow urination build, and breathing stays slowed. Combining with alcohol, benzodiazepines or sleep aids makes this phase dangerous.
 
 ### Comedown
 
-The comedown is gradual: tiredness and returning aches.
+The comedown is gradual: heaviness gives way to tiredness, a dull headache, and the return of aches.
 
-Mood is slightly flat.
+Mood is slightly flat and sluggish; regular users feel restless, irritable and craving.
 
-Repeat use adds both dependence and liver risk.
+Constipation and nausea can linger. Each repeat dose adds both opioid dependence risk and acetaminophen exposure to the liver.
 
 ## What the added ingredients bring, and their risks
 
@@ -56,7 +58,7 @@ Repeat use adds both dependence and liver risk.
 
 ## What it feels like to the touch
 
-Original brand Vicodin tablets were white, capsule-shaped, scored and debossed 'VICODIN' (with 'ES' or 'HP' on stronger versions). The brand was discontinued, so most pills called 'Vicodin' today are generic hydrocodone-acetaminophen: usually white oblong scored tablets with imprints like 'M367' or 'Watson 3203'. They feel firm and chalky with a deep score line. **Touch, shape and imprint cannot confirm what a pill is.** Counterfeit copies of these brands are pressed to look and feel real and often contain fentanyl, xylazine or designer benzodiazepines. Ask a pharmacist, read the imprint with Be My Eyes or Seeing AI and look it up on DailyMed, keep medicine in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
+The Vicodin brand has been discontinued and no current brand label is listed on DailyMed, so its exact original appearance could not be verified there. Most pills people call 'Vicodin' today are generic hydrocodone-acetaminophen, which varies by maker; many are white, oblong, scored tablets that feel firm and chalky, with a score line you can feel. Identify by imprint, not by feel. **Touch, shape and imprint cannot confirm what a pill is.** Counterfeit copies of these brands are pressed to look and feel real and often contain fentanyl, xylazine or designer benzodiazepines. Ask a pharmacist, read the imprint with Be My Eyes or Seeing AI and look it up on DailyMed, keep medicine in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 
 ## Overdose and safety
 

@@ -76,19 +76,19 @@ Heart rate and blood pressure rise modestly; the main risks are psychological.
 
 ### Plateau (2-4 h)
 
-The plateau continues visual and emotional effects, with a heavier body and slower movement.
+Psilocybin's plateau is a slower, rolling continuation of the peak. The body often feels heavy and warm, sometimes with a sense of melting into the floor or bed, and movement feels effortful. Waves of tingling or energy may move through the limbs, and the stomach may still feel unsettled. Visual effects persist as breathing surfaces, shifting patterns and intensified colors, especially with eyes closed.
 
-Mentally people drift in thought, often feeling connected, vulnerable or tearful.
+Mentally people often drift through long chains of thought and memory. Emotions can be close to the surface: laughter, tears, gratitude or grief may arrive suddenly. Many describe feelings of connection with nature, other people or something larger; others feel vulnerable, exposed or stuck in a thought loop. Time can feel suspended.
 
-Coordination is reduced, so walking around unsupervised can be risky.
+Coordination and judgment are reduced, so walking around unsupervised, near water, traffic or heights, is risky. Anxiety can resurface in waves, usually easing with a calm setting and reassurance.
 
 ### Comedown (4-6 h)
 
-The comedown is gentle, with tiredness and relaxation.
+As psilocybin fades, visuals soften into a slight shimmer, the body feels tired and loose, and appetite may return. Some feel mild headache or lingering stomach discomfort.
 
-Emotionally people feel reflective, calm or emotionally open.
+Emotionally the comedown is often reflective and calm, with a sense of having been through something meaningful. Some feel raw, tearful or anxious, and people may want to talk through what they experienced.
 
-Rarely, lasting anxiety, low mood or perception changes occur.
+Sleep usually comes more easily than after LSD. Rarely, people experience lasting anxiety, low mood or perception changes, and people with a personal or family history of psychosis or bipolar disorder face higher risk.
 
 Psilocin's half-life is about 2 to 3 hours.
 

@@ -36,19 +36,19 @@ Breathing is most suppressed now. Because each tablet also contains acetaminophe
 
 ### Plateau
 
-During the plateau people feel heavy, warm and drowsy, and nodding can occur. Nausea may come and go.
+During the plateau the body settles into a heavy, warm stillness, as though sinking into the chair. Itch comes in waves across the nose, neck and back, and people scratch without noticing. Eyelids feel weighted, and nodding (drifting off and jerking awake) can appear. Nausea may return with movement.
 
-Mentally the plateau is quiet and dreamy, with slowed time.
+Mentally the plateau is quiet, dreamy and unhurried. Conversations slow, attention drifts to music or a screen, and brief half-dream images appear when the eyes close. The mood is passive contentment, sleepier than the more alert plateau people describe with Percocet, and an hour can pass unnoticed.
 
-Constipation and difficulty urinating become noticeable, and breathing remains slowed.
+The gut is almost still, so fullness and constipation build and urination can be slow to start. The face may be flushed and slightly sweaty. Breathing remains slowed, and falling asleep in this phase after alcohol or a sleeping pill is a common overdose setting.
 
 ### Comedown
 
-The comedown is gentle: warmth fades into tiredness and mild aches.
+Norco's comedown is usually gentle: the warmth recedes from the limbs, itch fades, and the body is left tired, a little stiff and achy. Pain being treated returns gradually rather than all at once.
 
-Emotionally people feel a bit flat or sleepy; regular users feel restless.
+Emotionally people tend to feel flat, sleepy or slightly foggy rather than sharply irritable, though those who use regularly feel restlessness and a pull to take another tablet.
 
-Repeat use to avoid the comedown builds dependence and liver risk.
+Headache, dry mouth, nausea and constipation can linger. With dependence, yawning, sneezing, watery eyes and craving start here. Repeating doses to stay comfortable builds tolerance and adds acetaminophen to the liver with each tablet.
 
 ## What the added ingredients bring, and their risks
 
@@ -56,7 +56,7 @@ Repeat use to avoid the comedown builds dependence and liver risk.
 
 ## What it feels like to the touch
 
-Norco tablets are capsule-shaped (oblong with rounded ends), fairly large and firm, with a score line down the middle that you can feel. Depending on strength they are white or pale yellow or light orange, and the brand is debossed 'NORCO' with a number. The surface is uncoated and slightly chalky. Generic hydrocodone-acetaminophen tablets (commonly imprinted 'M365', 'M366', 'M367', 'Watson 853' or '10 325') are usually white oblong scored tablets that feel very similar. **Touch, shape and imprint cannot confirm what a pill is.** Counterfeit copies of these brands are pressed to look and feel real and often contain fentanyl, xylazine or designer benzodiazepines. Ask a pharmacist, read the imprint with Be My Eyes or Seeing AI and look it up on DailyMed, keep medicine in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
+Per a DailyMed Norco label (Watson), the yellow Norco tablet is capsule-shaped (oblong with rounded ends), bisected with a score line on one side you can feel with a fingernail, and debossed 'NORCO 539' on the other. Other Norco strengths have been different colors; check the imprint rather than relying on color. The tablets are uncoated and slightly chalky. Generic hydrocodone-acetaminophen tablets vary by maker, and many are white oblong scored tablets that feel very similar. **Touch, shape and imprint cannot confirm what a pill is.** Counterfeit copies of these brands are pressed to look and feel real and often contain fentanyl, xylazine or designer benzodiazepines. Ask a pharmacist, read the imprint with Be My Eyes or Seeing AI and look it up on DailyMed, keep medicine in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 
 ## Overdose and safety
 

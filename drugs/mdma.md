@@ -76,19 +76,19 @@ Overheating is worsened by hot crowded venues and dancing; serotonin syndrome is
 
 ### Plateau (2-4 h)
 
-The plateau keeps warmth, energy and touch sensitivity, with continued jaw tension.
+The plateau holds warmth, energy and heightened touch sensitivity: hugging, stroking or dancing feels unusually pleasant. The jaw stays tight and people may grind their teeth or chew. Sweating continues, and the body is hot, especially in crowded venues. The eyes may flicker slightly (nystagmus) and pupils remain wide.
 
-Mentally people stay sociable, open and affectionate.
+Mentally people stay open, talkative and affectionate. Conversations can feel deep and honest, and people may share things they normally keep private. The intense rush of the peak smooths into a warm, contented glow, though some feel a slight restlessness or wish for more.
 
-Dehydration, overheating and low blood sodium risks continue.
+Overheating, dehydration and, from drinking very large amounts of water, low blood sodium remain the main dangers. Combining with other stimulants or serotonergic drugs adds risk.
 
 ### Comedown (4-6 h)
 
-The comedown brings tiredness, jaw soreness and sometimes muscle aches.
+As MDMA wears off, the body feels tired, achy and heavy; the jaw and teeth may be sore, and some feel chilled or sweaty. Sleep can be difficult despite exhaustion.
 
-Emotionally a low mood can follow for days ('Tuesday blues').
+Emotionally the warmth drains away, often leaving a flat, empty or tearful mood. The next few days can bring the 'Tuesday blues' of low mood, irritability and poor concentration, linked to depleted serotonin.
 
-Repeated use worsens these effects and can cause lasting mood and memory problems.
+Repeated or heavy use worsens these effects and is linked to lasting mood and memory problems. Severe headache, confusion or vomiting after heavy water drinking is an emergency sign of low blood sodium.
 
 MDMA's half-life is about 7 to 9 hours; because it inhibits CYP2D6, redosing raises levels more than expected.
 
