@@ -14,7 +14,7 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (IV 5-15 min)
 
-Under the tongue, buprenorphine dissolves over several minutes with a bitter or flavored taste. Effects start around 30 to 60 minutes.
+Under the tongue, buprenorphine dissolves over several minutes with a bitter or flavored taste. Effects start around 40 to 80 minutes.
 
 ### Come-up (IV 15-30 min)
 

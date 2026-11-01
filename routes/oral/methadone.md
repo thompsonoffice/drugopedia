@@ -12,19 +12,19 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ## Timeline for this route
 
-### Onset (30-60 min)
+### Onset (20-90 min)
 
-Methadone starts slowly, 30 to 60 minutes after swallowing. The first sensations are quiet: a slight warmth, eased tension, and, in someone in withdrawal, the gradual fading of sickness.
+Methadone starts slowly, roughly 20 to 90 minutes after swallowing. The first sensations are quiet: a slight warmth, eased tension, and, in someone in withdrawal, the gradual fading of sickness.
 
-### Come-up (1-2 h)
+### Come-up (2-4 h)
 
 The come-up is gradual and underwhelming, which is part of the danger. People without tolerance describe a heavy, warm, sedated feeling building over hours, and may wrongly think it is weak.
 
-### Peak (2-4 h)
+### Peak (2-6 h)
 
 The felt peak is around 2 to 4 hours, but methadone keeps accumulating, and breathing suppression can deepen after the 'high' has leveled off. People describe a calm, heavy, dull contentment, sweating, and drowsiness.
 
-### Plateau (4-12 h)
+### Plateau (6-19 h)
 
 The plateau is very long, often the rest of the day. For people in treatment it feels like being normal: no craving, no sickness, clear enough to work.
 

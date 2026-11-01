@@ -14,31 +14,31 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (15-45 min)
 
-Onset within seconds to minutes depending on route.
+Smoked or injected: seconds; swallowed: about 15 to 45 minutes.
 
 ### Come-up (30-60 min)
 
-Little come-up.
+Very fast, overwhelming heaviness.
 
 ### Peak (1-2 h)
 
-Heavy sedation, sometimes immediate unconsciousness.
+Peak deep sedation and nodding; breathing can slow sharply.
 
 ### Plateau (2-4 h)
 
-Duration unclear, may be longer than fentanyl.
+Plateau varies; some last longer than fentanyl.
 
 ### Comedown (4-6 h)
 
-Comedown unclear.
+Fade is unpredictable and overdose can return after naloxone wears off.
 
 ### After-effects (6-24 h)
 
-Unknown.
+Exhaustion, nausea.
 
 ### Next day
 
-Strong dependence expected.
+Withdrawal may begin.
 
 For the full, detailed description of each phase, see the [general Nitazenes (isotonitazene, protonitazene, metonitazene, and others) page](../../drugs/nitazenes.md).
 

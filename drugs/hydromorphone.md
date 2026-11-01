@@ -24,6 +24,12 @@ Known on the street as "dillies" or "D". Popular among people who inject drugs b
 
 US Schedule II. UK Class A.
 
+## Immediate-release vs extended-release
+
+Immediate-release hydromorphone (Dilaudid tablets and liquid) works quickly, often within 15 to 30 minutes, and lasts about 4 hours, with a fast, strong peak. Extended-release hydromorphone (Exalgo, once daily, discontinued in the US; Jurnista and Hydromorph Contin elsewhere) gives a very slow, flat, all-day effect for opioid-tolerant patients. Palladone, an earlier once-daily capsule, was withdrawn in 2005 because alcohol could release all of its drug at once.
+
+**Extra risks of extended-release:** Extended-release products hold far more drug than a single immediate-release tablet, released slowly over many hours. If the release system is damaged, chewed, crushed, dissolved, or taken with alcohol (for some products), the whole reserve can be released at once, which has caused many overdose deaths. ER products are meant only for people with established opioid tolerance and ongoing pain, and they should never be split or shared. Because they last so long, overdose can develop slowly, often during sleep.
+
 ## What the pills feel like
 
 Dilaudid and generic hydromorphone tablets are small, triangular or round tablets, often scored. Extended-release tablets are film-coated.

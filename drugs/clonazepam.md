@@ -24,6 +24,10 @@ Misused for calm and to soften stimulant or opioid withdrawal.
 
 US Schedule IV. UK Class C.
 
+## Immediate-release vs extended-release
+
+Clonazepam has no extended-release form; it is naturally long-acting.
+
 ## What the pills feel like
 
 Klonopin tablets are small and round with a 'K'-shaped cut-out through the center on the brand; generics are small, round, and scored. Orally disintegrating tablets are round and dissolve quickly.

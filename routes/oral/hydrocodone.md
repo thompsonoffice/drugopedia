@@ -12,9 +12,9 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (10-60 min)
 
-Hydrocodone usually starts 15 to 30 minutes after swallowing with a pleasant warmth in the chest and a lift in mood, sometimes before any body heaviness. Many describe a sudden sense that the day has gotten easier.
+Hydrocodone usually starts 10 to 60 minutes after swallowing with a pleasant warmth in the chest and a lift in mood, sometimes before any body heaviness. Many describe a sudden sense that the day has gotten easier.
 
 ### Come-up (30-60 min)
 
@@ -28,11 +28,11 @@ At the peak, around 1 to 1.5 hours, hydrocodone gives a warm, contented, sociabl
 
 The plateau tilts toward sleepiness: the chatty phase gives way to quiet contentment and light nodding, especially when lying down.
 
-### Comedown (4-6 h)
+### Comedown (4-8 h)
 
 The comedown, around 4 to 6 hours, is gradual. People describe a slide into tiredness and mild irritability as the warmth leaves, and some feel the urge to take more, which is how use escalates.
 
-### After-effects (6-24 h)
+### After-effects (8-24 h)
 
 After-effects include constipation, dry mouth, and sometimes headache. Because many products contain acetaminophen, repeated use can damage the liver without warning signs.
 

@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (15-30 min)
 
-Onset begins with loosening tension and a gentle heaviness.
+Swallowed: about 15 to 30 minutes.
 
 ### Come-up (30 min)
 
-Relaxation and drowsiness build.
+Fast drowsiness.
 
 ### Peak (1-2 h)
 
-Peak: strong calm, sedation, and reduced coordination; memory gaps begin.
+Peak within about 1 to 2 hours, strong amnesia.
 
 ### Plateau (1-3 h)
 
-Plateau of sedation and calm.
+A few hours.
 
 ### Comedown (2-4 h)
 
-Effects fade; short-acting ones can bring rebound anxiety or insomnia.
+Fades in about 4 to 6 hours.
 
 ### After-effects (4-12 h)
 
-Grogginess, memory gaps, impaired driving.
+Early-morning wakening, anxiety.
 
 ### Next day
 
-After daily use, stopping can cause dangerous withdrawal including seizures.
+Rebound anxiety.
 
 For the full, detailed description of each phase, see the [general Triazolam (Halcion) page](../../drugs/triazolam.md).
 

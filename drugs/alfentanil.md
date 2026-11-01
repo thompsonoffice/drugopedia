@@ -34,9 +34,11 @@ Forms vary by country and manufacturer; see the brand list above. Ask a pharmaci
 
 ### The character of its effects
 
-Alfentanil is a hospital drug. Patients describe a fast, heavy wave of warmth and sleepiness, sometimes a pleasant floaty detachment before anesthesia, rather than a long euphoria. Its effects are extremely short and very strong.
+Alfentanil is a very short-acting fentanyl relative used for brief procedures. Its character is a quick, sharp wave of sedation and pain relief that ebbs within minutes.
 
-People who received it rarely remember much; its main 'feeling' is sudden sedation and dulled pain, sometimes with nausea or itch on waking.
+Patients describe a sudden heaviness, a warm rush in the chest, and then very little memory of the procedure.
+
+Because it acts and fades fast, it is used for short painful moments, not lasting relief.
 
 Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
@@ -46,7 +48,7 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (under 1 min)
 
-Given IV, it acts within about a minute.
+IV: under one minute.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -54,11 +56,11 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 ### Come-up (seconds)
 
-There is little or no come-up.
+Essentially immediate.
 
 ### Peak (1-5 min)
 
-The peak comes within minutes: heavy sedation and strong pain relief; breathing can stop and chest muscles can stiffen, which is why it is used only with airway support.
+Peaks within about 1 to 2 minutes.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +68,11 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (5-30 min (remifentanil ends within minutes of stopping))
 
-The effect lasts only as long as the drug is being given (remifentanil) or for minutes to an hour.
+Lasts only about 5 to 10 minutes after one dose.
 
 ### Comedown (under 1 h)
 
-It wears off quickly.
+Fades fast.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
@@ -78,11 +80,11 @@ For long-acting or extended-release forms, the comedown can be very drawn out, a
 
 ### After-effects (1-4 h)
 
-Patients may feel groggy, nauseous, or have more pain as it ends.
+Brief nausea or dizziness.
 
 ### Next day
 
-Little next-day effect after single medical use.
+No next-day effect from the drug itself.
 
 ### Lower vs higher doses (described without amounts)
 

@@ -24,6 +24,12 @@ Pharmaceutical fentanyl patches have been diverted and misused since the 1990s. 
 
 US Schedule II. Most analogs are Schedule I, and since 2018 fentanyl-related substances are controlled as a class.
 
+## Immediate-release vs extended-release
+
+Fentanyl's long-acting form is the transdermal patch (Duragesic and generics), which releases drug over 72 hours; the fast-acting forms (Actiq, Fentora, Abstral, Subsys, Lazanda) are for breakthrough cancer pain only. Patches hold a large reserve; heat and damage are deadly.
+
+**Extra risks of extended-release:** Extended-release products hold far more drug than a single immediate-release tablet, released slowly over many hours. If the release system is damaged, chewed, crushed, dissolved, or taken with alcohol (for some products), the whole reserve can be released at once, which has caused many overdose deaths. ER products are meant only for people with established opioid tolerance and ongoing pain, and they should never be split or shared. Because they last so long, overdose can develop slowly, often during sleep.
+
 ## What the pills feel like
 
 Fentanyl patches are thin, flexible, rectangular or rounded-rectangle adhesive patches sealed in individual pouches; larger patches deliver more drug. Actiq is a solid lozenge on a plastic handle, like a lollipop. Fentora is a flat, round buccal tablet.

@@ -12,11 +12,11 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (20-45 min)
 
 Swallowed oxymorphone can be slow and inconsistent to start, often 30 to 60 minutes, and is strongly affected by food. The first sign is usually a deep, sinking heaviness rather than a bright lift.
 
-### Come-up (30-60 min)
+### Come-up (45-90 min)
 
 The come-up is heavy and warm: a strong pull toward the couch, flushing, and a powerful wave of comfort. Itch is moderate.
 

@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (30-60 min)
 
-Onset begins with loosening tension and a gentle heaviness.
+Swallowed: about 30 minutes.
 
 ### Come-up (1 h)
 
-Relaxation and drowsiness build.
+Drowsiness.
 
 ### Peak (1-2 h)
 
-Peak: strong calm, sedation, and reduced coordination; memory gaps begin.
+Peak 1 to 2 hours.
 
 ### Plateau (2-6 h)
 
-Plateau of sedation and calm.
+Sleep.
 
 ### Comedown (6-10 h)
 
-Effects fade; short-acting ones can bring rebound anxiety or insomnia.
+Fades over about 8 to 10 hours.
 
 ### After-effects (10-24 h)
 
-Grogginess, memory gaps, impaired driving.
+Grogginess.
 
 ### Next day
 
-After daily use, stopping can cause dangerous withdrawal including seizures.
+Mild fog.
 
 For the full, detailed description of each phase, see the [general Lormetazepam (Noctamid) page](../../drugs/lormetazepam.md).
 

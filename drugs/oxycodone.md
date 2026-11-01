@@ -24,9 +24,15 @@ OxyContin, nicknamed "hillbilly heroin", spread quickly in Appalachia and rural 
 
 US Schedule II. UK Class A. Controlled internationally.
 
+## Immediate-release vs extended-release
+
+Immediate-release oxycodone (Roxicodone, Oxaydo, RoxyBond, generic tablets and capsules, Percocet and other combinations) starts within about 10 to 30 minutes and lasts about 4 to 6 hours, with a noticeable rise, peak, and fall. Extended-release oxycodone (OxyContin, Xtampza ER) is designed to release drug over about 12 hours: it starts more slowly, rises gently, and gives a flatter, steadier effect with little sense of a 'high' when taken as prescribed. Patients describe OxyContin as background pain control rather than a distinct experience, with drowsiness and constipation more noticeable than mood changes. OxyContin was reformulated in 2010 with abuse-deterrent properties. Xtampza ER uses a microsphere-in-capsule design.
+
+**Extra risks of extended-release:** Extended-release products hold far more drug than a single immediate-release tablet, released slowly over many hours. If the release system is damaged, chewed, crushed, dissolved, or taken with alcohol (for some products), the whole reserve can be released at once, which has caused many overdose deaths. ER products are meant only for people with established opioid tolerance and ongoing pain, and they should never be split or shared. Because they last so long, overdose can develop slowly, often during sleep.
+
 ## What the pills feel like
 
-Immediate-release oxycodone tablets from US generic makers are mostly small, round, flat tablets with a smooth surface, often with a score line across one side and a debossed (pressed-in) imprint you can sometimes feel. OxyContin extended-release tablets are small, round, and film-coated, so they feel slick and harder than ordinary tablets, with no score line. Percocet and its generics are larger, round or oblong tablets, often scored. Oxycodone oral solution is a liquid.
+Immediate-release oxycodone tablets from US generic makers are mostly small, round, flat tablets with a smooth surface, often with a score line across one side and a debossed (pressed-in) imprint you can sometimes feel. OxyContin extended-release tablets are small, round, bi-convex (domed on both sides), and film-coated, so they feel slick and hard, with no score line; the DailyMed label lists them as debossed 'OP' on one side and the strength on the other. Percocet and its generics are larger, round or oblong tablets, often scored. Oxycodone oral solution is a liquid.
 
 **Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 

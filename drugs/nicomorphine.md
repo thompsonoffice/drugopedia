@@ -34,9 +34,11 @@ Forms vary by country and manufacturer; see the brand list above. Ask a pharmaci
 
 ### The character of its effects
 
-Information on what Nicomorphine feels like is limited to older clinical descriptions and a small number of reports. It is generally described as producing classic opioid effects: warmth, relaxation, pain relief, and drowsiness, with euphoria similar to other drugs in its family.
+Nicomorphine (Vilan) is a morphine ester that converts to morphine in the body, much as heroin does. Its character is similar to heroin or morphine: a warm, heavy contentment with a faster start than plain morphine when injected.
 
-Because it is rare, there are few trustworthy descriptions, and anything sold under this name outside a pharmacy is likely to be something else, often fentanyl.
+It was used for pain after surgery and in childbirth in parts of Europe.
+
+It is rare today.
 
 Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
@@ -46,7 +48,7 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV seconds; IM/SC 5-15 min)
 
-Onset depends on route: minutes when injected, 15 to 45 minutes swallowed.
+Injection: a few minutes.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -54,11 +56,11 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 ### Come-up (IV under 1 min; IM/SC 10-20 min)
 
-A warm, relaxing build.
+Warm rush and heaviness.
 
 ### Peak (IV 2-10 min; IM/SC 20-60 min)
 
-Typical opioid peak of calm, contentment, and pain relief.
+Peak within 30 minutes.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +68,11 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (30 min-2 h)
 
-Sedation and possible nodding.
+Lasts a few hours.
 
 ### Comedown (2-4 h)
 
-Gradual fade over several hours.
+Fades over 3 to 5 hours.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
@@ -78,11 +80,11 @@ For long-acting or extended-release forms, the comedown can be very drawn out, a
 
 ### After-effects (4-12 h)
 
-Constipation and drowsiness.
+Nausea, itch.
 
 ### Next day
 
-Typical opioid withdrawal after regular use.
+Grogginess.
 
 ### Lower vs higher doses (described without amounts)
 

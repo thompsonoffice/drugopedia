@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (45-90 min)
 
-Onset begins with loosening tension and a gentle heaviness.
+Swallowed: about 45 to 90 minutes.
 
 ### Come-up (1-2 h)
 
-Relaxation and drowsiness build.
+Slow, soft relaxation.
 
 ### Peak (2-3 h)
 
-Peak: strong calm, sedation, and reduced coordination; memory gaps begin.
+Peak around 2 to 3 hours.
 
 ### Plateau (3-6 h)
 
-Plateau of sedation and calm.
+Several hours of calm.
 
 ### Comedown (6-12 h)
 
-Effects fade; short-acting ones can bring rebound anxiety or insomnia.
+Fades over 6 to 10 hours.
 
 ### After-effects (12-24 h)
 
-Grogginess, memory gaps, impaired driving.
+Mild sleepiness.
 
 ### Next day
 
-After daily use, stopping can cause dangerous withdrawal including seizures.
+Little next-day effect.
 
 For the full, detailed description of each phase, see the [general Oxazepam (Serax) page](../../drugs/oxazepam.md).
 

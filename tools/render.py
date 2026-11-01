@@ -5,7 +5,8 @@ from gen import *
 from med import expand,VARY
 from touch import touch
 from lohi import lohi
-for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo"]:
+from er import er
+for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo","spec"]:
     try: importlib.import_module(m)
     except ModuleNotFoundError as e:
         if e.name!=m: raise
@@ -41,6 +42,7 @@ for slug,d in D.items():
     s+=f"## History and origins\n\n{d['history']}\n\n## Medical use, then and now\n\n{d['medical']}\n\n"
     if d.get("treatment"): s+=f"## Role in addiction treatment\n\n{d['treatment']}\n\n"
     s+=f"## How it entered recreational use\n\n{d['recreational']}\n\n## Legal status\n\n{d['legal']}\n\n"
+    s+=er(slug)
     s+=touch(slug)
     s+=f"## What it feels like\n\n### The character of its effects\n\n"+"\n\n".join(d["flavor"])+f"\n\n{d.get('tol',TOL[b])}\n\n"
     s+=f"### Timeline\n\nTimes below are typical for the {ROUTES[main][0].lower()} route and vary a lot between people. Other routes change the timing; see the route pages.\n\n"

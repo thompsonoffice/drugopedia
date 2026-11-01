@@ -14,7 +14,7 @@ A noticeably quicker and sharper onset than swallowing, with a mild rush or 'dro
 
 ### Onset (5-15 min)
 
-Hydrocodone usually starts 15 to 30 minutes after swallowing with a pleasant warmth in the chest and a lift in mood, sometimes before any body heaviness. Many describe a sudden sense that the day has gotten easier.
+Hydrocodone usually starts 10 to 60 minutes after swallowing with a pleasant warmth in the chest and a lift in mood, sometimes before any body heaviness. Many describe a sudden sense that the day has gotten easier.
 
 ### Come-up (10-20 min)
 

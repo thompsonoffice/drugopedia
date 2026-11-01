@@ -14,31 +14,31 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (IV seconds; IM/SC 5-15 min)
 
-Onset depends on route: minutes when injected, 15 to 45 minutes swallowed.
+Injection: about 1 to 2 minutes.
 
 ### Come-up (IV under 1 min; IM/SC 10-20 min)
 
-A warm, relaxing build.
+Immediate drowsiness.
 
 ### Peak (IV 2-10 min; IM/SC 20-60 min)
 
-Typical opioid peak of calm, contentment, and pain relief.
+Peak within 10 minutes.
 
 ### Plateau (30 min-2 h)
 
-Sedation and possible nodding.
+Short plateau.
 
 ### Comedown (2-4 h)
 
-Gradual fade over several hours.
+Gone in 1 to 2 hours.
 
 ### After-effects (4-12 h)
 
-Constipation and drowsiness.
+Dizziness.
 
 ### Next day
 
-Typical opioid withdrawal after regular use.
+None.
 
 For the full, detailed description of each phase, see the [general Alphaprodine page](../../drugs/alphaprodine.md).
 

@@ -34,9 +34,11 @@ Forms vary by country and manufacturer; see the brand list above. Ask a pharmaci
 
 ### The character of its effects
 
-Butorphanol is described as an odd, mixed experience: mild opioid warmth and sedation combined with spacey, dreamlike, or uneasy feelings from kappa receptors, sometimes dysphoria, racing thoughts, or hallucinations. People rarely describe it as purely pleasant.
+Butorphanol is a mixed agonist-antagonist: it activates kappa receptors more strongly than most opioids. Its character is heavy drowsiness and a floating, sometimes unreal feeling, rather than the warm contentment of morphine.
 
-In people dependent on full opioids, it can trigger withdrawal because it partly blocks the mu receptor.
+The nasal spray was popular for migraines. Many users reported dizziness, a 'spaced-out' or dissociated state, and sometimes anxiety or strange thoughts from the kappa effects.
+
+It has a ceiling on breathing depression, but sedation still adds dangerously to alcohol and benzodiazepines, and in people dependent on other opioids it can trigger withdrawal.
 
 Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
@@ -46,7 +48,7 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (5-15 min)
 
-Injected, it starts within minutes; nasal spray within about 15 minutes; swallowed within 15 to 30 minutes. Often a light-headed, floaty start.
+Nasal spray: within about 15 minutes; injection: a few minutes.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -54,11 +56,11 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 ### Come-up (10-20 min)
 
-The come-up brings sleepiness, a 'drunk' or detached feeling, and sometimes dizziness or sweating.
+Drowsiness and lightheadedness rise fast.
 
 ### Peak (15-45 min)
 
-The peak combines pain relief and sedation with dreaminess; some feel anxiety, strange thoughts, or vivid imagery.
+Peak around 30 to 60 minutes: heavy sleepiness, dizziness, sometimes a dreamy unreality.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +68,11 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-2 h)
 
-The plateau is sedated and spacey, lasting a few hours.
+Sedation for a few hours.
 
 ### Comedown (2-4 h)
 
-It fades over 3 to 6 hours.
+Fades over about 3 to 5 hours.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
@@ -78,11 +80,11 @@ For long-acting or extended-release forms, the comedown can be very drawn out, a
 
 ### After-effects (4-12 h)
 
-Some feel hungover, dizzy, or low.
+Headache, nausea, lingering fog.
 
 ### Next day
 
-Next day is usually normal after single use.
+Some feel washed-out next day.
 
 ### Lower vs higher doses (described without amounts)
 

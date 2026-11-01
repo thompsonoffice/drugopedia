@@ -44,9 +44,9 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (10-30 min)
+### Onset (20-40 min)
 
-Swallowed, effects begin in 10 to 30 minutes, often as a mild lift in energy or calm.
+Swallowed, effects begin in about 20 to 40 minutes, often as a mild lift in energy or calm.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Mitragynine is metabolized by CYP3A4, partly into 7-hydroxymitragynine; effects vary with leaf alkaloid content. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -56,7 +56,7 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 The come-up brings increased sociability or relaxation depending on the amount, with a warm feeling in the stomach.
 
-### Peak (1-2 h)
+### Peak (1-3 h)
 
 The peak, around 1 to 2 hours, is described as content, comfortable, and pain-free, sometimes stimulated, sometimes drowsy. Pupils may narrow.
 
@@ -64,11 +64,11 @@ Medically, the peak corresponds to the highest drug levels at the receptors. The
 
 Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
-### Plateau (2-3 h)
+### Plateau (2-4 h)
 
 The plateau is steady and functional for a couple of hours.
 
-### Comedown (3-6 h)
+### Comedown (3-7 h total)
 
 Effects fade over 3 to 6 hours.
 

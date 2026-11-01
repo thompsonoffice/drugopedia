@@ -34,9 +34,11 @@ Capsules and tablets.
 
 ### The character of its effects
 
-Oxazepam is described as producing classic benzodiazepine effects: calm, relaxed muscles, lowered inhibition, and sleepiness. People rarely describe strong euphoria; the core experience is relief and heaviness.
+Oxazepam (Serax, Serepax) is slow to start and mild. Its character is gentle calm and loosening without a sudden 'hit', which made it less popular for misuse.
 
-Memory loss is a central effect: people often don't remember the later part of the experience. Compared with other benzos, its character depends mainly on how fast it acts and how long it lasts (see the timeline).
+It is processed without the liver enzymes many other benzodiazepines need, so it is used in older adults and people with liver disease, and in alcohol withdrawal.
+
+Effects feel mellow and even.
 
 Tolerance to the calming and sleep effects of benzodiazepines builds within weeks, while memory loss and the danger of mixing with alcohol or opioids remain. People taking them daily often feel little except relief from anxiety, and stopping suddenly can cause seizures.
 
@@ -46,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (45-90 min)
 
-Onset begins with loosening tension and a gentle heaviness.
+Swallowed: about 45 to 90 minutes.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -54,11 +56,11 @@ Clinicians notice early signs such as slower speech, drooping eyelids, and reduc
 
 ### Come-up (1-2 h)
 
-Relaxation and drowsiness build.
+Slow, soft relaxation.
 
 ### Peak (2-3 h)
 
-Peak: strong calm, sedation, and reduced coordination; memory gaps begin.
+Peak around 2 to 3 hours.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -66,11 +68,11 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (3-6 h)
 
-Plateau of sedation and calm.
+Several hours of calm.
 
 ### Comedown (6-12 h)
 
-Effects fade; short-acting ones can bring rebound anxiety or insomnia.
+Fades over 6 to 10 hours.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
@@ -78,11 +80,11 @@ In people who take them daily, falling levels can trigger withdrawal, which in s
 
 ### After-effects (12-24 h)
 
-Grogginess, memory gaps, impaired driving.
+Mild sleepiness.
 
 ### Next day
 
-After daily use, stopping can cause dangerous withdrawal including seizures.
+Little next-day effect.
 
 ### Lower vs higher doses (described without amounts)
 

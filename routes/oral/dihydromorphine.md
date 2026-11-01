@@ -14,31 +14,31 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (15-45 min)
 
-Onset depends on route: minutes when injected, 15 to 45 minutes swallowed.
+Injection: a few minutes; oral: about 30 minutes.
 
 ### Come-up (30-60 min)
 
-A warm, relaxing build.
+Warmth and heaviness.
 
 ### Peak (1-2 h)
 
-Typical opioid peak of calm, contentment, and pain relief.
+Peak about 30 to 60 minutes.
 
 ### Plateau (2-4 h)
 
-Sedation and possible nodding.
+A few hours.
 
 ### Comedown (4-6 h)
 
-Gradual fade over several hours.
+Fades over about 4 hours.
 
 ### After-effects (6-24 h)
 
-Constipation and drowsiness.
+Itch, nausea.
 
 ### Next day
 
-Typical opioid withdrawal after regular use.
+Grogginess.
 
 For the full, detailed description of each phase, see the [general Dihydromorphine page](../../drugs/dihydromorphine.md).
 

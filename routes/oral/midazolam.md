@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (15-45 min)
 
-Onset begins with loosening tension and a gentle heaviness.
+IV: 1 to 5 minutes; nasal: about 5 to 10 minutes.
 
 ### Come-up (30-60 min)
 
-Relaxation and drowsiness build.
+Very quick heaviness.
 
 ### Peak (1-2 h)
 
-Peak: strong calm, sedation, and reduced coordination; memory gaps begin.
+Peak within minutes.
 
 ### Plateau (2-4 h)
 
-Plateau of sedation and calm.
+Short: about 1 to 2 hours.
 
 ### Comedown (4-6 h)
 
-Effects fade; short-acting ones can bring rebound anxiety or insomnia.
+Fades fast.
 
 ### After-effects (6-24 h)
 
-Grogginess, memory gaps, impaired driving.
+Amnesia, grogginess.
 
 ### Next day
 
-After daily use, stopping can cause dangerous withdrawal including seizures.
+Usually no next-day effect.
 
 For the full, detailed description of each phase, see the [general Midazolam (Versed) page](../../drugs/midazolam.md).
 

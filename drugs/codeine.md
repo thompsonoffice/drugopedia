@@ -24,6 +24,10 @@ Codeine cough syrup mixed with soda, called "lean", "purple drank", or "sizzurp"
 
 US: Schedule II alone; Schedule III in combination tablets; Schedule V in low-strength cough syrups. UK Class B. Available behind the pharmacy counter in some countries.
 
+## Immediate-release vs extended-release
+
+Codeine is mostly immediate-release. Extended-release codeine (Codeine Contin) is sold in Canada, and Tuzistra XR is an extended-release cough suspension in the US.
+
 ## What the pills feel like
 
 Acetaminophen-codeine tablets (Tylenol #3 and generics) are usually round, white, fairly large tablets with a debossed imprint. Codeine cough syrups are liquids.

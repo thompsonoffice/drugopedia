@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (1-2 h)
 
-Onset begins with loosening tension and a gentle heaviness.
+Swallowed: about 1 to 2 hours.
 
 ### Come-up (2-4 h)
 
-Relaxation and drowsiness build.
+Slow relaxation.
 
 ### Peak (2-6 h)
 
-Peak: strong calm, sedation, and reduced coordination; memory gaps begin.
+Peak several hours later.
 
 ### Plateau (6-24 h)
 
-Plateau of sedation and calm.
+Long.
 
 ### Comedown (1-3 days)
 
-Effects fade; short-acting ones can bring rebound anxiety or insomnia.
+Days.
 
 ### After-effects (2-4 days)
 
-Grogginess, memory gaps, impaired driving.
+Drowsiness.
 
 ### Next day (still active)
 
-After daily use, stopping can cause dangerous withdrawal including seizures.
+Still active.
 
 For the full, detailed description of each phase, see the [general Prazepam (Centrax) page](../../drugs/prazepam.md).
 

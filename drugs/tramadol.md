@@ -24,6 +24,12 @@ Widely misused in West Africa, the Middle East, and North Africa, where cheap hi
 
 US Schedule IV (since 2014). UK Class C.
 
+## Immediate-release vs extended-release
+
+Immediate-release tramadol (Ultram, generics, Ultracet with acetaminophen) starts within about 15 to 60 minutes and lasts about 6 hours. Extended-release tramadol (Ultram ER, ConZip, the discontinued Ryzolt) is taken once daily, with a slower rise and steadier, milder effect. ER tramadol still carries seizure and serotonin syndrome risk.
+
+**Extra risks of extended-release:** Extended-release products hold far more drug than a single immediate-release tablet, released slowly over many hours. If the release system is damaged, chewed, crushed, dissolved, or taken with alcohol (for some products), the whole reserve can be released at once, which has caused many overdose deaths. ER products are meant only for people with established opioid tolerance and ongoing pain, and they should never be split or shared. Because they last so long, overdose can develop slowly, often during sleep.
+
 ## What the pills feel like
 
 Tramadol tablets are usually oblong, film-coated, and smooth, sometimes scored; capsules are also common.
@@ -44,7 +50,7 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-45 min)
+### Onset (15-60 min)
 
 Tramadol starts around 30 to 60 minutes after swallowing, often with a light, slightly stimulating lift in mood and subtle body warmth.
 
@@ -56,7 +62,7 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 The come-up feels energetic and talkative for many, more like an antidepressant than an opioid. Some feel restless, sweaty, or nauseous.
 
-### Peak (1-2 h)
+### Peak (2-3 h)
 
 The peak, around 2 to 3 hours, is mild euphoria with gentle body warmth and brightened mood. Less sedating than most opioids.
 
@@ -64,11 +70,11 @@ Medically, the peak corresponds to the highest drug levels at the receptors. The
 
 Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
-### Plateau (2-4 h)
+### Plateau (2-6 h)
 
 The plateau is steady and functional. Sedation is light; some feel wired.
 
-### Comedown (4-6 h)
+### Comedown (6-10 h)
 
 The comedown, after 6 to 8 hours, can bring irritability and low mood.
 
@@ -76,7 +82,7 @@ The comedown reflects falling blood levels as the liver and kidneys clear the dr
 
 For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
 
-### After-effects (6-24 h)
+### After-effects (10-24 h)
 
 Sweating, dizziness, and constipation. Seizure risk is present throughout.
 

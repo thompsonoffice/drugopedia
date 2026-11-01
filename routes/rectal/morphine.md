@@ -14,7 +14,7 @@ Onset sits between swallowing and snorting. It is mostly used medically; experie
 
 ### Onset (10-30 min)
 
-Swallowed morphine announces itself slowly and often through the stomach first: a vague queasiness or heaviness, then warmth spreading from the belly. Many people notice the itch before any pleasure, typically a prickle at the tip of the nose, the scalp, or the chest.
+Swallowed morphine (immediate-release, typically 10 to 30 minutes) announces itself slowly and often through the stomach first: a vague queasiness or heaviness, then warmth spreading from the belly. Many people notice the itch before any pleasure, typically a prickle at the tip of the nose, the scalp, or the chest.
 
 ### Come-up (20-40 min)
 

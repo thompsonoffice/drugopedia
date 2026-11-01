@@ -24,9 +24,15 @@ Vicodin became a pop-culture name in the 1990s and 2000s (for example in TV's Ho
 
 US Schedule II (all forms since 2014). Not marketed in most of Europe.
 
+## Immediate-release vs extended-release
+
+Immediate-release hydrocodone in the US comes only in combination products (Norco, Vicodin, Lortab with acetaminophen; Vicoprofen with ibuprofen), with an onset of about 10 to 60 minutes and duration of 4 to 8 hours. Extended-release single-ingredient hydrocodone (Zohydro ER capsules, given every 12 hours; Hysingla ER tablets, given every 24 hours) has a slow, flat, long profile without acetaminophen. Zohydro ER drew controversy when approved in 2013 without abuse-deterrent features; it was later reformulated. Hysingla ER is abuse-deterrent.
+
+**Extra risks of extended-release:** Extended-release products hold far more drug than a single immediate-release tablet, released slowly over many hours. If the release system is damaged, chewed, crushed, dissolved, or taken with alcohol (for some products), the whole reserve can be released at once, which has caused many overdose deaths. ER products are meant only for people with established opioid tolerance and ongoing pain, and they should never be split or shared. Because they last so long, overdose can develop slowly, often during sleep.
+
 ## What the pills feel like
 
-Hydrocodone-acetaminophen tablets (Norco and generics) are usually oblong (capsule-shaped) tablets, fairly large because of the acetaminophen, typically with a score line down the middle and a debossed imprint. Hysingla ER is an oblong, film-coated tablet; Zohydro ER is a capsule.
+Hydrocodone-acetaminophen tablets (Norco and generics) are fairly large because of the acetaminophen. Per the DailyMed label for one generic maker, the lowest strength is a capsule-shaped tablet with a score line (bisected) on one side, while some other strengths are unscored ovals; all have a debossed code you may feel. Hysingla ER is an oblong, film-coated tablet; Zohydro ER is a capsule.
 
 **Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 
@@ -44,9 +50,9 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-45 min)
+### Onset (10-60 min)
 
-Hydrocodone usually starts 15 to 30 minutes after swallowing with a pleasant warmth in the chest and a lift in mood, sometimes before any body heaviness. Many describe a sudden sense that the day has gotten easier.
+Hydrocodone usually starts 10 to 60 minutes after swallowing with a pleasant warmth in the chest and a lift in mood, sometimes before any body heaviness. Many describe a sudden sense that the day has gotten easier.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Hydrocodone is metabolized by CYP3A4 and CYP2D6 (into hydromorphone); half-life about 4 hours. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -68,7 +74,7 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 The plateau tilts toward sleepiness: the chatty phase gives way to quiet contentment and light nodding, especially when lying down.
 
-### Comedown (4-6 h)
+### Comedown (4-8 h)
 
 The comedown, around 4 to 6 hours, is gradual. People describe a slide into tiredness and mild irritability as the warmth leaves, and some feel the urge to take more, which is how use escalates.
 
@@ -76,7 +82,7 @@ The comedown reflects falling blood levels as the liver and kidneys clear the dr
 
 For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
 
-### After-effects (6-24 h)
+### After-effects (8-24 h)
 
 After-effects include constipation, dry mouth, and sometimes headache. Because many products contain acetaminophen, repeated use can damage the liver without warning signs.
 

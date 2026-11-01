@@ -14,31 +14,31 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (15-45 min)
 
-Onset depends on route: minutes when injected, 15 to 45 minutes swallowed.
+Injection: a few minutes.
 
 ### Come-up (30-60 min)
 
-A warm, relaxing build.
+Warm rush and heaviness.
 
 ### Peak (1-2 h)
 
-Typical opioid peak of calm, contentment, and pain relief.
+Peak within 30 minutes.
 
 ### Plateau (2-4 h)
 
-Sedation and possible nodding.
+Lasts a few hours.
 
 ### Comedown (4-6 h)
 
-Gradual fade over several hours.
+Fades over 3 to 5 hours.
 
 ### After-effects (6-24 h)
 
-Constipation and drowsiness.
+Nausea, itch.
 
 ### Next day
 
-Typical opioid withdrawal after regular use.
+Grogginess.
 
 For the full, detailed description of each phase, see the [general Nicomorphine page](../../drugs/nicomorphine.md).
 

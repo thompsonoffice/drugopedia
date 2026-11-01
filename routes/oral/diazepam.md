@@ -12,7 +12,7 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (20-40 min)
 
 Swallowed, diazepam starts within 15 to 45 minutes: muscle tension loosens first.
 

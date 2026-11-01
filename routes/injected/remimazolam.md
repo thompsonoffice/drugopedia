@@ -14,31 +14,31 @@ Injection is a hospital route for sedation, anesthesia, alcohol withdrawal, and 
 
 ### Onset (IV 1-3 min)
 
-Onset begins with loosening tension and a gentle heaviness.
+IV: about 1 to 2 minutes.
 
 ### Come-up (1-2 min)
 
-Relaxation and drowsiness build.
+Immediate.
 
 ### Peak (2-5 min)
 
-Peak: strong calm, sedation, and reduced coordination; memory gaps begin.
+Peak within minutes.
 
 ### Plateau (10-20 min)
 
-Plateau of sedation and calm.
+Only while given.
 
 ### Comedown (under 30 min)
 
-Effects fade; short-acting ones can bring rebound anxiety or insomnia.
+Wears off in about 10 to 20 minutes.
 
 ### After-effects (1-2 h)
 
-Grogginess, memory gaps, impaired driving.
+Brief grogginess.
 
 ### Next day
 
-After daily use, stopping can cause dangerous withdrawal including seizures.
+None.
 
 For the full, detailed description of each phase, see the [general Remimazolam (Byfavo) page](../../drugs/remimazolam.md).
 

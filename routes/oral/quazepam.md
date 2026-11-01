@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (30-60 min)
 
-Onset begins with loosening tension and a gentle heaviness.
+Swallowed: about 30 to 60 minutes.
 
 ### Come-up (1-2 h)
 
-Relaxation and drowsiness build.
+Drowsiness.
 
 ### Peak (2 h)
 
-Peak: strong calm, sedation, and reduced coordination; memory gaps begin.
+Peak about 2 hours.
 
 ### Plateau (2-8 h)
 
-Plateau of sedation and calm.
+Sleep.
 
 ### Comedown (8-12 h)
 
-Effects fade; short-acting ones can bring rebound anxiety or insomnia.
+Very long fade.
 
 ### After-effects (1-3 days)
 
-Grogginess, memory gaps, impaired driving.
+Grogginess.
 
 ### Next day (still active)
 
-After daily use, stopping can cause dangerous withdrawal including seizures.
+Still active.
 
 For the full, detailed description of each phase, see the [general Quazepam (Doral) page](../../drugs/quazepam.md).
 

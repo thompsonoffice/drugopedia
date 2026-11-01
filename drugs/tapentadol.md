@@ -24,6 +24,12 @@ Less popular than oxycodone but increasingly misused, especially in India and pa
 
 US Schedule II.
 
+## Immediate-release vs extended-release
+
+Immediate-release tapentadol (Nucynta) starts within about 15 to 30 minutes and lasts about 4 to 6 hours. Extended-release tapentadol (Nucynta ER), taken every 12 hours, is approved for chronic pain and diabetic nerve pain, with a slow, flat profile. Nucynta ER should not be taken with alcohol.
+
+**Extra risks of extended-release:** Extended-release products hold far more drug than a single immediate-release tablet, released slowly over many hours. If the release system is damaged, chewed, crushed, dissolved, or taken with alcohol (for some products), the whole reserve can be released at once, which has caused many overdose deaths. ER products are meant only for people with established opioid tolerance and ongoing pain, and they should never be split or shared. Because they last so long, overdose can develop slowly, often during sleep.
+
 ## What the pills feel like
 
 Forms vary by country and manufacturer; see the brand list above. Ask a pharmacist to describe the product you have.
@@ -44,7 +50,7 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-45 min)
+### Onset (15-30 min)
 
 Tapentadol starts within about 30 minutes with a gentle warmth and slight alertness.
 
@@ -52,7 +58,7 @@ From a medical point of view, the onset reflects how quickly the drug reaches th
 
 Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
 
-### Come-up (30-60 min)
+### Come-up (30-45 min)
 
 The come-up is clean, with less nausea than oxycodone. Some feel sweaty or dizzy.
 
@@ -64,7 +70,7 @@ Medically, the peak corresponds to the highest drug levels at the receptors. The
 
 Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
-### Plateau (2-4 h)
+### Plateau (2-3 h)
 
 The plateau is functional and calm, with light sedation.
 
@@ -76,7 +82,7 @@ The comedown reflects falling blood levels as the liver and kidneys clear the dr
 
 For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
 
-### After-effects (6-24 h)
+### After-effects (6-12 h)
 
 After-effects include dizziness, dry mouth, and constipation.
 

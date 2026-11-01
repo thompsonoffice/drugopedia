@@ -16,7 +16,7 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 Alprazolam usually begins within 15 to 30 minutes of swallowing: a softening of tension, shoulders dropping, and breathing that feels easier.
 
-### Come-up (30-60 min)
+### Come-up (50-90 min)
 
 Within the next 15 to 30 minutes, calm deepens and worries lose their grip. People feel loose, talkative, and unconcerned.
 
@@ -28,11 +28,11 @@ The peak, around 1 to 2 hours, brings strong relaxation, mild euphoria, and disi
 
 The plateau is a few hours of calm, sleepy, and sometimes foggy state.
 
-### Comedown (4-6 h)
+### Comedown (6-8 h total)
 
-Effects fade over 4 to 6 hours for immediate-release. Rebound anxiety, irritability, and low mood can arrive sharply.
+Effects last about 6 to 8 hours in total for immediate-release (PsychonautWiki). Rebound anxiety, irritability, and low mood can arrive sharply.
 
-### After-effects (6-24 h)
+### After-effects (8-24 h)
 
 After-effects include grogginess, memory gaps, and sometimes a 'benzo hangover'.
 

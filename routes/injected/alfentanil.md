@@ -14,31 +14,31 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (under 1 min)
 
-Given IV, it acts within about a minute.
+IV: under one minute.
 
 ### Come-up (seconds)
 
-There is little or no come-up.
+Essentially immediate.
 
 ### Peak (1-5 min)
 
-The peak comes within minutes: heavy sedation and strong pain relief; breathing can stop and chest muscles can stiffen, which is why it is used only with airway support.
+Peaks within about 1 to 2 minutes.
 
 ### Plateau (5-30 min (remifentanil ends within minutes of stopping))
 
-The effect lasts only as long as the drug is being given (remifentanil) or for minutes to an hour.
+Lasts only about 5 to 10 minutes after one dose.
 
 ### Comedown (under 1 h)
 
-It wears off quickly.
+Fades fast.
 
 ### After-effects (1-4 h)
 
-Patients may feel groggy, nauseous, or have more pain as it ends.
+Brief nausea or dizziness.
 
 ### Next day
 
-Little next-day effect after single medical use.
+No next-day effect from the drug itself.
 
 For the full, detailed description of each phase, see the [general Alfentanil page](../../drugs/alfentanil.md).
 

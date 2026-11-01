@@ -14,7 +14,7 @@ A noticeably quicker and sharper onset than swallowing, with a mild rush or 'dro
 
 ### Onset (10-20 min)
 
-Under the tongue, buprenorphine dissolves over several minutes with a bitter or flavored taste. Effects start around 30 to 60 minutes.
+Under the tongue, buprenorphine dissolves over several minutes with a bitter or flavored taste. Effects start around 40 to 80 minutes.
 
 ### Come-up (20-40 min)
 

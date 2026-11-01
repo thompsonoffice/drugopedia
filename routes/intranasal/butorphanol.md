@@ -14,31 +14,31 @@ A noticeably quicker and sharper onset than swallowing, with a mild rush or 'dro
 
 ### Onset (5-15 min)
 
-Injected, it starts within minutes; nasal spray within about 15 minutes; swallowed within 15 to 30 minutes. Often a light-headed, floaty start.
+Nasal spray: within about 15 minutes; injection: a few minutes.
 
 ### Come-up (10-20 min)
 
-The come-up brings sleepiness, a 'drunk' or detached feeling, and sometimes dizziness or sweating.
+Drowsiness and lightheadedness rise fast.
 
 ### Peak (15-45 min)
 
-The peak combines pain relief and sedation with dreaminess; some feel anxiety, strange thoughts, or vivid imagery.
+Peak around 30 to 60 minutes: heavy sleepiness, dizziness, sometimes a dreamy unreality.
 
 ### Plateau (1-2 h)
 
-The plateau is sedated and spacey, lasting a few hours.
+Sedation for a few hours.
 
 ### Comedown (2-4 h)
 
-It fades over 3 to 6 hours.
+Fades over about 3 to 5 hours.
 
 ### After-effects (4-12 h)
 
-Some feel hungover, dizzy, or low.
+Headache, nausea, lingering fog.
 
 ### Next day
 
-Next day is usually normal after single use.
+Some feel washed-out next day.
 
 For the full, detailed description of each phase, see the [general Butorphanol page](../../drugs/butorphanol.md).
 

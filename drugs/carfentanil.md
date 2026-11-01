@@ -34,9 +34,11 @@ Forms vary by country and manufacturer; see the brand list above. Ask a pharmaci
 
 ### The character of its effects
 
-Carfentanil produces opioid effects of warmth, sedation, and euphoria reported to be similar to other strong opioids. Reliable descriptions are scarce, and many people who took it did not know.
+Carfentanil was designed to sedate elephants and other large animals. It is so potent that amounts invisible to the eye can stop a person's breathing.
 
-Its strength and duration are unpredictable in street products.
+There is no meaningful recreational 'character' to describe safely: people who encounter it are often caught off guard by sudden unconsciousness within moments.
+
+It appeared in heroin and fake pills in Ohio in 2016 and in later waves. Multiple naloxone doses and emergency care are often needed.
 
 Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
@@ -46,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Fast onset, often seconds to minutes.
+Seconds to minutes by any route.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -54,11 +56,11 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 ### Come-up (30-60 min)
 
-Rapid build.
+None to speak of: collapse can come first.
 
 ### Peak (1-2 h)
 
-Heavy opioid peak.
+Profound sedation and breathing failure.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +68,11 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-Short to moderate duration.
+Long-acting; can outlast naloxone.
 
 ### Comedown (4-6 h)
 
-Rapid comedown.
+Overdose can return after naloxone wears off.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
@@ -78,11 +80,11 @@ For long-acting or extended-release forms, the comedown can be very drawn out, a
 
 ### After-effects (6-24 h)
 
-Unknown.
+Severe exhaustion, possible brain injury from low oxygen.
 
 ### Next day
 
-Dependence likely.
+Medical follow-up needed.
 
 ### Lower vs higher doses (described without amounts)
 

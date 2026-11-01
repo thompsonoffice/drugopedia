@@ -14,31 +14,31 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (IV seconds; IM/SC 5-15 min)
 
-Fast onset, often seconds to minutes.
+Seconds to minutes by any route.
 
 ### Come-up (IV under 1 min; IM/SC 10-20 min)
 
-Rapid build.
+None to speak of: collapse can come first.
 
 ### Peak (IV 2-10 min; IM/SC 20-60 min)
 
-Heavy opioid peak.
+Profound sedation and breathing failure.
 
 ### Plateau (30 min-2 h)
 
-Short to moderate duration.
+Long-acting; can outlast naloxone.
 
 ### Comedown (2-4 h)
 
-Rapid comedown.
+Overdose can return after naloxone wears off.
 
 ### After-effects (4-12 h)
 
-Unknown.
+Severe exhaustion, possible brain injury from low oxygen.
 
 ### Next day
 
-Dependence likely.
+Medical follow-up needed.
 
 For the full, detailed description of each phase, see the [general Carfentanil page](../../drugs/carfentanil.md).
 

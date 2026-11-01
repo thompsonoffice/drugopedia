@@ -14,31 +14,31 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (IV seconds; IM/SC 5-15 min)
 
-Onset depends on route: minutes when injected, 15 to 45 minutes swallowed.
+Oral: about 30 minutes; injection: faster.
 
 ### Come-up (IV under 1 min; IM/SC 10-20 min)
 
-A warm, relaxing build.
+Mild drowsiness.
 
 ### Peak (IV 2-10 min; IM/SC 20-60 min)
 
-Typical opioid peak of calm, contentment, and pain relief.
+Peak around 1 to 2 hours.
 
 ### Plateau (30 min-2 h)
 
-Sedation and possible nodding.
+A few hours.
 
 ### Comedown (2-4 h)
 
-Gradual fade over several hours.
+Fades over 3 to 5 hours.
 
 ### After-effects (4-12 h)
 
-Constipation and drowsiness.
+Nausea, dizziness.
 
 ### Next day
 
-Typical opioid withdrawal after regular use.
+Little next-day effect.
 
 For the full, detailed description of each phase, see the [general Meptazinol page](../../drugs/meptazinol.md).
 

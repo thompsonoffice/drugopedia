@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (30-60 min)
 
-Onset begins with loosening tension and a gentle heaviness.
+Swallowed: about 30 to 60 minutes.
 
 ### Come-up (1 h)
 
-Relaxation and drowsiness build.
+Gentle calm.
 
 ### Peak (1-4 h)
 
-Peak: strong calm, sedation, and reduced coordination; memory gaps begin.
+Peak 1 to 4 hours.
 
 ### Plateau (4-12 h)
 
-Plateau of sedation and calm.
+Long.
 
 ### Comedown (12-36 h)
 
-Effects fade; short-acting ones can bring rebound anxiety or insomnia.
+Fades over many hours.
 
 ### After-effects (1-3 days)
 
-Grogginess, memory gaps, impaired driving.
+Drowsiness.
 
 ### Next day (still active)
 
-After daily use, stopping can cause dangerous withdrawal including seizures.
+Still active.
 
 For the full, detailed description of each phase, see the [general Clobazam (Onfi) page](../../drugs/clobazam.md).
 

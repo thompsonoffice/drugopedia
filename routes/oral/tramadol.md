@@ -12,7 +12,7 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (15-60 min)
 
 Tramadol starts around 30 to 60 minutes after swallowing, often with a light, slightly stimulating lift in mood and subtle body warmth.
 
@@ -20,19 +20,19 @@ Tramadol starts around 30 to 60 minutes after swallowing, often with a light, sl
 
 The come-up feels energetic and talkative for many, more like an antidepressant than an opioid. Some feel restless, sweaty, or nauseous.
 
-### Peak (1-2 h)
+### Peak (2-3 h)
 
 The peak, around 2 to 3 hours, is mild euphoria with gentle body warmth and brightened mood. Less sedating than most opioids.
 
-### Plateau (2-4 h)
+### Plateau (2-6 h)
 
 The plateau is steady and functional. Sedation is light; some feel wired.
 
-### Comedown (4-6 h)
+### Comedown (6-10 h)
 
 The comedown, after 6 to 8 hours, can bring irritability and low mood.
 
-### After-effects (6-24 h)
+### After-effects (10-24 h)
 
 Sweating, dizziness, and constipation. Seizure risk is present throughout.
 

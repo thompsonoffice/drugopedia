@@ -14,31 +14,31 @@ Slower and steadier than injecting or snorting, faster than swallowing for some 
 
 ### Onset (10-30 min)
 
-Onset depends on route: minutes when injected, 15 to 45 minutes swallowed.
+Oral or sublingual: about 10 to 20 minutes.
 
 ### Come-up (30-60 min)
 
-A warm, relaxing build.
+Rapid warmth and drowsiness.
 
 ### Peak (1-3 h)
 
-Typical opioid peak of calm, contentment, and pain relief.
+Peak within about an hour, quite strong.
 
 ### Plateau (2-4 h)
 
-Sedation and possible nodding.
+Short plateau.
 
 ### Comedown (4-8 h)
 
-Gradual fade over several hours.
+Fades over 2 to 3 hours.
 
 ### After-effects (8-24 h)
 
-Constipation and drowsiness.
+Craving and restlessness as it wears off.
 
 ### Next day
 
-Typical opioid withdrawal after regular use.
+Next-day low mood if used heavily.
 
 For the full, detailed description of each phase, see the [general Dextromoramide page](../../drugs/dextromoramide.md).
 

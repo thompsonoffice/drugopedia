@@ -12,23 +12,23 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ## Timeline for this route
 
-### Onset (10-30 min)
+### Onset (20-40 min)
 
-Swallowed, effects begin in 10 to 30 minutes, often as a mild lift in energy or calm.
+Swallowed, effects begin in about 20 to 40 minutes, often as a mild lift in energy or calm.
 
 ### Come-up (30-60 min)
 
 The come-up brings increased sociability or relaxation depending on the amount, with a warm feeling in the stomach.
 
-### Peak (1-2 h)
+### Peak (1-3 h)
 
 The peak, around 1 to 2 hours, is described as content, comfortable, and pain-free, sometimes stimulated, sometimes drowsy. Pupils may narrow.
 
-### Plateau (2-3 h)
+### Plateau (2-4 h)
 
 The plateau is steady and functional for a couple of hours.
 
-### Comedown (3-6 h)
+### Comedown (3-7 h total)
 
 Effects fade over 3 to 6 hours.
 

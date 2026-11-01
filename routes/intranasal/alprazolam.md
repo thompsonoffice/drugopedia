@@ -30,7 +30,7 @@ The plateau is a few hours of calm, sleepy, and sometimes foggy state.
 
 ### Comedown (2-4 h)
 
-Effects fade over 4 to 6 hours for immediate-release. Rebound anxiety, irritability, and low mood can arrive sharply.
+Effects last about 6 to 8 hours in total for immediate-release (PsychonautWiki). Rebound anxiety, irritability, and low mood can arrive sharply.
 
 ### After-effects (4-12 h)
 

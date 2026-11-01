@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (15-45 min)
 
-Onset begins with loosening tension and a gentle heaviness.
+Swallowed: about 15 to 45 minutes.
 
 ### Come-up (30-60 min)
 
-Relaxation and drowsiness build.
+Sleepiness.
 
 ### Peak (1-2 h)
 
-Peak: strong calm, sedation, and reduced coordination; memory gaps begin.
+Peak 1 to 2 hours.
 
 ### Plateau (2-8 h)
 
-Plateau of sedation and calm.
+Sleep.
 
 ### Comedown (8-12 h)
 
-Effects fade; short-acting ones can bring rebound anxiety or insomnia.
+Metabolite lasts for days.
 
 ### After-effects (1-3 days)
 
-Grogginess, memory gaps, impaired driving.
+Morning grogginess.
 
 ### Next day (still active)
 
-After daily use, stopping can cause dangerous withdrawal including seizures.
+Hangover that accumulates.
 
 For the full, detailed description of each phase, see the [general Flurazepam (Dalmane) page](../../drugs/flurazepam.md).
 

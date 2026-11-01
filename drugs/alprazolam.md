@@ -24,9 +24,15 @@ Widely misused for calm and disinhibition, often combined with alcohol or opioid
 
 US Schedule IV. UK Class C (not prescribable on the NHS).
 
+## Immediate-release vs extended-release
+
+Immediate-release alprazolam (Xanax, generics, Niravam orally disintegrating tablets) starts within about 15 to 30 minutes, with a noticeable calming wave and an effect that lasts about 6 to 8 hours, followed in some people by rebound anxiety. Extended-release alprazolam (Xanax XR) is taken once daily for panic disorder; it rises slowly, feels steadier and less 'hit-like', and has less rebound between doses. Breaking or crushing XR tablets defeats the slow release and can cause sudden heavy sedation.
+
+**Extra risks of extended-release:** XR tablets contain more drug released over the day; if the release is defeated or the tablets are taken with alcohol or opioids, sedation and blackout can be sudden and heavy.
+
 ## What the pills feel like
 
-Xanax and generic alprazolam come as small oval tablets in lower strengths and as long, rectangular 'bars' scored into four sections in the highest immediate-release strength; bars feel like a thin stick with three grooves. Extended-release tablets are triangular or pentagonal. Orally disintegrating tablets crumble on the tongue.
+Per the DailyMed Xanax label, the lower strengths are small oval, scored tablets imprinted 'XANAX'; Xanax and generic alprazolam come as small oval tablets in lower strengths and as long, rectangular 'bars' scored into four sections in the highest immediate-release strength; bars feel like a thin stick with three grooves. Extended-release tablets are triangular or pentagonal. Orally disintegrating tablets crumble on the tongue.
 
 **Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 
@@ -52,7 +58,7 @@ From a medical point of view, the onset reflects how quickly the drug is absorbe
 
 Clinicians notice early signs such as slower speech, drooping eyelids, and reduced coordination. People often underestimate how impaired they already are at this stage, which is why driving is dangerous.
 
-### Come-up (30-60 min)
+### Come-up (50-90 min)
 
 Within the next 15 to 30 minutes, calm deepens and worries lose their grip. People feel loose, talkative, and unconcerned. Coordination slips.
 
@@ -68,15 +74,15 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 The plateau is a few hours of calm, sleepy, and sometimes foggy state.
 
-### Comedown (4-6 h)
+### Comedown (6-8 h total)
 
-Effects fade over 4 to 6 hours for immediate-release. Rebound anxiety, irritability, and low mood can arrive sharply.
+Effects last about 6 to 8 hours in total for immediate-release (PsychonautWiki). Rebound anxiety, irritability, and low mood can arrive sharply.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
 In people who take them daily, falling levels can trigger withdrawal, which in severe cases includes seizures and delirium. This is why stopping should be a slow medical taper, not a sudden stop.
 
-### After-effects (6-24 h)
+### After-effects (8-24 h)
 
 After-effects include grogginess, memory gaps, and sometimes a 'benzo hangover'.
 

@@ -34,9 +34,11 @@ Forms vary by country and manufacturer; see the brand list above. Ask a pharmaci
 
 ### The character of its effects
 
-Reports describe Diclazepam as long, heavy, Valium-like. The general pattern is benzodiazepine calm, muscle relaxation, sleepiness, and disinhibition, often with heavy memory loss.
+Diclazepam is long-lasting and diazepam-like, with prolonged sedation. Because it was never studied properly in humans, reports from users and poison centers are the main source of information.
 
-There is almost no research on these drugs in people. Potency is unknown and products are often mislabeled, so the same named product can be far stronger than expected. Counterfeit 'Xanax' bars containing these drugs, sometimes with fentanyl, have caused many deaths.
+Online stores sold Diclazepam as a powder, pellets, or blotters; it has also appeared in fake 'Xanax' tablets. The real content of street products can be very different.
+
+Like other designer benzodiazepines, Diclazepam combined with opioids, alcohol, or other sedatives can stop breathing, and long blackouts are common.
 
 Tolerance to the calming and sleep effects of benzodiazepines builds within weeks, while memory loss and the danger of mixing with alcohol or opioids remain. People taking them daily often feel little except relief from anxiety, and stopping suddenly can cause seizures.
 

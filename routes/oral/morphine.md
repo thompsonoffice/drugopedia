@@ -12,11 +12,11 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (10-30 min)
 
-Swallowed morphine announces itself slowly and often through the stomach first: a vague queasiness or heaviness, then warmth spreading from the belly. Many people notice the itch before any pleasure, typically a prickle at the tip of the nose, the scalp, or the chest.
+Swallowed morphine (immediate-release, typically 10 to 30 minutes) announces itself slowly and often through the stomach first: a vague queasiness or heaviness, then warmth spreading from the belly. Many people notice the itch before any pleasure, typically a prickle at the tip of the nose, the scalp, or the chest.
 
-### Come-up (30-60 min)
+### Come-up (20-40 min)
 
 Morphine's come-up is a slow tide rather than a wave. Limbs feel weighted and warm, the face flushes, and a drowsy, dreamy contentment builds.
 

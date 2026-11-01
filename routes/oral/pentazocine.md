@@ -14,31 +14,31 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (15-45 min)
 
-Injected, it starts within minutes; nasal spray within about 15 minutes; swallowed within 15 to 30 minutes. Often a light-headed, floaty start.
+Oral: about 15 to 30 minutes; injection: a few minutes.
 
 ### Come-up (30-60 min)
 
-The come-up brings sleepiness, a 'drunk' or detached feeling, and sometimes dizziness or sweating.
+Drowsiness and sometimes unease.
 
 ### Peak (1-2 h)
 
-The peak combines pain relief and sedation with dreaminess; some feel anxiety, strange thoughts, or vivid imagery.
+Peak around 1 to 2 hours, mixed sedation and odd thoughts.
 
 ### Plateau (2-4 h)
 
-The plateau is sedated and spacey, lasting a few hours.
+Sedation for a few hours.
 
 ### Comedown (4-6 h)
 
-It fades over 3 to 6 hours.
+Fades over about 3 to 4 hours.
 
 ### After-effects (6-24 h)
 
-Some feel hungover, dizzy, or low.
+Possible nightmares, sweating, dizziness.
 
 ### Next day
 
-Next day is usually normal after single use.
+Some feel unsettled next day.
 
 For the full, detailed description of each phase, see the [general Pentazocine (Talwin) page](../../drugs/pentazocine.md).
 

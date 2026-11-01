@@ -14,7 +14,7 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (IV seconds; IM/SC 5-15 min)
 
-Swallowed morphine announces itself slowly and often through the stomach first: a vague queasiness or heaviness, then warmth spreading from the belly. Many people notice the itch before any pleasure, typically a prickle at the tip of the nose, the scalp, or the chest.
+Swallowed morphine (immediate-release, typically 10 to 30 minutes) announces itself slowly and often through the stomach first: a vague queasiness or heaviness, then warmth spreading from the belly. Many people notice the itch before any pleasure, typically a prickle at the tip of the nose, the scalp, or the chest.
 
 ### Come-up (IV under 1 min; IM/SC 10-20 min)
 

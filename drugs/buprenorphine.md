@@ -28,9 +28,13 @@ Diverted buprenorphine is mostly used to self-treat withdrawal rather than to ge
 
 US Schedule III. UK Class C.
 
+## Immediate-release vs extended-release
+
+Buprenorphine's long-acting forms include the Butrans patch (7 days), Sublocade (monthly injection), and Brixadi (weekly or monthly injection), all designed to release steadily without peaks.
+
 ## What the pills feel like
 
-Suboxone film is a thin, flexible rectangle, about the size of a postage stamp, that sticks to the mouth lining as it dissolves; each film comes in its own child-resistant foil pouch you tear open. Generic buprenorphine and buprenorphine-naloxone tablets are small, flat, and either round or oval, dissolving under the tongue with a gritty, bitter feel. Zubsolv tablets are small with a menthol taste. Butrans is a square-ish skin patch.
+Suboxone film (DailyMed: an orange rectangular film with a printed logo) is a thin, flexible rectangle, about the size of a postage stamp, that sticks to the mouth lining as it dissolves; each film comes in its own child-resistant foil pouch you tear open. Generic buprenorphine and buprenorphine-naloxone tablets are small, flat, and either round or oval, dissolving under the tongue with a gritty, bitter feel. Zubsolv tablets are small with a menthol taste. Butrans is a square-ish skin patch.
 
 **Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 
@@ -48,9 +52,9 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the sublingual and buccal (under the tongue or in the cheek) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (30-60 min)
+### Onset (40-80 min)
 
-Under the tongue, buprenorphine dissolves over several minutes with a bitter or flavored taste. Effects start around 30 to 60 minutes. In someone in withdrawal at the right time, the first feeling is relief.
+Under the tongue, buprenorphine dissolves over several minutes with a bitter or flavored taste. Effects start around 40 to 80 minutes. In someone in withdrawal at the right time, the first feeling is relief.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Buprenorphine is metabolized by CYP3A4 to norbuprenorphine; it binds receptors very tightly and has a half-life of about 24 to 42 hours. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,7 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 In people without tolerance, the come-up is surprisingly strong: warm, floaty, nauseous, and sleepy. In people with tolerance, it is mostly the steady disappearance of craving and sickness.
 
-### Peak (1-4 h)
+### Peak (1.5-4 h)
 
 The peak, roughly 1 to 4 hours, is a long, mellow high in non-tolerant people, often with heavy nausea. Because of the ceiling effect, more drug does not keep adding euphoria or breathing suppression the same way. Tolerant people describe clear-headedness and feeling 'normal.'
 
@@ -68,11 +72,11 @@ Medically, the peak corresponds to the highest drug levels at the receptors. The
 
 Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
-### Plateau (4-12 h)
+### Plateau (4-18 h)
 
 The plateau lasts a very long time, often a full day. People describe being calm and functional, sometimes slightly energized, sometimes with headache.
 
-### Comedown (12-48 h)
+### Comedown (18-48 h)
 
 The effect fades over 24 to 72 hours, so there is usually no noticeable comedown between daily treatment doses.
 

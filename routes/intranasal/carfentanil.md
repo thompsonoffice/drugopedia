@@ -14,31 +14,31 @@ A noticeably quicker and sharper onset than swallowing, with a mild rush or 'dro
 
 ### Onset (5-15 min)
 
-Fast onset, often seconds to minutes.
+Seconds to minutes by any route.
 
 ### Come-up (10-20 min)
 
-Rapid build.
+None to speak of: collapse can come first.
 
 ### Peak (15-45 min)
 
-Heavy opioid peak.
+Profound sedation and breathing failure.
 
 ### Plateau (1-2 h)
 
-Short to moderate duration.
+Long-acting; can outlast naloxone.
 
 ### Comedown (2-4 h)
 
-Rapid comedown.
+Overdose can return after naloxone wears off.
 
 ### After-effects (4-12 h)
 
-Unknown.
+Severe exhaustion, possible brain injury from low oxygen.
 
 ### Next day
 
-Dependence likely.
+Medical follow-up needed.
 
 For the full, detailed description of each phase, see the [general Carfentanil page](../../drugs/carfentanil.md).
 

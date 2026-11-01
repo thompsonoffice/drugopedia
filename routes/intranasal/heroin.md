@@ -12,27 +12,27 @@ A noticeably quicker and sharper onset than swallowing, with a mild rush or 'dro
 
 ## Timeline for this route
 
-### Onset (5-15 min)
+### Onset (10-60 sec to a few min)
 
 Smoked, heroin acts within seconds; injected, within seconds to a minute; snorted, a few minutes. The first feeling is a rush of warmth from the stomach up through the chest into the head.
 
-### Come-up (10-20 min)
+### Come-up (1-5 min)
 
 Injected, the rush is described as overwhelming: a hot flush, a sense of release, heavy limbs, and sometimes nausea or vomiting. Smoked or snorted, it is gentler and builds over minutes.
 
-### Peak (15-45 min)
+### Peak (5-30 min)
 
 The peak is the deep heroin calm: complete safety and warmth, pain and worry gone, heavy eyelids, pinpoint pupils, dry mouth, and strong itch. Many describe it as the most comforting feeling of their lives.
 
-### Plateau (1-2 h)
+### Plateau (1-1.5 h)
 
 The plateau is classic nodding: drifting in and out, chin dropping, dreamy visions, then waking with a start, for hours.
 
-### Comedown (2-4 h)
+### Comedown (3-7 h total)
 
 After 3 to 5 hours, the comedown starts: warmth fades, and in dependent people craving and restlessness begin.
 
-### After-effects (4-12 h)
+### After-effects (7-12 h)
 
 Constipation, dry mouth, and fatigue. With street supply now dominated by fentanyl, duration and intensity are unpredictable.
 

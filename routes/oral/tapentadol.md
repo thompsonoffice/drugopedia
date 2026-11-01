@@ -12,11 +12,11 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (15-30 min)
 
 Tapentadol starts within about 30 minutes with a gentle warmth and slight alertness.
 
-### Come-up (30-60 min)
+### Come-up (30-45 min)
 
 The come-up is clean, with less nausea than oxycodone. Some feel sweaty or dizzy.
 
@@ -24,7 +24,7 @@ The come-up is clean, with less nausea than oxycodone. Some feel sweaty or dizzy
 
 The peak, around 1 to 1.5 hours, brings mild-to-moderate euphoria and strong pain relief.
 
-### Plateau (2-4 h)
+### Plateau (2-3 h)
 
 The plateau is functional and calm, with light sedation.
 
@@ -32,7 +32,7 @@ The plateau is functional and calm, with light sedation.
 
 The comedown, around 4 to 6 hours for immediate-release, is gradual.
 
-### After-effects (6-24 h)
+### After-effects (6-12 h)
 
 After-effects include dizziness, dry mouth, and constipation.
 

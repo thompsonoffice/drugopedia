@@ -14,31 +14,31 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (under 1 min)
 
-Given IV, it acts within about a minute.
+IV: about one minute; sublingual: around 15 to 30 minutes.
 
 ### Come-up (seconds)
 
-There is little or no come-up.
+Almost no come-up: drowsiness falls quickly.
 
 ### Peak (1-5 min)
 
-The peak comes within minutes: heavy sedation and strong pain relief; breathing can stop and chest muscles can stiffen, which is why it is used only with airway support.
+Deep sedation; chest-wall stiffness can occur with fast IV use.
 
 ### Plateau (5-30 min (remifentanil ends within minutes of stopping))
 
-The effect lasts only as long as the drug is being given (remifentanil) or for minutes to an hour.
+Sedation for under an hour after a single IV bolus; longer with infusions.
 
 ### Comedown (under 1 h)
 
-It wears off quickly.
+Wears off quickly once stopped, though it builds up in fat with long infusions.
 
 ### After-effects (1-4 h)
 
-Patients may feel groggy, nauseous, or have more pain as it ends.
+Grogginess, nausea, itching.
 
 ### Next day
 
-Little next-day effect after single medical use.
+Usually little lingering effect next day.
 
 For the full, detailed description of each phase, see the [general Sufentanil page](../../drugs/sufentanil.md).
 

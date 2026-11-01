@@ -14,31 +14,31 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (IV seconds; IM/SC 5-15 min)
 
-Injected, it starts within minutes; nasal spray within about 15 minutes; swallowed within 15 to 30 minutes. Often a light-headed, floaty start.
+Injection: about 2 to 15 minutes.
 
 ### Come-up (IV under 1 min; IM/SC 10-20 min)
 
-The come-up brings sleepiness, a 'drunk' or detached feeling, and sometimes dizziness or sweating.
+Quick drowsiness.
 
 ### Peak (IV 2-10 min; IM/SC 20-60 min)
 
-The peak combines pain relief and sedation with dreaminess; some feel anxiety, strange thoughts, or vivid imagery.
+Peak around 30 minutes: sleepiness and pain relief.
 
 ### Plateau (30 min-2 h)
 
-The plateau is sedated and spacey, lasting a few hours.
+Lasts about 3 to 6 hours.
 
 ### Comedown (2-4 h)
 
-It fades over 3 to 6 hours.
+Gentle fade.
 
 ### After-effects (4-12 h)
 
-Some feel hungover, dizzy, or low.
+Grogginess, sweating, sometimes dizziness.
 
 ### Next day
 
-Next day is usually normal after single use.
+Little next-day effect.
 
 For the full, detailed description of each phase, see the [general Nalbuphine page](../../drugs/nalbuphine.md).
 

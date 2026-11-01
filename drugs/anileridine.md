@@ -34,9 +34,11 @@ Forms vary by country and manufacturer; see the brand list above. Ask a pharmaci
 
 ### The character of its effects
 
-Information on what Anileridine feels like is limited to older clinical descriptions and a small number of reports. It is generally described as producing classic opioid effects: warmth, relaxation, pain relief, and drowsiness, with euphoria similar to other drugs in its family.
+Anileridine (Leritine) is a meperidine relative used in the 1950s to 1970s. Its character was described as similar to meperidine: quick, lighter sedation with less constipation.
 
-Because it is rare, there are few trustworthy descriptions, and anything sold under this name outside a pharmacy is likely to be something else, often fentanyl.
+It was withdrawn in the US and Canada.
+
+Modern firsthand reports are almost nonexistent.
 
 Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
@@ -46,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Onset depends on route: minutes when injected, 15 to 45 minutes swallowed.
+Oral or injection: about 15 minutes.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -54,11 +56,11 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 ### Come-up (30-60 min)
 
-A warm, relaxing build.
+Quick drowsiness.
 
 ### Peak (1-2 h)
 
-Typical opioid peak of calm, contentment, and pain relief.
+Peak within about an hour.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +68,11 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-Sedation and possible nodding.
+Short plateau.
 
 ### Comedown (4-6 h)
 
-Gradual fade over several hours.
+Fades over 2 to 3 hours.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
@@ -78,11 +80,11 @@ For long-acting or extended-release forms, the comedown can be very drawn out, a
 
 ### After-effects (6-24 h)
 
-Constipation and drowsiness.
+Dizziness.
 
 ### Next day
 
-Typical opioid withdrawal after regular use.
+Little next-day effect.
 
 ### Lower vs higher doses (described without amounts)
 

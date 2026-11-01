@@ -14,31 +14,31 @@ Onset sits between swallowing and snorting. It is mostly used medically; experie
 
 ### Onset (10-30 min)
 
-Onset depends on route: minutes when injected, 15 to 45 minutes swallowed.
+Injection: a few minutes.
 
 ### Come-up (20-40 min)
 
-A warm, relaxing build.
+Warm rush and heaviness.
 
 ### Peak (45-90 min)
 
-Typical opioid peak of calm, contentment, and pain relief.
+Peak within 30 minutes.
 
 ### Plateau (1-3 h)
 
-Sedation and possible nodding.
+Lasts a few hours.
 
 ### Comedown (3-6 h)
 
-Gradual fade over several hours.
+Fades over 3 to 5 hours.
 
 ### After-effects (6-24 h)
 
-Constipation and drowsiness.
+Nausea, itch.
 
 ### Next day
 
-Typical opioid withdrawal after regular use.
+Grogginess.
 
 For the full, detailed description of each phase, see the [general Nicomorphine page](../../drugs/nicomorphine.md).
 

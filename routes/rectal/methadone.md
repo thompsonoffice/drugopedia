@@ -14,7 +14,7 @@ Onset sits between swallowing and snorting. It is mostly used medically; experie
 
 ### Onset (30-60 min)
 
-Methadone starts slowly, 30 to 60 minutes after swallowing. The first sensations are quiet: a slight warmth, eased tension, and, in someone in withdrawal, the gradual fading of sickness.
+Methadone starts slowly, roughly 20 to 90 minutes after swallowing. The first sensations are quiet: a slight warmth, eased tension, and, in someone in withdrawal, the gradual fading of sickness.
 
 ### Come-up (1-2 h)
 

@@ -14,7 +14,7 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (IV under 1 min; IM 10-20 min)
 
-Methadone starts slowly, 30 to 60 minutes after swallowing. The first sensations are quiet: a slight warmth, eased tension, and, in someone in withdrawal, the gradual fading of sickness.
+Methadone starts slowly, roughly 20 to 90 minutes after swallowing. The first sensations are quiet: a slight warmth, eased tension, and, in someone in withdrawal, the gradual fading of sickness.
 
 ### Come-up (IV a few minutes)
 

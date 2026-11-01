@@ -12,9 +12,9 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (15-30 min)
+### Onset (20-40 min)
 
-Begins 15 to 30 minutes after swallowing, faster under the tongue.
+Begins 20 to 40 minutes after swallowing, faster under the tongue.
 
 ### Come-up (30-60 min)
 
@@ -24,15 +24,15 @@ Sleepiness and calm build.
 
 Peak at about 2 hours: heavy sedation and relaxation.
 
-### Plateau (2-6 h)
+### Plateau (2-8 h)
 
 Plateau of several hours.
 
-### Comedown (6-8 h)
+### Comedown (8-12 h total)
 
-Fades over 6 to 8 hours.
+Effects last about 8 to 12 hours in total.
 
-### After-effects (8-24 h)
+### After-effects (12-24 h)
 
 Grogginess and memory gaps.
 

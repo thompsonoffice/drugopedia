@@ -24,9 +24,15 @@ Morphine was one of the first widely misused drugs of the industrial age, especi
 
 US Schedule II. UK Class A (low-strength preparations lower). Controlled internationally under the 1961 Single Convention.
 
+## Immediate-release vs extended-release
+
+Immediate-release morphine (tablets, oral solution, Sevredol, Oramorph) works within about 15 to 30 minutes and lasts about 4 hours, with a clearly felt rise and dreamy peak. Extended-release morphine (MS Contin, Kadian, the discontinued Avinza and Arymo ER) releases over 12 or 24 hours with a slow onset, low peak, and steady sedation; patients mainly notice steady pain relief, constipation, and sleepiness. Kadian and Avinza capsules contain pellets; Avinza was discontinued and had a warning about alcohol releasing all drug at once.
+
+**Extra risks of extended-release:** Extended-release products hold far more drug than a single immediate-release tablet, released slowly over many hours. If the release system is damaged, chewed, crushed, dissolved, or taken with alcohol (for some products), the whole reserve can be released at once, which has caused many overdose deaths. ER products are meant only for people with established opioid tolerance and ongoing pain, and they should never be split or shared. Because they last so long, overdose can develop slowly, often during sleep.
+
 ## What the pills feel like
 
-MS Contin and generic extended-release morphine are small, round, film-coated tablets that feel smooth and hard. Immediate-release morphine tablets are often scored. Kadian is a capsule containing small pellets. Morphine oral solution is a liquid.
+MS Contin tablets are round and film-coated (DailyMed), feeling smooth and hard, with a debossed 'PF' symbol on one side. Immediate-release morphine tablets are often scored. Kadian is a capsule containing small pellets. Morphine oral solution is a liquid.
 
 **Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 
@@ -44,15 +50,15 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-45 min)
+### Onset (10-30 min)
 
-Swallowed morphine announces itself slowly and often through the stomach first: a vague queasiness or heaviness, then warmth spreading from the belly. Many people notice the itch before any pleasure, typically a prickle at the tip of the nose, the scalp, or the chest.
+Swallowed morphine (immediate-release, typically 10 to 30 minutes) announces itself slowly and often through the stomach first: a vague queasiness or heaviness, then warmth spreading from the belly. Many people notice the itch before any pleasure, typically a prickle at the tip of the nose, the scalp, or the chest.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Morphine is processed mainly by glucuronidation in the liver into morphine-3-glucuronide and the active morphine-6-glucuronide, both cleared by the kidneys; its half-life is about 2 to 4 hours. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
 Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
 
-### Come-up (30-60 min)
+### Come-up (20-40 min)
 
 Morphine's come-up is a slow tide rather than a wave. Limbs feel weighted and warm, the face flushes, and a drowsy, dreamy contentment builds. Nausea peaks here for many, and some vomit, which people new to opioids often find surprising given how relaxed they otherwise feel.
 

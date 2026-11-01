@@ -2,7 +2,7 @@ from data import *
 def P(slug,*ph): D[slug]["ph"]=list(ph)
 D["oxycodone"]["times"]={"oral":["10-30 min","30-60 min","1-2 h","2-4 h","4-6 h","6-12 h","next day"],"intranasal":["2-7 min","20-40 min","30 min-1.5 h","1.5-3 h","3-5 h","5-12 h","next day"]}
 P("morphine",
-"Swallowed morphine announces itself slowly and often through the stomach first: a vague queasiness or heaviness, then warmth spreading from the belly. Many people notice the itch before any pleasure, typically a prickle at the tip of the nose, the scalp, or the chest.",
+"Swallowed morphine (immediate-release, typically 10 to 30 minutes) announces itself slowly and often through the stomach first: a vague queasiness or heaviness, then warmth spreading from the belly. Many people notice the itch before any pleasure, typically a prickle at the tip of the nose, the scalp, or the chest.",
 "Morphine's come-up is a slow tide rather than a wave. Limbs feel weighted and warm, the face flushes, and a drowsy, dreamy contentment builds. Nausea peaks here for many, and some vomit, which people new to opioids often find surprising given how relaxed they otherwise feel.",
 "The peak is the classic morphine state: heavy, warm, sleepy bliss, with the body feeling sunk into the bed or chair. Thinking becomes slow and soft, and pain, even severe pain, stops seeming to matter. Pupils shrink, breathing slows, and heavy itching is common. This is when breathing is most depressed.",
 "Morphine's plateau is dominated by the nod: drifting into dreamy, half-awake imagery, sometimes vivid and story-like, then surfacing again. People describe losing track of time and conversations. Urinating can be difficult, and the mouth dries out.",
@@ -18,7 +18,7 @@ P("codeine",
 "Constipation, dry mouth, and a mild headache are common. Combination tablets with acetaminophen add liver strain that is not felt but is real.",
 "Most people feel close to normal the next day, maybe slightly foggy. After regular daily use, withdrawal is milder than with stronger opioids but real: restlessness, low mood, aches, runny nose, poor sleep, and diarrhea.")
 P("hydrocodone",
-"Hydrocodone usually starts 15 to 30 minutes after swallowing with a pleasant warmth in the chest and a lift in mood, sometimes before any body heaviness. Many describe a sudden sense that the day has gotten easier.",
+"Hydrocodone usually starts 10 to 60 minutes after swallowing with a pleasant warmth in the chest and a lift in mood, sometimes before any body heaviness. Many describe a sudden sense that the day has gotten easier.",
 "The come-up brings a talkative, friendly glow. People report wanting to chat, clean, or do small tasks, a 'productive buzz' lighter than oxycodone. A mild itch on the face or arms is common, and some feel light nausea.",
 "At the peak, around 1 to 1.5 hours, hydrocodone gives a warm, contented, sociable euphoria with a relaxed, comfortable body. Compared with oxycodone, people describe it as softer, dreamier, and less sharp. Pupils constrict and breathing slows.",
 "The plateau tilts toward sleepiness: the chatty phase gives way to quiet contentment and light nodding, especially when lying down.",
@@ -50,7 +50,7 @@ P("hydromorphone",
 "After-effects include constipation, dry mouth, and sleepiness. Some feel nauseous as it wears off.",
 "After regular use, withdrawal sets in within hours with sweats, aches, and cravings.")
 P("methadone",
-"Methadone starts slowly, 30 to 60 minutes after swallowing. The first sensations are quiet: a slight warmth, eased tension, and, in someone in withdrawal, the gradual fading of sickness.",
+"Methadone starts slowly, roughly 20 to 90 minutes after swallowing. The first sensations are quiet: a slight warmth, eased tension, and, in someone in withdrawal, the gradual fading of sickness.",
 "The come-up is gradual and underwhelming, which is part of the danger. People without tolerance describe a heavy, warm, sedated feeling building over hours, and may wrongly think it is weak.",
 "The felt peak is around 2 to 4 hours, but methadone keeps accumulating, and breathing suppression can deepen after the 'high' has leveled off. People describe a calm, heavy, dull contentment, sweating, and drowsiness.",
 "The plateau is very long, often the rest of the day. For people in treatment it feels like being normal: no craving, no sickness, clear enough to work. For people without tolerance it is a long, sedated state.",
@@ -58,7 +58,7 @@ P("methadone",
 "Sweating, constipation, low libido, and sleepiness are common ongoing effects. The drug can also change heart rhythm.",
 "Methadone is still active the next day. Daily use builds blood levels for about 5 days before stabilizing, which is why the first week of treatment is the riskiest. Withdrawal starts about 1 to 3 days after stopping and can last weeks.")
 P("buprenorphine",
-"Under the tongue, buprenorphine dissolves over several minutes with a bitter or flavored taste. Effects start around 30 to 60 minutes. In someone in withdrawal at the right time, the first feeling is relief.",
+"Under the tongue, buprenorphine dissolves over several minutes with a bitter or flavored taste. Effects start around 40 to 80 minutes. In someone in withdrawal at the right time, the first feeling is relief.",
 "In people without tolerance, the come-up is surprisingly strong: warm, floaty, nauseous, and sleepy. In people with tolerance, it is mostly the steady disappearance of craving and sickness.",
 "The peak, roughly 1 to 4 hours, is a long, mellow high in non-tolerant people, often with heavy nausea. Because of the ceiling effect, more drug does not keep adding euphoria or breathing suppression the same way. Tolerant people describe clear-headedness and feeling 'normal.'",
 "The plateau lasts a very long time, often a full day. People describe being calm and functional, sometimes slightly energized, sometimes with headache.",
@@ -105,3 +105,12 @@ P("tapentadol",
 "The comedown, around 4 to 6 hours for immediate-release, is gradual.",
 "After-effects include dizziness, dry mouth, and constipation.",
 "After repeated use, withdrawal is opioid-like and may include anxiety and agitation.")
+# timing corrections checked against PsychonautWiki SubstanceBox templates (Oct 31, 2026)
+D["morphine"]["times"]={"oral":["10-30 min","20-40 min","1-2 h","2-4 h","4-6 h","6-24 h","next day"]}
+D["methadone"]["times"]["oral"]=["20-90 min","2-4 h","2-6 h","6-19 h","12-36 h","24-72 h","still active"]
+D["buprenorphine"]["times"]["sublingual-buccal"]=["40-80 min","1-2 h","1.5-4 h","4-18 h","18-48 h","24-72 h","still active"]
+D["hydrocodone"]["times"]={"oral":["10-60 min","30-60 min","1-2 h","2-4 h","4-8 h","8-24 h","next day"]}
+D["tramadol"]["times"]={"oral":["15-60 min","30-60 min","2-3 h","2-6 h","6-10 h","10-24 h","next day"]}
+D["tapentadol"]["times"]={"oral":["15-30 min","30-45 min","1-2 h","2-3 h","4-6 h","6-12 h","next day"]}
+D["oxymorphone"]["times"]={"oral":["20-45 min","45-90 min","1-2 h","2-4 h","4-6 h","6-24 h","next day"]}
+D["heroin"]["times"]={"injected":["IV 0-5 sec; IM/SC 5-15 min","IV seconds","IV 1-5 min","1-4 h","4-5 h total","5-12 h","next day"],"inhaled-smoked":["5-10 sec","seconds","1-15 min","15-30 min","3-5 h total","5-12 h","next day"],"intranasal":["10-60 sec to a few min","1-5 min","5-30 min","1-1.5 h","3-7 h total","7-12 h","next day"],"oral":["20-45 min","30-60 min","1-2 h","2-4 h","4-6 h","6-24 h","next day"]}

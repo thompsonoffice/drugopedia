@@ -34,9 +34,11 @@ Forms vary by country and manufacturer; see the brand list above. Ask a pharmaci
 
 ### The character of its effects
 
-Little is known from direct reports. People describe a heavy, fast opioid effect, similar to or stronger than fentanyl, with rapid loss of consciousness.
+Nitazenes (isotonitazene, metonitazene, protonitazene, N-pyrrolidino etonitazene and others) are benzimidazole opioids developed in the 1950s and never approved. Their character is like a very strong, fast fentanyl-like hit: a heavy wave of warmth, then sudden, deep sedation.
 
-Because they are in counterfeit pills, most people never know they took a nitazene.
+Many people who die from nitazenes did not know they were taking them, because they are hidden in fake oxycodone, fake benzodiazepine tablets, and heroin.
+
+Some nitazenes are far stronger than fentanyl, so the step from a pleasant effect to stopped breathing is tiny, and more than one naloxone dose may be needed.
 
 Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
 
@@ -46,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Onset within seconds to minutes depending on route.
+Smoked or injected: seconds; swallowed: about 15 to 45 minutes.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -54,11 +56,11 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 ### Come-up (30-60 min)
 
-Little come-up.
+Very fast, overwhelming heaviness.
 
 ### Peak (1-2 h)
 
-Heavy sedation, sometimes immediate unconsciousness.
+Peak deep sedation and nodding; breathing can slow sharply.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +68,11 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-Duration unclear, may be longer than fentanyl.
+Plateau varies; some last longer than fentanyl.
 
 ### Comedown (4-6 h)
 
-Comedown unclear.
+Fade is unpredictable and overdose can return after naloxone wears off.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
@@ -78,11 +80,11 @@ For long-acting or extended-release forms, the comedown can be very drawn out, a
 
 ### After-effects (6-24 h)
 
-Unknown.
+Exhaustion, nausea.
 
 ### Next day
 
-Strong dependence expected.
+Withdrawal may begin.
 
 ### Lower vs higher doses (described without amounts)
 

@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (30-60 min)
 
-Onset begins with loosening tension and a gentle heaviness.
+Swallowed: about 30 to 60 minutes.
 
 ### Come-up (1-2 h)
 
-Relaxation and drowsiness build.
+Calm.
 
 ### Peak (1-4 h)
 
-Peak: strong calm, sedation, and reduced coordination; memory gaps begin.
+Peak 1 to 2 hours.
 
 ### Plateau (4-8 h)
 
-Plateau of sedation and calm.
+Several hours.
 
 ### Comedown (8-20 h)
 
-Effects fade; short-acting ones can bring rebound anxiety or insomnia.
+Fades over 8 to 12 hours.
 
 ### After-effects (1-2 days)
 
-Grogginess, memory gaps, impaired driving.
+Drowsiness.
 
 ### Next day
 
-After daily use, stopping can cause dangerous withdrawal including seizures.
+Mild fog.
 
 For the full, detailed description of each phase, see the [general Bromazepam (Lexotan) page](../../drugs/bromazepam.md).
 

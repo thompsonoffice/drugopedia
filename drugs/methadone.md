@@ -28,6 +28,10 @@ Diverted methadone, particularly pain prescriptions in the 2000s, was linked to 
 
 US Schedule II. UK Class A.
 
+## Immediate-release vs extended-release
+
+Methadone has no separate extended-release product; its own long half-life acts like a built-in extended release, which is why it is taken once daily.
+
 ## What the pills feel like
 
 Methadone tablets are usually small, round or rectangular, and scored; dispersible tablets (Diskets) are larger, flat, and cross-scored so they can be broken. Clinic methadone is usually a liquid, often colored and flavored, given in a small cup.
@@ -48,19 +52,19 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (30-60 min)
+### Onset (20-90 min)
 
-Methadone starts slowly, 30 to 60 minutes after swallowing. The first sensations are quiet: a slight warmth, eased tension, and, in someone in withdrawal, the gradual fading of sickness.
+Methadone starts slowly, roughly 20 to 90 minutes after swallowing. The first sensations are quiet: a slight warmth, eased tension, and, in someone in withdrawal, the gradual fading of sickness.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Methadone is metabolized by CYP3A4, CYP2B6, and CYP2D6, and its half-life varies enormously, from about 8 to 59 hours, so it accumulates over several days. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
 Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
 
-### Come-up (1-2 h)
+### Come-up (2-4 h)
 
 The come-up is gradual and underwhelming, which is part of the danger. People without tolerance describe a heavy, warm, sedated feeling building over hours, and may wrongly think it is weak.
 
-### Peak (2-4 h)
+### Peak (2-6 h)
 
 The felt peak is around 2 to 4 hours, but methadone keeps accumulating, and breathing suppression can deepen after the 'high' has leveled off. People describe a calm, heavy, dull contentment, sweating, and drowsiness.
 
@@ -68,7 +72,7 @@ Medically, the peak corresponds to the highest drug levels at the receptors. The
 
 Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
-### Plateau (4-12 h)
+### Plateau (6-19 h)
 
 The plateau is very long, often the rest of the day. For people in treatment it feels like being normal: no craving, no sickness, clear enough to work. For people without tolerance it is a long, sedated state.
 

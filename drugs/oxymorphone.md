@@ -24,6 +24,12 @@ Numorphan was popular among people who injected drugs in the 1960s and 1970s ("b
 
 US Schedule II.
 
+## Immediate-release vs extended-release
+
+Immediate-release oxymorphone (Opana and generics) lasts about 4 to 6 hours. Extended-release oxymorphone (Opana ER) was given every 12 hours and had a slower, longer, steadier profile. Reformulated Opana ER was removed from the US market in 2017, though some generic ER oxymorphone remained for a time. The withdrawn reformulation is linked to the 2015 HIV and hepatitis C outbreak in Indiana.
+
+**Extra risks of extended-release:** Extended-release products hold far more drug than a single immediate-release tablet, released slowly over many hours. If the release system is damaged, chewed, crushed, dissolved, or taken with alcohol (for some products), the whole reserve can be released at once, which has caused many overdose deaths. ER products are meant only for people with established opioid tolerance and ongoing pain, and they should never be split or shared. Because they last so long, overdose can develop slowly, often during sleep.
+
 ## What the pills feel like
 
 Forms vary by country and manufacturer; see the brand list above. Ask a pharmacist to describe the product you have.
@@ -44,7 +50,7 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-45 min)
+### Onset (20-45 min)
 
 Swallowed oxymorphone can be slow and inconsistent to start, often 30 to 60 minutes, and is strongly affected by food. The first sign is usually a deep, sinking heaviness rather than a bright lift.
 
@@ -52,7 +58,7 @@ From a medical point of view, the onset reflects how quickly the drug reaches th
 
 Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
 
-### Come-up (30-60 min)
+### Come-up (45-90 min)
 
 The come-up is heavy and warm: a strong pull toward the couch, flushing, and a powerful wave of comfort. Itch is moderate.
 

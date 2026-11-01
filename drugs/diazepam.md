@@ -26,7 +26,7 @@ US Schedule IV. UK Class C.
 
 ## What the pills feel like
 
-Valium tablets are small, round, flat, and scored, with a 'V' cut-out shape pressed through the middle on the brand. Generics are small, round, scored tablets.
+Per the DailyMed Valium label, Valium tablets are round, flat-faced, with beveled edges and a V-shaped perforation (a cut-out you can feel), scored vertically on the back. Generics are small, round, scored tablets.
 
 **Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 
@@ -44,7 +44,7 @@ Tolerance to the calming and sleep effects of benzodiazepines builds within week
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-45 min)
+### Onset (20-40 min)
 
 Swallowed, diazepam starts within 15 to 45 minutes: muscle tension loosens first.
 

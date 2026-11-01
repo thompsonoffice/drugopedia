@@ -14,7 +14,7 @@ Injection is a hospital route for sedation, anesthesia, alcohol withdrawal, and 
 
 ### Onset (IV 1-5 min)
 
-Begins 15 to 30 minutes after swallowing, faster under the tongue.
+Begins 20 to 40 minutes after swallowing, faster under the tongue.
 
 ### Come-up (5-10 min)
 
@@ -30,7 +30,7 @@ Plateau of several hours.
 
 ### Comedown (6-8 h)
 
-Fades over 6 to 8 hours.
+Effects last about 8 to 12 hours in total.
 
 ### After-effects (8-24 h)
 

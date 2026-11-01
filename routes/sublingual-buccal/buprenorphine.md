@@ -12,23 +12,23 @@ Slower and steadier than injecting or snorting, faster than swallowing for some 
 
 ## Timeline for this route
 
-### Onset (30-60 min)
+### Onset (40-80 min)
 
-Under the tongue, buprenorphine dissolves over several minutes with a bitter or flavored taste. Effects start around 30 to 60 minutes.
+Under the tongue, buprenorphine dissolves over several minutes with a bitter or flavored taste. Effects start around 40 to 80 minutes.
 
 ### Come-up (1-2 h)
 
 In people without tolerance, the come-up is surprisingly strong: warm, floaty, nauseous, and sleepy. In people with tolerance, it is mostly the steady disappearance of craving and sickness.
 
-### Peak (1-4 h)
+### Peak (1.5-4 h)
 
 The peak, roughly 1 to 4 hours, is a long, mellow high in non-tolerant people, often with heavy nausea. Because of the ceiling effect, more drug does not keep adding euphoria or breathing suppression the same way.
 
-### Plateau (4-12 h)
+### Plateau (4-18 h)
 
 The plateau lasts a very long time, often a full day. People describe being calm and functional, sometimes slightly energized, sometimes with headache.
 
-### Comedown (12-48 h)
+### Comedown (18-48 h)
 
 The effect fades over 24 to 72 hours, so there is usually no noticeable comedown between daily treatment doses.
 

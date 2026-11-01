@@ -24,6 +24,10 @@ Misused for calm and sleep.
 
 US Schedule IV. UK Class C.
 
+## Immediate-release vs extended-release
+
+Lorazepam is mostly immediate-release; Loreev XR is a once-daily extended-release capsule approved in 2021 for people already stable on lorazepam, giving steadier levels.
+
 ## What the pills feel like
 
 Ativan tablets are small, five-sided (pentagonal) tablets; generics are small and round or five-sided, often scored.
@@ -44,9 +48,9 @@ Tolerance to the calming and sleep effects of benzodiazepines builds within week
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-30 min)
+### Onset (20-40 min)
 
-Begins 15 to 30 minutes after swallowing, faster under the tongue.
+Begins 20 to 40 minutes after swallowing, faster under the tongue.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Lorazepam is glucuronidated in the liver without CYP enzymes, so it is less affected by liver disease and drug interactions; half-life 10 to 20 hours. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,19 +68,19 @@ Medically, the peak is when sedation, muscle relaxation, and memory impairment a
 
 On their own, benzodiazepines rarely stop breathing in healthy adults, but combined with opioids or alcohol they greatly deepen respiratory depression. The FDA added its strongest boxed warning about this combination in 2016.
 
-### Plateau (2-6 h)
+### Plateau (2-8 h)
 
 Plateau of several hours.
 
-### Comedown (6-8 h)
+### Comedown (8-12 h total)
 
-Fades over 6 to 8 hours.
+Effects last about 8 to 12 hours in total.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
 In people who take them daily, falling levels can trigger withdrawal, which in severe cases includes seizures and delirium. This is why stopping should be a slow medical taper, not a sudden stop.
 
-### After-effects (8-24 h)
+### After-effects (12-24 h)
 
 Grogginess and memory gaps.
 
