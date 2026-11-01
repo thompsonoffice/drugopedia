@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-Onset in 30 to 90 minutes.
+LSD analogs such as 1P-LSD, AL-LAD and ETH-LAD are research chemicals that people describe as similar to LSD with differences in feel and duration. The onset brings a mild, tingly body energy, yawning and a sense of something shifting.
+
+Mentally there is anticipation and a slight brightening of thought and color.
+
+Because these are unregulated, what is sold may not be what the label says.
 
 Most 1-acyl analogs are converted to LSD by enzymes in the blood and liver.
 
@@ -60,7 +64,11 @@ Visual and emotional changes build.
 
 ### Peak (2-5 h)
 
-Peak at 2 to 5 hours.
+At the peak visuals of breathing surfaces, color enhancement and geometric patterns are common. AL-LAD is often described as more visual and shorter; ETH-LAD as more intense and bodily.
+
+Emotionally the peak can be euphoric, insightful or anxious.
+
+Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
 At peak, effects are those of LSD or a close relative at 5-HT2A.
 
@@ -68,11 +76,19 @@ Panic, confusion and accidents are the main dangers.
 
 ### Plateau (4-7 h)
 
-Plateau several hours.
+The plateau is long, with continued visuals and thought loops.
+
+Mood varies.
+
+Fatigue builds.
 
 ### Comedown (7-12 h)
 
-Taper over hours.
+The comedown is a slow taper with lingering stimulation.
+
+Mood reflective.
+
+Sleep can be hard.
 
 Durations are similar to or slightly shorter than LSD.
 

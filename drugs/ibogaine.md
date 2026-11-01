@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-3 h)
 
-Effects begin 1 to 3 hours after swallowing.
+Ibogaine, from the iboga shrub, comes on slowly with nausea, dizziness and a heavy, uncoordinated body. Movement makes nausea worse, and a buzzing or droning sound is common.
+
+Mentally a dreamlike state begins with closed-eye visions.
+
+Coordination becomes very poor.
 
 Ibogaine is absorbed slowly and converted by CYP2D6 into noribogaine.
 
@@ -60,7 +64,11 @@ Nausea and ataxia.
 
 ### Peak (4-8 h)
 
-Visionary phase for 4 to 8 hours.
+At the peak, long, vivid, dreamlike visions, often of personal memories, play out with eyes closed.
+
+Emotionally confronting and introspective; it is sometimes studied for addiction treatment.
+
+Ibogaine can cause dangerous heart rhythm problems (QT prolongation) and has caused deaths, especially in people using opioids or with heart conditions. It requires medical monitoring.
 
 At peak, ibogaine blocks cardiac hERG potassium channels, lengthening the QT interval and risking torsades de pointes and sudden death.
 
@@ -68,11 +76,19 @@ Medical screening (ECG, electrolytes) and monitoring are essential; deaths have 
 
 ### Plateau (8-20 h)
 
-Reflective phase for many hours.
+The plateau is a long, reflective stretch.
+
+Mind processes memories.
+
+People are exhausted but cannot sleep.
 
 ### Comedown (20-36 h)
 
-Residual effects for a day or more.
+The comedown lasts a day or more.
+
+Mood reflective, tired.
+
+Cardiac risk persists for days.
 
 Noribogaine persists for days, extending heart risk.
 

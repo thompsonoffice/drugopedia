@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Effects begin within seconds of inhaling.
+5-MeO-DMT, from certain plants and the toad Incilius alvarius, is very fast and very different from DMT. Within seconds, a powerful rush of pressure and vibration sweeps through the body, and the sense of having a body can vanish.
+
+Mentally the onset is often described as total dissolution: ego, thoughts, time and space disappear into a white light or void. There are usually few colorful visuals.
+
+People may cry out, thrash, vomit or become unresponsive without knowing it.
 
 Inhaled 5-MeO-DMT reaches the brain within seconds.
 
@@ -60,7 +64,11 @@ Rapid loss of contact with surroundings.
 
 ### Peak (1-5 min)
 
-Peak within minutes.
+At the peak many report complete 'non-dual' unity, a sense of being everything and nothing at once.
+
+Emotionally it can be blissful or utterly terrifying.
+
+The physical risks are higher than DMT: seizures, vomiting while unaware, and dangerous interactions, especially with MAO inhibitors. Deaths have occurred. Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
 At peak, strong 5-HT1A and 5-HT2A activation produces loss of awareness; people may stop responding entirely.
 
@@ -68,11 +76,19 @@ Combined with MAO inhibitors (including ayahuasca), 5-MeO-DMT has caused fatal s
 
 ### Plateau (5-15 min)
 
-Short plateau.
+The plateau is short, and sensory awareness returns over minutes.
+
+Mentally people return disoriented and shaken.
+
+A sober sitter is essential.
 
 ### Comedown (15-30 min)
 
-Return over 15 to 30 minutes.
+The comedown may bring euphoria or lingering anxiety.
+
+Some experience 'reactivations' of the state in the following days.
+
+No physical dependence develops.
 
 Rapid breakdown by MAO ends effects in under an hour.
 

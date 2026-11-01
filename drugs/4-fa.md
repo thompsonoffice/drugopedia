@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-Effects begin 30 to 90 minutes after swallowing.
+4-FA (4-fluoroamphetamine) has a moderate onset of clean energy and mild warmth.
+
+Mentally a mix of amphetamine focus and mild MDMA-like sociability.
+
+Heart rate rises.
 
 4-FA is absorbed well.
 
@@ -60,7 +64,11 @@ Energy rises.
 
 ### Peak (2-3 h)
 
-Peak 2 to 3 hours.
+At the peak euphoria, sociability and energy.
+
+Emotionally upbeat.
+
+Severe headaches and strokes have been reported.
 
 At peak, severe headache can signal brain bleeding and needs emergency care.
 
@@ -68,11 +76,19 @@ Strokes were reported in the Netherlands.
 
 ### Plateau (3-6 h)
 
-Plateau several hours.
+The plateau is long.
+
+Mood stable.
+
+Sleep is hard.
 
 ### Comedown (6-8 h)
 
-Long comedown.
+The comedown is tired.
+
+Mood mild low.
+
+Repeated use risky.
 
 Effects last 4 to 8 hours.
 

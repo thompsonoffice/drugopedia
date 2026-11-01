@@ -48,7 +48,11 @@ Times below are typical for the sublingual and buccal (under the tongue or in th
 
 ### Onset (15-60 min)
 
-Effects begin 15 to 60 minutes after taking.
+NBOMe compounds (like 25I-NBOMe, often sold as fake LSD on blotter) often start with a bitter or numbing taste, which is a warning sign. The onset brings strong stimulation, tension and a racing heart.
+
+Mentally an edgy, intense rise.
+
+Body temperature may climb.
 
 NBOMes are destroyed by first-pass metabolism if swallowed, so blotters are held in the mouth.
 
@@ -60,7 +64,11 @@ Visuals and stimulation.
 
 ### Peak (2-4 h)
 
-Peak at 2 to 4 hours.
+At the peak intense visuals with a harsh, stimulating body load.
+
+Emotionally can tip into confusion, paranoia and agitation.
+
+NBOMes have caused many deaths from seizures, overheating, heart problems and violent agitation, even at tiny amounts. Any seizure, very high temperature or extreme agitation is an emergency.
 
 At peak, seizures, overheating, agitation and arrhythmias can occur; some deaths involved violent trauma.
 
@@ -68,11 +76,19 @@ Rhabdomyolysis and kidney failure follow severe cases.
 
 ### Plateau (4-6 h)
 
-Plateau several hours.
+The plateau is long and uncomfortable for many.
+
+Thinking agitated.
+
+Medical help may be needed.
 
 ### Comedown (6-10 h)
 
-Taper over hours.
+The comedown is draining.
+
+Mood anxious.
+
+Fentanyl test strips do not detect NBOMes.
 
 Effects last several hours.
 

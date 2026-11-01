@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (45-90 min)
 
-Effects begin 45 to 90 minutes after swallowing.
+MDA, MDMA's older cousin, has a moderate onset with a tingly rush, jaw tension and nausea.
+
+Mentally euphoric and energized, with warmth, but more trippy and less 'loved-up' than MDMA.
+
+Pupils widen and heart rate climbs.
 
 MDA is absorbed slowly and releases serotonin and dopamine.
 
@@ -60,7 +64,11 @@ Energy and euphoria rise.
 
 ### Peak (2-3 h)
 
-Peak 2 to 3 hours.
+At the peak, euphoria, stimulation and mild visuals.
+
+Emotionally warm and energized.
+
+Overheating, dehydration, low blood sodium and serotonin syndrome are risks, and MDA is thought to be harder on the brain than MDMA.
 
 At peak, 5-HT2A activation adds visual effects; overheating and serotonin toxicity are dangers.
 
@@ -68,11 +76,19 @@ Neurotoxicity in animals appears greater than MDMA.
 
 ### Plateau (3-5 h)
 
-Plateau 2 to 3 hours.
+The plateau is long.
+
+Mood energized.
+
+Body temperature stays high.
 
 ### Comedown (5-8 h)
 
-Long comedown.
+The comedown brings tiredness and low mood.
+
+Mood flat for days.
+
+Repeated use is risky.
 
 Half-life is long (about 11 hours).
 

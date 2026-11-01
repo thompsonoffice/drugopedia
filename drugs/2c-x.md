@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-Onset in 30 to 90 minutes.
+The 2C family (2C-I, 2C-E, 2C-T-7 and others) varies widely. The onset often brings body load: nausea, tension and a jittery energy.
+
+Mentally anticipation and a building intensity.
+
+Effects and durations differ greatly between compounds.
 
 Absorption and onset vary by compound; 2C-P and 2C-E are slow.
 
@@ -60,7 +64,11 @@ Visuals and body load build.
 
 ### Peak (2-4 h)
 
-Peak 2 to 4 hours.
+At the peak strong visuals and altered thinking; 2C-E is known for heavy, intense experiences, 2C-I for energetic visuals.
+
+Emotionally can be euphoric or difficult.
+
+Some 2C compounds, especially 2C-T-7, have been linked to deaths. Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
 At peak, strong 5-HT2A effects; seizures and overheating are reported with some compounds.
 
@@ -68,11 +76,19 @@ At peak, strong 5-HT2A effects; seizures and overheating are reported with some 
 
 ### Plateau (3-6 h)
 
-Long plateau.
+The plateau is long.
+
+Body discomfort can persist.
+
+Fatigue grows.
 
 ### Comedown (6-12 h)
 
-Taper over hours.
+The comedown is slow.
+
+Mood mixed.
+
+Mixing with other drugs is dangerous.
 
 Durations vary widely, up to many hours.
 

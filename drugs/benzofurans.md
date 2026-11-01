@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Effects begin 1 to 2 hours after swallowing.
+Benzofurans (5-APB, 6-APB) have a slow onset of warm energy and tingling.
+
+Mentally a loving, MDMA-like openness.
+
+Nausea and jaw tension appear.
 
 Benzofurans are absorbed slowly, which delays onset.
 
@@ -60,7 +64,11 @@ Slow build.
 
 ### Peak (3-5 h)
 
-Peak 3 to 5 hours.
+At the peak warmth, euphoria and mild visuals.
+
+Emotionally affectionate.
+
+Risks include overheating, heart strain, and anxiety; long-term heart valve concerns.
 
 At peak, empathogenic and visual effects; overheating is possible.
 
@@ -68,11 +76,19 @@ Strong 5-HT2B activation is linked to valve disease with chronic exposure.
 
 ### Plateau (5-7 h)
 
-Long plateau.
+The plateau is very long.
+
+Mood warm.
+
+Sleep is hard.
 
 ### Comedown (7-12 h)
 
-Comedown over many hours.
+The comedown is long and tired.
+
+Mood low.
+
+Mixing is risky.
 
 Long duration extends risk.
 

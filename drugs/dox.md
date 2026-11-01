@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-3 h)
 
-Onset 1 to 3 hours.
+DOx compounds (DOM, DOB, DOC) have a very slow onset, sometimes hours, which leads people to take more. Body stimulation and tension build gradually.
+
+Mentally a slow, building intensity.
+
+Pupils widen and the jaw may clench.
 
 DOx compounds are absorbed slowly, with onset often taking hours.
 
@@ -60,7 +64,11 @@ Slow build.
 
 ### Peak (4-8 h)
 
-Peak 4 to 8 hours.
+At the peak strong visuals and stimulation.
+
+Emotionally intense; can be anxious.
+
+DOB and DOC can constrict blood vessels and have caused deaths. Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
 At peak, intense psychedelic effects with stimulation; vasospasm can cause limb ischemia.
 
@@ -68,11 +76,19 @@ Very long duration increases exhaustion and risk.
 
 ### Plateau (8-14 h)
 
-Long plateau.
+The plateau can last most of a day or more.
+
+Exhaustion grows.
+
+Sleep is very difficult.
 
 ### Comedown (14-24 h)
 
-Taper over many hours.
+The comedown is very long.
+
+Mood drained.
+
+Dangerous with other drugs.
 
 Effects can last a day or more.
 

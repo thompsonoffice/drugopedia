@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Effects begin 30 to 60 minutes after drinking, with nausea.
+Ayahuasca, a brew combining a DMT-containing plant with an MAO-inhibiting vine, comes on slowly. The first signs are stomach unease, a heavy, warm body and a subtle shift in vision, with colors deepening and soft patterns appearing in the dark.
+
+Mentally the onset often brings anticipation and anxiety, then a feeling of being drawn inward. Thoughts and memories surface with unusual vividness.
+
+Nausea builds and vomiting ('the purge') is common and considered part of the ritual in traditional settings. Diarrhea, sweating and shivering can come too.
 
 Harmala alkaloids inhibit MAO-A in the gut and liver within minutes, allowing DMT to reach the bloodstream.
 
@@ -60,7 +64,11 @@ Visions and emotional waves build; vomiting is common.
 
 ### Peak (1.5-2.5 h)
 
-The peak at 1.5 to 2.5 hours brings intense imagery.
+At the peak, closed-eye visions can be cinematic: jungles, serpents, animals, ancestors, and scenes from the person's own life. Body sensations surge in waves of heat, cold, tingling or heaviness.
+
+Emotionally the peak can be cathartic and confronting: crying, grief, fear, forgiveness and deep love are all common. Many describe it as a long, intense psychological journey rather than a pleasurable high.
+
+The MAO inhibitor in the brew makes interactions dangerous: with SSRIs and other serotonergic drugs it can cause serotonin syndrome, and with stimulants or certain foods it can spike blood pressure. Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
 At peak, DMT's 5-HT2A effects combine with harmaline's own effects, producing long visionary states.
 
@@ -68,11 +76,19 @@ MAO inhibition can cause serotonin syndrome with SSRIs, SNRIs, MDMA, tramadol, D
 
 ### Plateau (2-3 h)
 
-Plateau about 1 to 2 hours.
+The plateau is a long stretch of rolling visions and emotional processing, with intermittent nausea.
+
+Thinking moves between insight and confusion.
+
+People are vulnerable and need a safe setting and trustworthy people around.
 
 ### Comedown (3-6 h)
 
-Taper over 1 to 2 hours.
+The comedown is gradual, leaving tiredness, emptiness of the stomach, and a sense of having been through something.
+
+Emotionally people often feel cleansed and reflective, though some feel shaken.
+
+Deaths have been reported, usually involving drug interactions, other substances added to the brew, or pre-existing heart problems.
 
 Effects fade as DMT is cleared, but MAO inhibition lasts longer.
 

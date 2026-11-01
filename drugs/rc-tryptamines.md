@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20 min-3 h)
 
-Onset varies from 20 minutes to 3 hours by drug.
+Research tryptamines like 4-AcO-DMT, 4-HO-MET and DPT vary. Onset may bring mild nausea, yawning and a tingly energy.
+
+Mentally a gradual opening.
+
+Many feel similar to psilocybin.
 
 Absorption varies; 4-AcO-DMT converts to psilocin.
 
@@ -60,7 +64,11 @@ Body load and visuals build.
 
 ### Peak (2-6 h)
 
-Peaks range from 2 to 6 hours.
+At the peak visuals and altered thinking.
+
+Emotionally euphoric or difficult.
+
+Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
 At peak, psychedelic effects; AMT adds stimulation.
 
@@ -68,11 +76,19 @@ AMT's MAO inhibition can cause serotonin syndrome with other drugs.
 
 ### Plateau (2-8 h)
 
-Plateau varies.
+The plateau is a few hours.
+
+Mood varies.
+
+Fatigue builds.
 
 ### Comedown (4-16 h)
 
-Taper varies.
+The comedown is gradual.
+
+Mood reflective.
+
+Unregulated products may be mislabeled.
 
 Durations range from a few hours to over a day.
 

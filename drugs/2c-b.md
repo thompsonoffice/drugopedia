@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-75 min)
 
-Effects begin 30 to 75 minutes after swallowing.
+2C-B has a moderate onset of tingling body energy, warmth and a slight stomach unease.
+
+Mentally a lighthearted, giggly openness, often called a mix between a psychedelic and MDMA.
+
+Colors start to brighten.
 
 2C-B is absorbed from the gut and acts as a partial agonist at 5-HT2A and 5-HT2C receptors.
 
@@ -60,7 +64,11 @@ Body tingles and colors brighten.
 
 ### Peak (1.5-3 h)
 
-Peak at 1.5 to 3 hours.
+At the peak, vivid colors and patterns, a sensual, energized body, and heightened touch.
+
+Emotionally playful and euphoric at lower amounts; at higher amounts intensely visual and potentially overwhelming.
+
+Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
 At peak, visual and tactile effects are strong; high levels cause anxiety and confusion.
 
@@ -68,11 +76,19 @@ Mixing with stimulants raises heart risk.
 
 ### Plateau (2-4 h)
 
-Plateau 1 to 2 hours.
+The plateau is several hours of steady effects.
+
+Mood warm and talkative.
+
+Overheating and dehydration are possible in clubs.
 
 ### Comedown (4-6 h)
 
-Taper over 2 hours.
+The comedown is fairly gentle.
+
+Mood usually stable.
+
+Mixing with other drugs raises risk.
 
 Half-life is about 2.5 hours.
 

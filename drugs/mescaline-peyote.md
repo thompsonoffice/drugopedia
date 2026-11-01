@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (45-90 min)
 
-Effects begin 45 to 90 minutes after eating, often with nausea.
+Mescaline, from peyote and San Pedro cacti, comes on slowly. The first hour often brings nausea and vomiting, a bitter taste, and a restless, stimulated body with tingling and warmth.
+
+Mentally the onset feels like a gradual brightening, with a heightened sense of beauty and openness.
+
+Pupils widen and the heart rate rises.
 
 Mescaline is absorbed slowly from the gut and needs much more than LSD to act, because it binds 5-HT2A weakly.
 
@@ -60,7 +64,11 @@ Colors and emotions intensify.
 
 ### Peak (3-5 h)
 
-The peak at about 3 to 5 hours.
+At the peak colors are intensely vivid and saturated, often more so than with LSD, and surfaces breathe and shimmer. The body may feel warm, energized and sometimes heavy.
+
+Emotionally the peak is often warm, empathetic and earthy, with a sense of connection to nature. Thought is clearer and less chaotic than with LSD for many people.
+
+Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
 At peak, 5-HT2A activation produces vivid colors and pattern visuals.
 
@@ -68,11 +76,19 @@ Heart rate and blood pressure rise modestly.
 
 ### Plateau (5-8 h)
 
-Long plateau.
+The plateau is long, many hours of vivid, flowing visuals and reflective thought.
+
+Mood is usually gentle and introspective.
+
+Fatigue builds as the hours pass.
 
 ### Comedown (8-12 h)
 
-Taper over many hours.
+The comedown is slow, with visuals softening into the evening.
+
+Emotionally calm and tired.
+
+Sleep can be difficult until it fully clears.
 
 Half-life about 6 hours.
 

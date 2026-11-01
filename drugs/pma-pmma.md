@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Effects begin slowly, over 1 to 2 hours.
+PMA and PMMA are often sold as fake ecstasy. The onset is slow and weak, which leads people to take more, a deadly pattern.
+
+Mentally less euphoria than expected.
+
+Body heat and heart rate climb.
 
 PMA is absorbed slowly, so effects seem weak at first.
 
@@ -60,7 +64,11 @@ Mild stimulation without much euphoria.
 
 ### Peak (3-5 h)
 
-Peak several hours later.
+At the peak, people may feel only mildly high while their body is overheating dangerously.
+
+Emotionally confused or agitated.
+
+PMA/PMMA have caused many deaths from extreme overheating and organ failure. A very hot, confused person needs 911 immediately.
 
 At peak, serotonin release plus MAO-A inhibition can cause extreme overheating and serotonin toxicity.
 
@@ -68,11 +76,19 @@ Redosing after a 'weak' first pill is the classic fatal pattern.
 
 ### Plateau (5-8 h)
 
-Overheating may develop.
+The plateau is dangerous.
+
+Thinking confused.
+
+Cooling and medical help are crucial.
 
 ### Comedown (8-12 h)
 
-Long comedown.
+Survivors feel exhausted.
+
+Mood low.
+
+Never re-dose a drug that seems weak.
 
 Long half-life prolongs danger.
 

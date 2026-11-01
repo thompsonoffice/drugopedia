@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Effects begin within seconds of inhaling.
+Smoked or vaporized DMT has one of the fastest onsets of any drug. Within seconds a high-pitched buzzing or ringing rises in the ears, the body tingles and vibrates intensely, and a pressure builds in the head and chest as if being lifted or pulled. Vision fills with brilliant, rapidly shifting geometric patterns even with eyes open.
+
+Mentally the onset feels like being launched. The ordinary sense of self and surroundings can dissolve within moments; many describe 'breaking through' a membrane or curtain. Fear, awe and astonishment can arrive all at once.
+
+Heart rate and blood pressure jump briefly, and the body may go limp. People are effectively unable to move or speak meaningfully for the first minutes.
 
 Inhaled DMT reaches the brain in seconds; swallowed DMT is destroyed by gut MAO and is inactive unless combined with an MAO inhibitor (as in ayahuasca).
 
@@ -60,7 +64,11 @@ A rapid rush of sound and visuals.
 
 ### Peak (2-5 min)
 
-Peak at 2 to 5 minutes, with loss of contact with surroundings.
+At the peak the outside world is often gone. People report immersive, hyper-real spaces of intricate color and geometry, and a strikingly common sense of encountering 'beings' or intelligences. Bodily sensation may fade entirely or turn into waves of energy.
+
+Emotionally the peak can be ecstatic, loving and profound, or overwhelming and terrifying. Many say it felt more real than everyday reality and impossible to describe in words.
+
+Psychedelics rarely threaten the body directly, but they impair judgment and coordination, so falls, traffic, water and heights are real dangers. Panic, paranoia and terrifying experiences can happen to anyone, and people with a personal or family history of psychosis or bipolar disorder face a higher risk of lasting harm.
 
 At peak, DMT activates 5-HT2A and sigma-1 receptors; EEG studies show the brain shifting to a dreamlike state.
 
@@ -68,11 +76,19 @@ People with heart disease or high blood pressure face the greatest risk.
 
 ### Plateau (5-10 min)
 
-Plateau a few minutes.
+The intense phase is very short. Within minutes the visuals soften back into geometric overlays on the real room, and body sensation returns as tingling and heaviness.
+
+Mentally people drift back with a sense of awe, confusion or shock, often trying to remember what happened.
+
+Being in a safe, seated or lying position with a sober person present matters, because people cannot protect themselves during the peak.
 
 ### Comedown (10-20 min)
 
-Return over 10 to 20 minutes.
+The comedown is quick, typically leaving a clear head within the hour.
+
+Emotionally there may be euphoria, gratitude, or unsettled anxiety needing time to process.
+
+DMT does not cause physical dependence. Combining with MAO inhibitors, as in ayahuasca, changes the experience and adds interaction risks.
 
 MAO breaks DMT down within minutes, ending effects rapidly.
 
