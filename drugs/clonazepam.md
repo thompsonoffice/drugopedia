@@ -50,7 +50,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-60 min)
 
-Begins 20 to 60 minutes after swallowing, slowly.
+Clonazepam (Klonopin) builds slowly. The first signs are a gradual loosening of the muscles and a quiet, spreading calm, without the sudden 'switch' of alprazolam.
+
+Mentally anxiety recedes slowly. People describe a steady, even, 'blanket' calm and a softening of emotional reactions.
+
+Coordination may become slightly clumsy, and drowsiness creeps in. Its long half-life means effects stack with repeated use.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Clonazepam is metabolized by CYP3A4; half-life 30 to 40 hours. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -62,7 +66,11 @@ A quiet, gradual calm.
 
 ### Peak (1-4 h)
 
-Peak at 1 to 4 hours: relaxed, sleepy, steady.
+The peak is a long, stable calm: muscles relaxed, movements slower, and a heavy sleepiness. Balance and reaction time are impaired.
+
+Emotionally clonazepam is often described as blunting, a flat, steady, unbothered state rather than a 'buzz'. Some people feel emotionally numb or detached; memory gaps can occur.
+
+Like other benzodiazepines, clonazepam is dangerous with opioids and alcohol.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -70,11 +78,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (6-12 h)
 
-Long plateau of 6 to 12 hours.
+The plateau lasts many hours. Drowsiness and relaxation stay steady, and next-day sleepiness is common.
+
+Mentally there is a steady, muted calm with slow thinking and reduced motivation.
+
+Driving remains impaired well into this phase, often longer than people think.
 
 ### Comedown (12-24 h)
 
-Slow fade over the day.
+The comedown is slow and gentle, with gradual return of muscle tension.
+
+Rebound anxiety is milder than with alprazolam because levels fall slowly, but low mood or flatness can linger.
+
+Long-term users develop dependence; stopping suddenly can cause seizures and severe anxiety and needs a medical taper.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

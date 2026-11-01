@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-60 min)
 
-Effects begin 20 to 60 minutes after eating: yawning, nausea and a heaviness.
+Psilocybin mushrooms begin with stomach discomfort, yawning and a sense of heaviness or chills.
+
+Mentally people feel giddy or anxious as perception shifts.
+
+Pupils widen, and colors brighten.
 
 Psilocybin is converted in the gut and liver to psilocin, which crosses into the brain.
 
@@ -60,7 +64,11 @@ Visuals and emotional shifts build.
 
 ### Peak (1.5-3 h)
 
-The peak at about 1.5 to 3 hours brings the strongest perceptual and emotional effects.
+The peak brings strong visual changes and emotional depth; the body may feel heavy or tingling.
+
+The emotional tone is often introspective, emotional, sometimes overwhelming.
+
+Risks include panic and accidents.
 
 At the peak, 5-HT2A activation reduces activity in the brain's default mode network, linked to loss of the usual sense of self.
 
@@ -68,11 +76,19 @@ Heart rate and blood pressure rise modestly; the main risks are psychological.
 
 ### Plateau (2-4 h)
 
-Plateau about 1 to 2 hours.
+The plateau continues visual and emotional effects.
+
+People drift in thought, often feeling connected or vulnerable.
+
+Coordination is reduced.
 
 ### Comedown (4-6 h)
 
-Taper over 2 hours.
+The comedown is gentle, with tiredness.
+
+People feel reflective and calm.
+
+Rarely, lasting anxiety or perception changes occur.
 
 Psilocin's half-life is about 2 to 3 hours.
 

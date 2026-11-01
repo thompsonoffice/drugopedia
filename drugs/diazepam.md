@@ -46,7 +46,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-40 min)
 
-Swallowed, diazepam starts within 15 to 45 minutes: muscle tension loosens first.
+Diazepam (Valium) is absorbed quickly by mouth, and the first thing most people notice is in the muscles: the back, neck, jaw and shoulders soften, as if a tight band has been loosened. The limbs feel warm and slightly heavy, and posture slumps comfortably. Diazepam is used medically for muscle spasm, and this body-first relaxation is its signature.
+
+Mentally the onset is a smooth, mellow calm. Anxiety eases without the abrupt 'off switch' of alprazolam; people describe it as warm, rounded and unhurried. Thoughts slow slightly and lose their sharp edges, and a pleasant, sleepy indifference sets in.
+
+Early physical signs include mild unsteadiness, a slight slur or slowness in speech, and heavier eyelids. Reaction time is already reduced, so driving is impaired from this point. Alcohol or opioids taken now combine dangerously.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Diazepam is metabolized by CYP3A4 and CYP2C19 into desmethyldiazepam (half-life up to 100 hours); diazepam's own half-life is 20 to 50 hours. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -58,7 +62,11 @@ Calm and heaviness build together.
 
 ### Peak (1-1.5 h)
 
-The peak, around 1 to 1.5 hours, is a deep physical relaxation and mental calm.
+At the peak the body is loose and heavy, with slack muscles and slow, deliberate movement. Walking can feel wobbly, fine hand movements clumsy, and vision slightly blurred or slow to focus. Breathing is relaxed and slower.
+
+The emotional tone is comfortable, unbothered tranquility: worries feel distant, and people feel content to sit still. Compared with alprazolam, diazepam is usually less disinhibiting and less 'buzzy', more like a warm, sleepy calm. Memory for this period may be patchy.
+
+Diazepam alone rarely stops breathing in healthy adults, but with opioids, alcohol or other sedatives it contributes to many overdose deaths. Older adults are prone to confusion and falls at the peak.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -66,11 +74,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (2-6 h)
 
-A long plateau of several hours, with drowsiness.
+Because diazepam and its active metabolite desmethyldiazepam last a very long time, the plateau is long and steady. Drowsiness, heavy limbs and relaxed muscles persist, and people often sleep deeply.
+
+Mentally the plateau is calm, slowed and a little foggy. Concentration and memory remain reduced, and motivation drops. Time can feel slow and featureless.
+
+Next-day hangover, unsteadiness and impaired driving are common, and repeated use accumulates in the body over days.
 
 ### Comedown (6-12 h)
 
-Fades slowly over many hours.
+The comedown is unusually gradual, often over a day or more, because levels fall slowly. Muscle tension returns gently.
+
+Emotionally, people may feel slightly flat or groggy rather than experiencing sharp rebound anxiety, which is why diazepam is used for tapering off shorter-acting benzodiazepines.
+
+With regular use, dependence develops; stopping suddenly can cause severe anxiety, insomnia, tremor and seizures, so stopping should follow a medical taper.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

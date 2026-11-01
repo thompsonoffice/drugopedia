@@ -50,7 +50,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Codeine starts subtly, often 30 to 60 minutes after swallowing: a slight warmth, relaxation in the shoulders, and frequently an itch on the face, arms, or back that comes before anything pleasant. With cough syrups, the throat feels soothed and the urge to cough fades.
+Codeine by mouth comes on slowly and mildly. The first signs are a faint warmth in the stomach, a slight looseness in the shoulders, and often an early itch, typically on the face, scalp or upper back, because codeine releases histamine readily. Many people feel a light queasiness before anything pleasant.
+
+Mentally the onset is a soft easing of tension: a dimming of anxiety and a slightly dreamy, sleepy calm rather than a rush. Thought slows a little, and people describe the edges of the day as rounded off.
+
+How much a person feels varies enormously, because codeine itself is weak and must be converted to morphine by the liver enzyme CYP2D6. 'Poor metabolizers' feel little besides nausea and itch; 'ultra-rapid metabolizers' turn it into morphine fast and can feel strong effects and stop breathing. This is why codeine is no longer given to children.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Codeine is converted by the liver enzyme CYP2D6 into morphine, which produces most of its effect; genetics determine how fast this happens. Half-life about 3 hours. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -62,7 +66,11 @@ The come-up is gentle and sleepy. People describe a mellow, floaty feeling and m
 
 ### Peak (1-2 h)
 
-Codeine's peak, typically 1 to 2 hours in, is a soft, cozy calm with mild euphoria, heavy eyelids, and relaxed muscles, notably less intense than oxycodone or morphine. Itchiness is often the most prominent physical sensation. In ultra-rapid metabolizers, the peak can be unexpectedly strong and sedating.
+At the peak, warmth spreads through the body with a mild heaviness. Itch is often the most prominent body sensation, prickly and wandering. Nausea and a full, slow stomach are common, and the pupils narrow.
+
+The emotional tone is gentle, drowsy contentment, a 'cozy' and somewhat dreamy state rather than euphoria. Many describe it as a weaker, sleepier, itchier relative of morphine, with a muffled sense of the world and slowed time.
+
+Breathing is most depressed at the peak. Ultra-rapid metabolizers, people mixing codeine with alcohol or sedatives, and anyone taking combination products in large quantity (which adds acetaminophen, aspirin or ibuprofen toxicity) face the greatest danger.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -70,11 +78,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-The plateau is a lazy, sleepy stretch. People describe sinking into the couch, light nodding, and a preference for quiet music or TV. Conversation slows. With promethazine syrups, sedation is much heavier (see the Lean page).
+The plateau is calm and drowsy. Limbs feel pleasantly weighted, eyelids heavy, and light nodding can occur. Itching and flushing come and go, and the mouth stays dry.
+
+Mentally people drift: daydreams, a passive comfortable mood, and reduced interest in effort. The pleasant effect is modest and often accompanied by sleepiness.
+
+Constipation is particularly prominent with codeine, and the stomach can feel bloated. Dizziness on standing is common.
 
 ### Comedown (4-6 h)
 
-Codeine fades over 4 to 6 hours into tiredness. People often nap. Mood can dip slightly, and the itch may linger.
+The comedown is gradual and usually mild. Warmth fades, leaving tiredness, heaviness, and sometimes a headache.
+
+Emotionally a slightly flat, sluggish mood follows; in regular users, restlessness and craving appear.
+
+Constipation, dry mouth and nausea can linger. Daily users develop withdrawal like other opioids: yawning, runny nose, aches and anxiety.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

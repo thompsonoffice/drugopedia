@@ -52,7 +52,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV seconds)
 
-In medicine, IV fentanyl acts within seconds. Patients describe a sudden heaviness, warmth, and sometimes a light-headed spin.
+Fentanyl's onset is extremely fast when smoked, snorted or injected, often within seconds to a minute. People describe a sudden, intense warmth and heaviness rushing through the body, with the limbs going heavy almost at once. As a medical patch it starts very slowly, over many hours, with little sense of onset.
+
+Mentally, the rush is brief and intense: a surge of relief, calm and pleasure, quickly followed by heavy sedation. Many people describe fentanyl as 'less euphoric and more sleepy' than heroin, with a shorter, more abrupt high.
+
+Physical signs include pinpoint pupils, a dry mouth, sometimes itching and a flushed face. A rare but dangerous effect is chest wall rigidity ('wooden chest'), where breathing muscles stiffen and breathing becomes very difficult, sometimes within minutes.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Fentanyl is very fat-soluble, reaching the brain quickly, and is metabolized by CYP3A4; it redistributes into fat, so its effect after one IV dose is short but repeated exposure builds up. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -64,7 +68,11 @@ There is almost no come-up; it arrives all at once, a fast drop into sedation mo
 
 ### Peak (IV 3-5 min)
 
-The peak hits within a few minutes: heavy, warm, blank sedation with relief from pain. Breathing can slow or stop quickly, and chest muscles can stiffen.
+The peak comes quickly and is deeply sedating. The body feels extremely heavy, and people often lose track of their surroundings. Breathing slows and can stop with little warning.
+
+The emotional tone is a short-lived calm that shades rapidly into unconsciousness. Many people describe 'blacking out' rather than enjoying a high. Memory of the experience can be patchy.
+
+This is when overdose is most likely. Fentanyl's strength means tiny differences in amount cause huge differences in effect, and street fentanyl is often combined with xylazine or other sedatives. Signs of overdose include unresponsiveness, gurgling, very slow or stopped breathing and blue lips; naloxone may need to be given more than once.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -72,11 +80,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (5-30 min)
 
-The plateau is short, often 30 to 60 minutes after an IV dose, with deep nodding or sleep.
+With street fentanyl, the plateau is short, with heavy nodding and drowsiness. The body stays heavy and warm, and itching may continue.
+
+Mentally, people are often very sedated or semi-conscious, with little awareness of time. The pleasant feeling fades quickly, which often leads to repeated use.
+
+Breathing remains suppressed, and people who use alone are at very high risk. With patches, the plateau lasts for days, with steady pain relief and drowsiness.
 
 ### Comedown (30-60 min)
 
-Fentanyl wears off quickly, and the return is often abrupt, with restless discomfort.
+Fentanyl's comedown is fast. The heaviness lifts, and people may suddenly feel awake and uncomfortable.
+
+Emotionally, the comedown often brings strong craving and restlessness, more quickly than with heroin.
+
+In people with dependence, withdrawal can begin within a few hours, with sweating, yawning, goosebumps, cramps and anxiety. Repeated use to avoid this cycle is very dangerous.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (10-30 min)
 
-Swallowed immediate-release oxycodone often starts within 10 to 30 minutes. People describe a light, bright warmth in the chest and a lift in mood that comes quickly, with less of the queasy, heavy start of morphine.
+The first sign of swallowed immediate-release oxycodone is usually a faint lightness rather than heaviness: a soft warmth that starts behind the breastbone and in the stomach, and a sense that the muscles of the neck and shoulders are quietly letting go. Pain, if present, does not vanish so much as step back, as though it belongs to someone a short distance away. The mouth begins to feel slightly dry.
+
+Mentally, oxycodone's onset is often described as brightening rather than dulling. Mood lifts in a clean, clear way; small worries lose their grip, and people notice they feel more patient, more sociable, and more motivated. Thought stays fairly sharp at this stage, which is part of why many patients do not recognize how strongly the drug is acting.
+
+Small physical signals appear: a mild tickle or itch on the nose or cheeks, a slight warmth or flush in the face, and pupils that start to narrow, making bright light feel less harsh. Some people feel a passing queasiness, especially if they stand up or move quickly, but oxycodone is generally reported to bring less nausea than morphine or codeine.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Oxycodone is metabolized mainly by CYP3A4, with a small part turned into oxymorphone by CYP2D6; half-life about 3 to 4.5 hours for immediate-release. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -64,7 +68,11 @@ The come-up is where oxycodone's reputation comes from: a clean rush of well-bei
 
 ### Peak (1-2 h)
 
-The peak, roughly 1 to 2 hours in, is described as intense physical comfort, warmth, love, and bliss, with a clearer head than morphine. People report feeling 'like the best version of themselves', relaxed but not yet sleepy. Breathing slows and pupils pinpoint. This is the most dangerous window for overdose.
+At the peak, the warmth fills the whole body. Limbs feel pleasantly weighted, as if sinking into whatever they rest on, and skin can feel tingly or prickly with a warm itch, especially on the face, chest and scalp. Breathing becomes slower and shallower, often without any sense of air hunger, and the heart rate may slow slightly. The pupils are pinpoint, and vision can feel soft at the edges.
+
+The emotional tone is the hallmark: a warm, confident, affectionate contentment that people often describe as feeling 'whole' or 'like the best version of myself'. Unlike the heavy dreaminess of morphine, oxycodone's peak tends to feel alert and buoyant at first, with talkativeness and a glowing, uncritical goodwill toward others. Time feels unhurried, and problems seem solvable or unimportant.
+
+This glow hides the danger. Breathing is at its lowest during the peak, and the pleasant feeling gives no warning when oxygen levels fall. In someone without tolerance, or anyone combining oxycodone with alcohol, benzodiazepines, gabapentinoids or sleep medicines, the shift from cozy to unresponsive can happen quietly. Snoring, gurgling, very slow breathing or blue-gray lips are emergency signs.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -72,11 +80,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-Later, the energy settles into drowsy contentment. Nodding comes, often while sitting up, sometimes with brief dream-like imagery. Sweating and flushing are common.
+As the peak levels off, the bright energy settles into a drowsy, contented stillness. The body feels heavy and warm, eyelids droop, and the head may drop forward and jerk back up, the classic 'nod'. Itching may continue in waves, and people absent-mindedly scratch their nose or arms. The mouth stays dry and urination can feel slow to start.
+
+Mentally the plateau is quieter and more inward. Thoughts drift into loose, half-dreamt images when the eyes close, and conversations may trail off mid-sentence. The emotional tone remains calm and pleasant, but less sparkling; many describe a 'cotton wool' feeling between themselves and the world. Sense of time becomes elastic, with an hour seeming to pass in minutes.
+
+The stomach and bowel are almost still at this point, so fullness, mild bloating and constipation begin. Skin can be flushed and sweaty, especially on the face. Breathing remains depressed, and falling asleep during the plateau, particularly after mixing with other sedatives, is a common setting for overdose.
 
 ### Comedown (4-6 h)
 
-The comedown, around 4 to 6 hours for immediate-release, can feel abrupt compared with morphine: the brightness drains away and people describe a flat, irritable, restless feeling. PsychonautWiki notes 'opiate rage', irritability and outbursts, as more common in this phase.
+The comedown from immediate-release oxycodone is often felt as a fairly sharp drop compared with longer-acting opioids. The warmth recedes from the limbs first, the body begins to feel ordinary or slightly achy, and the itch fades. Ordinary sensations such as noise, light and minor aches seem louder again, and pain being treated returns in the background.
+
+Emotionally, people commonly describe a flat, gray irritability: the warm confidence drains away and leaves restlessness, impatience and low mood. Some describe a short temper sometimes nicknamed 'opiate rage'. This contrast between the glowing peak and the dull aftermath is a strong driver of wanting more, which is a central reason oxycodone is so habit-forming.
+
+Physically, the comedown brings tiredness, a dry mouth, sometimes a mild headache and constipation. In someone with dependence, this phase is where early withdrawal starts: yawning, watery eyes, a runny nose, goosebumps and anxious craving. Taking more at this point stacks on drug still in the body, which is a common path to overdose.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (10-30 min)
 
-Effects begin within 10 to 30 minutes, faster on an empty stomach: warmth and relaxation.
+Alcohol's first effects are warmth and looseness. Blood vessels in the skin widen, so the face, neck and chest flush and feel hot, even as the body actually loses heat. The shoulders drop, the head feels lighter and slightly 'buzzy', and some notice a tingling in the cheeks and lips.
+
+Mentally there is a quick lift: talkativeness, confidence, laughter and a sense of social ease. Self-criticism quiets, inhibitions loosen, and people often feel warmer toward others. This is the stage most people mean when they talk about enjoying a drink.
+
+Even here, coordination, reaction time and judgment are slipping before people notice. Driving is impaired from early on, and the pleasant onset can encourage drinking faster.
 
 Alcohol is absorbed mostly from the small intestine; food in the stomach slows it, and carbonation speeds it up.
 
@@ -60,7 +64,11 @@ As blood alcohol rises, talkativeness and confidence increase.
 
 ### Peak (30-90 min)
 
-Peak at 30 to 90 minutes after drinking stops, with the greatest impairment.
+As blood alcohol rises further, the body becomes heavy and clumsy. Speech slurs, balance fails, vision blurs or doubles, and the room may spin, especially lying down. Nausea and vomiting follow, and the bladder fills quickly because alcohol suppresses a water-retaining hormone.
+
+The emotional tone becomes less predictable: cheerful talkativeness may tip into tearfulness, anger or recklessness. Memory blackouts can start, where a person is awake and acting but forming no memories.
+
+Alcohol poisoning develops at this stage in binge drinking: confusion, repeated vomiting, slow or irregular breathing, cold clammy or bluish skin, and unconsciousness. Mixing alcohol with opioids, benzodiazepines, GHB or sleep medicines is a leading cause of fatal overdose.
 
 At high levels, alcohol suppresses the brainstem's breathing center and the gag reflex, so vomiting while unconscious can block the airway.
 
@@ -68,11 +76,19 @@ Blood alcohol can keep rising for 30 to 90 minutes after the last drink, so a pe
 
 ### Plateau (depends on drinking)
 
-Impairment continues as long as drinking continues.
+If drinking continues, the body stays warm and loose, then heavy and sleepy. Coordination remains poor and injuries are common.
+
+Mentally, judgment stays impaired; risky sexual decisions, fights and driving are common. Emotions can swing.
+
+Blood alcohol can keep rising for some time after the last drink, so someone who seems only 'very drunk' can still get worse, especially once asleep.
 
 ### Comedown (hours)
 
-Blood alcohol falls at a roughly fixed rate; sleepiness follows.
+As alcohol wears off, people feel tired, thirsty and heavy-headed, with dry mouth and sometimes a racing heart.
+
+Mood often drops: anxiety, guilt or irritability ('hangxiety') are common as the calming effect reverses.
+
+Hangover brings headache, nausea, light sensitivity, poor sleep and low concentration. In heavy daily drinkers, stopping can trigger dangerous withdrawal with tremor, hallucinations, seizures and delirium tremens, which needs medical care.
 
 The liver clears alcohol at a roughly fixed rate; coffee, cold showers and food do not speed this.
 

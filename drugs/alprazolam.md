@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Alprazolam usually begins within 15 to 30 minutes of swallowing: a softening of tension, shoulders dropping, and breathing that feels easier.
+Alprazolam (Xanax) acts quickly. Within a short time the first sign is a softening in the body: the jaw unclenches, the chest loosens, and the breath that was held without noticing lets go. A slight heaviness comes into the arms and legs, and the eyelids feel a little weighted.
+
+Mentally the onset is a rapid muting of anxiety. Racing or looping thoughts quiet down, the sense of threat drops away, and people describe a 'switch being turned off'. For people in panic, the relief can feel dramatic.
+
+Coordination becomes slightly clumsy, speech can slow, and reaction time drops even before people feel 'high'. Mixing with alcohol or opioids at this point is especially dangerous because the effects multiply.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Alprazolam is metabolized by CYP3A4; half-life about 11 hours, and drugs that block CYP3A4 (such as some antifungals and HIV medicines) raise its levels. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,7 +68,11 @@ Within the next 15 to 30 minutes, calm deepens and worries lose their grip. Peop
 
 ### Peak (1-2 h)
 
-The peak, around 1 to 2 hours, brings strong relaxation, mild euphoria, and disinhibition. Speech can slur, balance worsens, and memory begins to drop out.
+At the peak, the body feels relaxed and heavy, with loose muscles and slowed movements. Some feel a warm, floaty sensation. Balance and coordination are impaired; walking can feel unsteady, and speech may slur.
+
+The emotional tone is a disinhibited calm: fear and self-consciousness fade, sometimes replaced by a careless, uninhibited mood. Many people later discover gaps in memory from this period (anterograde amnesia), including conversations or actions they cannot recall.
+
+Alprazolam on its own seldom stops breathing, but combined with opioids or alcohol it is a major cause of overdose deaths. Counterfeit 'Xanax bars' often contain stronger designer benzodiazepines or fentanyl.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -72,11 +80,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (2-4 h)
 
-The plateau is a few hours of calm, sleepy, and sometimes foggy state.
+The plateau is short compared with longer-acting benzodiazepines. The body stays relaxed and sleepy, and drowsiness can lead to sleep.
+
+Mentally people feel calm but foggy, with reduced memory and judgment. Time can seem to skip because memory formation is impaired.
+
+Driving and operating machinery are dangerous in this phase.
 
 ### Comedown (6-8 h total)
 
-Effects last about 6 to 8 hours in total for immediate-release (PsychonautWiki). Rebound anxiety, irritability, and low mood can arrive sharply.
+Alprazolam's comedown is relatively quick. As it wears off, muscles regain tension and some people feel jittery.
+
+Emotionally, rebound anxiety is a hallmark: anxiety can return stronger than before, sometimes within hours, which drives repeated use.
+
+With regular use, between-dose withdrawal ('interdose withdrawal') appears: restlessness, tremor, insomnia and irritability. Stopping after regular use can cause seizures and must be done with medical help.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

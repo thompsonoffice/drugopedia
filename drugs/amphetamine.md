@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Swallowed immediate-release amphetamine starts in about 30 to 60 minutes: alertness and a lift in mood.
+Amphetamine (Adderall) comes on gradually by mouth: a slight increase in heart rate, a dry mouth, and a clean feeling of wakefulness.
+
+Mentally people feel more focused, motivated and confident; tasks feel engaging.
+
+Appetite drops, pupils widen, and some feel a mild jitter.
 
 Amphetamine is well absorbed from the gut; dextroamphetamine is the more potent form centrally, and levoamphetamine adds more peripheral effects.
 
@@ -64,7 +68,11 @@ Focus and energy build; appetite fades.
 
 ### Peak (2-3 h)
 
-The peak, around 2 to 3 hours, brings the most energy and the highest heart rate.
+The peak brings energy, a faster heart and warmth; some feel jaw tension and sweating.
+
+The emotional tone is talkative, upbeat and driven. Misused at high amounts, it becomes euphoric and restless.
+
+Risks include anxiety, high blood pressure, heart rhythm problems and overheating.
 
 At peak, dopamine in the striatum and prefrontal cortex is high; at therapeutic levels this improves focus, but at high levels it causes euphoria, stereotyped behavior and psychosis.
 
@@ -72,11 +80,19 @@ Cardiovascular risks include high blood pressure, arrhythmias and, rarely, strok
 
 ### Plateau (3-6 h, XR 8-12 h)
 
-IR effects last about 4 to 6 hours; XR products about 10 to 12.
+The plateau sustains focus and energy for hours, longer for extended-release forms.
+
+Mentally people feel productive or restless and may fixate on tasks.
+
+Sleep becomes difficult, and meals are skipped.
 
 ### Comedown (6-12 h)
 
-Comedown brings tiredness and irritability.
+The comedown brings fatigue and heaviness.
+
+Emotionally, irritability and low mood are common.
+
+Heavy use leads to a crash and dependence.
 
 Half-life is about 10 to 12 hours, longer if urine is alkaline.
 

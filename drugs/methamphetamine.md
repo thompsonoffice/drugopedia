@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Smoked, the rush comes within seconds; swallowed, within 20 to 30 minutes.
+Methamphetamine's onset brings a strong rush of energy: the heart pounds, the body warms, and a jittery, tingling alertness spreads through the limbs.
+
+Mentally there is surging euphoria and confidence, with a sense of limitless energy and focus. People feel talkative, sexual and invincible.
+
+Pupils widen, the mouth dries, the jaw clenches and appetite disappears.
 
 Methamphetamine crosses into the brain more readily than amphetamine and releases dopamine powerfully while also blocking its breakdown.
 
@@ -60,7 +64,11 @@ Intense euphoria and energy.
 
 ### Peak (15-60 min)
 
-The peak lasts much longer than cocaine.
+The peak is long and intense: the body feels hot, wired and restless, with sweating, fast breathing and a racing heart. Teeth grinding and repetitive movements are common.
+
+The emotional tone is driven, euphoric focus that can become compulsive, such as cleaning or taking things apart for hours. Irritability and suspicion grow with longer use.
+
+Overheating, heart rhythm problems, stroke and psychosis are serious risks. Street methamphetamine may contain fentanyl.
 
 At peak, very high dopamine causes euphoria and, in heavy use, paranoia and hallucinations; severe toxicity causes hyperthermia, rhabdomyolysis, stroke and heart attack.
 
@@ -68,11 +76,19 @@ Methamphetamine-related heart failure (cardiomyopathy) and pulmonary hypertensio
 
 ### Plateau (4-8 h)
 
-Effects last 8 to 12 hours or more.
+The plateau lasts many hours, with sustained energy and no sleep. The body stays hot and dehydrated.
+
+Mentally focus remains strong but judgment worsens; paranoia, hearing things, or feeling bugs on the skin can develop over long binges.
+
+Skin picking and dental damage are linked to this phase.
 
 ### Comedown (8-12 h)
 
-The crash brings exhaustion and depression.
+The comedown is a long crash: exhaustion, ravenous hunger and heavy sleep.
+
+Emotionally depression, irritability and anxiety follow, sometimes for days.
+
+Repeated use leads to dependence and lasting psychosis risk.
 
 Half-life of about 10 to 12 hours keeps effects going long after the high.
 

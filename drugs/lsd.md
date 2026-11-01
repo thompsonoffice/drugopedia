@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-Effects begin 30 to 90 minutes after taking it: restlessness, yawning, and a shift in how things look.
+LSD's onset is slow and subtle. People first notice a restless, slightly anxious energy, yawning, goosebumps or chills, and dilated pupils. Some feel mild nausea or a tight jaw.
+
+Mentally, there is a growing sense that something is shifting: colors seem brighter, objects look slightly alive, and thoughts become associative.
+
+Heart rate and blood pressure rise modestly, and body temperature may increase.
 
 LSD is absorbed from the mouth and gut; very small amounts are active, which is why blotters can carry it.
 
@@ -60,7 +64,11 @@ Over the next hour colors brighten and patterns appear; emotions intensify.
 
 ### Peak (3-5 h)
 
-The peak, about 3 to 5 hours in, brings the strongest visual and mental changes and loss of the usual sense of time.
+At the peak, visual changes are prominent: surfaces breathe, patterns flow, and colors intensify. The body can feel energized, tingly or heavy.
+
+The emotional tone can be awe, joy and insight, or anxiety and confusion. Time can feel stretched or meaningless, and sense of self may dissolve.
+
+Risks include panic, frightening experiences and dangerous behavior. Blotters sold as LSD may contain NBOMes.
 
 At the peak, 5-HT2A activation in the cortex and thalamus loosens the brain's normal filtering, producing hallucination-like visual effects and altered sense of self.
 
@@ -68,11 +76,19 @@ Physical toxicity is very low, but panic, confusion and accidents are real risks
 
 ### Plateau (5-8 h)
 
-Effects remain strong for several hours.
+The plateau is long: visuals and energy continue for hours.
+
+Mentally, people may reflect deeply or feel overwhelmed.
+
+Sleep is difficult until the effects fade.
 
 ### Comedown (8-12 h)
 
-From about 8 hours, effects taper slowly over several more hours.
+The comedown brings tiredness while visual effects soften.
+
+Emotionally, people feel reflective or drained.
+
+Some experience lingering anxiety or, rarely, persistent perception changes (HPPD).
 
 LSD's half-life is about 3 to 4 hours, but its receptor binding keeps effects going far longer.
 

@@ -48,7 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (5-15 min)
 
-Snorted, ketamine takes effect within about 5 to 15 minutes: numbness, a light 'drunk' feeling, and a shifting visual field.
+Ketamine's onset depends on route, but people quickly notice a numb, floaty heaviness in the limbs, a slight tingling, and difficulty coordinating movement.
+
+Mentally, the world begins to feel distant or unreal; sounds can seem echoey, and thoughts become detached.
+
+Nausea, a faster heart rate and raised blood pressure are common, and walking becomes unsteady.
 
 Snorted ketamine is absorbed through the nasal lining; intravenous ketamine reaches the brain within seconds, which is why anesthesia uses it.
 
@@ -60,7 +64,11 @@ Within minutes the body starts to feel distant; walking becomes unsteady.
 
 ### Peak (15-30 min)
 
-The peak, about 15 to 30 minutes in, is the strongest dissociation; at high levels, the K-hole.
+At the peak, the body can feel numb, weightless or separated from the mind; moving is difficult. Vision can blur, and eyes may flick side to side.
+
+The emotional tone varies from dreamy and euphoric to confusing or frightening. At higher levels, people may enter the 'K-hole', a deep dissociation with loss of sense of self and surroundings.
+
+Risks include accidents, choking on vomit, and dangerous combinations with alcohol or depressants. Long-term use damages the bladder.
 
 At the peak, NMDA blockade in the thalamus and cortex disconnects sensory input from awareness; protective airway reflexes are partly preserved, but vomiting while unresponsive can still cause choking.
 
@@ -68,11 +76,19 @@ Emergence reactions (vivid dreams, confusion, agitation) are known from anesthes
 
 ### Plateau (30-60 min)
 
-Effects plateau for 30 to 60 minutes.
+The plateau keeps a heavy, numb, detached body feeling.
+
+Mentally people drift in a dreamlike state with slowed time.
+
+Movement remains clumsy, and falls are common.
 
 ### Comedown (1-2 h)
 
-People 'come back' over another hour, often confused and nauseated.
+The comedown is fairly quick, with heaviness and grogginess.
+
+Emotionally, some feel calm or reflective, others confused or low.
+
+Frequent use brings tolerance, cravings and bladder pain.
 
 Ketamine's half-life is about 2 to 3 hours; norketamine is active and extends after-effects.
 

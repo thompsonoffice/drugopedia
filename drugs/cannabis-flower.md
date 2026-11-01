@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds to minutes)
 
-Inhaled, effects begin within minutes: a warm head rush, faster heartbeat, and lightness.
+When cannabis flower is smoked or vaporized, effects begin within minutes. The first signs are often a tingling or pressure around the eyes and forehead, a warm heaviness in the shoulders, and a noticeably faster heartbeat. The mouth dries ('cottonmouth') and the eyes redden and may feel dry.
+
+Mentally the onset brings a shift in perception: sounds and music can feel richer, thoughts begin to jump and connect in unusual ways, and the mood often lightens into giggliness or relaxed amusement. Some people instead feel a flicker of anxiety as the heart rate rises.
+
+Short-term memory begins to slip early; people lose the thread of a sentence or forget why they walked into a room. Standing up quickly can bring dizziness or, in some first-time users, fainting.
 
 Inhaled THC crosses from the lungs into blood within seconds, and blood levels peak within about 10 minutes, before the high itself peaks, because THC must move from blood into the brain.
 
@@ -60,7 +64,11 @@ Over 10 to 15 minutes relaxation and laughter build; senses sharpen.
 
 ### Peak (15-30 min)
 
-The peak, at about 15 to 30 minutes, brings the strongest time distortion, memory gaps and appetite.
+At the peak the body feels relaxed and heavy, sometimes 'couch-locked', especially with sedating strains. Limbs can tingle, and the skin may feel more sensitive. The heart is still fast, and appetite rises sharply ('the munchies').
+
+The emotional tone ranges from euphoric, giggly and sociable to calm and introspective. Time distortion is typical: minutes feel long, and people may lose track of conversations. Colors, tastes and music can feel intensified.
+
+With high-THC products or in vulnerable people, the peak can bring anxiety, paranoia, a racing heart and panic. People with a personal or family history of psychosis face higher risk. Driving is impaired.
 
 At the peak, CB1 activation in the hippocampus and cortex disrupts short-term memory and attention; activation in the cerebellum and basal ganglia slows reaction time, which is why driving is impaired.
 
@@ -68,11 +76,19 @@ Anxiety and paranoia at the peak are linked to THC acting on the amygdala; CBD i
 
 ### Plateau (30-60 min)
 
-The high plateaus for about an hour.
+During the plateau, the body stays relaxed and slightly heavy; the dry mouth and red eyes persist. Hunger often continues.
+
+Mentally there is a mellow, drifting state with slowed time, wandering thoughts and reduced focus. Some feel creative or reflective, others sleepy.
+
+Coordination and memory stay impaired, so driving and risky tasks remain dangerous.
 
 ### Comedown (1-3 h)
 
-It fades over 2 to 3 hours into sleepiness.
+The comedown is gradual: heaviness turns to tiredness, and many people feel sleepy.
+
+Emotionally people feel calm or slightly flat; some feel foggy for a while.
+
+Regular heavy users may notice irritability, poor sleep and low appetite between uses. Heavy daily use can also cause cannabinoid hyperemesis syndrome, with cycles of severe vomiting.
 
 As THC moves from blood into fat, effects fade within a few hours even though THC remains in the body for days or weeks in regular users.
 

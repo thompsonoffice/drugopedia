@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Swallowed, effects begin 30 to 60 minutes later, often with nausea and a rush of anxiety.
+MDMA starts with a rush: tingling, warm waves through the body, a clenching jaw and sometimes nausea.
+
+Mentally people feel a growing euphoria and openness.
+
+Pupils widen, and heart rate rises.
 
 MDMA is absorbed from the gut and reverses the serotonin transporter, flooding synapses with serotonin; it also releases dopamine and noradrenaline.
 
@@ -60,7 +64,11 @@ A wave of warmth and energy builds.
 
 ### Peak (1.5-2.5 h)
 
-The peak at 1.5 to 2.5 hours brings maximal euphoria and empathy.
+The peak brings intense warmth, touch sensitivity and energy; the jaw clenches, and the body heats up.
+
+The emotional tone is deep empathy, affection and joy.
+
+Risks include overheating, low blood sodium and serotonin syndrome.
 
 At peak, MDMA triggers release of oxytocin and vasopressin (antidiuretic hormone); vasopressin makes the kidneys hold water, so drinking large amounts of water can dangerously dilute blood sodium, causing brain swelling.
 
@@ -68,11 +76,19 @@ Overheating is worsened by hot crowded venues and dancing; serotonin syndrome is
 
 ### Plateau (2-4 h)
 
-Plateau about 1 to 2 hours.
+The plateau keeps warmth and openness.
+
+People stay sociable and affectionate.
+
+Dehydration and overheating risk continue.
 
 ### Comedown (4-6 h)
 
-Comedown over 2 hours with fatigue.
+The comedown brings tiredness and jaw soreness.
+
+Emotionally, a low mood can follow for days ('Tuesday blues').
+
+Repeated use worsens these effects.
 
 MDMA's half-life is about 7 to 9 hours; because it inhibits CYP2D6, redosing raises levels more than expected.
 

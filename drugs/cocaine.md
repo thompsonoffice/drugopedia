@@ -48,7 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (1-5 min)
 
-Snorted, effects begin within a few minutes: numbness, alertness and euphoria.
+When cocaine is snorted, the first sensation is local: a bitter drip at the back of the throat and numbness in the nose, gums and throat. Within minutes the heart speeds up, the body feels charged, and a cool, alert clarity spreads through the head.
+
+Mentally the onset is a sharp lift of confidence and energy. People feel quick-witted, sociable and important; ideas and words flow, and tiredness disappears.
+
+Pupils widen, the jaw may tighten, and appetite vanishes. Blood vessels narrow and blood pressure rises from the start.
 
 Snorted cocaine also numbs the nasal lining and narrows its blood vessels, slowing its own absorption slightly.
 
@@ -60,7 +64,11 @@ Confidence and energy surge.
 
 ### Peak (15-30 min)
 
-The peak comes within 15 to 30 minutes.
+At the peak, the heart pounds, breathing quickens, and the body feels electric and restless. Skin may feel cool while the core heats up; sweating and a tight jaw are common.
+
+The emotional tone is intense, self-assured euphoria with a pressured, talkative quality. For some it tips into anxiety, suspicion or agitation, and repeated use in a session makes paranoia more likely.
+
+Cocaine can cause heart attacks, dangerous heart rhythms, strokes and seizures, even in young, healthy people. Combining with alcohol forms cocaethylene, which is more toxic to the heart. Street cocaine often contains fentanyl.
 
 At peak, coronary arteries narrow, heart oxygen demand rises and platelets clump, so heart attack can occur even in young people; stroke and aortic dissection are also linked.
 
@@ -68,11 +76,19 @@ With alcohol, the liver forms cocaethylene, which lasts longer and is more toxic
 
 ### Plateau (30-60 min)
 
-Effects last about 30 to 60 minutes.
+Snorted cocaine's plateau is short: people stay wired, talkative and fidgety, with a racing pulse.
+
+Mentally the focus narrows onto conversation and the urge to use more. The pleasure begins to thin while the restlessness remains.
+
+Heart strain continues, and repeated use stacks risk.
 
 ### Comedown (1-2 h)
 
-The comedown brings anxiety and craving.
+The comedown is notably sharp. Energy drains out, the body feels tense and tired, and the nose may be sore and congested.
+
+Emotionally, people describe emptiness, irritability, anxiety and strong craving, which drives binges.
+
+After heavy use, a 'crash' of exhaustion, depression and oversleeping can last days.
 
 Cocaine's half-life is under an hour, which drives repeated use.
 

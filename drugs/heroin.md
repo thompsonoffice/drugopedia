@@ -46,7 +46,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV 0-5 sec; IM/SC 5-15 min)
 
-Smoked, heroin acts within seconds; injected, within seconds to a minute; snorted, a few minutes. The first feeling is a rush of warmth from the stomach up through the chest into the head.
+Heroin's onset depends heavily on route, but in every case it is faster and more abrupt than pills. When it is smoked or snorted, the first signs come within minutes: a sudden warmth flooding the chest and stomach, a heaviness in the limbs, and an immediate loosening of tension. Many people describe the onset as 'a wave' or 'a warm hug from the inside'.
+
+Mentally, the onset is a fast, intense surge of relief and pleasure. Anxiety, physical pain and emotional pain recede together, and people often describe feeling as if all their problems simply stop mattering. This combination of speed and emotional relief is central to heroin's strong pull.
+
+Physical signs follow quickly: dry mouth, a flushed face, pinpoint pupils, and frequently a warm, prickly itch. Nausea and vomiting are common, especially in people new to opioids. Today's street heroin is very often mixed with or replaced by fentanyl and sometimes xylazine, which makes the onset unpredictable and dangerous.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Heroin crosses into the brain faster than morphine and is turned within minutes into 6-monoacetylmorphine and then morphine, which carry the effect; heroin itself lasts only minutes in the blood. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -58,7 +62,11 @@ Injected, the rush is described as overwhelming: a hot flush, a sense of release
 
 ### Peak (IV 1-5 min)
 
-The peak is the deep heroin calm: complete safety and warmth, pain and worry gone, heavy eyelids, pinpoint pupils, dry mouth, and strong itch. Many describe it as the most comforting feeling of their lives.
+The peak is a deep, heavy, all-over warmth. The limbs feel extremely heavy, as if sinking, and the skin tingles and itches. Breathing slows and becomes shallow, and the heart slows. Vision can become soft and unfocused, and the eyes close easily.
+
+The emotional tone is often described as profound comfort and safety, a sense of being cocooned, rather than excitement. Thoughts slow down and become dream-like. Many people report feeling detached from everything, peaceful and indifferent to worries.
+
+The peak is the most dangerous point. Breathing can slow to the point of stopping, and fentanyl contamination makes this far more likely. Signs of overdose include being unable to wake, very slow or stopped breathing, gurgling or snoring sounds, and blue or gray lips. Naloxone and calling 911 save lives.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-4 h)
 
-The plateau is classic nodding: drifting in and out, chin dropping, dreamy visions, then waking with a start, for hours.
+The plateau is marked by nodding: drifting into a light sleep, chin dropping, then jerking awake. The body feels heavy and warm, and itching continues. Sweating and a flushed face are common. Speech can be slow and slurred.
+
+Mentally, this phase is drowsy and dream-like. People drift between waking and dreaming, and time feels very elastic. The emotional tone stays calm and detached but becomes sleepier.
+
+Constipation, nausea and difficulty urinating become noticeable. Breathing is still depressed, and people who nod off, especially after mixing with alcohol or benzodiazepines, are at serious risk.
 
 ### Comedown (4-5 h total)
 
-After 3 to 5 hours, the comedown starts: warmth fades, and in dependent people craving and restlessness begin.
+As heroin wears off, the warmth fades fairly quickly. People describe the body feeling heavy, then tired and achy. Itch subsides, and noise and light can feel harsher.
+
+Emotionally, the comedown often brings a low, flat mood and restlessness. For people who use regularly, the end of the effect is quickly followed by craving and anxiety.
+
+In dependent people, withdrawal symptoms can begin within hours: yawning, sweating, runny nose, goosebumps, stomach cramps and intense craving. Using again during this phase, especially when tolerance has dropped, is a common cause of overdose.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

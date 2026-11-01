@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (10-60 min)
 
-Hydrocodone usually starts 10 to 60 minutes after swallowing with a pleasant warmth in the chest and a lift in mood, sometimes before any body heaviness. Many describe a sudden sense that the day has gotten easier.
+Hydrocodone, usually taken in combination tablets such as Norco or Vicodin, starts with a gentle, rounded warmth that many describe as 'softer' than oxycodone. The first sign is often a loosening in the chest and stomach and a slight heaviness in the arms. A mild tickling itch on the face or upper body is very common and can arrive before any mood change.
+
+Mentally, the onset brings a mellow, easygoing relaxation more than a bright lift. Tension and irritability ease, and people often say they feel 'cozy' or 'chilled out'. Thinking stays fairly clear, though there is a slight slowing of the pace of thought.
+
+Hydrocodone is notably more likely than oxycodone to cause queasiness, particularly on an empty stomach or when moving around, and the itch is usually more noticeable. The pupils narrow and the mouth starts to dry. Because most products also contain acetaminophen, the drug carries a second, hidden risk to the liver.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Hydrocodone is metabolized by CYP3A4 and CYP2D6 (into hydromorphone); half-life about 4 hours. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -64,7 +68,11 @@ The come-up brings a talkative, friendly glow. People report wanting to chat, cl
 
 ### Peak (1-2 h)
 
-At the peak, around 1 to 1.5 hours, hydrocodone gives a warm, contented, sociable euphoria with a relaxed, comfortable body. Compared with oxycodone, people describe it as softer, dreamier, and less sharp. Pupils constrict and breathing slows.
+The peak feels warm, heavy and soothing. Arms and legs are pleasantly weighted, skin may tingle and itch in waves, and the face can feel flushed and warm. Breathing slows. Some people feel a mild buzzing or pins-and-needles in the hands and feet. The overall body feeling is often described as a warm bath.
+
+The emotional tone is calm, friendly contentment rather than oxycodone's crisp euphoria. People describe feeling talkative and affectionate but in a lazy, comfortable way, as though everything is 'fine'. Attention narrows, and music, a TV show or conversation can feel more absorbing. Many describe hydrocodone as more 'dreamy' and less 'speedy' than oxycodone.
+
+The peak is the riskiest time. Breathing is at its lowest and is easily pushed further down by alcohol or other sedatives. In combination products, taking more to chase the peak also means taking more acetaminophen, which can cause serious liver injury even without signs at the time.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -72,11 +80,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-The plateau tilts toward sleepiness: the chatty phase gives way to quiet contentment and light nodding, especially when lying down.
+During the plateau the body stays heavy and relaxed, with steady warmth and a tendency to sink into a couch or bed. Nodding appears, and eyelids feel weighted. Itch may persist, often around the nose, chest and back. Nausea can come and go, especially with movement.
+
+Mentally the plateau is quiet and absorbed. Daydreaming comes easily, and people may drift between waking thoughts and brief dream images. The mood stays pleasant but becomes more passive and sleepy than euphoric, and time stretches.
+
+Constipation, a full stomach and difficulty urinating become more noticeable. Sweating and a warm, flushed face are common. Breathing remains slowed, so sleep during this phase, especially combined with other depressants, still carries overdose risk.
 
 ### Comedown (4-8 h)
 
-The comedown, around 4 to 6 hours, is gradual. People describe a slide into tiredness and mild irritability as the warmth leaves, and some feel the urge to take more, which is how use escalates.
+The comedown is generally described as gentler than oxycodone's. Warmth fades gradually, heaviness gives way to tiredness, and the body can feel mildly achy or stiff. Itch subsides. Pain returns slowly rather than suddenly.
+
+Emotionally the comedown tends toward a mild flatness or sleepiness rather than sharp irritability, though people with regular use often feel restless and low as levels fall. Concentration may feel slow and foggy.
+
+Physically, headache, nausea, dry mouth and constipation are common in this phase. For people with dependence, yawning, sneezing, watery eyes and craving start to appear. Repeat use to avoid the comedown drives both dependence and the acetaminophen liver risk.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (10-30 min)
 
-Swallowed morphine (immediate-release, typically 10 to 30 minutes) announces itself slowly and often through the stomach first: a vague queasiness or heaviness, then warmth spreading from the belly. Many people notice the itch before any pleasure, typically a prickle at the tip of the nose, the scalp, or the chest.
+Morphine's onset by mouth is slow and heavy. The first signs are often a dull warmth in the abdomen, a sinking heaviness in the limbs, and a gentle pressure behind the eyes. Many people notice nausea or a 'woozy' stomach early, and some feel lightheaded when standing because morphine widens blood vessels and lowers blood pressure.
+
+Mentally the onset is calming and sleepy rather than bright. Thoughts slow down, anxiety recedes, and people feel detached from pain and distress. Patients often describe it as feeling 'floaty' or as if their worries are underwater.
+
+Morphine releases more histamine than most opioids, so itching, a flush across the face and upper chest, and sometimes raised itchy welts are common early on. The mouth dries and the pupils narrow.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Morphine is processed mainly by glucuronidation in the liver into morphine-3-glucuronide and the active morphine-6-glucuronide, both cleared by the kidneys; its half-life is about 2 to 4 hours. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -64,7 +68,11 @@ Morphine's come-up is a slow tide rather than a wave. Limbs feel weighted and wa
 
 ### Peak (1-2 h)
 
-The peak is the classic morphine state: heavy, warm, sleepy bliss, with the body feeling sunk into the bed or chair. Thinking becomes slow and soft, and pain, even severe pain, stops seeming to matter. Pupils shrink, breathing slows, and heavy itching is common. This is when breathing is most depressed.
+At the peak, the body feels very heavy and deeply warm, as though covered with a weighted blanket. Itch can be intense and widespread. The skin may be flushed and sweaty, breathing becomes slow and deep, and the heart may slow. Nausea and even vomiting are more common than with oxycodone or hydrocodone.
+
+The emotional tone is dreamy, sedated tranquility rather than energetic euphoria. People describe a profound peace and indifference to pain, but also a clouded, sleepy mind. Some experience vivid, dream-like imagery with eyes closed, and occasionally confusion or unsettling dreams, especially in older adults.
+
+This is when morphine is most dangerous. Breathing and alertness are at their lowest, and people with kidney problems can accumulate active metabolites (morphine-6-glucuronide) that deepen and prolong sedation. Snoring, gurgling, very slow breathing, or being hard to wake are emergency signs.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -72,11 +80,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-Morphine's plateau is dominated by the nod: drifting into dreamy, half-awake imagery, sometimes vivid and story-like, then surfacing again. People describe losing track of time and conversations. Urinating can be difficult, and the mouth dries out.
+The plateau is long and sedated. People often fall in and out of sleep, with heavy limbs and slow, deep breathing. Itch may continue. Muscles feel loose, and moving can feel like effort.
+
+Mentally, the plateau is drowsy and dreamy, with a drifting sense of time. Conversations are short, and attention wanders. Some people experience vivid dreams, and confusion or mild hallucinations can occur in older or unwell patients.
+
+The gut is almost still, causing fullness, constipation and nausea; urinating can be difficult. Low blood pressure can make standing dizzy. Sleep in this phase is a common setting for breathing to slow dangerously, especially with alcohol or benzodiazepines.
 
 ### Comedown (4-6 h)
 
-As morphine fades, the warmth recedes unevenly: the dreaminess goes first, the heaviness and itch linger. People describe a sleepy, foggy flatness, and many simply fall asleep. With immediate-release morphine this happens 3 to 6 hours in; extended-release stretches it far longer.
+Morphine's comedown is gradual. The heaviness lifts slowly, leaving tiredness and sometimes aching. Itching fades. Pain returns slowly, and patients may notice the need for the next scheduled dose.
+
+Emotionally, people describe grogginess and a muted, slightly low mood rather than a sharp crash. Thinking may stay slow for a while.
+
+Physically, constipation, nausea, dry mouth and sometimes headache linger. In dependent people, the familiar early withdrawal signs, yawning, runny nose, goosebumps and craving, start in this phase.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

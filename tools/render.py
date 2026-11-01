@@ -7,7 +7,7 @@ from touch import touch
 from lohi import lohi
 from er import er
 import dep_common as DC
-for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo","spec","dep_common","data_dep","data_audit","data_audit2","rewrite","new_common","data_new","new_common2","data_split","data_psy","data_emp","data_alc","data_del","data_oth","ext_new"]:
+for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo","spec","dep_common","data_dep","data_audit","data_audit2","rewrite","new_common","data_new","new_common2","data_split","data_psy","data_emp","data_alc","data_del","data_oth","ext_new","feel_a","feel_b","feel_c","feel_d"]:
     try: importlib.import_module(m)
     except ModuleNotFoundError as e:
         if e.name!=m: raise
@@ -65,6 +65,10 @@ for slug,d in D.items():
     E=expand(slug,d,b); ph2=list(ph)
     if d.get("noext"): E={"onset":[],"peak":[],"comedown":[]}
     ph2[0]=ph2[0]+"\n\n"+"\n\n".join(E["onset"]); ph2[2]=ph2[2]+"\n\n"+"\n\n".join(E["peak"]); ph2[4]=ph2[4]+"\n\n"+"\n\n".join(E["comedown"])
+    F=d.get("feel")
+    if F:
+        for i,k in ((0,"onset"),(2,"peak"),(3,"plateau"),(4,"comedown")):
+            if k in F: ph2[i]="\n\n".join(F[k])+("\n\n"+"\n\n".join(E[k]) if E.get(k) and not d.get("noext") else "")
     s+=phases("",list(zip(t,ph2)))
     s+=lohi(slug,b,d)
     s+=f"### Why the same amount affects people differently\n\n{VARY[b]}\n\n"
