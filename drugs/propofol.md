@@ -48,11 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (30-60 s)
 
-Propofol, given by IV only in medical settings, works within seconds. Patients often feel a cool or burning sensation in the vein, then a warm, heavy sinking.
+Propofol, a milky-white liquid given by IV only in medical settings, works within seconds. Patients often feel a cool, stinging or burning sensation spreading up the arm from the IV, then a warm, heavy sinking, as if falling backwards into a soft bed.
 
-Mentally many feel a sudden peaceful, euphoric drift before losing consciousness.
+Mentally many feel a sudden peaceful, euphoric drift before losing consciousness; some find themselves smiling or talking nonsense in the moment before they go under.
 
-Some later recall pleasant dreams.
+Some later recall pleasant, vivid dreams, sometimes of a sexual nature, from light sedation.
 
 Propofol is extremely fat-soluble, crossing into the brain within one arm-to-brain circulation time (about 30 seconds).
 
@@ -64,7 +64,7 @@ Breathing slows and blood pressure falls.
 
 ### Peak (1-5 min)
 
-At the peak, patients are unconscious, and breathing often needs support.
+At the peak, patients are unconscious, breathing often slows or stops and needs support, and blood pressure drops.
 
 There is no remembered experience.
 
@@ -76,19 +76,19 @@ Long infusions can cause propofol infusion syndrome (acid build-up, heart failur
 
 ### Plateau (as long as infused)
 
-Consciousness returns within minutes.
+When the infusion stops, consciousness returns within minutes, faster than with most anesthetics.
 
-Patients may feel euphoric, chatty or giggly.
+Patients may feel euphoric, chatty, giggly or unusually relaxed as they wake.
 
 Misuse by healthcare workers has caused many deaths.
 
 ### Comedown (5-10 min)
 
-The comedown is quick and fairly clear.
+The comedown is quick and fairly clear, with little hangover compared with older anesthetics.
 
-Mood often pleasant.
+Mood is often pleasant, sometimes with mild confusion.
 
-Dependence has been reported among workers with access.
+Dependence has been reported among workers with access, often ending in death.
 
 Rapid redistribution to fat ends its effect within minutes.
 

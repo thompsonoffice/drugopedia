@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Dextromethorphan (DXM), found in cough syrups and pills, comes on slowly with itching, nausea and a warm, wobbly body. Movements feel robotic and laggy ('robo-walking').
+Dextromethorphan (DXM), found in many cough syrups and pills, comes on slowly over an hour or more. Early signs include itching, flushed warm skin, nausea, a slightly drunk wobble and a sense that movements lag behind intention. Walking becomes stiff and mechanical ('robo-walking'), and the body may feel buzzy or numb.
 
-Mentally a dreamy, music-enhanced euphoria and detachment develops.
+Mentally a dreamy, music-enhanced euphoria develops: songs feel richer and more absorbing, and the person feels pleasantly removed from everyday concerns. At this stage it can feel like being drunk and slightly tripping at once.
 
-Many products also contain acetaminophen, guaifenesin or antihistamines, which add serious danger.
+Many products also contain acetaminophen, guaifenesin, decongestants or antihistamines, which add serious danger — liver failure, vomiting, heart strain, or delirium.
 
 DXM is absorbed from the gut and converted by CYP2D6 into dextrorphan, the main dissociative compound.
 
@@ -64,11 +64,11 @@ A drunk, giddy feeling and heavy limbs build.
 
 ### Peak (2-4 h)
 
-At the peak, people describe 'plateaus' from mild drunken euphoria to complete dissociation with hallucinations and loss of body awareness.
+At the peak, users describe 'plateaus' that range from mild drunken euphoria to complete dissociation. At deeper levels, the body feels absent or mechanical, vision breaks into frames or tunnels, and hallucinations or dreamlike scenes appear, especially with eyes closed.
 
-Emotionally dreamlike, sometimes blissful, sometimes frightening.
+Emotionally it is dreamlike, sometimes blissful and expansive, sometimes frightening, confusing or paranoid. Sense of time and identity can be badly disrupted.
 
-Serotonin syndrome with SSRIs or MAOIs, overheating, seizures and liver failure from combination products are major risks. Dissociatives cause numbness, confusion and loss of coordination, so falls, drowning, burns and traffic injuries are major dangers. Combined with alcohol, opioids or other depressants they can suppress breathing and cause vomiting while unconscious.
+Serotonin syndrome with SSRIs or MAOIs, overheating, seizures, and liver failure from combination products are major risks. Dissociatives cause numbness, confusion and loss of coordination, so falls, drowning, burns and traffic injuries are major dangers. Combined with alcohol, opioids or other depressants they can suppress breathing and cause vomiting while unconscious.
 
 At peak, NMDA blockade by dextrorphan causes dissociation, while DXM's serotonin effects add risk of serotonin syndrome with antidepressants.
 
@@ -76,19 +76,19 @@ Coricidin products add chlorpheniramine, an antihistamine that causes delirium, 
 
 ### Plateau (3-6 h)
 
-The plateau is long and fuzzy.
+The plateau is long and fuzzy, often many hours, with heavy, uncoordinated movement and continued detachment.
 
-Thinking disconnected.
+Thinking is disconnected and slow, and speaking can be hard.
 
-Coordination very poor.
+Vomiting, itching and a racing heart may continue.
 
 ### Comedown (6-12 h)
 
-The comedown is a slow, foggy hangover.
+The comedown is a slow, foggy hangover, sometimes lasting into the next day, with heavy limbs, nausea and poor coordination.
 
-Mood flat or low.
+Mood is often flat, low or anxious, with a lingering unreal feeling.
 
-Heavy repeated use can cause dependence and memory problems.
+Heavy repeated use can cause dependence, memory problems and psychosis.
 
 DXM's long half-life means effects linger many hours.
 

@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds-minutes)
 
-Synthetic cannabinoids (K2, Spice) hit fast and hard: a rush of heat, a racing heart and heavy numbness.
+Synthetic cannabinoids (K2, Spice, 'spice' in prisons, sometimes sprayed on paper) hit fast and hard: a rush of heat, a racing heart, heavy numbness and a sense of the body melting or being pressed down.
 
-Mentally an intense, disorienting high, often more frightening than cannabis.
+Mentally an intense, disorienting high sets in, often more frightening than cannabis, because these chemicals fully activate cannabinoid receptors, unlike THC.
 
-Strength varies hugely between batches.
+Strength varies hugely between batches, even from the same seller.
 
 Synthetic cannabinoids are full CB1 agonists, many 10 to 100 times more potent than THC at the receptor, and reach the brain within seconds when smoked.
 
@@ -64,11 +64,11 @@ The rise is fast and heavy, with a racing heart.
 
 ### Peak (10-30 min)
 
-At the peak, heavy sedation, confusion, and sometimes a 'zombie' state.
+At the peak there is heavy sedation, confusion, and sometimes a 'zombie' state of staring, swaying and unresponsiveness.
 
-Emotionally anxious, paranoid or psychotic.
+Emotionally anxious, paranoid or psychotic, with possible hallucinations and agitation.
 
-Seizures, heart attacks, kidney damage, severe vomiting and deaths have occurred.
+Seizures, heart attacks, kidney damage, severe vomiting, bleeding (from contamination with rat poison) and deaths have occurred.
 
 At the peak, seizures, severe agitation, psychosis, catatonia and unresponsiveness occur; some compounds also affect heart rhythm and kidneys.
 
@@ -78,17 +78,17 @@ Some batches have been contaminated with brodifacoum, a long-acting rat poison c
 
 The plateau is unpredictable.
 
-Thinking confused.
+Thinking confused and memory poor.
 
 Medical help may be needed.
 
 ### Comedown (1-3 h)
 
-The comedown brings anxiety and exhaustion.
+The comedown brings anxiety, exhaustion and headache.
 
-Mood low.
+Mood low and irritable.
 
-Dependence and harsh withdrawal are common.
+Dependence and harsh withdrawal, including vomiting, sweating and insomnia, are common.
 
 Effects are short, but active metabolites can prolong toxicity.
 

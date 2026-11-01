@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Nitrous oxide hits within seconds: a rush of tingling and warmth, a pulsing 'wah-wah' sound in the ears, and a dreamy heaviness.
+Nitrous oxide ('laughing gas', 'whippets', 'hippy crack') hits within seconds of inhaling. A rush of tingling warmth floods the body from the chest outward, the limbs feel heavy and numb, and a deep, pulsing 'wah-wah-wah' sound fills the ears as if the world is echoing.
 
-Mentally sudden euphoria, giggling and detachment.
+Mentally there is a sudden wave of euphoria, giggling and detachment, sometimes with a feeling that something profound is about to be understood.
 
-Vision can blur or pulse.
+Vision can blur, pulse or tunnel, and balance disappears — people sitting may slump, and standing can lead to falls.
 
 Nitrous oxide is poorly soluble in blood, so it reaches equilibrium in the brain within seconds and leaves just as fast.
 
@@ -64,11 +64,11 @@ A rush of tingling and sound distortion follows.
 
 ### Peak (20-60 s)
 
-The peak is very brief: floating, laughing, sometimes brief dreams or a sense of profound insight.
+The peak is very brief: floating, laughing, sometimes brief dreams or a sense of profound, unrememberable insight. The body feels distant and buzzing.
 
-Emotionally giddy and euphoric.
+Emotionally giddy and euphoric, occasionally confusing or briefly frightening.
 
-Breathing it without enough oxygen can cause fainting, falls and suffocation. Heavy repeated use causes vitamin B12 deficiency and nerve damage with numbness and weakness.
+Breathing it without enough oxygen can cause fainting, falls and suffocation, especially from bags or masks. Heavy repeated use causes vitamin B12 deficiency and nerve damage with numbness, tingling, weakness and trouble walking.
 
 At the peak, NMDA blockade and endorphin release give dissociation and pain relief; falls and fainting are the main acute risks.
 
@@ -76,19 +76,19 @@ Using bags, masks, or enclosed spaces has caused deaths by asphyxiation.
 
 ### Plateau (1-2 min)
 
-The effect fades within a minute or two.
+The effect fades within a minute or two, leaving a lingering buzz and slight dizziness.
 
-Mood returns to normal quickly.
+Mood returns to normal quickly, which drives repeated cycles.
 
-Re-use drives repeated cycles.
+Repeated use in one session builds headache and nausea and greatly increases nerve-damage risk over time.
 
 ### Comedown (2-5 min)
 
-The comedown is mild: dizziness, headache.
+The comedown is mild: dizziness, headache and sometimes nausea.
 
-Mood steady.
+Mood steady, perhaps a little flat.
 
-Nerve damage from heavy use can be permanent.
+Nerve damage from heavy use can be permanent and is increasingly seen in young people.
 
 Effects end within minutes as the gas is breathed out.
 

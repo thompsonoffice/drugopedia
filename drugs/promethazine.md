@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20 min)
 
-Promethazine, an antihistamine in lean-style cough syrups, brings a heavy, syrupy sleepiness and a thick, dry mouth.
+Promethazine, the antihistamine in prescription cough syrups used in lean, brings a heavy, syrupy sleepiness and a thick, dry mouth. The limbs feel weighted and slow, as if moving through honey.
 
-Mentally a dreamy, sinking fog.
+Mentally there is a dreamy, sinking fog and a sense of not caring about much.
 
-Restless legs can occur.
+Restless legs and an uncomfortable inner restlessness can occur.
 
 Promethazine is absorbed well and crosses into the brain.
 
@@ -64,7 +64,7 @@ Heaviness.
 
 ### Peak (2-3 h)
 
-At the peak, heavy sedation and slowed movement.
+At the peak there is heavy sedation and slowed movement; the eyes droop.
 
 Emotionally detached and drowsy.
 
@@ -80,15 +80,15 @@ The plateau is long and sleepy.
 
 Thinking slow.
 
-Driving unsafe.
+Driving is unsafe.
 
 ### Comedown (6-12 h)
 
-The comedown is groggy.
+The comedown is groggy and dry-mouthed.
 
 Mood flat.
 
-Repeated heavy use worsens memory.
+Repeated heavy use may worsen memory.
 
 Long half-life.
 

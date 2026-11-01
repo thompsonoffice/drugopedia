@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30 min-2 h)
 
-Edibles are slow, often taking an hour or more, which leads people to eat more before feeling anything. The onset creeps in as a warm heaviness and tingling in the body.
+Edibles are slow, often taking an hour or two, which leads people to eat more before feeling anything — the most common cause of bad edible experiences. The onset creeps in as a warm heaviness in the limbs, a tingling in the face and scalp, and a slow, rolling sense that the body is sinking.
 
-Mentally a gradual, then sudden, deep high that feels more bodily and psychedelic than smoking, because the liver converts THC to a stronger form.
+Mentally the effect starts gradually, then can surge suddenly. Because the liver converts THC into 11-hydroxy-THC, the high often feels more bodily, sedating and psychedelic than smoking, with stronger time distortion.
 
-Dry mouth and red eyes appear.
+Dry mouth, red eyes and a faster heartbeat appear.
 
 Swallowed THC is absorbed slowly and unevenly from the gut, and only a fraction survives first-pass liver metabolism; much is converted to 11-hydroxy-THC, which crosses into the brain readily.
 
@@ -64,9 +64,9 @@ The rise is gradual: body heaviness, warmth and giddiness.
 
 ### Peak (2-4 h)
 
-At the peak, heavy body, strong time distortion, and sometimes visual effects.
+At the peak, the body feels heavy and glued in place ('couch-lock'), with strong time distortion — minutes feel like hours — and sometimes visual effects with eyes closed.
 
-Emotionally euphoric or very anxious, with possible paranoia.
+Emotionally euphoric, giggly and dreamy, or very anxious, with possible paranoia, a racing heart and fear of dying, especially when much more was taken than intended.
 
 Too much cannabis rarely threatens life but can bring panic, racing heart, vomiting, confusion and paranoia, and in rare cases psychosis. Children who eat edibles can become seriously ill and need emergency care.
 
@@ -76,19 +76,19 @@ Emergency departments see edible cases with vomiting, fast heart rate, panic and
 
 ### Plateau (4-6 h)
 
-The plateau lasts many hours.
+The plateau lasts many hours, often far longer than people expect.
 
-Thinking slow.
+Thinking slow and memory short; conversations loop.
 
-Sleepiness grows.
+Sleepiness grows, and hunger can be strong.
 
 ### Comedown (6-12 h)
 
-The comedown may last into the next day.
+The comedown may last into the next day, with grogginess, dry mouth and a heavy head.
 
-Mood groggy.
+Mood groggy or mildly low.
 
-Store edibles safely away from children and pets.
+Store edibles safely away from children and pets, who can become seriously ill.
 
 Effects persist for many hours as the gut keeps absorbing THC and the liver keeps producing 11-hydroxy-THC.
 

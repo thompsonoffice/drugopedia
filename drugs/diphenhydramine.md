@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Diphenhydramine (Benadryl) at ordinary amounts causes drowsiness. When misused, the onset is a heavy, sluggish body, bone-dry mouth, flushed hot skin and blurred vision.
+Diphenhydramine (Benadryl) at ordinary amounts causes drowsiness. Misused in large amounts, the onset is a heavy, sluggish body, bone-dry mouth and throat, hot, flushed and dry skin, and blurred vision that makes reading impossible. Many describe restless legs and an unpleasant, crawling inner restlessness.
 
-Mentally a confused, uneasy fog rather than euphoria; many describe a creeping dread.
+Mentally there is a confused, uneasy fog rather than euphoria; many describe a creeping dread or the feeling that something is wrong.
 
-The heart races and urination becomes difficult.
+The heart races, urination becomes difficult, and the pupils widen.
 
 Diphenhydramine is absorbed well and crosses easily into the brain, unlike newer antihistamines.
 
@@ -64,9 +64,9 @@ Dry mouth, fast heartbeat, and confusion at higher amounts.
 
 ### Peak (2-4 h)
 
-At the peak, realistic hallucinations: talking to people who are not there, seeing insects or shadow figures, phantom cigarettes or phones in hand.
+At the peak, diphenhydramine causes realistic hallucinations: talking to people who are not there, seeing spiders or shadow figures, holding phantom cigarettes or phones, and believing these are real.
 
-Emotionally frightening and confused; people often cannot tell what is real.
+Emotionally frightening and confused; people often cannot tell what is real and may wander, pick at the air or undress.
 
 Deliriants cause true delirium: people lose track of what is real, cannot recognize that they are intoxicated, and may wander into traffic or water. Very fast heart rate, high temperature, seizures and dangerous heart rhythms can occur; it is a medical emergency.
 
@@ -76,17 +76,17 @@ Seizures are common in severe poisoning; overheating occurs because sweating sto
 
 ### Plateau (4-8 h)
 
-The plateau is long and disoriented.
+The plateau is long and disoriented, often lasting through the night.
 
-Memory of it is patchy.
+Memory of it is patchy and dreamlike.
 
 Restless pacing and picking at things are common.
 
 ### Comedown (8-12 h)
 
-The comedown brings a heavy, confused hangover.
+The comedown brings a heavy, confused hangover with dry mouth, headache and exhaustion.
 
-Mood low and anxious.
+Mood low and anxious, sometimes for days.
 
 Repeated heavy use is linked to lasting memory problems.
 

@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Datura (jimsonweed) has a slow, unpredictable onset with extreme dry mouth, burning hot skin, wide pupils and blurred vision.
+Datura (jimsonweed, devil's trumpet, angel's trumpet in its Brugmansia relatives) has a slow, unpredictable onset, sometimes hours, with extreme dry mouth, burning hot red skin, wide pupils and blurred vision.
 
-Mentally a confusing, dreamlike slide into delirium.
+Mentally it brings a confusing, dreamlike slide into delirium, with the person not realizing it is happening.
 
-Potency varies wildly between plants.
+Potency varies wildly between plants, seeds and even leaves.
 
 Tropane alkaloids are absorbed from the gut over hours.
 
@@ -64,9 +64,9 @@ Dry mouth, wide pupils, confusion.
 
 ### Peak (3-12 h)
 
-At the peak, total delirium with vivid, real-seeming hallucinations and no awareness of being intoxicated.
+At the peak, total delirium sets in, with vivid, real-seeming hallucinations and no awareness of being intoxicated; people converse with absent friends or see insects and figures.
 
-Emotionally terrifying for many.
+Emotionally terrifying for many, with confusion and agitation.
 
 Deliriants cause true delirium: people lose track of what is real, cannot recognize that they are intoxicated, and may wander into traffic or water. Very fast heart rate, high temperature, seizures and dangerous heart rhythms can occur; it is a medical emergency.
 
@@ -84,9 +84,9 @@ Hospital care is often needed.
 
 ### Comedown (1-3 days)
 
-The comedown lasts days, with blurred vision.
+The comedown lasts days, with blurred vision and dry mouth.
 
-Mood shaken.
+Mood shaken and anxious.
 
 Deaths from accidents and overheating occur.
 

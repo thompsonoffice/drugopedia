@@ -174,3 +174,47 @@ B("blue-lotus-kanna",
 "Unregulated."])
 for k,v in F.items():
     if k in D: D[k]["feel"]=v
+
+# ---- Full-depth expansion ----
+def R(n,**ph): F.setdefault(n,{}).update(ph)
+R("diphenhydramine",
+onset=["Diphenhydramine (Benadryl) at ordinary amounts causes drowsiness. Misused in large amounts, the onset is a heavy, sluggish body, bone-dry mouth and throat, hot, flushed and dry skin, and blurred vision that makes reading impossible. Many describe restless legs and an unpleasant, crawling inner restlessness.",
+"Mentally there is a confused, uneasy fog rather than euphoria; many describe a creeping dread or the feeling that something is wrong.",
+"The heart races, urination becomes difficult, and the pupils widen."],
+peak=["At the peak, diphenhydramine causes realistic hallucinations: talking to people who are not there, seeing spiders or shadow figures, holding phantom cigarettes or phones, and believing these are real.",
+"Emotionally frightening and confused; people often cannot tell what is real and may wander, pick at the air or undress.",
+DEL],
+plateau=["The plateau is long and disoriented, often lasting through the night.",
+"Memory of it is patchy and dreamlike.",
+"Restless pacing and picking at things are common."],
+comedown=["The comedown brings a heavy, confused hangover with dry mouth, headache and exhaustion.",
+"Mood low and anxious, sometimes for days.",
+"Repeated heavy use is linked to lasting memory problems."])
+R("datura",
+onset=["Datura (jimsonweed, devil's trumpet, angel's trumpet in its Brugmansia relatives) has a slow, unpredictable onset, sometimes hours, with extreme dry mouth, burning hot red skin, wide pupils and blurred vision.",
+"Mentally it brings a confusing, dreamlike slide into delirium, with the person not realizing it is happening.",
+"Potency varies wildly between plants, seeds and even leaves."],
+peak=["At the peak, total delirium sets in, with vivid, real-seeming hallucinations and no awareness of being intoxicated; people converse with absent friends or see insects and figures.",
+"Emotionally terrifying for many, with confusion and agitation.",
+DEL],
+plateau=["The plateau can last a day or more.",
+"Thinking disorganized.",
+"Hospital care is often needed."],
+comedown=["The comedown lasts days, with blurred vision and dry mouth.",
+"Mood shaken and anxious.",
+"Deaths from accidents and overheating occur."])
+R("promethazine",
+onset=["Promethazine, the antihistamine in prescription cough syrups used in lean, brings a heavy, syrupy sleepiness and a thick, dry mouth. The limbs feel weighted and slow, as if moving through honey.",
+"Mentally there is a dreamy, sinking fog and a sense of not caring about much.",
+"Restless legs and an uncomfortable inner restlessness can occur."],
+peak=["At the peak there is heavy sedation and slowed movement; the eyes droop.",
+"Emotionally detached and drowsy.",
+"With opioids or alcohol it deepens breathing suppression; large amounts can cause delirium and seizures."],
+plateau=["The plateau is long and sleepy.",
+"Thinking slow.",
+"Driving is unsafe."],
+comedown=["The comedown is groggy and dry-mouthed.",
+"Mood flat.",
+"Repeated heavy use may worsen memory."])
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v

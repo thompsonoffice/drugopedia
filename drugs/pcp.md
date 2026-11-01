@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (2-5 min)
 
-PCP ('angel dust') comes on as a numb, rubbery, floating detachment. The limbs feel far away or made of foam, walking is like moving on a trampoline, and touch and pain fade.
+PCP ('angel dust', 'wet' when on cigarettes dipped in liquid) comes on as a numb, rubbery, floating detachment. The limbs feel far away or made of foam, the floor seems spongy or tilted, and walking feels like moving on a trampoline or the deck of a ship. Touch and pain fade, and the face can feel numb and stiff. Many notice a metallic or chemical taste.
 
-Mentally the onset brings a strange, dreamy euphoria and a sense of being separated from the body and surroundings.
+Mentally the onset brings a strange, dreamy euphoria and a sense of being separated from the body and surroundings, as if watching life through glass. Some feel powerful, detached and calm; others feel uneasy and suspicious almost immediately.
 
-Eyes may flick side to side, and speech becomes slow and blank.
+The eyes may flick side to side or up and down (nystagmus), speech becomes slow, blank or repetitive, and the person may stare without blinking.
 
 PCP is fat-soluble and long-lasting, with a half-life that can be about 1 to 2 days, and it is stored in fat and recirculated.
 
@@ -64,11 +64,11 @@ Detachment and blunted pain build.
 
 ### Peak (15-60 min)
 
-At the peak, people may feel invulnerable, enormous or unreal. Body numbness can be profound; injuries go unfelt.
+At the peak, people may feel invulnerable, enormous, weightless or unreal. Body numbness can be profound, so serious injuries go unfelt. Muscles can stiffen, movements become jerky or robotic, and the person may sweat heavily and drool.
 
-Emotionally unpredictable: blissful, blank, terrified, paranoid or agitated. Hallucinations, delusions and violent or self-injuring behavior can occur.
+Emotionally the peak is unpredictable: blissful, blank, terrified, paranoid or agitated, sometimes switching within minutes. Hallucinations, delusions and violent or self-injuring behavior can occur, and the person may not respond to reason or recognize friends.
 
-Very high blood pressure, overheating, seizures and coma are possible. Dissociatives cause numbness, confusion and loss of coordination, so falls, drowning, burns and traffic injuries are major dangers. Combined with alcohol, opioids or other depressants they can suppress breathing and cause vomiting while unconscious.
+Very high blood pressure, overheating, muscle breakdown, seizures and coma are possible. Dissociatives cause numbness, confusion and loss of coordination, so falls, drowning, burns and traffic injuries are major dangers. Combined with alcohol, opioids or other depressants they can suppress breathing and cause vomiting while unconscious.
 
 At the peak, NMDA blockade plus effects on dopamine and sigma receptors produce agitation, psychosis, catatonia, and insensitivity to pain.
 
@@ -76,19 +76,19 @@ Severe toxicity includes very high temperature, muscle breakdown, kidney failure
 
 ### Plateau (4-6 h)
 
-The plateau is long and confused.
+The plateau is long and confused, often many hours. People drift in and out of a blank, staring state, sometimes with sudden bursts of agitation or strange behavior.
 
-Thinking disorganized.
+Thinking is disorganized, with odd ideas, poor memory and difficulty speaking clearly.
 
-Psychosis can persist after the drug.
+Psychosis can persist after the drug, and people should be kept in a calm, low-stimulation setting with medical help available.
 
 ### Comedown (6-24 h)
 
-The comedown is foggy, with memory gaps.
+The comedown is foggy and slow, with memory gaps, headache, muscle soreness and exhaustion. Coordination may stay off for a day.
 
-Mood low, anxious.
+Mood is often low, anxious or irritable, and some people feel unreal or detached for days.
 
-Repeated use is linked to lasting psychosis and memory problems.
+Repeated use is linked to lasting psychosis, memory and speech problems, and depression.
 
 Because PCP lingers and recirculates, symptoms can fluctuate for days.
 
