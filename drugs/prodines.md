@@ -64,11 +64,11 @@ Quick warmth.
 
 ### Peak (under 15 min)
 
-At its peak heavy relaxation and slowed breathing.
+At its peak the body is heavily relaxed, breathing slowed and pupils small.
 
-Mentally brief euphoria then drowsiness.
+Mentally there is a brief dreamy euphoria that quickly turns to drowsiness.
 
-Short action encourages redosing.
+Their short action encourages redosing.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -76,17 +76,17 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (under 1 h)
 
-The plateau is short, an hour or two.
+The plateau is short, an hour or two in which warmth fades into tiredness.
 
-Mentally the calm fades fast.
+Mentally the calm thins out quickly.
 
-Monitoring is needed when used medically.
+Monitoring was needed whenever they were used medically.
 
 ### Comedown (1-3 h)
 
-The comedown brings restlessness and tiredness.
+The comedown brings restlessness, aches and tiredness.
 
-Emotionally low.
+Emotionally low and anxious.
 
 They have largely disappeared from medicine.
 

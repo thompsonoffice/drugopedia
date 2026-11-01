@@ -76,9 +76,9 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (5-10 min)
 
-There is barely a plateau. Effects fade within minutes after a single injection as the drug redistributes, though infusions sustain a steady level.
+There is barely a plateau: a single injection fades within minutes, though an infusion keeps a steady level. The body remains relaxed only as long as the drug is given.
 
-Mentally patients rise quickly back toward awareness, often foggy but oriented.
+Mentally patients rise quickly toward awareness, foggy but oriented.
 
 Breathing still needs watching briefly after the effect seems to end.
 
@@ -88,7 +88,7 @@ The comedown is quick: a short grogginess, sometimes nausea, shivering or a mild
 
 Emotionally people usually feel little beyond confusion about lost time.
 
-Pain can return sharply, so longer-acting pain relief is usually planned. It has essentially no recreational role, and any non-medical exposure is an emergency.
+Pain can return sharply, so longer-acting pain relief is usually planned. It has essentially no recreational role.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

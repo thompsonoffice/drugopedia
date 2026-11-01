@@ -64,11 +64,11 @@ Sudden heaviness.
 
 ### Peak (strong)
 
-At its peak heavy sedation and slowed breathing.
+At its peak heavy sedation, itch and slowed breathing.
 
-Mentally dreamy.
+Mentally a dreamy, fentanyl-like calm.
 
-Deaths have occurred; naloxone works.
+Deaths have occurred, usually alongside fentanyl or other drugs.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -76,19 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (a few hours)
 
-The plateau is a few hours.
+The plateau lasts a few hours of drowsy heaviness.
 
-Mentally slow.
+Mentally slow and foggy.
 
-Breathing stays suppressed.
+Breathing remains suppressed; naloxone works but may need repeating.
 
 ### Comedown (several hours)
 
-The comedown brings aches and craving.
+The comedown brings aches, sweats and craving.
 
-Emotionally low.
+Emotionally low and anxious.
 
-Dependence like other strong opioids.
+Dependence resembles other strong opioids.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

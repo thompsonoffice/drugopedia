@@ -76,19 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (only during infusion)
 
-The plateau lasts exactly as long as the infusion runs; levels stay steady and do not build up much even after hours.
+The plateau lasts exactly as long as the infusion runs; levels stay steady and do not build up even after hours. The body is deeply relaxed and pain profoundly blunted.
 
-Mentally the state remains constant, often foggy and dreamlike when patients are lightly sedated.
+Mentally the state stays constant, often foggy and dreamlike when patients are lightly sedated.
 
-Monitoring of breathing and heart rate is continuous.
+Breathing and heart rate are monitored continuously.
 
 ### Comedown (5-10 min after stopping)
 
-Once the infusion stops, effects fade within minutes. People wake fairly clear, though some feel shivery, nauseated or briefly sore.
+Once the infusion stops, effects fade within minutes. People wake fairly clear, though some feel shivery, nauseated or sore.
 
-Emotionally the switch-off can feel abrupt: pain and alertness return together. Some feel anxious or restless.
+Emotionally the switch-off can feel abrupt: pain and alertness return together, and some feel anxious or restless.
 
-After long infusions there can be heightened pain sensitivity, called opioid-induced hyperalgesia, and sometimes brief withdrawal-like symptoms, which clinicians plan for.
+After long infusions there can be heightened pain sensitivity and brief withdrawal-like symptoms, which clinicians plan for.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

@@ -64,11 +64,11 @@ Warmth.
 
 ### Peak (1-2 h)
 
-At its peak the body feels heavy, breathing slows.
+At its peak the body feels heavy and warm with slowed breathing and small pupils.
 
-Mentally dreamy and sedated.
+Mentally a drowsy, dreamy calm with mild euphoria.
 
-Unknown purity of research samples raises overdose risk.
+Research-chemical samples have unknown purity, so overdose risk is unpredictable.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -76,17 +76,17 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-3 h)
 
-The plateau lasts a few hours of sedation.
+The plateau lasts a few hours of sedation, constipation and dry mouth.
 
-Mentally foggy.
+Mentally people feel foggy and slow.
 
-Breathing stays suppressed.
+Breathing remains suppressed; mixing with other depressants is dangerous.
 
 ### Comedown (3-5 h total)
 
-The comedown brings aches and restlessness.
+The comedown brings aches, restlessness and tiredness.
 
-Emotionally low.
+Emotionally low and irritable.
 
 Dependence develops with repeated use.
 

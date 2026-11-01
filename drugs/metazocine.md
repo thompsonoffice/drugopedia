@@ -64,11 +64,11 @@ Drowsiness.
 
 ### Peak (1-2 h)
 
-At its peak the body feels heavy; breathing slows.
+At its peak the body is heavy and slowed, with reduced pain and slowed breathing; sweating and dizziness are common.
 
-Mentally the state can be disorienting or unpleasant.
+Mentally strong kappa activity can bring dysphoria, a sense of unreality, odd thoughts or hallucinations, which many find unpleasant.
 
-These kappa effects limited its medical use.
+These effects limited it to research.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -76,19 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-3 h)
 
-The plateau is a few hours of sedation and odd mood.
+The plateau lasts a few hours of drowsy heaviness, with nausea possibly continuing.
 
-Mentally foggy and uneasy.
+Mentally foggy, uneasy and detached, sometimes with vivid dreams.
 
 Breathing risk rises with sedatives.
 
 ### Comedown (3-5 h total)
 
-The comedown brings tiredness.
+The comedown brings tiredness and a hungover feeling.
 
-Emotionally unsettled.
+Emotionally people may feel shaken or low after the strange mental effects.
 
-It is not marketed.
+It was never marketed.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

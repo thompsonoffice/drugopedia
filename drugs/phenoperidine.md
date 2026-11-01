@@ -64,11 +64,11 @@ Immediate.
 
 ### Peak (minutes)
 
-At its peak the body is heavy and still, breathing markedly depressed.
+At its peak the body is heavy and still, breathing markedly slowed, often needing a ventilator; pain is deeply blunted.
 
-Mentally sedated and detached.
+Mentally patients are sedated and detached, with fragmentary awareness if any.
 
-It has no role outside anesthesia.
+It is used only in anesthesia or intensive care.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -76,19 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (about 1 h)
 
-The plateau lasts a few hours of sedation, often in intensive care.
+The plateau lasts a few hours, longer than fentanyl, during which patients remain drowsy and their breathing remains depressed.
 
-Mentally patients are foggy or asleep.
+Mentally they drift in a foggy twilight with little later memory.
 
-Monitoring continues throughout.
+Breathing and blood pressure are monitored until it clears.
 
 ### Comedown (1-2 h)
 
-The comedown is a groggy waking with nausea.
+The comedown is a groggy waking, sometimes with nausea, shivering and returning pain.
 
-Emotionally confused or blank.
+Emotionally patients may feel confused, blank or tearful.
 
-Largely replaced by fentanyl relatives.
+It has largely been replaced by fentanyl relatives.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

@@ -76,19 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (many hours)
 
-The plateau is long, many hours of flat sedation.
+The plateau is long, many hours of flat sedation: mild heaviness, sweating, constipation and a dampened body.
 
-Mentally steady and slow.
+Mentally people feel steady, slow and unmotivated, without much pleasure.
 
-Overdose can occur during sleep.
+Like methadone, they can build up with repeated doses, and overdose can come during sleep.
 
 ### Comedown (1-3 days)
 
-The comedown is slow and drawn out.
+The comedown is slow and drawn out, with aches and restlessness returning gradually.
 
-Emotionally a gradual drift toward irritability.
+Emotionally a gradual drift toward irritability and low mood.
 
-Dependence like methadone.
+Dependence resembles methadone, with long withdrawal.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

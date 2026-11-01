@@ -64,11 +64,11 @@ Mild warmth.
 
 ### Peak (1-2 h)
 
-At its peak, mild heaviness and drowsiness.
+At its peak the body felt mildly heavy and warm, with a faint itch and narrowed pupils; the cough reflex was strongly quieted.
 
-Mentally soft contentment.
+Mentally there was a soft, sleepy contentment, gentler than morphine and close to codeine.
 
-Breathing risk rose with alcohol.
+Breathing risk rose with alcohol, which was often taken alongside cough remedies of the era.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -76,19 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-The plateau was a few hours of quiet sedation and dry mouth.
+The plateau lasted a few hours of quiet sedation, dry mouth and slowed bowels. The body felt still and comfortable, with little urge to move.
 
-Mentally people felt slowed.
+Mentally people felt slowed and a little dreamy, their attention drifting.
 
-Constipation followed repeated use.
+Repeated doses built constipation and a mild, lingering drowsiness.
 
 ### Comedown (4-6 h total)
 
-The comedown brought tiredness and returning cough.
+The comedown brought tiredness, a heavy head and the return of cough.
 
-Emotionally usually mild.
+Emotionally it was usually mild, sometimes with restlessness or a dull mood.
 
-It has long been out of use.
+Regular use caused codeine-like dependence. It has long been out of medical use.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

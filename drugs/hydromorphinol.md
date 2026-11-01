@@ -64,11 +64,11 @@ Warmth.
 
 ### Peak (1-2 h)
 
-At its peak heavy sedation, pinpoint pupils and slowed breathing.
+At its peak heavy, warm sedation, pinpoint pupils, itch and slow breathing.
 
-Mentally dreamy and detached.
+Mentally a deep, dreamy contentment, similar to hydromorphone.
 
-Overdose risk is similar to hydromorphone.
+Overdose risk is high with any other depressant.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -76,19 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-3 h)
 
-The plateau lasts a few hours of nodding sedation.
+The plateau lasts a few hours of nodding, warm heaviness, dry mouth and slowed bowels.
 
-Mentally quiet and slow.
+Mentally people feel quiet, slow and inward, drifting in and out of light sleep.
 
-Breathing stays suppressed.
+Breathing remains suppressed, especially during dozing.
 
 ### Comedown (3-5 h total)
 
-The comedown brings aches and fatigue.
+The comedown brings aches, fatigue and sometimes nausea.
 
-Emotionally flat.
+Emotionally a flat, gray mood and restlessness.
 
-Dependence like morphine.
+Dependence and withdrawal resemble morphine.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

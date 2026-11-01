@@ -76,19 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (long)
 
-Without reversal, sedation is deep and prolonged.
+Without reversal, sedation is deep and prolonged; breathing stays slowed or stopped and blood pressure stays low.
 
-Mentally no awareness.
+Mentally there is no awareness.
 
-Repeated naloxone and hospital care are needed.
+Repeated naloxone and hospital care are needed, sometimes for many hours.
 
 ### Comedown (hours)
 
-After reversal, people feel shaky, nauseated and exhausted.
+After reversal, people feel shaky, nauseated, cold and exhausted.
 
-Emotionally frightened.
+Emotionally frightened and disoriented.
 
-It has no recreational role.
+It has no recreational role; veterinarians are trained to treat exposure immediately.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

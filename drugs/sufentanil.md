@@ -76,19 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (30-60 min (single dose))
 
-The plateau is short when given by injection; the drug redistributes quickly, though with prolonged infusions it can build up and linger. The body remains heavy and breathing remains depressed.
+After a single injection the effect redistributes quickly, but after long infusions it lingers in body fat and can keep breathing depressed for hours. The body stays heavy and still.
 
-Mentally patients stay drowsy and foggy, drifting between sleep and dim awareness, often with little memory of this period.
+Mentally patients drift between sleep and dim awareness, often remembering nothing of this period.
 
-Monitoring continues because breathing suppression can recur as the drug releases from body tissues after long use.
+Monitoring continues because breathing suppression can recur as the drug seeps back out of tissues.
 
 ### Comedown (1-2 h)
 
 Coming down feels like waking from deep anesthesia: groggy, heavy, sometimes nauseated, cold or shivering.
 
-Emotionally people may feel confused, weepy or blank, and memory of the event is patchy.
+Emotionally people may feel confused, weepy or blank, with patchy memory.
 
-Pain returns as the drug clears, which is why other pain control is arranged in advance. Any non-medical exposure needs emergency care.
+Pain returns as it clears, so other pain control is arranged in advance. Any non-medical exposure needs emergency care.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

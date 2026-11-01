@@ -264,3 +264,51 @@ H("cloniprazepam",["Cloniprazepam is a clonazepam prodrug sold as a designer dru
 ["At its peak sedated.","Mentally forgetful.","Risky with depressants."],["The plateau is long.","Mentally dull.","Accumulates."],["The comedown is slow.","Emotionally rebound anxiety.","Dependence possible."])
 H("norflurazepam",["Norflurazepam is flurazepam's long-lasting metabolite. It comes on slowly with heavy drowsiness.","Mentally sleepy.",W],
 ["At its peak sleepy.","Mentally hazy.","Risky with depressants."],["The plateau lasts days.","Mentally dull.","Accumulates."],["The comedown is very slow.","Emotionally flat.","Dependence possible."])
+
+# ---- Fuller later phases for short opioid pages ----
+def P(k,pk,pl,c):
+    if k in D and D[k].get("feel"):
+        if pk: D[k]["feel"]["peak"]=pk
+        D[k]["feel"]["plateau"]=pl; D[k]["feel"]["comedown"]=c
+P("benzylmorphine",["At its peak the body felt mildly heavy and warm, with a faint itch and narrowed pupils; the cough reflex was strongly quieted.","Mentally there was a soft, sleepy contentment, gentler than morphine and close to codeine.","Breathing risk rose with alcohol, which was often taken alongside cough remedies of the era."],
+["The plateau lasted a few hours of quiet sedation, dry mouth and slowed bowels. The body felt still and comfortable, with little urge to move.","Mentally people felt slowed and a little dreamy, their attention drifting.","Repeated doses built constipation and a mild, lingering drowsiness."],
+["The comedown brought tiredness, a heavy head and the return of cough.","Emotionally it was usually mild, sometimes with restlessness or a dull mood.","Regular use caused codeine-like dependence. It has long been out of medical use."])
+P("phenoperidine",["At its peak the body is heavy and still, breathing markedly slowed, often needing a ventilator; pain is deeply blunted.","Mentally patients are sedated and detached, with fragmentary awareness if any.","It is used only in anesthesia or intensive care."],
+["The plateau lasts a few hours, longer than fentanyl, during which patients remain drowsy and their breathing remains depressed.","Mentally they drift in a foggy twilight with little later memory.","Breathing and blood pressure are monitored until it clears."],
+["The comedown is a groggy waking, sometimes with nausea, shivering and returning pain.","Emotionally patients may feel confused, blank or tearful.","It has largely been replaced by fentanyl relatives."])
+P("metazocine",["At its peak the body is heavy and slowed, with reduced pain and slowed breathing; sweating and dizziness are common.","Mentally strong kappa activity can bring dysphoria, a sense of unreality, odd thoughts or hallucinations, which many find unpleasant.","These effects limited it to research."],
+["The plateau lasts a few hours of drowsy heaviness, with nausea possibly continuing.","Mentally foggy, uneasy and detached, sometimes with vivid dreams.","Breathing risk rises with sedatives."],
+["The comedown brings tiredness and a hungover feeling.","Emotionally people may feel shaken or low after the strange mental effects.","It was never marketed."])
+P("hydromorphinol",["At its peak heavy, warm sedation, pinpoint pupils, itch and slow breathing.","Mentally a deep, dreamy contentment, similar to hydromorphone.","Overdose risk is high with any other depressant."],
+["The plateau lasts a few hours of nodding, warm heaviness, dry mouth and slowed bowels.","Mentally people feel quiet, slow and inward, drifting in and out of light sleep.","Breathing remains suppressed, especially during dozing."],
+["The comedown brings aches, fatigue and sometimes nausea.","Emotionally a flat, gray mood and restlessness.","Dependence and withdrawal resemble morphine."])
+P("thiambutenes",["At its peak the body feels heavy and warm with slowed breathing and small pupils.","Mentally a drowsy, dreamy calm with mild euphoria.","Research-chemical samples have unknown purity, so overdose risk is unpredictable."],
+["The plateau lasts a few hours of sedation, constipation and dry mouth.","Mentally people feel foggy and slow.","Breathing remains suppressed; mixing with other depressants is dangerous."],
+["The comedown brings aches, restlessness and tiredness.","Emotionally low and irritable.","Dependence develops with repeated use."])
+P("prodines",["At its peak the body is heavily relaxed, breathing slowed and pupils small.","Mentally there is a brief dreamy euphoria that quickly turns to drowsiness.","Their short action encourages redosing."],
+["The plateau is short, an hour or two in which warmth fades into tiredness.","Mentally the calm thins out quickly.","Monitoring was needed whenever they were used medically."],
+["The comedown brings restlessness, aches and tiredness.","Emotionally low and anxious.","They have largely disappeared from medicine."])
+P("methadols",None,
+["The plateau is long, many hours of flat sedation: mild heaviness, sweating, constipation and a dampened body.","Mentally people feel steady, slow and unmotivated, without much pleasure.","Like methadone, they can build up with repeated doses, and overdose can come during sleep."],
+["The comedown is slow and drawn out, with aches and restlessness returning gradually.","Emotionally a gradual drift toward irritability and low mood.","Dependence resembles methadone, with long withdrawal."])
+P("ah-7921",["At its peak the body is heavy and itchy, pupils pinpoint and breathing slowed.","Mentally a dreamy contentment and nodding, similar to morphine.","Several deaths led to international control in 2015."],
+["The plateau lasts a few hours of sedation, nausea and constipation.","Mentally slow and foggy.","Breathing remains suppressed; naloxone reverses it."],
+["The comedown brings aches, sweating and restlessness.","Emotionally low and craving.","Dependence develops with repeated use."])
+P("mt-45",["At its peak the body is heavily sedated with slowed breathing; some users described a dissociative, detached feeling.","Mentally foggy and dreamlike.","Deaths occurred, often with other drugs."],
+["The plateau lasts a few hours of sedation.","Mentally slow and detached.","Breathing remains suppressed."],
+["The comedown brings aches and fatigue.","Emotionally low.","Users reported hearing loss, skin lesions, hair loss and nail damage that could persist for months."])
+P("etorphine",None,
+["Without reversal, sedation is deep and prolonged; breathing stays slowed or stopped and blood pressure stays low.","Mentally there is no awareness.","Repeated naloxone and hospital care are needed, sometimes for many hours."],
+["After reversal, people feel shaky, nauseated, cold and exhausted.","Emotionally frightened and disoriented.","It has no recreational role; veterinarians are trained to treat exposure immediately."])
+P("brorphine",["At its peak heavy sedation, itch and slowed breathing.","Mentally a dreamy, fentanyl-like calm.","Deaths have occurred, usually alongside fentanyl or other drugs."],
+["The plateau lasts a few hours of drowsy heaviness.","Mentally slow and foggy.","Breathing remains suppressed; naloxone works but may need repeating."],
+["The comedown brings aches, sweats and craving.","Emotionally low and anxious.","Dependence resembles other strong opioids."])
+P("sufentanil",None,
+["After a single injection the effect redistributes quickly, but after long infusions it lingers in body fat and can keep breathing depressed for hours. The body stays heavy and still.","Mentally patients drift between sleep and dim awareness, often remembering nothing of this period.","Monitoring continues because breathing suppression can recur as the drug seeps back out of tissues."],
+["Coming down feels like waking from deep anesthesia: groggy, heavy, sometimes nauseated, cold or shivering.","Emotionally people may feel confused, weepy or blank, with patchy memory.","Pain returns as it clears, so other pain control is arranged in advance. Any non-medical exposure needs emergency care."])
+P("alfentanil",None,
+["There is barely a plateau: a single injection fades within minutes, though an infusion keeps a steady level. The body remains relaxed only as long as the drug is given.","Mentally patients rise quickly toward awareness, foggy but oriented.","Breathing still needs watching briefly after the effect seems to end."],
+["The comedown is quick: a short grogginess, sometimes nausea, shivering or a mild headache.","Emotionally people usually feel little beyond confusion about lost time.","Pain can return sharply, so longer-acting pain relief is usually planned. It has essentially no recreational role."])
+P("remifentanil",None,
+["The plateau lasts exactly as long as the infusion runs; levels stay steady and do not build up even after hours. The body is deeply relaxed and pain profoundly blunted.","Mentally the state stays constant, often foggy and dreamlike when patients are lightly sedated.","Breathing and heart rate are monitored continuously."],
+["Once the infusion stops, effects fade within minutes. People wake fairly clear, though some feel shivery, nauseated or sore.","Emotionally the switch-off can feel abrupt: pain and alertness return together, and some feel anxious or restless.","After long infusions there can be heightened pain sensitivity and brief withdrawal-like symptoms, which clinicians plan for."])
