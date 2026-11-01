@@ -48,7 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (5-20 min)
 
-Effects begin within minutes (snorted) to an hour (swallowed).
+Other cathinones (like N-ethylpentylone, 4-MEC, pentedrone) vary, but most bring a quick rise of energy and euphoria.
+
+Mentally sociable and stimulated.
+
+Heart rate climbs.
 
 These compounds vary in potency and mechanism.
 
@@ -60,7 +64,11 @@ Stimulation rises.
 
 ### Peak (30-90 min)
 
-Peak within 1 to 2 hours.
+At the peak strong stimulation.
+
+Emotionally euphoric, then anxious.
+
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
 
 At peak, overheating, agitation and seizures.
 
@@ -68,11 +76,19 @@ Deaths have followed N-ethylpentylone and others.
 
 ### Plateau (1-3 h)
 
-Effects last a few hours; binges are common.
+The plateau is usually short.
+
+Craving builds.
+
+Products are often mislabeled.
 
 ### Comedown (3-6 h)
 
-Hard crash.
+The comedown is a crash.
+
+Mood low.
+
+Dependence possible.
 
 Durations vary.
 

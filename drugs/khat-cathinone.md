@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Effects begin within 15 to 30 minutes of chewing.
+Khat leaves, chewed traditionally in East Africa and Yemen, bring a slow, mild lift of energy and talkativeness.
+
+Mentally sociable, alert and euphoric.
+
+Appetite drops.
 
 Cathinone is absorbed through the mouth lining during chewing.
 
@@ -60,7 +64,11 @@ Gradual alertness.
 
 ### Peak (1-2 h)
 
-Peak over 1 to 2 hours.
+At the peak, chatty and energized.
+
+Emotionally euphoric; at the end, sometimes irritable.
+
+Long-term heavy use is linked to mouth disease, heart problems and psychosis.
 
 At peak, mild euphoria and talkativeness; heavy use can trigger psychosis.
 
@@ -68,11 +76,19 @@ Long-term use is linked to heart attack, liver injury and oral cancers.
 
 ### Plateau (3-4 h)
 
-Effects last several hours.
+The plateau is a long social session.
+
+Mood upbeat.
+
+Sleep difficult.
 
 ### Comedown (4-6 h)
 
-Comedown brings low mood and insomnia.
+The comedown brings lethargy and low mood.
+
+Mood irritable.
+
+Dependence possible.
 
 Cathinone is quickly converted to cathine and norephedrine, which are weaker.
 

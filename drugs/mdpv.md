@@ -48,7 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (5-15 min)
 
-Snorted, effects start within minutes.
+MDPV (a classic 'bath salt') hits quickly with intense energy, a pounding heart and tension.
+
+Mentally euphoric and hyper-focused, quickly turning compulsive.
+
+Body temperature climbs.
 
 MDPV is very lipophilic and strongly blocks dopamine and noradrenaline reuptake.
 
@@ -60,7 +64,11 @@ A steep rise in energy.
 
 ### Peak (1-2 h)
 
-Peak within 1 to 2 hours.
+At the peak, extreme stimulation, sometimes with strong sexual arousal and compulsive behavior.
+
+Emotionally the edge can tip into paranoia, hallucinations and violent agitation ('excited delirium').
+
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
 
 At peak, MDPV is linked to excited delirium, hyperthermia, rhabdomyolysis and death.
 
@@ -68,11 +76,19 @@ Animal studies show MDPV is more reinforcing than cocaine.
 
 ### Plateau (2-4 h)
 
-Effects last 3 to 4 hours, but long binges are common.
+The plateau is long and wired.
+
+Craving intense.
+
+Days without sleep can cause psychosis.
 
 ### Comedown (4-8 h)
 
-A hard crash.
+The comedown is a deep crash with depression.
+
+Mood very low, sometimes suicidal.
+
+Addiction is severe.
 
 Half-life of several hours.
 

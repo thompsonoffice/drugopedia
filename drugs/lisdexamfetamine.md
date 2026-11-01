@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Effects start about 1 to 2 hours after swallowing.
+Lisdexamfetamine (Vyvanse) is a prodrug: it must be converted in the blood, so the onset is slow and smooth. Energy and alertness creep in gently, with a light warmth and a dry mouth.
+
+Mentally focus sharpens and motivation rises without a strong rush. Many describe it as the 'cleanest' amphetamine.
+
+Appetite fades and the heart beats a little faster.
 
 Lisdexamfetamine is absorbed intact and cleaved in red blood cells to release dextroamphetamine, so the rate is limited by enzyme activity.
 
@@ -64,7 +68,11 @@ A gradual lift in focus.
 
 ### Peak (3-4 h)
 
-Peak around 3 to 4 hours.
+At the peak, steady energy, concentration and a calm drive.
+
+Emotionally upbeat and confident; at higher amounts, jittery, talkative and anxious.
+
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
 
 At peak, effects are those of dextroamphetamine: alertness, raised heart rate and blood pressure.
 
@@ -72,11 +80,19 @@ The FDA label includes a boxed warning for misuse and dependence.
 
 ### Plateau (10-14 h)
 
-Steady effects for 10 to 14 hours.
+The plateau is long and even, lasting much of the day.
+
+Mood steady and productive.
+
+Sleep can be hard if taken late.
 
 ### Comedown (12-14 h)
 
-Gentle comedown in the evening.
+The comedown is gradual, with tiredness and hunger.
+
+Some feel irritable or low in the evening.
+
+Misuse can lead to dependence.
 
 Dextroamphetamine's half-life extends effects into the evening.
 

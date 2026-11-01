@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Effects start within 30 to 60 minutes.
+Ephedrine has an onset of jittery energy, a faster heart and opened airways.
+
+Mentally alert and slightly anxious.
+
+Hands may tremble.
 
 Ephedrine acts both directly on adrenergic receptors and by releasing noradrenaline.
 
@@ -60,7 +64,11 @@ Energy and jitteriness.
 
 ### Peak (1-2 h)
 
-Peak at 1 to 2 hours.
+At the peak, energized and sweaty.
+
+Emotionally edgy.
+
+It has been linked to strokes, heart attacks and deaths.
 
 At high levels, especially with caffeine, ephedrine can cause stroke, heart attack, arrhythmia and seizures; these led to the 2004 ephedra ban.
 
@@ -68,11 +76,19 @@ Pseudoephedrine has weaker effects but can still raise blood pressure.
 
 ### Plateau (3-6 h)
 
-Effects last 3 to 6 hours.
+The plateau is a few hours.
+
+Mood wired.
+
+Sleep difficult.
 
 ### Comedown (6-8 h)
 
-Fade with tiredness.
+The comedown is tired.
+
+Mood flat.
+
+Combining with caffeine raises risk.
 
 Half-life is about 6 hours.
 

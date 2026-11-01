@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Inhaled effects begin within seconds.
+Smoked or vaped nicotine hits within seconds: a light head rush, a tingling buzz and a slight drop of tension.
+
+Mentally a brief, calming focus. For new users, dizziness and nausea dominate.
+
+Heart rate rises.
 
 Inhaled nicotine reaches the brain within about 10 to 20 seconds.
 
@@ -60,7 +64,11 @@ A brief buzz.
 
 ### Peak (1-5 min)
 
-Peak within minutes.
+The peak is brief: a relaxed alertness.
+
+Emotionally calming relief of craving.
+
+Liquid nicotine is highly toxic if swallowed, especially by children.
 
 At high exposure, nicotine causes nausea, vomiting, sweating and, in poisoning, seizures and breathing muscle paralysis.
 
@@ -68,11 +76,19 @@ Children who swallow e-liquid or pouches are at greatest risk.
 
 ### Plateau (15-60 min)
 
-Effects last 30 minutes to an hour.
+The effect fades within minutes.
+
+Craving returns.
+
+Addiction develops quickly.
 
 ### Comedown (1-2 h)
 
-Craving returns as levels fall.
+The comedown is irritability and craving.
+
+Mood edgy.
+
+Withdrawal brings anxiety, irritability and hunger.
 
 Half-life is about 2 hours, which drives frequent use.
 

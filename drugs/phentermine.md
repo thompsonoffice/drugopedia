@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Effects begin within about 1 hour.
+Phentermine (Adipex) has a moderate onset of energy, dry mouth and a strong drop in appetite.
+
+Mentally alert, motivated and slightly wired.
+
+Heart rate rises.
 
 Phentermine is absorbed well and releases noradrenaline more than dopamine.
 
@@ -60,7 +64,11 @@ Energy rises and appetite drops.
 
 ### Peak (3-4 h)
 
-Peak around 3 to 4 hours.
+At the peak, energetic and talkative.
+
+Emotionally upbeat, sometimes anxious.
+
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
 
 At high levels, agitation, psychosis and arrhythmias can occur.
 
@@ -68,11 +76,19 @@ Combined with serotonergic drugs (as with fenfluramine in fen-phen), heart valve
 
 ### Plateau (8-12 h)
 
-Effects last much of the day.
+The plateau lasts most of a day.
+
+Mood stable or edgy.
+
+Sleep difficult.
 
 ### Comedown (12-16 h)
 
-Comedown brings fatigue.
+The comedown brings tiredness and returning hunger.
+
+Mood may dip.
+
+Dependence possible.
 
 Half-life is about 20 hours, explaining day-long effects.
 

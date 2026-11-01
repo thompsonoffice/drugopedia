@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Swallowed, effects begin within about 1 hour.
+Phendimetrazine has a moderate onset of energy and reduced hunger.
+
+Mentally alert, slightly wired.
+
+Heart rate rises.
 
 Phendimetrazine is converted to phenmetrazine, which releases dopamine and noradrenaline.
 
@@ -64,7 +68,11 @@ Appetite falls and alertness rises.
 
 ### Peak (1-2 h)
 
-Peak at 1 to 2 hours (immediate-release).
+At the peak, steady stimulation.
+
+Emotionally upbeat or edgy.
+
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
 
 At high levels, euphoria, agitation and psychosis can occur.
 
@@ -72,11 +80,19 @@ Phenmetrazine itself was withdrawn because of misuse.
 
 ### Plateau (4-12 h)
 
-Effects last several hours; extended-release longer.
+The plateau lasts hours.
+
+Mood stable.
+
+Sleep difficult.
 
 ### Comedown (6-14 h)
 
-Comedown with tiredness and hunger.
+The comedown is tired.
+
+Mood low.
+
+Dependence possible.
 
 Effects fade over several hours.
 

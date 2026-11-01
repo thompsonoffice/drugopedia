@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Effects begin about 1 hour after swallowing.
+Modafinil (Provigil) has a slow, subtle onset: tiredness simply lifts and alertness sharpens without a rush.
+
+Mentally a clear wakefulness and steady focus; little euphoria.
+
+Some feel a mild headache or tension.
 
 Modafinil is absorbed slowly, peaking in 2 to 4 hours, and has a half-life of about 15 hours.
 
@@ -60,7 +64,11 @@ Alertness builds.
 
 ### Peak (2-4 h)
 
-Peak around 2 to 4 hours.
+At the peak, wide awake and focused.
+
+Emotionally neutral to slightly upbeat; some feel anxious.
+
+Rare but serious skin reactions can occur. Large amounts raise heart rate and anxiety.
 
 At peak, effects are wakefulness and modest focus; high amounts cause anxiety, tachycardia and insomnia.
 
@@ -68,11 +76,19 @@ Rare but serious rashes (Stevens-Johnson syndrome, DRESS) need immediate medical
 
 ### Plateau (10-15 h)
 
-Wakefulness lasts 10 to 15 hours.
+The plateau lasts most of a day.
+
+Mood steady.
+
+Sleep is often impossible if taken late.
 
 ### Comedown (12-16 h)
 
-Gradual fade.
+The comedown is gentle tiredness.
+
+Mood usually unchanged.
+
+Dependence risk is low but present.
 
 Its long half-life means sleep may be disrupted the following night.
 

@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Swallowed, effects begin within about 1 hour.
+Diethylpropion has a mild onset of energy and appetite loss.
+
+Mentally alert.
+
+Heart rate rises.
 
 Diethylpropion is absorbed quickly and converted to active metabolites.
 
@@ -64,7 +68,11 @@ Appetite falls and alertness rises.
 
 ### Peak (1-2 h)
 
-Peak at 1 to 2 hours (immediate-release).
+At the peak, steady stimulation.
+
+Emotionally upbeat.
+
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
 
 At high levels, it causes agitation and can trigger seizures in susceptible people.
 
@@ -72,11 +80,19 @@ Long-term use is rarely linked to pulmonary hypertension.
 
 ### Plateau (4-12 h)
 
-Effects last several hours; extended-release longer.
+The plateau lasts hours.
+
+Mood stable.
+
+Sleep difficult.
 
 ### Comedown (6-14 h)
 
-Comedown with tiredness and hunger.
+The comedown is tired.
+
+Mood dips.
+
+Dependence possible.
 
 Effects fade over several hours.
 

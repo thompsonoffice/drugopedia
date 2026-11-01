@@ -48,7 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (10-20 min)
 
-Snorted, effects start within 10 to 20 minutes.
+Mephedrone (4-MMC, 'meow meow') has a quick onset of rushing euphoria, warmth and energy, with jaw clenching and a faster heart.
+
+Mentally talkative, affectionate and euphoric, often compared to a mix of MDMA and cocaine.
+
+Body temperature rises and sweating begins.
 
 Mephedrone is absorbed fast and releases both serotonin and dopamine, like a mix of MDMA and cocaine.
 
@@ -60,7 +64,11 @@ A fast rise of euphoria.
 
 ### Peak (30-60 min)
 
-Peak within 30 to 60 minutes.
+At the peak, intense euphoria and stimulation that fades quickly, driving strong urges to re-dose.
+
+Emotionally warm and open, then edgy.
+
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
 
 At peak, overheating, agitation and arrhythmias are the main dangers.
 
@@ -68,11 +76,19 @@ Rapid redosing raises toxicity.
 
 ### Plateau (1-2 h)
 
-Effects last 1 to 2 hours.
+The plateau is short.
+
+Mood slides toward craving and anxiety.
+
+Binges lead to sleeplessness and paranoia.
 
 ### Comedown (2-4 h)
 
-Comedown with craving.
+The comedown brings exhaustion, low mood and anxiety.
+
+Mood can be very low.
+
+Dependence develops quickly.
 
 Half-life is short (about 2 hours).
 

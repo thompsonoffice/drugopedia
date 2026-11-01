@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Effects begin within 15 to 45 minutes.
+Caffeine's onset is a gradual lift: a warmth, a brightening of the mind, and a lighter, more energetic body.
+
+Mentally sharper attention and mood.
+
+With too much, jitters and a racing heart appear.
 
 Caffeine is almost completely absorbed within 45 minutes.
 
@@ -60,7 +64,11 @@ Alertness rises.
 
 ### Peak (about 1 h)
 
-Peak at about 1 hour.
+At the peak, alertness and mild euphoria.
+
+Emotionally upbeat; with excess, anxious and restless.
+
+Caffeine pills and powders can cause fatal overdose with heart rhythm problems and seizures.
 
 At high levels, it causes tremor, palpitations, vomiting and arrhythmias; severe poisoning lowers potassium and causes seizures.
 
@@ -68,11 +76,19 @@ Concentrated powders and liquids have caused deaths because the line between a n
 
 ### Plateau (3-5 h)
 
-Effects last 3 to 5 hours.
+The plateau lasts a few hours.
+
+Mood steady.
+
+Sleep is disrupted.
 
 ### Comedown (5-8 h)
 
-Gradual fade.
+The comedown brings tiredness and sometimes a headache.
+
+Mood slightly low.
+
+Withdrawal headaches are common after daily use.
 
 Half-life is about 5 hours, longer in pregnancy and with some medicines.
 

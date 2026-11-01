@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Swallowed, effects begin within 30 to 60 minutes.
+Eutylone has a quick onset of rushing euphoria, warmth and energy, with jaw clenching and a faster heart.
+
+Mentally talkative, affectionate and euphoric, often compared to a mix of MDMA and cocaine.
+
+Body temperature rises and sweating begins.
 
 Eutylone blocks dopamine and noradrenaline reuptake and releases some serotonin.
 
@@ -60,7 +64,11 @@ Stimulation rises faster than euphoria.
 
 ### Peak (1-2 h)
 
-Peak around 1 to 2 hours: energy, restlessness, jaw clenching.
+At the peak, intense euphoria and stimulation that fades quickly, driving strong urges to re-dose.
+
+Emotionally warm and open, then edgy.
+
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
 
 At peak, agitation, overheating and seizures are reported in emergency cases.
 
@@ -68,11 +76,19 @@ Toxicity often followed redosing.
 
 ### Plateau (3-6 h)
 
-Stimulant effects continue for several hours.
+The plateau is short.
+
+Mood slides toward craving and anxiety.
+
+Binges lead to sleeplessness and paranoia.
 
 ### Comedown (6-12 h)
 
-A long, wakeful comedown with anxiety.
+The comedown brings exhaustion, low mood and anxiety.
+
+Mood can be very low.
+
+Dependence develops quickly.
 
 Effects last longer than methylone.
 

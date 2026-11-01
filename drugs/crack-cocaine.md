@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Effects begin within seconds.
+Smoked crack cocaine hits within seconds. A rush of heat and pressure surges up from the chest into the head, the heart pounds, ears may ring, and the whole body feels electrified and tingling. Many describe the first seconds as the most intense pleasure they have ever felt.
+
+Mentally the rush is an explosion of euphoria, confidence and power. Every worry vanishes and the mind feels supercharged and invincible.
+
+Pupils widen, the mouth goes numb and dry, and breathing quickens.
 
 Smoked cocaine reaches the brain in seconds, faster than snorting, producing a sharp dopamine spike.
 
@@ -60,7 +64,11 @@ An intense rush.
 
 ### Peak (1-5 min)
 
-Peak within minutes.
+The peak is short and intense: a buzzing, hyper-alert body, clenched jaw, racing heart and sweating.
+
+Emotionally euphoric, talkative and grandiose, but within minutes an edge of anxiety, paranoia and craving creeps in. People may listen intently for sounds or check windows ('tweaking').
+
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
 
 At peak, the same heart and stroke risks as cocaine apply, plus lung injury (crack lung) from hot smoke.
 
@@ -68,11 +76,19 @@ Binge use can cause seizures and severe agitation.
 
 ### Plateau (5-15 min)
 
-Effects last about 5 to 15 minutes.
+There is almost no plateau; the high drops off quickly.
+
+The crash begins while craving rises sharply, which drives repeated use in binges.
+
+Repeated binges cause sleeplessness, paranoia and hallucinations such as bugs crawling on the skin.
 
 ### Comedown (15-30 min)
 
-A sharp crash and craving.
+The comedown is a hard crash: exhaustion, a heavy, aching body, and deep hunger for sleep.
+
+Emotionally it brings depression, irritability, anxiety and intense craving, sometimes with suicidal thoughts.
+
+Crack carries a very high addiction risk; lung damage ('crack lung') and heart attacks are documented.
 
 The rapid fall in dopamine drives intense craving within minutes.
 

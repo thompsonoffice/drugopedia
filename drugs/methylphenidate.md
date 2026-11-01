@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-60 min)
 
-IR Ritalin starts within 20 to 60 minutes.
+Methylphenidate (Ritalin, Concerta) has an onset of crisp alertness, slight tension and a faster heartbeat.
+
+Mentally sharpened focus, less distractibility; at higher amounts, a jittery, cocaine-like edge.
+
+Appetite drops and the mouth dries.
 
 Methylphenidate blocks dopamine and noradrenaline reuptake rather than releasing them, so its effect depends on ongoing nerve activity.
 
@@ -64,7 +68,11 @@ Alertness rises.
 
 ### Peak (1-2 h)
 
-Peak about 1 to 2 hours.
+At the peak, strong focus and energy, sometimes with anxiety and teeth clenching.
+
+Emotionally driven, sometimes edgy or irritable.
+
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
 
 At peak, high doses can cause anxiety, tremor and psychosis; injected tablets cause talc granulomas in the lungs and eyes.
 
@@ -72,11 +80,19 @@ With alcohol, the liver forms ethylphenidate, raising levels and heart effects.
 
 ### Plateau (3-4 h, ER up to 12 h)
 
-IR lasts about 3 to 4 hours; Concerta about 10 to 12.
+Immediate-release forms are short; extended-release forms last most of the day.
+
+Mood steady or wired.
+
+Sleep disrupted if late.
 
 ### Comedown (4-12 h)
 
-Comedown brings irritability ('rebound').
+The comedown brings tiredness, irritability and sometimes a sharp mood dip.
+
+Mood can be flat.
+
+Misuse carries addiction risk.
 
 Short half-life (about 2 to 3 hours) explains the IR rebound.
 

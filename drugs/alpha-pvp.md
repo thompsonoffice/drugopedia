@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds-minutes)
 
-Smoked or snorted, effects begin within minutes.
+Alpha-PVP ('flakka') hits fast with a strong rush of energy.
+
+Mentally euphoric and compulsive.
+
+Body overheats.
 
 Alpha-PVP is a potent dopamine and noradrenaline reuptake inhibitor.
 
@@ -60,7 +64,11 @@ Rapid stimulation.
 
 ### Peak (15-60 min)
 
-Peak within an hour.
+At the peak, extreme stimulation.
+
+Emotionally paranoid, agitated or psychotic at higher amounts.
+
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
 
 At peak, excited delirium, paranoia and hyperthermia occur.
 
@@ -68,11 +76,19 @@ Deaths followed overheating and cardiac arrest.
 
 ### Plateau (1-3 h)
 
-Effects last a few hours.
+The plateau is short, driving re-dosing.
+
+Craving strong.
+
+Binges cause psychosis.
 
 ### Comedown (3-6 h)
 
-A hard crash with paranoia.
+The comedown is a crash.
+
+Mood very low.
+
+Addiction severe.
 
 Effects last a few hours.
 
