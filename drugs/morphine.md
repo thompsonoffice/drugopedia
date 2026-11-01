@@ -79,7 +79,7 @@ Not covered: Not available as transdermal patch, sublingual product, or smoked f
 
 Morphine and its metabolites build up in people with kidney disease and can cause delayed, prolonged overdose. Extended-release morphine taken in a damaged form releases a full day's supply at once.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

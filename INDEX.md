@@ -5,6 +5,11 @@
 - [Opioid overdose: what it feels like, looks like, and what to do](safety/opioid-overdose.md)
 - [Xylazine (tranq) safety](safety/xylazine.md)
 
+## Overdose reversal medicines
+
+- [Naloxone (Narcan)](narcan/naloxone.md)
+- [Nalmefene (Opvee)](narcan/nalmefene.md)
+
 ## Opioids (prescription, heroin, and fentanyl): general pages
 
 - [Morphine](drugs/morphine.md)
@@ -44,6 +49,25 @@
 - [Benzhydrocodone](drugs/benzhydrocodone.md)
 - [Meptazinol](drugs/meptazinol.md)
 - [Dezocine](drugs/dezocine.md)
+- [Lean (purple drank, sizzurp)](drugs/lean.md)
+
+## Atypical opioids: general pages
+
+- [Tianeptine ('gas station heroin')](drugs/tianeptine.md)
+- [Kratom (mitragynine)](drugs/kratom.md)
+- [7-OH (7-hydroxymitragynine)](drugs/7-hydroxymitragynine.md)
+- [MGM-15 and mitragynine pseudoindoxyl](drugs/mgm-15.md)
+- [Akuamma (akuammine)](drugs/akuamma.md)
+- [Loperamide (misuse)](drugs/loperamide.md)
+- [Salvinorin A and kappa-opioid agonists](drugs/salvinorin-kappa.md)
+
+## Novel synthetic opioids: general pages
+
+- [Nitazenes (isotonitazene, protonitazene, metonitazene, and others)](drugs/nitazenes.md)
+- [U-47700 ('pink')](drugs/u-47700.md)
+- [AH-7921](drugs/ah-7921.md)
+- [MT-45](drugs/mt-45.md)
+- [Carfentanil](drugs/carfentanil.md)
 
 ## Route: Oral (swallowed)
 
@@ -74,6 +98,18 @@
 - [Anileridine](routes/oral/anileridine.md)
 - [Benzhydrocodone](routes/oral/benzhydrocodone.md)
 - [Meptazinol](routes/oral/meptazinol.md)
+- [Lean (purple drank, sizzurp)](routes/oral/lean.md)
+- [Tianeptine ('gas station heroin')](routes/oral/tianeptine.md)
+- [Kratom (mitragynine)](routes/oral/kratom.md)
+- [7-OH (7-hydroxymitragynine)](routes/oral/7-hydroxymitragynine.md)
+- [MGM-15 and mitragynine pseudoindoxyl](routes/oral/mgm-15.md)
+- [Akuamma (akuammine)](routes/oral/akuamma.md)
+- [Loperamide (misuse)](routes/oral/loperamide.md)
+- [Nitazenes (isotonitazene, protonitazene, metonitazene, and others)](routes/oral/nitazenes.md)
+- [U-47700 ('pink')](routes/oral/u-47700.md)
+- [AH-7921](routes/oral/ah-7921.md)
+- [MT-45](routes/oral/mt-45.md)
+- [Carfentanil](routes/oral/carfentanil.md)
 
 ## Route: Sublingual and buccal (under the tongue or in the cheek)
 
@@ -81,6 +117,7 @@
 - [Fentanyl (pharmaceutical)](routes/sublingual-buccal/fentanyl.md)
 - [Sufentanil](routes/sublingual-buccal/sufentanil.md)
 - [Dextromoramide](routes/sublingual-buccal/dextromoramide.md)
+- [Salvinorin A and kappa-opioid agonists](routes/sublingual-buccal/salvinorin-kappa.md)
 
 ## Route: Intranasal (nasal sprays and snorting)
 
@@ -94,6 +131,11 @@
 - [Illicit fentanyl](routes/intranasal/fentanyl-illicit.md)
 - [Heroin (diacetylmorphine)](routes/intranasal/heroin.md)
 - [Butorphanol](routes/intranasal/butorphanol.md)
+- [Nitazenes (isotonitazene, protonitazene, metonitazene, and others)](routes/intranasal/nitazenes.md)
+- [U-47700 ('pink')](routes/intranasal/u-47700.md)
+- [AH-7921](routes/intranasal/ah-7921.md)
+- [MT-45](routes/intranasal/mt-45.md)
+- [Carfentanil](routes/intranasal/carfentanil.md)
 
 ## Route: Rectal (suppositories)
 
@@ -141,6 +183,11 @@
 - [Alphaprodine](routes/injected/alphaprodine.md)
 - [Meptazinol](routes/injected/meptazinol.md)
 - [Dezocine](routes/injected/dezocine.md)
+- [Nitazenes (isotonitazene, protonitazene, metonitazene, and others)](routes/injected/nitazenes.md)
+- [U-47700 ('pink')](routes/injected/u-47700.md)
+- [AH-7921](routes/injected/ah-7921.md)
+- [MT-45](routes/injected/mt-45.md)
+- [Carfentanil](routes/injected/carfentanil.md)
 
 ## Route: Inhaled and smoked
 
@@ -149,3 +196,5 @@
 - [Illicit fentanyl](routes/inhaled-smoked/fentanyl-illicit.md)
 - [Heroin (diacetylmorphine)](routes/inhaled-smoked/heroin.md)
 - [Opium, laudanum, and paregoric](routes/inhaled-smoked/opium.md)
+- [Salvinorin A and kappa-opioid agonists](routes/inhaled-smoked/salvinorin-kappa.md)
+- [Nitazenes (isotonitazene, protonitazene, metonitazene, and others)](routes/inhaled-smoked/nitazenes.md)

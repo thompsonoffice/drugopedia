@@ -77,7 +77,7 @@ Not covered: No modern injected or other forms.
 
 Strength varies widely between batches. Laudanum contains much more morphine than paregoric, and confusing the two has caused deaths.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

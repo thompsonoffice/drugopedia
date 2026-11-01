@@ -79,7 +79,7 @@ Not covered: No transdermal or common rectal use; rectal use exists but is rare 
 
 Since street heroin now usually contains fentanyl, overdose risk is unpredictable. Overdoses cluster after time away from use (jail, rehab, hospital), when tolerance is lower.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

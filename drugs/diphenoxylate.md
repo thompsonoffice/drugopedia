@@ -76,7 +76,7 @@ Not covered: Oral only.
 
 Children can have delayed breathing suppression up to 12 hours or more after swallowing; atropine poisoning too.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

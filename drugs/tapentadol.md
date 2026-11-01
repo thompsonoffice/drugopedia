@@ -76,7 +76,7 @@ Not covered: No other medical routes.
 
 Seizure and serotonin syndrome risk, especially with antidepressants. Extended-release forms can release all their drug at once if damaged.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

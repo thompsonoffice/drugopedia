@@ -82,7 +82,7 @@ Not covered: No transdermal, sublingual, intranasal, or smoked forms.
 
 Methadone overdose is often delayed and long-lasting. Peak breathing suppression can come hours after the peak 'feeling', and deaths often occur during sleep, the night of use or in the first days of starting or increasing. Naloxone wears off far sooner than methadone, so repeated doses and hospital monitoring are needed. Methadone can also cause a dangerous heart rhythm (QT prolongation). Combining with benzodiazepines or alcohol is especially dangerous.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

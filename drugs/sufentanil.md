@@ -77,7 +77,7 @@ Not covered: No oral, intranasal (outside research), rectal, transdermal, or smo
 
 Extremely potent; breathing can stop and chest-wall rigidity occur within a minute. Used only where airway support is ready.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

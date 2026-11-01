@@ -77,7 +77,7 @@ Not covered: No intranasal, rectal (rare historic), transdermal, sublingual, or 
 
 Seizures from the normeperidine metabolite, especially with kidney problems or repeated doses; naloxone does not reverse these. Deadly reactions with MAOI antidepressants (serotonin syndrome).
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

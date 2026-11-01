@@ -20,6 +20,8 @@ Some remember a brief moment of feeling very far away, a ringing in the ears, or
 
 ## What naloxone (Narcan) does
 
+For much more, see the [naloxone page](../narcan/naloxone.md) and the [nalmefene page](../narcan/nalmefene.md). For fentanyl mixed with the animal sedative xylazine, see [xylazine safety](xylazine.md).
+
 Naloxone is an opioid antagonist. It pushes opioids off the brain's receptors and restarts breathing, usually within 2 to 5 minutes. It is harmless to someone who has not taken opioids, so if in doubt, give it. It comes as a nasal spray (Narcan, RiVive, and generics, sold over the counter in the US since 2023) and as injections. Nalmefene (Opvee, Zurnai) is a longer-lasting relative.
 
 **What waking up feels like:** for someone with opioid dependence, naloxone causes instant withdrawal. Survivors describe snapping awake confused, sick, sweating, shaking, vomiting, with aches, chills, diarrhea, and intense craving and agitation. Some are angry or frightened and do not remember what happened. This is unpleasant but survivable; the overdose was not.

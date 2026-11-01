@@ -78,7 +78,7 @@ Not covered: No intranasal, transdermal, sublingual, or smoked forms.
 
 Tramadol can cause seizures, even at ordinary amounts and more in overdose or with other drugs that lower the seizure threshold. Combined with antidepressants and other serotonergic drugs it can cause serotonin syndrome (agitation, high fever, muscle twitching, confusion). Naloxone reverses breathing suppression but not seizures.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

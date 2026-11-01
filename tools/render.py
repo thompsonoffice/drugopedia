@@ -45,7 +45,7 @@ for slug,d in D.items():
     for r,note in d["routes"].items():
         s+=f"- [{ROUTES[r][0]}](../routes/{r}/{slug}.md): {note}\n"
     extra="".join(f" Also see [{SAFE[x][1] if x in SAFE else 'Xylazine (tranq)'}](../safety/{SAFE[x][0] if x in SAFE else 'xylazine.md'})." for x in d.get("also",[]))
-    s+=f"\nNot covered: {d['skip']}\n\n## Overdose note for {d['name']}\n\n{d['od']}\n\nRead the shared page: [{st}](../safety/{sf}).{extra}\n\n## Getting help\n\n{SAMHSA}\n\n"+srcs(d)
+    s+=f"\nNot covered: {d['skip']}\n\n## Overdose note for {d['name']}\n\n{d['od']}\n\nRead the shared page: [{st}](../safety/{sf}).{extra}"+(" Also see [naloxone (Narcan)](../narcan/naloxone.md)." if b=='opioid' else '')+f"\n\n## Getting help\n\n{SAMHSA}\n\n"+srcs(d)
     w(f"drugs/{slug}.md",s)
     for r,note in d["routes"].items():
         counts+=1
@@ -55,10 +55,10 @@ for slug,d in D.items():
         rs=f"# {d['name']}: {ROUTES[r][0]}\n\n{d.get('dis',DIS)}\n\n## About this route\n\n{ROUTES[r][1]} For {d['name']}: {note}\n\n## How this route feels different\n\n{rf+' ' if rf else ''}{ROUTE_FEEL[r] if b=='opioid' else BROUTE.get(r,'')}\n\n## Timeline for this route\n\n"
         rs+=phases("",list(zip(t,short)))
         rs+=f"For the full, detailed description of each phase, see the [general {d['name']} page](../../drugs/{slug}.md).\n\n"
-        rs+=f"## Risks of this route\n\n{RISK[r]}\n\n## Overdose note\n\n{d['od']}\n\n{OD if b=='opioid' else BOD}\nRead more: [{st}](../../safety/{sf}).\n\n## Getting help\n\n{SAMHSA}\n\n"+srcs(d)
+        rs+=f"## Risks of this route\n\n{RISK[r]}\n\n## Overdose note\n\n{d['od']}\n\n{OD if b=='opioid' else BOD}\nRead more: [{st}](../../safety/{sf})."+(" See also [naloxone (Narcan)](../../narcan/naloxone.md)." if b=='opioid' else '')+f"\n\n## Getting help\n\n{SAMHSA}\n\n"+srcs(d)
         w(f"routes/{r}/{slug}.md",rs)
 print(len(D),"drugs",counts,"route entries")
-ix="# Drugopedia index\n\n## Safety\n\n- [Opioid overdose: what it feels like, looks like, and what to do](safety/opioid-overdose.md)\n- [Xylazine (tranq) safety](safety/xylazine.md)\n"
+ix="# Drugopedia index\n\n## Safety\n\n- [Opioid overdose: what it feels like, looks like, and what to do](safety/opioid-overdose.md)\n- [Xylazine (tranq) safety](safety/xylazine.md)\n\n## Overdose reversal medicines\n\n- [Naloxone (Narcan)](narcan/naloxone.md)\n- [Nalmefene (Opvee)](narcan/nalmefene.md)\n"
 if os.path.exists("safety/benzodiazepine-safety.md"): ix+="- [Benzodiazepine safety](safety/benzodiazepine-safety.md)\n"
 for c,cn in CATS.items():
     L=[k for k,d in D.items() if d.get("cat","opioid")==c]

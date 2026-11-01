@@ -79,7 +79,7 @@ Not covered: No transdermal, sublingual, or smoked forms.
 
 Taking it with food or alcohol can sharply raise blood levels. The removed Opana ER caused a deadly blood disorder and an HIV outbreak when injected.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

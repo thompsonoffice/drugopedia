@@ -77,7 +77,7 @@ Not covered: No injected, rectal, transdermal, sublingual, or smoked medical for
 
 Acetaminophen combination products can cause fatal liver failure. Extended-release forms (Zohydro, Hysingla) hold a large reserve that is released all at once if damaged.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

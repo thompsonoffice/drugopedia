@@ -78,7 +78,7 @@ Not covered: No intranasal, transdermal, sublingual, or smoked medical forms; th
 
 Ultra-rapid metabolizers can overdose on ordinary amounts. Combination tablets carry a serious risk of liver failure from acetaminophen. Promethazine-codeine syrup combines two sedatives, increasing breathing suppression, particularly with alcohol or benzos.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

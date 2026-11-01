@@ -76,7 +76,7 @@ Not covered: Oral only.
 
 Fatal heart rhythm disturbances (QT prolongation); very long, delayed effect.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

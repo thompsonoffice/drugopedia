@@ -83,7 +83,7 @@ Not covered: Swallowed buprenorphine is poorly absorbed, so oral is not a medica
 
 Its ceiling effect makes overdose from buprenorphine alone much less likely in adults, but combining it with benzodiazepines, alcohol, or other sedatives has caused many deaths. Children who swallow films or tablets can die. Naloxone still helps, though higher amounts may be needed because buprenorphine binds so tightly. Precipitated withdrawal is not an overdose, but it is severe.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

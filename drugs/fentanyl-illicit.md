@@ -79,7 +79,7 @@ Not covered: No rectal, transdermal, or sublingual illicit use is common enough 
 
 Overdose often comes within seconds to minutes, sometimes before the person can put the drug down. Chest-wall rigidity ('wooden chest') can make breathing impossible. Multiple naloxone doses may be needed. Fentanyl test strips can detect it in drugs before use, and are legal in most US states. Never use alone; services like the Never Use Alone hotline (1-877-696-1996) send help if a caller stops responding.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

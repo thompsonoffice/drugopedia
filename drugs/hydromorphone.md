@@ -79,7 +79,7 @@ Not covered: No transdermal or sublingual forms; smoking is uncommon.
 
 Very potent compared with morphine, so medication errors confusing the two have killed hospital patients. Extended-release forms with alcohol can release all drug at once.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

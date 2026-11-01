@@ -77,7 +77,7 @@ Not covered: Other routes are not used medically.
 
 Has a ceiling on breathing suppression alone, but is dangerous with other sedatives. Can cause hallucinations and precipitate withdrawal in people dependent on other opioids.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

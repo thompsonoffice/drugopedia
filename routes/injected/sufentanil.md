@@ -65,7 +65,7 @@ Extremely potent; breathing can stop and chest-wall rigidity occur within a minu
 - If they are breathing, put them on their side (recovery position) so they do not choke.
 - Never leave the person alone to "sleep it off."
 
-Read more: [What an opioid overdose feels and looks like, and what to do](../../safety/opioid-overdose.md).
+Read more: [What an opioid overdose feels and looks like, and what to do](../../safety/opioid-overdose.md). See also [naloxone (Narcan)](../../narcan/naloxone.md).
 
 ## Getting help
 

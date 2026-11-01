@@ -80,7 +80,7 @@ Not covered: No transdermal or sublingual products.
 
 Extended-release tablets contain a large reserve; damaging them releases it all at once, and this caused many of the early OxyContin deaths. Counterfeit "blues" and "M30s" commonly contain fentanyl and cause sudden overdose.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 

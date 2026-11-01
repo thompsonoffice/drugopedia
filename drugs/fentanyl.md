@@ -80,7 +80,7 @@ Not covered: Swallowed fentanyl is poorly absorbed, so oral is not a medical rou
 
 Fentanyl overdose can happen within seconds to minutes. It can cause 'wooden chest' (chest-wall rigidity), where the breathing muscles go stiff. More than one naloxone dose may be needed. Heat on a patch speeds release.
 
-Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md). Also see [naloxone (Narcan)](../narcan/naloxone.md).
 
 ## Getting help
 
