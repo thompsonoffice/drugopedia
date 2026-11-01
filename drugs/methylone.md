@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Methylone has a quick onset of rushing euphoria, warmth and energy, with jaw clenching and a faster heart.
+Methylone (bk-MDMA), often sold as 'Molly' in the 2010s, is the cathinone closest to MDMA in feel. It comes on over half an hour or so with a gentle, warm rush, light nausea, mild jaw tension and a growing sense of energy. The body warms and pupils widen, but the physical push is usually less intense than mephedrone.
 
-Mentally talkative, affectionate and euphoric, often compared to a mix of MDMA and cocaine.
+Mentally the onset brings a soft, upbeat, sociable lift — friendly and open, but often described as a 'lighter' or more stimulant-flavored MDMA with less depth of emotional warmth.
 
-Body temperature rises and sweating begins.
+Some feel slight restlessness, sweating and a faster heartbeat.
 
 Methylone releases serotonin, dopamine and noradrenaline, but less potently than MDMA.
 
@@ -64,11 +64,11 @@ A quick rise of energy and mild euphoria.
 
 ### Peak (1-1.5 h)
 
-At the peak, intense euphoria and stimulation that fades quickly, driving strong urges to re-dose.
+At the peak, methylone produces clear-headed euphoria, energy, talkativeness and a mild empathic warmth. Music feels good and dancing comes easily, but the deep 'loved-up' feeling of MDMA is usually weaker.
 
-Emotionally warm and open, then edgy.
+Emotionally it is cheerful and sociable. Because it is shorter than MDMA, people often re-dose to stretch it, which pushes it toward a more stimulant, jittery feel.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids. People who believe they took MDMA may combine it unknowingly with other drugs.
 
 At peak, overheating and low sodium are the main dangers.
 
@@ -76,19 +76,19 @@ Redosing increases risk.
 
 ### Plateau (2-3 h)
 
-The plateau is short.
+The plateau is moderate, a few hours of steady, upbeat energy.
 
-Mood slides toward craving and anxiety.
+Mood stays friendly, with fading warmth and creeping restlessness.
 
-Binges lead to sleeplessness and paranoia.
+Overheating and dehydration are real risks during long dancing sessions.
 
 ### Comedown (3-5 h)
 
-The comedown brings exhaustion, low mood and anxiety.
+The comedown is milder than mephedrone's for many people, but brings tiredness, jaw soreness and trouble sleeping.
 
-Mood can be very low.
+Mood may dip the next day, with flatness or irritability.
 
-Dependence develops quickly.
+Repeated use can cause dependence and next-day depression, and deaths have occurred, especially in hot clubs.
 
 Half-life is short.
 

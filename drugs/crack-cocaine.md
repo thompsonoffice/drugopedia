@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Smoked crack cocaine hits within seconds. A rush of heat and pressure surges up from the chest into the head, the heart pounds, ears may ring, and the whole body feels electrified and tingling. Many describe the first seconds as the most intense pleasure they have ever felt.
+Smoked crack cocaine hits within seconds of inhaling. A rush of heat and pressure surges up from the chest into the head, the heart pounds hard and fast, the ears may ring or buzz, and the whole body feels electrified and tingling, like a jolt running through every nerve. Many describe the first seconds as the most intense pleasure they have ever felt, and some sweat, flush or feel briefly faint.
 
-Mentally the rush is an explosion of euphoria, confidence and power. Every worry vanishes and the mind feels supercharged and invincible.
+Mentally the rush is an explosion of euphoria, confidence and power. Every worry vanishes, the mind feels supercharged, clear and invincible, and the person may feel an overwhelming sense of wellbeing.
 
-Pupils widen, the mouth goes numb and dry, and breathing quickens.
+Pupils widen sharply, the mouth and throat feel numb and dry, the jaw clenches and breathing quickens. The chemical smell and taste linger.
 
 Smoked cocaine reaches the brain in seconds, faster than snorting, producing a sharp dopamine spike.
 
@@ -64,9 +64,9 @@ An intense rush.
 
 ### Peak (1-5 min)
 
-The peak is short and intense: a buzzing, hyper-alert body, clenched jaw, racing heart and sweating.
+The peak is short and intense: a buzzing, hyper-alert body, clenched jaw, racing heart, sweating and an inability to sit still. Senses feel sharpened, especially hearing.
 
-Emotionally euphoric, talkative and grandiose, but within minutes an edge of anxiety, paranoia and craving creeps in. People may listen intently for sounds or check windows ('tweaking').
+Emotionally euphoric, talkative and grandiose at first, but within minutes an edge of anxiety, paranoia and urgent craving creeps in. People may listen intently for sounds, peek out windows, search the floor for dropped crumbs ('ghosting' or 'tweaking'), and feel watched.
 
 Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
 
@@ -76,19 +76,19 @@ Binge use can cause seizures and severe agitation.
 
 ### Plateau (5-15 min)
 
-There is almost no plateau; the high drops off quickly.
+There is almost no plateau; the high drops off sharply within minutes, which is why people use repeatedly in binges that can last hours or days.
 
-The crash begins while craving rises sharply, which drives repeated use in binges.
+Each hit brings a smaller rush and more anxiety, paranoia and craving, while the crash pulls harder between hits.
 
-Repeated binges cause sleeplessness, paranoia and hallucinations such as bugs crawling on the skin.
+Binges cause sleeplessness, dehydration, chest pain, burned lips and fingers, and sometimes hallucinations such as bugs crawling under the skin.
 
 ### Comedown (15-30 min)
 
-The comedown is a hard crash: exhaustion, a heavy, aching body, and deep hunger for sleep.
+The comedown is a hard crash: deep exhaustion, a heavy, aching body, hunger and an overwhelming need for sleep, often for many hours.
 
-Emotionally it brings depression, irritability, anxiety and intense craving, sometimes with suicidal thoughts.
+Emotionally it brings depression, irritability, anxiety, shame and intense craving, sometimes with suicidal thoughts.
 
-Crack carries a very high addiction risk; lung damage ('crack lung') and heart attacks are documented.
+Crack carries a very high addiction risk. Lung damage ('crack lung'), heart attacks, strokes and seizures are documented, and street supplies may contain fentanyl.
 
 The rapid fall in dopamine drives intense craving within minutes.
 

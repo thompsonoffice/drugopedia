@@ -52,11 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Lisdexamfetamine (Vyvanse) is a prodrug: it must be converted in the blood, so the onset is slow and smooth. Energy and alertness creep in gently, with a light warmth and a dry mouth.
+Lisdexamfetamine (Vyvanse) is a prodrug: it has to be converted to dextroamphetamine by enzymes in the blood, so the onset is slow and smooth. Over an hour or more, energy and alertness creep in gently, with a light warmth, a dry mouth and a slightly faster pulse.
 
-Mentally focus sharpens and motivation rises without a strong rush. Many describe it as the 'cleanest' amphetamine.
+Mentally focus sharpens and motivation rises without a strong rush. Tasks that felt impossible start to feel doable, and chatter in the head quiets. Many describe it as the 'cleanest' and least euphoric amphetamine.
 
-Appetite fades and the heart beats a little faster.
+Appetite fades and the heart beats a little faster; some feel a slight jaw tension.
 
 Lisdexamfetamine is absorbed intact and cleaved in red blood cells to release dextroamphetamine, so the rate is limited by enzyme activity.
 
@@ -68,11 +68,11 @@ A gradual lift in focus.
 
 ### Peak (3-4 h)
 
-At the peak, steady energy, concentration and a calm drive.
+At the peak there is steady energy, concentration and a calm drive. The body feels light and slightly tense, and people may forget to eat or drink.
 
-Emotionally upbeat and confident; at higher amounts, jittery, talkative and anxious.
+Emotionally upbeat and confident; at higher amounts, jittery, overly talkative and anxious, with irritability.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids. Because conversion is gradual, taking more does not bring a bigger rush, only a longer and harsher stimulation.
 
 At peak, effects are those of dextroamphetamine: alertness, raised heart rate and blood pressure.
 
@@ -82,17 +82,17 @@ The FDA label includes a boxed warning for misuse and dependence.
 
 The plateau is long and even, lasting much of the day.
 
-Mood steady and productive.
+Mood is steady and productive, sometimes rigid or overly focused.
 
-Sleep can be hard if taken late.
+Sleep can be hard if taken late in the day.
 
 ### Comedown (12-14 h)
 
-The comedown is gradual, with tiredness and hunger.
+The comedown is gradual, with tiredness, hunger and sometimes headache as it wears off in the evening.
 
-Some feel irritable or low in the evening.
+Some people feel irritable, teary or low as it fades (a 'rebound').
 
-Misuse can lead to dependence.
+Misuse can lead to dependence, and heart problems are possible in susceptible people.
 
 Dextroamphetamine's half-life extends effects into the evening.
 

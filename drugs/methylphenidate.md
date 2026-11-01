@@ -52,11 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-60 min)
 
-Methylphenidate (Ritalin, Concerta) has an onset of crisp alertness, slight tension and a faster heartbeat.
+Methylphenidate (Ritalin, Concerta, Focalin) has an onset of crisp alertness within an hour for immediate-release forms: a slight body tension, faster heartbeat, and a cool, clear sharpening of attention. Extended-release forms come on more gradually.
 
-Mentally sharpened focus, less distractibility; at higher amounts, a jittery, cocaine-like edge.
+Mentally there is sharpened focus and less distractibility; for people with ADHD it can feel calming. At higher amounts, people describe a jittery, cocaine-like edge, because it acts on the same transporters.
 
-Appetite drops and the mouth dries.
+Appetite drops, the mouth dries and some notice headache or stomach ache.
 
 Methylphenidate blocks dopamine and noradrenaline reuptake rather than releasing them, so its effect depends on ongoing nerve activity.
 
@@ -68,9 +68,9 @@ Alertness rises.
 
 ### Peak (1-2 h)
 
-At the peak, strong focus and energy, sometimes with anxiety and teeth clenching.
+At the peak, there is strong focus and energy, sometimes with anxiety, teeth clenching and a racing mind.
 
-Emotionally driven, sometimes edgy or irritable.
+Emotionally driven, sometimes edgy, irritable or obsessive about small tasks.
 
 Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
 
@@ -80,17 +80,17 @@ With alcohol, the liver forms ethylphenidate, raising levels and heart effects.
 
 ### Plateau (3-4 h, ER up to 12 h)
 
-Immediate-release forms are short; extended-release forms last most of the day.
+Immediate-release forms are short, a few hours; extended-release forms last most of the day.
 
 Mood steady or wired.
 
-Sleep disrupted if late.
+Sleep is disrupted if taken late.
 
 ### Comedown (4-12 h)
 
-The comedown brings tiredness, irritability and sometimes a sharp mood dip.
+The comedown brings tiredness, irritability and sometimes a sharp mood dip, especially with immediate-release forms.
 
-Mood can be flat.
+Mood can feel flat or tearful.
 
 Misuse carries addiction risk.
 

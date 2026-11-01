@@ -48,11 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (10-20 min)
 
-Mephedrone (4-MMC, 'meow meow') has a quick onset of rushing euphoria, warmth and energy, with jaw clenching and a faster heart.
+Mephedrone (4-MMC, 'meow meow', 'M-cat'), the cathinone that swept UK clubs around 2009, comes on quickly with a rush of warmth that rises from the chest into the head. The heart speeds up, the skin flushes and prickles, the jaw tightens, and a faint, oddly 'electric' tingle runs down the arms. Many people notice cold or bluish fingers and toes, because mephedrone constricts small blood vessels, and a distinctive stale-sweat body odor.
 
-Mentally talkative, affectionate and euphoric, often compared to a mix of MDMA and cocaine.
+Mentally the onset is a bright, sociable euphoria often described as somewhere between MDMA and cocaine: affectionate, chatty and confident, with music feeling very good. Unlike MDMA it rises and falls fast, so the first wave feels like the best part.
 
-Body temperature rises and sweating begins.
+Pupils widen, the mouth dries, and some people feel brief nausea, a pounding head, or a racing, fluttery heartbeat.
 
 Mephedrone is absorbed fast and releases both serotonin and dopamine, like a mix of MDMA and cocaine.
 
@@ -64,9 +64,9 @@ A fast rise of euphoria.
 
 ### Peak (30-60 min)
 
-At the peak, intense euphoria and stimulation that fades quickly, driving strong urges to re-dose.
+At the peak, mephedrone produces intense, warm euphoria, a strong urge to talk and touch, and restless energy. Many feel emotionally open and close to others. The body is hot, sweaty and buzzing, with clenched teeth and a tight jaw.
 
-Emotionally warm and open, then edgy.
+Within a short time the euphoria starts to slide, and a very strong urge to take more appears — mephedrone is known for compulsive re-dosing that turns a night into a binge. As this happens the mood becomes edgier: restless, impatient and anxious.
 
 Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
 
@@ -76,19 +76,19 @@ Rapid redosing raises toxicity.
 
 ### Plateau (1-2 h)
 
-The plateau is short.
+The plateau is short and choppy rather than smooth. Each re-dose brings a smaller lift and more jitteriness, sweating and heart pounding.
 
-Mood slides toward craving and anxiety.
+Mentally the warmth gives way to a jangly, chatty restlessness and craving, sometimes with paranoia or irritability as the night goes on and sleep is skipped.
 
-Binges lead to sleeplessness and paranoia.
+Binges lead to sleeplessness, dehydration, chest pain, and in some cases psychosis or hallucinations.
 
 ### Comedown (2-4 h)
 
-The comedown brings exhaustion, low mood and anxiety.
+The comedown is notoriously harsh: exhaustion, aching body, sore jaw, headache and a racing mind that will not let sleep come.
 
-Mood can be very low.
+Emotionally it brings low mood, anxiety, guilt and strong craving, sometimes for days. Memory and concentration feel scrambled.
 
-Dependence develops quickly.
+Mephedrone can cause dependence quickly, and heavy use has been linked to heart problems, psychosis and deaths, often with other drugs or alcohol.
 
 Half-life is short (about 2 hours).
 

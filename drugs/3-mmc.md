@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-3-MMC has a quick onset of rushing euphoria, warmth and energy, with jaw clenching and a faster heart.
+3-MMC (3-methylmethcathinone), sold widely in Europe and especially the Netherlands as a mephedrone replacement, comes on smoothly with warmth, a light body tingle and a gentle surge of energy. The jaw tightens less than with mephedrone, and the physical rush is softer.
 
-Mentally talkative, affectionate and euphoric, often compared to a mix of MDMA and cocaine.
+Mentally the onset feels social and flirtatious: confident, talkative and affectionate, with a stimulating, slightly sexy edge. Many describe it as less euphoric but more functional than mephedrone, and it is widely used in 'chemsex' contexts.
 
-Body temperature rises and sweating begins.
+Pupils widen and the heart rate rises; some feel an urge to keep moving.
 
 3-MMC releases dopamine and noradrenaline more than serotonin.
 
@@ -64,11 +64,11 @@ Sociability and energy rise.
 
 ### Peak (about 1 h)
 
-At the peak, intense euphoria and stimulation that fades quickly, driving strong urges to re-dose.
+At the peak 3-MMC brings steady stimulation, mild euphoria and heightened sociability and sexual interest. The body feels light and energetic, with sweating and restlessness.
 
-Emotionally warm and open, then edgy.
+Emotionally upbeat, open and confident. As the peak fades, the urge to re-dose builds, and repeated doses through the night are common.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids. Combining with GHB, a common pairing, adds unpredictable sedation on top.
 
 At peak, agitation and overheating are possible.
 
@@ -76,19 +76,19 @@ Repeated use is linked to compulsive redosing.
 
 ### Plateau (2-3 h)
 
-The plateau is short.
+The plateau is short-to-moderate, often stretched by re-dosing.
 
-Mood slides toward craving and anxiety.
+Mood shifts from warm to wired, with anxiety and craving growing as sleep is lost.
 
-Binges lead to sleeplessness and paranoia.
+Long sessions risk dehydration, heart strain, and sexual-health harms.
 
 ### Comedown (3-5 h)
 
-The comedown brings exhaustion, low mood and anxiety.
+The comedown brings tiredness, insomnia, irritability and low mood.
 
-Mood can be very low.
+Emotionally people may feel empty or anxious for a day or two.
 
-Dependence develops quickly.
+Regular use can build dependence, and deaths have been reported, usually in combination with other substances.
 
 Half-life is short.
 

@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Eutylone has a quick onset of rushing euphoria, warmth and energy, with jaw clenching and a faster heart.
+Eutylone (bk-EBDB) became one of the most common substances found in fake 'Molly' and ecstasy around 2019–2021. Its onset is often deceptively mild: a slow rise of energy, a slight tingle and warmth, which leads people to think the drug is weak and take more.
 
-Mentally talkative, affectionate and euphoric, often compared to a mix of MDMA and cocaine.
+Mentally the onset brings stimulation more than empathy: alertness, talkativeness and restlessness, with only a faint version of MDMA's warmth.
 
-Body temperature rises and sweating begins.
+Heart rate climbs and the jaw tightens as it builds.
 
 Eutylone blocks dopamine and noradrenaline reuptake and releases some serotonin.
 
@@ -64,11 +64,11 @@ Stimulation rises faster than euphoria.
 
 ### Peak (1-2 h)
 
-At the peak, intense euphoria and stimulation that fades quickly, driving strong urges to re-dose.
+At the peak eutylone produces stimulant euphoria and drive, with racing thoughts and a strong urge to keep going. Some feel a mild loving glow; many feel wired, sweaty and edgy.
 
-Emotionally warm and open, then edgy.
+Emotionally it can turn anxious or agitated, and insomnia is very common. People who expected MDMA are often disappointed and confused by the experience.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
+Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids. Re-dosing because it 'didn't work' is a key danger.
 
 At peak, agitation, overheating and seizures are reported in emergency cases.
 
@@ -76,19 +76,19 @@ Toxicity often followed redosing.
 
 ### Plateau (3-6 h)
 
-The plateau is short.
+The plateau is long and wired, lasting much of the night.
 
-Mood slides toward craving and anxiety.
+Mood becomes restless, anxious and sometimes paranoid.
 
-Binges lead to sleeplessness and paranoia.
+Sleep can be impossible for many hours.
 
 ### Comedown (6-12 h)
 
-The comedown brings exhaustion, low mood and anxiety.
+The comedown brings exhaustion, insomnia and jitters that can last into the next day.
 
-Mood can be very low.
+Mood low, irritable and anxious.
 
-Dependence develops quickly.
+Repeated heavy use is linked to psychosis, seizures and deaths.
 
 Effects last longer than methylone.
 
