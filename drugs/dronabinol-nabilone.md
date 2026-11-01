@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Dronabinol (Marinol) and nabilone (Cesamet) are prescription cannabinoids. Onset is slow, with a mild body heaviness and dry mouth.
+Dronabinol (Marinol, Syndros) is a prescription form of THC, and nabilone (Cesamet) is a synthetic relative. They are prescribed for nausea from chemotherapy, appetite loss in HIV/AIDS and sometimes pain. Taken as capsules, they act slowly, over half an hour to a couple of hours, starting with drowsiness, a dry mouth and a mild heaviness.
 
-Mentally a mild, sleepy high or dizziness.
+Mentally the onset can be subtle, with relaxation and easing of nausea, or, in some people, a 'high' with euphoria, dizziness and a dreamy mind. Older adults and people new to THC may feel it strongly.
 
-Appetite rises.
+Because effects are delayed, taking extra early can stack into an uncomfortable experience. Doctors usually start low and increase slowly.
 
 Dronabinol capsules are absorbed slowly, with only about 10 to 20 percent reaching the bloodstream after first-pass metabolism.
 
@@ -64,11 +64,11 @@ Gradual relaxation and appetite.
 
 ### Peak (2-4 h)
 
-At the peak, relaxation and possible euphoria or anxiety.
+At their peak, the body feels relaxed, sleepy and sometimes dizzy, with a faster heart, dry mouth and low blood pressure on standing. Appetite often rises and nausea eases. Some feel unsteady when walking or standing up quickly, and eyes may be red. Nausea relief can be very welcome for chemotherapy patients.
 
-Emotionally mellow.
+Mentally there may be euphoria, calm, mild confusion or, in some, anxiety, paranoia or mood changes. Memory and concentration are impaired. Some patients find the high unpleasant or disorienting and prefer lower doses; others feel calmer and less distressed by their illness.
 
-Too much cannabis rarely threatens life but can bring panic, racing heart, vomiting, confusion and paranoia, and in rare cases psychosis. Children who eat edibles can become seriously ill and need emergency care.
+Falls in older people and driving impairment are key concerns. People with a history of psychosis or severe heart disease need special caution.
 
 At peak, patients may feel 'high', anxious or sleepy, which is the main reason doses are adjusted.
 
@@ -76,19 +76,19 @@ Nabilone is longer-acting, with active metabolites lasting much longer than THC.
 
 ### Plateau (4-6 h)
 
-The plateau lasts hours.
+The plateau lasts several hours. The body stays drowsy and relaxed, appetite continues and nausea stays improved. Sleepiness may deepen, and some people rest or nap. Dizziness on standing may continue, and the mouth stays dry. Eating often becomes easier.
 
-Thinking slowed.
+Mentally thinking may be slow and foggy, and mood generally calm. Mild confusion or slowed thinking may continue, and some people notice changes in mood, such as feeling unusually cheerful or flat. Memory for this period may be hazy.
 
-Dizziness common.
+Misuse potential is lower than smoked cannabis because of the slow onset, but it exists. Patients should not drive or operate machinery until they know how the medicine affects them, and should avoid alcohol.
 
 ### Comedown (6-12 h)
 
-The comedown is gentle.
+As it fades, people may feel tired and groggy, with a dry mouth. Grogginess may linger into the next morning, especially if taken late in the day. Balance may be off for some hours, so older adults should take care with stairs.
 
-Mood steady.
+Mentally there may be mild fogginess. Some feel slightly flat, unmotivated or forgetful; others feel rested. Any troubling mood changes, confusion or hallucinations should be reported to the prescriber.
 
-Abuse potential is low.
+Stopping after long, regular use can cause irritability, poor sleep and loss of appetite for a short time. Doctors may adjust timing, such as taking it at night, to reduce daytime effects. Stopping should be discussed with the care team.
 
 Effects fade over several hours.
 

@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (20-60 min)
 
-THC-O acetate has a slow onset and is described as stronger and more psychedelic than THC.
+THC-O acetate is a semi-synthetic THC compound made from hemp-derived chemicals and sold online and in shops as vapes and gummies. It is marketed as stronger and more 'psychedelic' than THC. Eaten, it can take a long time to begin; inhaled, it comes on faster. Early effects include heaviness, dry mouth, red eyes and a warm tingle.
 
-Mentally a heavy, dreamy high.
+Mentally the onset can be slow to recognize and then strong, with euphoria, dreaminess and distorted time; some describe mild visual changes.
 
-Body feels heavy.
+Its strength and slow onset make accidental overconsumption likely. Heating acetate compounds in vapes may create a harmful gas (ketene) that can damage the lungs, a concern also linked to vitamin E acetate in vaping lung injury.
 
 THC-O itself is thought to be inactive until liver and blood enzymes remove the acetate group to release delta-8 or delta-9 THC, which explains the delay.
 
@@ -64,11 +64,11 @@ A gradual, heavy relaxation.
 
 ### Peak (1-2 h)
 
-At the peak, strong intoxication.
+At the peak the body feels very heavy and sedated, with a fast heart, dizziness and sometimes nausea or vomiting. Some feel chills, a racing pulse and an urge to lie still, and coordination becomes very poor. Some people feel numb or tingly.
 
-Emotionally euphoric or anxious.
+Mentally there can be intense euphoria, deep relaxation or strong anxiety, paranoia and confusion, similar to a very strong THC edible. Some report a dreamlike, slightly psychedelic feel, with vivid inner imagery and altered sense of space, but many simply feel very high and sleepy.
 
-Heating acetate compounds may produce harmful byproducts. Too much cannabis rarely threatens life but can bring panic, racing heart, vomiting, confusion and paranoia, and in rare cases psychosis. Children who eat edibles can become seriously ill and need emergency care.
+Regulation is weak and products are often untested; the US DEA has stated THC-O is not legal hemp. Calm surroundings, water and time help; chest pain, fainting or severe vomiting need medical care.
 
 At the peak, effects are those of the released THC, which can be strong because acetylated products are often concentrated.
 
@@ -76,19 +76,19 @@ When vaped, acetate compounds can break down into ketene, a gas toxic to the lun
 
 ### Plateau (2-3 h)
 
-The plateau is long.
+The plateau is long. The body stays sedated and appetite may increase. Heaviness and sleepiness continue, with a dry mouth and red eyes. Some people feel queasy and dizzy, especially if they took more while waiting for the onset. Lying down helps. Some feel their heart pounding when they move, and limbs feel numb or rubbery.
 
-Thinking slow.
+Mentally thinking stays slow and memory poor. Concentration is very limited, and some people feel stuck in an extended dreamy state that seems to last forever. Anxiety may rise and fall in waves.
 
-Hunger strong.
+Driving is unsafe for many hours. Products are often untested, and contents may differ from labels. Waiting fully before taking more is the key safeguard, since the slow onset fools many people.
 
 ### Comedown (3-5 h)
 
-The comedown is groggy.
+The comedown can include grogginess and a heavy head into the next day. Many people wake feeling slow, thirsty and heavy-limbed, with a mild headache, especially after gummies. Appetite may stay high. Eyes may stay dry and puffy.
 
-Mood flat.
+Mentally fogginess and low motivation may linger. Thinking can remain sluggish for much of the next day, and some feel a little low or anxious after an overly strong experience. Rest and food help. Most people feel normal by the following evening.
 
-Unregulated.
+Regular use builds tolerance and dependence like other THC products. Lung symptoms such as cough or shortness of breath after vaping should be checked by a doctor. Children must never have access to these products.
 
 Effects last longer than ordinary THC because conversion continues over time.
 

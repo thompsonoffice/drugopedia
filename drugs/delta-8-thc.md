@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (minutes)
 
-Delta-8 THC has a milder onset than regular THC: a relaxed body and light head buzz.
+Delta-8-THC is a close chemical cousin of regular THC (delta-9), usually made by converting hemp-derived CBD and sold in gas stations, vape shops and online, often in gummies and vape cartridges. Inhaled it acts within minutes; eaten, it can take an hour or more. The first sensations are a gentle warmth, dry mouth, red eyes and a light, relaxing heaviness.
 
-Mentally a clearer, less anxious high for many.
+Mentally the onset is often described as a milder, clearer, less anxious high than regular THC: relaxed, gently euphoric and a little spacey, though in larger amounts it can feel very similar.
 
-Dry mouth and red eyes.
+Because products are loosely regulated, labels can be wrong, and byproducts of the chemical conversion may be present. Poison centers have reported many cases of children eating delta-8 gummies.
 
 Delta-8-THC is a partial CB1 agonist with roughly half to two-thirds the potency of delta-9-THC in older studies.
 
@@ -64,11 +64,11 @@ A gradual relaxation and lightness.
 
 ### Peak (15-45 min)
 
-At the peak, relaxed euphoria.
+At the peak the body feels relaxed and heavy, with a faster heart, dry mouth and impaired coordination. Some feel sleepy, dizzy or nauseated. Eyes become red and heavy, and the mouth is dry. Some people notice their heart thumping and feel slightly lightheaded on standing. Edible forms can feel heavier and more sedating than vapes.
 
-Emotionally calm.
+Mentally there is calm, euphoria, slowed time and heightened senses, with impaired short-term memory. Anxiety and paranoia are less common than with strong delta-9 but still possible. Some find it easier to stay socially comfortable than with regular THC, while others notice slow speech and losing track of thoughts mid-sentence.
 
-Products are poorly regulated and may contain impurities. Too much cannabis rarely threatens life but can bring panic, racing heart, vomiting, confusion and paranoia, and in rare cases psychosis. Children who eat edibles can become seriously ill and need emergency care.
+Delta-8 impairs driving and can cause positive drug tests for THC. Products often contain unlabeled amounts of delta-9 THC or other cannabinoids, so effects may be stronger than expected.
 
 Peak effects include sedation and time distortion; poison center reports show confusion, vomiting and loss of consciousness, especially in children.
 
@@ -76,19 +76,19 @@ Contaminants from the conversion process, not just delta-8 itself, may contribut
 
 ### Plateau (1 h)
 
-The plateau is a few hours.
+The plateau lasts a couple of hours inhaled and longer eaten. The body stays relaxed, appetite may increase, and drowsiness grows. Muscles feel loose, the eyes droop, and lying down feels very comfortable. Some people feel a mild headache or dizziness, especially after vaping a lot.
 
-Mood mellow.
+Mentally thoughts drift and focus is poor; many feel content and mellow. Some people enjoy music, food or films more; others feel foggy and want to sleep. Short-term memory remains poor and time feels slow.
 
-Hunger common.
+Frequent use builds tolerance and can lead to dependence like regular cannabis. Children who eat delta-8 gummies can become very sleepy or unresponsive and need medical care.
 
 ### Comedown (2-3 h)
 
-The comedown is mild.
+The comedown brings tiredness, dry mouth and some grogginess, especially after edibles. Some wake the next day slightly groggy, with dry eyes and mouth, especially after gummies taken late. Appetite may stay high. Some notice they sleep deeply but wake feeling less rested than usual, with few remembered dreams.
 
-Mood steady.
+Mentally there may be lingering fogginess and low motivation. Some feel slightly slow, unmotivated or forgetful for some hours. Anxiety after a strong experience usually fades with rest.
 
-Dependence possible with heavy use.
+Regular users who stop may notice irritability, poor sleep and craving for a week or two. Daily heavy vaping can build dependence much like regular cannabis; cutting down gradually helps.
 
 Effects fade over a few hours (vapes) or many hours (edibles).
 

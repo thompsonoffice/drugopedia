@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Concentrates (wax, shatter, oils) hit within seconds and harder than flower: a heavy head rush, a pounding heart, and a strong body tingle.
+Cannabis concentrates (wax, shatter, budder, rosin, live resin, distillate in vape cartridges) contain far more THC than flower. Inhaled, they act within seconds: a sudden rush of heat to the head and face, a fast, pounding heart, dry mouth, red eyes and a heavy, tingling sensation spreading from the scalp down the limbs. Harsh vapor can make people cough hard.
 
-Mentally a surge of intense euphoria or anxiety, with time slowing dramatically.
+Mentally the onset is fast and intense. A rush of euphoria or giddiness often arrives with racing thoughts, distorted time and heightened senses; for people used to flower, the strength can be startling. Some feel panic rising just as quickly as the high.
 
-Coughing and red eyes are common.
+Because a single inhalation delivers so much THC, inexperienced people are more likely to have anxiety attacks, fainting or vomiting. The pounding heart can be risky for those with heart conditions, and vape cartridges from unregulated sources have been linked to serious lung injury (EVALI).
 
 Concentrates deliver a large amount of THC through the lungs at once, so blood levels spike higher and faster than with flower.
 
@@ -64,11 +64,11 @@ Within minutes the high rises steeply; coughing is common.
 
 ### Peak (10-30 min)
 
-At the peak, heavy, deep intoxication, couch-lock, and strong distortions of time and thought.
+At the peak the body feels very heavy or melted into the seat, with a strong pulse, dry mouth, red eyes and sometimes dizziness when standing. Coordination and reaction time are clearly impaired, and some people feel cold, shaky or nauseated.
 
-Emotionally euphoric, giggly or overwhelmed and paranoid.
+Mentally the peak can be intensely euphoric, dreamy or introspective, with music and sensations magnified and time slowed to a crawl. It can also tip into paranoia, a sense of losing control, racing heart worries or feeling detached from reality.
 
-Too much cannabis rarely threatens life but can bring panic, racing heart, vomiting, confusion and paranoia, and in rare cases psychosis. Children who eat edibles can become seriously ill and need emergency care.
+High-potency use is linked to greater risk of psychosis, especially in young people and those with a family history of psychotic illness. Fainting and falls, and driving impairment, are immediate dangers.
 
 The peak is dominated by very high CB1 activation with little CBD to balance it; studies link daily high-potency use to roughly several-fold higher odds of psychosis.
 
@@ -76,19 +76,19 @@ Very high exposure is associated with cannabinoid hyperemesis syndrome in heavy 
 
 ### Plateau (30-60 min)
 
-The plateau is a heavy, sedated high.
+The plateau lasts an hour or two after inhaling. The body stays heavy and relaxed, the eyes droop, appetite often surges and the mouth stays dry. Some people drift toward sleep on the couch. Red eyes and a dry, sticky mouth persist, and standing up quickly may bring a rush of dizziness.
 
-Memory short.
+Mentally thoughts are slow, wandering and easily distracted, short-term memory is poor and conversations lose their thread. Anxiety may ease into calm or linger as unease. Some people find themselves staring at one thing for long stretches or laughing at small things.
 
-Hunger strong.
+Frequent use of concentrates drives tolerance quickly and is linked to cannabis use disorder and cannabis hyperemesis syndrome, a condition of repeated severe vomiting that is relieved only by stopping. Tolerance built on concentrates also makes ordinary flower feel weak.
 
 ### Comedown (1-3 h)
 
-The comedown is groggy.
+As it wears off, people feel tired, foggy, thirsty and hungry, sometimes with a mild headache. Sleep may come easily but feel less restful, with fewer dreams. The eyes may feel heavy and dry, and the throat raw from harsh vapor.
 
-Mood flat.
+Mentally there can be lingering slowness and low motivation. Some feel anxious or flat, especially after an overwhelming session. Some feel unsettled by fragments of anxious thoughts from the peak, or vaguely guilty about lost time.
 
-Daily heavy use is linked to dependence and cannabis hyperemesis syndrome (cyclic vomiting).
+Daily heavy users who stop often experience irritability, poor sleep, vivid dreams, low appetite and craving for one to two weeks. Support and gradually cutting down help. Repeated vomiting episodes with cramping, eased by hot showers, are a warning sign of hyperemesis syndrome.
 
 Because the dose is concentrated, the fall from peak is steeper and fatigue can be heavy.
 

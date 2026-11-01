@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds-minutes)
 
-Synthetic cannabinoids (K2, Spice, 'spice' in prisons, sometimes sprayed on paper) hit fast and hard: a rush of heat, a racing heart, heavy numbness and a sense of the body melting or being pressed down.
+Synthetic cannabinoids ('Spice', 'K2', 'mamba', and newer names) are lab-made chemicals sprayed on plant material or paper, or put in vape liquid, that act on cannabis receptors far more strongly than THC. Smoked, they hit within seconds: a sudden heavy rush, racing heart, flushing, dry mouth and often a strange, numbing pressure in the head.
 
-Mentally an intense, disorienting high sets in, often more frightening than cannabis, because these chemicals fully activate cannabinoid receptors, unlike THC.
+Mentally the onset is abrupt and unpredictable. Some feel euphoria and relaxation, but many describe a harsh, disorienting jolt, with anxiety, confusion and a sense of the world going wrong.
 
-Strength varies hugely between batches, even from the same seller.
+Because the chemicals keep changing and are unevenly sprayed, two hits from the same packet can differ greatly in strength. Hospitals have seen clusters of poisonings, including seizures, heart attacks, kidney injury and deaths.
 
 Synthetic cannabinoids are full CB1 agonists, many 10 to 100 times more potent than THC at the receptor, and reach the brain within seconds when smoked.
 
@@ -64,11 +64,11 @@ The rise is fast and heavy, with a racing heart.
 
 ### Peak (10-30 min)
 
-At the peak there is heavy sedation, confusion, and sometimes a 'zombie' state of staring, swaying and unresponsiveness.
+At the peak the body may become limp and unresponsive, or tense and agitated. A very fast heart, chest pain, vomiting, sweating and seizures can occur. People may collapse in a zombie-like stupor in public places. Breathing may become shallow.
 
-Emotionally anxious, paranoid or psychotic, with possible hallucinations and agitation.
+Mentally there can be intense paranoia, terror, hallucinations, psychosis or a blank, detached state with little memory afterward. Some people describe feeling as if they were dying or had left their body.
 
-Seizures, heart attacks, kidney damage, severe vomiting, bleeding (from contamination with rat poison) and deaths have occurred.
+Severe agitation, overheating, seizures, heart rhythm problems and stopped breathing (especially mixed with opioids or alcohol) are medical emergencies. Some batches have been contaminated with rat poison, causing severe bleeding.
 
 At the peak, seizures, severe agitation, psychosis, catatonia and unresponsiveness occur; some compounds also affect heart rhythm and kidneys.
 
@@ -76,19 +76,19 @@ Some batches have been contaminated with brodifacoum, a long-acting rat poison c
 
 ### Plateau (30-90 min)
 
-The plateau is unpredictable.
+The plateau is often short but chaotic, and many people redose frequently. The body stays wrung-out, nauseated and clumsy. Heart rate stays high, and vomiting and sweating can recur. Muscle twitches, slurred speech and difficulty walking are common, and some people lie unresponsive for long stretches.
 
-Thinking confused and memory poor.
+Mentally confusion, paranoia and mood swings continue, sometimes with violent or self-harming behavior. Some feel numb and empty, others jittery and suspicious, and moods can change quickly. Memory of the episode is often patchy.
 
-Medical help may be needed.
+Use is especially common in prisons and homeless communities, where it is cheap and hard to detect. Someone who collapses should be placed on their side and emergency services called; naloxone is worth giving if opioids may also be involved.
 
 ### Comedown (1-3 h)
 
-The comedown brings anxiety, exhaustion and headache.
+The comedown brings exhaustion, nausea, headache and sweating. Muscles may ache and the chest feel tight; appetite is poor and the stomach unsettled. Sleep may be broken by sweats and vivid dreams. Kidney and heart problems can appear in the following days.
 
-Mood low and irritable.
+Mentally there can be deep anxiety, low mood and craving. Some feel deeply ashamed or frightened by what happened, and paranoid thoughts can linger for days. Daily users often feel desperate for the next dose within hours.
 
-Dependence and harsh withdrawal, including vomiting, sweating and insomnia, are common.
+Withdrawal after regular use can be severe, with vomiting, sweating, insomnia and agitation; medical support helps. Mental-health and addiction services, and housing support, can make a real difference for people caught in daily use.
 
 Effects are short, but active metabolites can prolong toxicity.
 

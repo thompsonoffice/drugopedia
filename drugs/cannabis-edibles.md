@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30 min-2 h)
 
-Edibles are slow, often taking an hour or two, which leads people to eat more before feeling anything — the most common cause of bad edible experiences. The onset creeps in as a warm heaviness in the limbs, a tingling in the face and scalp, and a slow, rolling sense that the body is sinking.
+Edibles (gummies, chocolates, baked goods, drinks) deliver THC through the gut, so the onset is slow, often taking from half an hour to two hours or more. The first signs are subtle: a warm heaviness in the limbs, a slight tingle, dry mouth and then a growing pulse in the chest. The liver converts THC into a stronger, longer-lasting form, so effects can build much higher than expected.
 
-Mentally the effect starts gradually, then can surge suddenly. Because the liver converts THC into 11-hydroxy-THC, the high often feels more bodily, sedating and psychedelic than smoking, with stronger time distortion.
+Mentally the onset often begins with uncertainty and then a gradual or sudden arrival of euphoria, giggles, distorted time and a dreamy, floating mind. Many people mistakenly think the edible isn't working and take more, only for both portions to hit together.
 
-Dry mouth, red eyes and a faster heartbeat appear.
+This delayed, stacking effect is the most common reason for edible emergencies, including severe anxiety, vomiting, fainting and racing heart. Edibles that look like candy are a serious poisoning risk for children and pets.
 
 Swallowed THC is absorbed slowly and unevenly from the gut, and only a fraction survives first-pass liver metabolism; much is converted to 11-hydroxy-THC, which crosses into the brain readily.
 
@@ -64,11 +64,11 @@ The rise is gradual: body heaviness, warmth and giddiness.
 
 ### Peak (2-4 h)
 
-At the peak, the body feels heavy and glued in place ('couch-lock'), with strong time distortion — minutes feel like hours — and sometimes visual effects with eyes closed.
+At the peak, a few hours in, the body may feel very heavy, sedated and sunk into bed or couch, with a racing or pounding heart, dry mouth, red eyes and sometimes nausea, chills or dizziness on standing. Some feel cold and shivery, others hot and sweaty, and the limbs can feel too heavy to lift.
 
-Emotionally euphoric, giggly and dreamy, or very anxious, with possible paranoia, a racing heart and fear of dying, especially when much more was taken than intended.
+Mentally the peak is often more intense and body-centered than smoking: strong euphoria, deep relaxation, vivid sensations or, for many, a frightening sense of being trapped in a high that won't end, paranoia and confusion about time.
 
-Too much cannabis rarely threatens life but can bring panic, racing heart, vomiting, confusion and paranoia, and in rare cases psychosis. Children who eat edibles can become seriously ill and need emergency care.
+Children who eat edibles may become very drowsy, unsteady or unresponsive and need urgent medical care. Adults with heart disease may be at risk from the raised heart rate. A calm room, sips of water, a snack and a trusted person usually help; poison control can advise.
 
 At the peak, 11-hydroxy-THC levels can be high relative to THC, giving a heavier, more sedating and more disorienting effect than smoked cannabis.
 
@@ -76,19 +76,19 @@ Emergency departments see edible cases with vomiting, fast heart rate, panic and
 
 ### Plateau (4-6 h)
 
-The plateau lasts many hours, often far longer than people expect.
+The plateau is long, often several hours. The body stays heavy and slow, appetite can be strong, and some people fall asleep for many hours. The mouth stays dry, the eyes heavy, and getting up may bring dizziness. Waves of the high may roll in and out, and some people feel sick and need to lie still.
 
-Thinking slow and memory short; conversations loop.
+Mentally thinking is slowed and memory poor; some feel peaceful, others anxious that the effect will never stop. Reassurance that it will fade helps. Some find music, films or food deeply absorbing; others feel stuck in loops of worry, checking their pulse or watching the clock.
 
-Sleepiness grows, and hunger can be strong.
+Driving or using machinery is unsafe for the full duration, which can stretch most of the day. Mixing with alcohol can worsen nausea and dizziness and may lead to vomiting.
 
 ### Comedown (6-12 h)
 
-The comedown may last into the next day, with grogginess, dry mouth and a heavy head.
+The comedown can last into the next day, with grogginess, dry mouth and a heavy, foggy head sometimes called an 'edible hangover.' Some wake with a stiff body, sticky mouth and a lingering sense of being slowed, which can last until midday. Appetite may stay high.
 
-Mood groggy or mildly low.
+Mentally there may be slowness, low motivation and mild anxiety or embarrassment after an overwhelming experience. Some feel detached or not quite themselves for a while, which usually resolves with sleep, food and time.
 
-Store edibles safely away from children and pets, who can become seriously ill.
+Storing edibles locked away from children and pets, and waiting fully before taking more, prevent most emergencies. For adults, slow and patient experience with edibles is the main safeguard; panic during an overdose usually passes, but chest pain or fainting needs care.
 
 Effects persist for many hours as the gut keeps absorbing THC and the liver keeps producing 11-hydroxy-THC.
 

@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (minutes)
 
-HHC has an onset similar to THC but slightly milder.
+HHC (hexahydrocannabinol) is a hydrogenated form of THC made from hemp-derived chemicals and sold in vapes, gummies and flower in many countries. Inhaled it comes on within minutes; eaten, over an hour or more. Early effects include warmth, relaxation, dry mouth and red eyes. Some feel a light pressure behind the eyes and a gently racing pulse.
 
-Mentally relaxed euphoria.
+Mentally many describe it as similar to regular THC, somewhere between delta-8 and delta-9 in strength: gently euphoric, relaxed and slightly spacey.
 
-Dry mouth.
+Products vary a lot in strength and purity. Several European countries banned HHC after it spread quickly. Some products also contain other semi-synthetic cannabinoids.
 
 HHC is made by adding hydrogen to THC-like molecules; one form (9R) binds CB1 strongly, the other (9S) weakly.
 
@@ -64,11 +64,11 @@ Relaxation builds.
 
 ### Peak (15-45 min)
 
-At the peak, mellow high.
+At the peak the body is relaxed and heavy, with a faster heart and impaired coordination. Eyes become red and dry, the mouth sticky, and some people feel lightheaded on standing. Muscles loosen and the body feels warm and heavy; some notice a strong pulse.
 
-Emotionally calm.
+Mentally there is euphoria, slowed time and heightened senses; anxiety and paranoia can occur at higher amounts. Some find it pleasantly mellow and social; others feel distracted and lose the thread of conversations. Time can seem to stretch.
 
-Too much cannabis rarely threatens life but can bring panic, racing heart, vomiting, confusion and paranoia, and in rare cases psychosis. Children who eat edibles can become seriously ill and need emergency care.
+Driving is impaired, and drug tests may detect it. Driving is impaired, and drug tests may detect it. Higher amounts or strong vapes can cause anxiety, dizziness and nausea, especially in new users.
 
 Peak effects depend on the 9R-to-9S ratio, which varies by batch.
 
@@ -76,19 +76,19 @@ Newer variants like HHC-P are far more potent and have caused emergency visits i
 
 ### Plateau (about 1 h)
 
-The plateau is a few hours.
+The plateau lasts a few hours. Appetite may increase and drowsiness grows. The body stays relaxed and slowed, with dry eyes and mouth and a mild pulse increase. Some people feel sleepy and lie down; edibles make the plateau longer and heavier. Red eyes, a sticky mouth and slight lightheadedness on standing often continue, and hunger may suddenly feel urgent.
 
-Mood mellow.
+Mentally thoughts drift and focus is poor. Thoughts drift, short-term memory is poor, and some people enjoy music or food more. Others feel foggy and want to rest.
 
-Hunger.
+Tolerance builds with frequent use. Tolerance builds with frequent use, and the same amount feels weaker over time. Mixing with alcohol often worsens dizziness and nausea.
 
 ### Comedown (2-3 h)
 
-The comedown is mild.
+The comedown brings tiredness and dry mouth. The comedown brings tiredness, dry mouth and sometimes a mild headache. After edibles, grogginess can last into the next day. Eyes may feel dry and heavy, and sleep may be deep but less refreshing than usual, with few dreams.
 
-Mood steady.
+Mentally mild fogginess may linger. Mild fogginess, low motivation and forgetfulness may linger for a few hours. Some feel calm, others a little flat. Food, water and a good night's sleep usually clear the remaining haze.
 
-Unregulated.
+Regular users who stop may feel irritable and sleep poorly for a while. Regular users who stop may feel irritable, sleep poorly and have vivid dreams for a week or two. Cutting down gradually helps.
 
 Effects fade like THC.
 

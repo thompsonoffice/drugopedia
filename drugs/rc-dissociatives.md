@@ -86,7 +86,7 @@ Psychosis and mania after repeated use have been reported, especially with 3-MeO
 
 The comedown can be slow and uneven, with tiredness, headache and lingering unsteadiness. Muscles may ache, sleep may be broken, and some feel cold and shaky. Appetite can be low for a day or more.
 
-Mentally low mood, anxiety and confusion are common, and some people feel strange or unreal for days. Some people feel disconnected from their emotions or surroundings and find it hard to concentrate or remember things. Others feel briefly brighter, then low.
+Mentally low mood, anxiety and confusion are common, and some people feel strange or unreal for days. Some people feel disconnected from their emotions or surroundings and find it hard to concentrate or remember things. Others feel briefly brighter, then low. Sleep usually helps.
 
 Bladder damage and dependence have been linked to frequent use of ketamine-like analogues. Seek help for bladder pain, blood in urine or lasting psychosis. Avoid driving until fully clear.
 
