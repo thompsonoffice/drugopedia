@@ -46,9 +46,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (15-60 sec)
 
-Smoked, effects begin within 15 to 60 seconds.
+Salvinorin A, from the plant Salvia divinorum, is a powerful kappa-opioid agonist, unlike the mu-opioids people usually mean by 'opioid'. Its onset is extremely fast and disorienting, a sudden shift in reality rather than warmth.
 
+Mentally the onset can feel like being pulled, peeled or folded out of the normal world, often with loss of awareness of the body and room.
 
+It gives no opioid comfort, and naloxone does not reliably reverse it. See the salvia page for its full experience.
 
 ### Come-up (under 1 min)
 
@@ -56,19 +58,27 @@ Reality shifts rapidly.
 
 ### Peak (1-5 min)
 
-Peak at 1 to 5 minutes: intense dissociation and hallucinations.
+At its peak the body may feel heavy, twisted or absent, and people may move or stumble without awareness.
 
+Mentally the peak is overwhelming dissociation and dreamlike or bizarre visions; many find it frightening.
 
+The main risks are falls and injury, so a sober sitter is essential.
 
 ### Plateau (5-10 min)
 
-Lasts a few minutes.
+The plateau is short, minutes rather than hours.
+
+Mentally reality reassembles in pieces, often confusing.
+
+Lingering disorientation may remain briefly.
 
 ### Comedown (10-20 min)
 
-Fades over 10 to 20 minutes.
+The comedown is quick, with tiredness or a strange afterglow.
 
+Emotionally people may feel shaken or reflective.
 
+It has low addiction potential but can be distressing.
 
 ### After-effects (20-60 min)
 

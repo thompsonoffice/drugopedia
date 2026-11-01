@@ -46,7 +46,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Swallowed, it starts in about 30 to 60 minutes with a subtle mood lift.
+Tianeptine is an antidepressant sold by prescription in parts of Europe and Asia, and in the US it has been sold at gas stations under names like 'Tianaa' and 'ZaZa' despite FDA warnings. At much more than medical amounts it acts as a full mu-opioid agonist. Swallowed, it comes on fast: a warm, buzzing lift in the chest, a loosening of the body and a sudden easing of anxiety.
+
+Mentally the onset is often described as bright and stimulating more than sleepy: a burst of contentment, sociability and confidence, sometimes compared to a short hydrocodone high with an antidepressant glow.
+
+It is very short-acting, so the onset is already the start of the decline, which is why people who misuse it often take it many times a day.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Tianeptine has a short half-life of about 2.5 hours and is broken down mostly by beta-oxidation, not CYP enzymes. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -58,7 +62,11 @@ The come-up is quick, 15 to 30 minutes: calm, a bit of energy, and a warm glow.
 
 ### Peak (60-90 min)
 
-The peak, about 60 to 90 minutes in, is a mild euphoria with motivation and lowered anxiety; at higher amounts, opioid warmth, itch, and nodding.
+At its peak the body feels warm and light, with mild itching, sweating, narrowed pupils and sometimes nausea. At higher amounts heaviness and nodding take over.
+
+Mentally the peak is a clean-feeling euphoria and calm; worries vanish and people feel chatty and upbeat. As amounts rise, it becomes dreamier and more sedated.
+
+Overdose with slowed breathing, confusion, agitation and heart problems has been reported, often with other drugs. Naloxone reverses the opioid part.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (under 1 h)
 
-Plateau is short.
+The plateau is short, often under two hours. The warmth thins into a mild relaxed buzz while sweating and dry mouth continue.
+
+Mentally the brightness fades quickly into restlessness and a desire for more; people often watch the clock for the next dose.
+
+This rapid cycle drives heavy, compulsive use and quick tolerance.
 
 ### Comedown (2-3 h)
 
-Comedown begins around 2 hours: a fairly abrupt drop in mood, sometimes with irritability.
+The comedown is fast and unpleasant: aches, yawning, goosebumps, sweating and a crawling discomfort in the legs.
+
+Emotionally people describe sharp anxiety, irritability and low mood, sometimes worse than with classic opioids because the antidepressant lift also disappears.
+
+Withdrawal from heavy daily use can be severe, with insomnia, agitation, diarrhea and intense craving, and has sometimes needed hospital care. Medical help with tapering or buprenorphine is recommended.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

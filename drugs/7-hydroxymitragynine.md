@@ -46,7 +46,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-7-OH tablets or shots usually begin within about 15 to 30 minutes, much faster and stronger than plain kratom, with a clear opioid warmth.
+7-hydroxymitragynine (7-OH) is a kratom alkaloid that is much stronger than kratom leaf itself and is now sold in concentrated tablets and shots at smoke shops. Swallowed, it comes on over a short time with a warm, heavy loosening through the body and a fast drop in aches.
+
+Mentally the onset is far more opioid-like than kratom leaf: a deep, comfortable calm and euphoria, with little of the stimulant edge that low-amount kratom gives.
+
+Because products vary widely in strength and labeling, people can get far more than they expect, and tolerance builds quickly.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -58,7 +62,11 @@ The come-up is quick and smooth, with heaviness and itch.
 
 ### Peak (1-2 h)
 
-The peak, around 1 hour, feels like a prescription opioid: euphoria, sedation, nodding, and slowed breathing at higher amounts.
+At its peak the body feels heavy, warm and itchy, with pinpoint pupils, slowed breathing, nausea and nodding.
+
+Mentally the peak is a dreamy, sedated contentment much like a prescription opioid.
+
+Overdose and deaths have been reported, especially with other sedatives. Naloxone reverses it.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-A plateau of 1 to 3 hours.
+The plateau lasts a few hours of drowsy warmth, constipation and dry mouth, the body pinned in a relaxed heaviness.
+
+Mentally people feel quiet, slow and inward, with poor focus and slowed reactions.
+
+Breathing suppression continues, and stacking more doses during the plateau is a common path to overdose.
 
 ### Comedown (4-6 h)
 
-Effects fade over about 3 to 5 hours, often leaving a craving to repeat.
+The comedown brings tiredness, aching and restlessness, sometimes with a runny nose and yawning.
+
+Emotionally people often feel flat, anxious and craving, more sharply than with plain kratom.
+
+Daily use leads to opioid dependence; withdrawal is like other opioids and buprenorphine treatment can help.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

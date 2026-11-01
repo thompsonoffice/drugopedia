@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (seconds to minutes)
 
-In accidental human exposure, effects begin within seconds to minutes: sudden dizziness, heaviness and confusion.
+Etorphine (M99) is used to immobilize large animals like elephants and is thousands of times stronger than morphine. Accidental human exposure through a needle stick or splash brings almost immediate heaviness, dizziness and breathing problems.
+
+Mentally there is rapid drowsiness and confusion.
+
+Veterinarians carry its reversal drug, diprenorphine or naloxone, because exposure can be fatal within minutes.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ There is no meaningful come-up before collapse can occur.
 
 ### Peak
 
-The 'peak' is profound sedation, pinpoint pupils and breathing that slows or stops.
+At its peak, breathing slows or stops, blood pressure drops and the person collapses.
+
+Mentally unconsciousness follows quickly.
+
+This is an extreme medical emergency.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (long)
 
-Without treatment, it lasts for hours.
+Without reversal, sedation is deep and prolonged.
+
+Mentally no awareness.
+
+Repeated naloxone and hospital care are needed.
 
 ### Comedown (hours)
 
-With naloxone or diprenorphine and medical care, recovery can still take hours, and sedation can return.
+After reversal, people feel shaky, nauseated and exhausted.
+
+Emotionally frightened.
+
+It has no recreational role.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

@@ -46,7 +46,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Effects (if any) begin slowly over hours.
+Loperamide (Imodium) is an anti-diarrhea opioid that normally stays in the gut because the body pumps it out of the brain. At ordinary use there is no mental effect: just a calmer, slower bowel.
+
+Some people take enormous amounts to ease withdrawal or seek a high; at those levels a little reaches the brain, giving a faint calm and easing of withdrawal aches rather than a real euphoria.
+
+That misuse is dangerous because loperamide at such amounts disrupts the heart's electrical rhythm.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -58,7 +62,11 @@ Mostly gut effects.
 
 ### Peak (1-2 h)
 
-Minimal felt peak.
+At very high misuse amounts, the body feels mildly heavy and severely constipated, but the main event is the heart: palpitations, fainting, irregular rhythms and sometimes cardiac arrest.
+
+Mentally there is mild sedation and relief from withdrawal, but little pleasure.
+
+Deaths have occurred from heart rhythm problems. Naloxone helps breathing but not the heart effects; emergency care is needed for fainting or palpitations.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-Long-lasting constipation.
+The plateau is long because loperamide clears slowly at high levels, with continued constipation and heart strain.
+
+Mentally people feel dull and tired.
+
+Heart rhythm danger can persist for days.
 
 ### Comedown (4-6 h)
 
-Very long duration.
+The comedown brings withdrawal symptoms back, along with abdominal discomfort.
+
+Emotionally anxious and low.
+
+Anyone using loperamide to manage withdrawal should seek proper treatment such as buprenorphine or methadone instead.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

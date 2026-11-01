@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (seconds to minutes)
 
-Injected or smoked fentanyl analogs act within seconds; snorted within minutes.
+Fentanyl analogs such as acetylfentanyl, furanylfentanyl and carfentanil appear in street powders and counterfeit pills. Their onset is very fast: an intense wave of warmth and heaviness.
+
+Mentally a sudden, strong euphoria and calm, often shorter than heroin's.
+
+Their potencies vary enormously, and buyers usually do not know which analog they have.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ A rush of heaviness with little warning.
 
 ### Peak (strong and short)
 
-The peak is strong and short, and strength varies hugely between analogs (some far weaker, some far stronger than fentanyl).
+At its peak the body is heavy, breathing slows dramatically, and chest rigidity can appear.
+
+Mentally dreamy then sedated.
+
+Overdose can come within minutes; repeated naloxone may be needed.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (under an hour to a few hours)
 
-Under an hour to a few hours.
+The plateau is short, driving frequent use.
+
+Mentally the calm fades fast.
+
+Each new dose is a fresh overdose risk.
 
 ### Comedown (2 to 4 hours)
 
-Effects fade fast, often within 2 to 4 hours, driving redosing.
+The comedown is quick and harsh: aches, sweats and intense craving.
+
+Emotionally anxious and desperate.
+
+Dependence is severe; treatment with buprenorphine or methadone saves lives.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

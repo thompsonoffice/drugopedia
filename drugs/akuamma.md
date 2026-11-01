@@ -46,7 +46,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Begins 30 to 60 minutes after swallowing.
+Akuamma seeds, from a West African tree, contain alkaloids that act weakly on opioid receptors. Swallowed, the onset is mild and gradual: a faint relaxation, slight easing of aches and sometimes nausea from the very bitter seeds.
+
+Mentally most people notice only subtle calm, if anything; a few describe mild mood lift or sleepiness.
+
+Effects vary greatly, and research on safety is limited.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -58,7 +62,11 @@ Mild relaxation.
 
 ### Peak (1-2 h)
 
-Subtle calm.
+At its peak the body may feel slightly heavy and relaxed, with dizziness or stomach upset.
+
+Mentally the state is quiet and calm, far milder than kratom or prescription opioids.
+
+Mixing with other sedatives or opioids adds unknown risk.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-A few hours of mild effect.
+The plateau is a few hours of mild relaxation.
+
+Mentally faintly calm.
+
+Nausea may persist.
 
 ### Comedown (4-6 h)
 
-Fades.
+The comedown is usually mild tiredness.
+
+Emotionally little change.
+
+Dependence is not well studied.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
