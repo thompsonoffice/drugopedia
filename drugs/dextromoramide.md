@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (10-20 min)
 
-Oral or sublingual: about 10 to 20 minutes.
+Dextromoramide, once sold as Palfium for severe pain in Europe, was a strong synthetic opioid known for working fast and wearing off fast. Within a short time of being swallowed or dissolved under the tongue, a wave of warmth rose from the stomach and chest, the limbs grew heavy and strong pain dropped away.
+
+Mentally the onset was brisk and intense. People described a quick, clean lift of mood, a sense of ease and confidence, and anxieties melting faster than with morphine. That speed made it feel more 'rushy' than many oral opioids.
+
+The same speed made breathing suppression come on quickly, and its intensity gave it a strong reputation for misuse among people who were dependent on opioids.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Rapid warmth and drowsiness.
 
 ### Peak (about 1 h)
 
-Peak within about an hour, quite strong.
+At its peak the body felt heavy, warm and itchy, the pupils narrowed to pinpoints, and breathing grew slow and shallow. Nausea could break through, especially in people new to opioids.
+
+Mentally the peak brought a strong, short-lived euphoria and a dreamy detachment: thoughts slowed, the world felt soft and distant and worries seemed irrelevant.
+
+Because the effect was brief, people often took more as it faded, and overlapping doses could push breathing into dangerous territory.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-2 h)
 
-Short plateau.
+The plateau was short compared with morphine, usually lasting only a couple of hours of fading warmth and mild heaviness.
+
+Mentally the calm lifted relatively quickly, leaving a quieter, drowsy contentment that thinned out over time.
+
+Repeated use built tolerance fast, so the same effect required more, increasing both dependence and overdose risk.
 
 ### Comedown (2-3 h total)
 
-Fades over 2 to 3 hours.
+The comedown arrived quickly: aches, restlessness and a cold, uncomfortable feeling returned as the drug cleared.
+
+Emotionally people often felt low, irritable and anxious, with a strong pull toward taking more.
+
+Dependence developed rapidly. Dextromoramide has been withdrawn in most countries, partly because of these problems.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

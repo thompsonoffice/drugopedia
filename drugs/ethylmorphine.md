@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Oral: about 30 to 60 minutes.
+Ethylmorphine is a codeine-like opioid used as a cough suppressant and mild pain reliever in some European countries. Swallowed, it brings a mild warmth in the chest, a quieting of the urge to cough and a slight heaviness in the eyelids.
+
+Mentally the onset is gentle: a faint softening of tension, as if the day's irritations have been turned down a notch. Most people at medical use do not feel a clear high.
+
+Nausea, itching around the nose and face and light-headedness can appear early, especially on an empty stomach.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Mild warmth.
 
 ### Peak (1-2 h)
 
-Peak 1 to 2 hours, mild.
+At its peak there is a mild heaviness and warmth through the body, small pupils and slowed breathing. The itch may become more noticeable.
+
+Mentally there is a soft, cozy contentment, less intense than stronger opioids, sometimes with talkativeness and sometimes with drowsiness. Part of its effect comes from being converted to morphine in the body, which varies from person to person.
+
+Mixing with alcohol, benzodiazepines or other sedatives raises breathing risk considerably.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-A few hours of calm.
+The plateau lasts a few hours of mild sedation, eased cough and dry mouth.
+
+Mentally people feel relaxed and a little slowed, with reduced concentration.
+
+Constipation builds with repeated use.
 
 ### Comedown (4-6 h total)
 
-Fades over 4 to 6 hours.
+The comedown brings tiredness and a return of the cough or aches.
+
+Emotionally a mild flatness or restlessness can follow.
+
+Regular use causes dependence, with codeine-like withdrawal: aches, runny nose, yawning, irritability and craving.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

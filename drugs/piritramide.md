@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV a few min; IM about 15 min)
 
-Injection: a few minutes (IV) to 15 minutes (IM).
+Piritramide (Dipidolor) is a strong synthetic opioid given by injection after surgery in Germany, the Netherlands and other parts of Europe. Its onset brings a spreading warmth, a heavy drowsiness and a quick drop in pain.
+
+Mentally patients describe a drowsy, calm comfort. It tends to be more sedating than euphoric, so people often drift toward sleep rather than feeling elated.
+
+Breathing slows, and some patients find it causes less nausea than morphine, which is part of why it is popular in those countries.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Drowsiness builds fast.
 
 ### Peak (15-30 min)
 
-Peak within about 15 to 30 minutes.
+At its peak the body is relaxed and heavy, the surgical wound pain muted to a distant pressure. Skin may feel warm and pupils are small.
+
+Mentally the peak is a sleepy contentment: drifting in and out of light sleep, with fragmented dreams and little interest in the surroundings.
+
+Breathing suppression is the main concern, so nurses monitor breathing and oxygen levels, especially in older or frail patients.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-4 h)
 
-Lasts about 4 to 6 hours.
+The plateau lasts several hours of light sedation and steady pain relief, often given through a patient-controlled pump.
+
+Mentally patients feel quiet, slow and dreamy, able to respond but content to rest.
+
+Constipation, urinary retention and itching may develop.
 
 ### Comedown (4-6 h total)
 
-Gentle fade.
+As it fades, tiredness lingers and pain gradually returns.
+
+Emotionally the comedown is usually mild, though some feel anxious as pain resurfaces.
+
+Dependence is uncommon with short hospital use but possible with longer courses.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

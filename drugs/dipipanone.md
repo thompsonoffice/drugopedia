@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Oral: about 30 minutes.
+Dipipanone is a methadone-like opioid that was sold in the UK combined with the anti-nausea antihistamine cyclizine under the name Diconal. Swallowed, it came on over a short time with a spreading warmth, a loosening of tense muscles and relief from pain.
+
+Mentally the onset brought a comfortable lift, a calm that took the edge off worry. The cyclizine changed the character: it added drowsiness, a dry mouth and sometimes a strange, floaty or dreamlike quality that set Diconal apart from other opioids.
+
+In the 1970s and 1980s Diconal was heavily misused, and the tablets caused severe vein and tissue injuries when misused in non-intended ways, leading to strict controls.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Drowsy, dry-mouthed warmth.
 
 ### Peak (1-2 h)
 
-Peak 1 to 2 hours with sedation and haze.
+At its peak the body felt heavy and warm, with a parched mouth, blurred vision at times and a fast pulse from the cyclizine.
+
+Mentally euphoria mixed with anticholinergic dreaminess: drifting thoughts, slightly unreal surroundings, and at higher amounts confusion, agitation or seeing things that are not there.
+
+The combination of opioid breathing suppression and antihistamine toxicity, including seizures and heart rhythm problems, made overdose particularly dangerous.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-A few hours of sedation.
+The plateau lasted a few hours of drowsy, dry-mouthed heaviness, with constipation and difficulty urinating.
+
+Mentally people felt calm but foggy, sometimes with jumbled thinking or poor memory for this period.
+
+Breathing remained suppressed throughout, especially if alcohol or other sedatives were involved.
 
 ### Comedown (4-6 h total)
 
-Fades over 4 to 6 hours.
+The comedown brought tiredness, aches and a hangover-like fog, sometimes with a headache.
+
+Emotionally people felt flat, restless and low.
+
+Regular use led to dependence, and withdrawal resembled other opioids, sometimes with extra rebound restlessness from the antihistamine.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

@@ -46,7 +46,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Swallowed, effects begin in 45 to 60 minutes.
+Diphenoxylate, sold with atropine as Lomotil, is an opioid designed to act on the gut and slow diarrhea. Swallowed, it mostly works in the intestines: cramping eases and the bowel quiets over an hour or so. At ordinary use most people feel little in their head.
+
+Mentally there is usually no high. The added atropine is deliberate: taken in excess it causes dry mouth, flushed skin, blurred vision and a racing heart, which discourages misuse.
+
+Children are especially vulnerable; even small accidental ingestions can cause delayed, severe breathing suppression.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -58,7 +62,11 @@ Mild drowsiness, dry mouth.
 
 ### Peak (1-2 h)
 
-Slight calm; atropine effects dominate.
+At higher-than-intended amounts the body feels a mix of opioid heaviness and anticholinergic discomfort: dry, hot skin, blurred vision, trouble urinating and a fast pulse.
+
+Mentally there may be drowsiness with restlessness or confusion rather than euphoria; the atropine can cause agitation or delirium.
+
+Overdose can be delayed many hours, and breathing can stop late; naloxone helps the opioid part, and medical observation is needed.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-Several hours of drowsiness.
+The plateau is long, with continued constipation, dry mouth and drowsiness.
+
+Mentally people may feel foggy, irritable or confused.
+
+Delayed and recurring breathing suppression is the main danger.
 
 ### Comedown (4-6 h)
 
-Fades over 3 to 4 hours.
+As it fades, the gut gradually returns to normal, sometimes swinging toward cramping.
+
+Emotionally the comedown is usually unremarkable at medical use.
+
+Dependence is rare at prescribed use but possible with long misuse.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
