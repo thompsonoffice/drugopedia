@@ -24,7 +24,7 @@ Tablets. Touch and shape cannot confirm what a pill is: ask a pharmacist, use a 
 
 ## Overdose and safety
 
-
+Opioid overdose signs: cannot be woken, slow or stopped breathing, blue lips, pinpoint pupils. Call 911 and give [naloxone](../narcan/naloxone.md). Read [opioid overdose](../safety/opioid-overdose.md). 
 
 For the full drug page, see [Oxycodone](../drugs/oxycodone.md).
 

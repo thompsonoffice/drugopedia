@@ -8,6 +8,8 @@ Natural opiate (opium alkaloid); weak mu-opioid agonist. A prodrug: the liver en
 
 **Brand and street names:** Tylenol with Codeine (Tylenol #3, #4), Fioricet/Fiorinal with Codeine, Tuzistra XR, cough syrups such as Robitussin AC, Phenergan with Codeine (promethazine-codeine), Cheratussin AC; Co-codamol, Solpadeine, Nurofen Plus (UK).
 
+**Brand and combination product pages:** [Tylenol with Codeine #3 and #4](../products/tylenol-3-4.md), [Fioricet with Codeine](../products/fioricet-codeine.md), [Fiorinal with Codeine](../products/fiorinal-codeine.md), [Tuzistra XR and other codeine cough products](../products/tuxarin.md).
+
 ## History and origins
 
 French chemist Pierre-Jean Robiquet isolated codeine from opium in 1832. Its name comes from the Greek word for poppy head. For most of the 20th century it was the standard cough suppressant and a common mild painkiller, sold over the counter in many countries.

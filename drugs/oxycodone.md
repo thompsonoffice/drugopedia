@@ -8,6 +8,8 @@ Semi-synthetic opioid made from thebaine (an opium alkaloid); full mu-opioid ago
 
 **Brand and street names:** OxyContin, Roxicodone, Oxy IR, Xtampza ER, RoxyBond, Percocet (with acetaminophen), Percodan (with aspirin), Endocet, Roxicet, Tylox (discontinued), Oxaydo; Oxynorm (Europe), Targin/Targiniq (with naloxone).
 
+**Brand and combination product pages:** [Percocet](../products/percocet.md), [Endocet](../products/endocet.md), [Roxicet](../products/roxicet.md), [Percodan](../products/percodan.md), [Combunox](../products/combunox.md), [RoxyBond and Oxaydo](../products/roxybond.md), [OxyContin](../products/oxycontin.md).
+
 ## History and origins
 
 Developed in Germany in 1916 by Freund and Speyer at the University of Frankfurt, hoping for a safer alternative to heroin and morphine. Germany marketed it as Eukodal; addiction to it among the elite was called "Eukodalism." Percodan reached the US in 1950 and Percocet in 1976. Purdue Pharma launched OxyContin in 1996 with aggressive marketing that understated addiction risk. Purdue pleaded guilty to federal charges in 2007 and 2020, and OxyContin is widely seen as the spark of the US opioid epidemic.

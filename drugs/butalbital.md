@@ -8,6 +8,8 @@ Intermediate-acting barbiturate, found only in combination products.
 
 **Brand and street names:** Fioricet (with acetaminophen and caffeine), Fiorinal (with aspirin and caffeine), Esgic, Bupap, Allzital; versions with codeine.
 
+**Brand and combination product pages:** [Fioricet and Fiorinal (without codeine)](../products/fioricet.md).
+
 ## History and origins
 
 Combined with analgesics since the 1950s for tension headaches. Most butalbital products are exempted from federal scheduling, though Fiorinal is Schedule III.

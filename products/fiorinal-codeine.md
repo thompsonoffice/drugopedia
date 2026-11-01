@@ -28,7 +28,7 @@ Capsules. Touch and shape cannot confirm what a pill is: ask a pharmacist, use a
 
 ## Overdose and safety
 
-Butalbital adds barbiturate sedation; see [depressant mixing](../safety/depressant-mixing.md). 
+Opioid overdose signs: cannot be woken, slow or stopped breathing, blue lips, pinpoint pupils. Call 911 and give [naloxone](../narcan/naloxone.md). Read [opioid overdose](../safety/opioid-overdose.md). Butalbital adds barbiturate sedation; see [depressant mixing](../safety/depressant-mixing.md). 
 
 For the full drug page, see [Codeine](../drugs/codeine.md).
 

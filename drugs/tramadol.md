@@ -8,6 +8,8 @@ Synthetic, weak mu-opioid agonist (mostly through its metabolite O-desmethyltram
 
 **Brand and street names:** Ultram, Ultram ER, Ultracet (with acetaminophen), ConZip, Ryzolt (discontinued), Tramal, Zydol (UK), Seglentis (with celecoxib).
 
+**Brand and combination product pages:** [Ultracet](../products/ultracet.md).
+
 ## History and origins
 
 Developed by the German company Grünenthal in 1962 and marketed from 1977; approved in the US in 1995. It was long marketed as low-risk and was not federally controlled in the US until 2014.

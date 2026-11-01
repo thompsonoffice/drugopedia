@@ -8,6 +8,8 @@ Semi-synthetic opioid made from codeine (or thebaine); full mu-opioid agonist.
 
 **Brand and street names:** Vicodin, Lortab, Norco, Lorcet, Zohydro ER, Hysingla ER, Vicoprofen (with ibuprofen), Hycodan and Tussionex (cough).
 
+**Brand and combination product pages:** [Vicodin](../products/vicodin.md), [Norco](../products/norco.md), [Lortab](../products/lortab.md), [Vicoprofen](../products/vicoprofen.md), [Tussionex](../products/tussionex.md), [Zohydro ER and Hysingla ER](../products/zohydro-hysingla.md).
+
 ## History and origins
 
 Synthesized in Germany by Carl Mannich and Helene Löwenheim in 1920 and approved in the US in 1943. Through the 2000s, hydrocodone with acetaminophen (Vicodin and Norco) was the single most prescribed medication in the United States.

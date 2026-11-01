@@ -46,12 +46,17 @@ def render(D):
     for slug,name,drug,ings,hist,feel,touch in P:
         dn=D[drug]["name"] if drug in D else drug.title()
         link=f"[{dn}](../drugs/{drug}.md)" if drug in D else dn
-        op=D.get(drug,{}).get("cat","dep") in("opioid","atypical","nso")
+        op=D.get(drug,{}).get("cat","opioid") in("opioid","atypical","nso")
         s=f"# {name}\n\n{DIS}\n\n## What it contains\n\nThe opioid or main ingredient is {link}"+("" if ings==["none"] else ", combined with: "+", ".join(i for i in [{'apap':'acetaminophen','asa':'aspirin','ibu':'ibuprofen','promethazine':'promethazine','chlorphen':'chlorpheniramine','caffeine':'caffeine','butalbital':'butalbital (a barbiturate)','naloxone':'naloxone'}[x] for x in ings]))+".\n\n"
         s+=f"## History\n\n{hist}\n\n## How the combination changes the feel\n\n{feel}\n\n"
+        from feel_prod import PF
+        if slug in PF:
+            s+="## What it feels like over time\n\nTimes vary between people; this describes swallowed tablets.\n\n"
+            for k,n in (("onset","Onset"),("peak","Peak"),("plateau","Plateau"),("comedown","Comedown")): s+=f"### {n}\n\n"+"\n\n".join(PF[slug][k])+"\n\n"
+            touch=PF[slug]["touch"]
         r=[ING[i] for i in ings if ING[i]]
         if r: s+="## What the added ingredients bring, and their risks\n\n"+"\n\n".join(r)+"\n\n"
-        s+=f"## What it feels like to the touch\n\n{touch} Touch and shape cannot confirm what a pill is: ask a pharmacist, use a pill-imprint app or a fentanyl test strip.\n\n"
+        s+=f"## What it feels like to the touch\n\n{touch}"+("" if slug in PF else " Touch and shape cannot confirm what a pill is: ask a pharmacist, use a pill-imprint app or a fentanyl test strip.")+"\n\n"
         s+="## Overdose and safety\n\n"
         if op: s+="Opioid overdose signs: cannot be woken, slow or stopped breathing, blue lips, pinpoint pupils. Call 911 and give [naloxone](../narcan/naloxone.md). Read [opioid overdose](../safety/opioid-overdose.md). "
         if "apap" in ings: s+="If too much was taken, the acetaminophen can destroy the liver even when the person seems fine; go to an emergency department or call Poison Control (1-800-222-1222) right away, since an antidote (acetylcysteine) works best early. "

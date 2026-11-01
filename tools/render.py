@@ -55,6 +55,9 @@ for slug,d in D.items():
     ph=d.get("ph") or std_phases(d["name"].split(" (")[0],"calm, contented",d.get("itch","mild"),d.get("nod","moderate"),d.get("extra_peak",""),d.get("after",""),d.get("nextday",""))
     t=times(slug,main)
     s=f"# {d['name']}\n\n{d.get('dis',DIS)}\n\n## At a glance\n\n{d['cls']}\n\n**Brand and street names:** {d['brands']}\n\n"
+    import products as _P
+    _pp=[(k,n) for k,n,dr,*_ in _P.P if dr==slug]
+    if _pp: s+="**Brand and combination product pages:** "+", ".join(f"[{n}](../products/{k}.md)" for k,n in _pp)+".\n\n"
     s+=f"## History and origins\n\n{d['history']}\n\n## Medical use, then and now\n\n{d['medical']}\n\n"
     if d.get("treatment"): s+=f"## Role in addiction treatment\n\n{d['treatment']}\n\n"
     s+=f"## How it entered recreational use\n\n{d['recreational']}\n\n## Legal status\n\n{d['legal']}\n\n"
@@ -95,7 +98,7 @@ ix+="- [Mixing depressants](safety/depressant-mixing.md)\n- [Cannabis safety](sa
 for c,cn in CATS.items():
     L=[k for k,d in D.items() if d.get("cat","opioid")==c]
     if not L: continue
-    ix+=f"\n## {cn}: general pages\n\n"+"".join(f"- [{D[k]['name']}](drugs/{k}.md)\n" for k in L)
+    ix+=f"\n## {cn}: general pages\n\n"+"".join(f"- [{D[k]['name']}](drugs/{k}.md)\n"+"".join(f"  - Product: [{n}](products/{pk}.md)\n" for pk,n,dr,*_ in __import__('products').P if dr==k and pk in("percocet","norco","vicodin","lortab")) for k in L)
 for r,(n,_) in ROUTES.items():
     ix+=f"\n## Route: {n}\n\n"
     L=[k for k,d in D.items() if r in d["routes"]]

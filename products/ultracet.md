@@ -24,7 +24,7 @@ Film-coated tablets. Tramadol's seizure and serotonin risks remain. Touch and sh
 
 ## Overdose and safety
 
-If too much was taken, the acetaminophen can destroy the liver even when the person seems fine; go to an emergency department or call Poison Control (1-800-222-1222) right away, since an antidote (acetylcysteine) works best early. 
+Opioid overdose signs: cannot be woken, slow or stopped breathing, blue lips, pinpoint pupils. Call 911 and give [naloxone](../narcan/naloxone.md). Read [opioid overdose](../safety/opioid-overdose.md). If too much was taken, the acetaminophen can destroy the liver even when the person seems fine; go to an emergency department or call Poison Control (1-800-222-1222) right away, since an antidote (acetylcysteine) works best early. 
 
 For the full drug page, see [Tramadol](../drugs/tramadol.md).
 

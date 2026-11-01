@@ -8,6 +8,8 @@ Synthetic opioid related to methadone; weak mu agonist whose metabolite norpropo
 
 **Brand and street names:** Darvon, Darvocet (with acetaminophen), Darvon-N, Distalgesic and Co-proxamol (UK).
 
+**Brand and combination product pages:** [Darvocet and Darvon](../products/darvocet.md).
+
 ## History and origins
 
 Introduced by Eli Lilly in 1957 and once one of the most prescribed painkillers in the US. The UK withdrew co-proxamol in 2005 over suicide overdoses, and the FDA had it withdrawn in November 2010 after finding it disrupts heart rhythm even at normal doses.

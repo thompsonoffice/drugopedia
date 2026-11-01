@@ -8,6 +8,8 @@ Semi-synthetic opioid made from thebaine; a partial mu-opioid agonist with very 
 
 **Brand and street names:** Subutex (buprenorphine alone, brand discontinued in US, generics remain), Suboxone (with naloxone), Zubsolv, Bunavail (discontinued), Sublocade and Brixadi (monthly/weekly injections), Probuphine (implant, discontinued), Butrans (patch, pain), Belbuca (buccal film, pain), Buprenex (injection, pain).
 
+**Brand and combination product pages:** [Suboxone](../products/suboxone.md), [Zubsolv](../products/zubsolv.md), [Subutex (buprenorphine alone)](../products/subutex.md).
+
 ## History and origins
 
 Developed by Reckitt & Colman (now Indivior) in Britain, first made in 1966 by John Lewis's team, and launched as an injectable painkiller (Temgesic) in 1978. Research in the 1970s and 1980s showed it could treat opioid addiction. The US Drug Addiction Treatment Act of 2000 let doctors prescribe it for addiction from an office, and Subutex and Suboxone were approved in 2002. In 2023 the special 'X-waiver' was removed, so any clinician with a standard DEA registration can prescribe it.

@@ -8,6 +8,8 @@ Natural opiate (alkaloid of the opium poppy); full mu-opioid agonist. The refere
 
 **Brand and street names:** MS Contin, Kadian, Avinza (discontinued), Roxanol, Duramorph, Infumorph, Oramorph (UK), Sevredol (UK), Embeda (with naltrexone, discontinued), Arymo ER (discontinued).
 
+**Brand and combination product pages:** [MS Contin](../products/ms-contin.md).
+
 ## History and origins
 
 German pharmacist Friedrich Sertürner isolated morphine from opium around 1804 to 1817, the first alkaloid ever extracted from a plant. He named it after Morpheus, the Greek god of dreams. The invention of the hypodermic syringe in the 1850s made injected morphine common, and it was used heavily for wounded soldiers in the American Civil War and the Franco-Prussian War; dependence afterward was so common it was called "the soldier's disease". Morphine was sold freely in patent medicines until the Harrison Narcotics Act of 1914 in the US.

@@ -8,6 +8,8 @@ Mixed agonist-antagonist opioid: activates kappa receptors and partly blocks or 
 
 **Brand and street names:** Talwin, Talwin NX (with naloxone), Talacen, Fortral (UK).
 
+**Brand and combination product pages:** [Talacen](../products/talacen.md), [Talwin NX](../products/talwin-nx.md).
+
 ## History and origins
 
 Developed by Sterling Winthrop in 1958 and marketed in 1967. In the 1970s, 'Ts and Blues' (Talwin with the antihistamine tripelennamine) became a street injection drug in the US Midwest, prompting Talwin NX with naloxone in 1983.
