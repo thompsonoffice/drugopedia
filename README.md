@@ -22,7 +22,7 @@ The project is written to be fully accessible with screen readers such as VoiceO
 
 ## Categories covered
 
-Opioids (prescription, heroin, fentanyl, rare and historic), atypical opioids, novel synthetic opioids, prescription and designer benzodiazepines, muscle relaxants, barbiturates, sedative-hypnotics, gabapentinoids, cannabis and cannabinoids (including synthetic and hemp-derived), anesthetics and dissociatives, inhalants, stimulants, and synthetic cathinones. Shared safety pages: opioid overdose, xylazine, benzodiazepines, depressant mixing, cannabis, dissociatives, inhalants, and stimulants/cathinones.
+Opioids (prescription, heroin, fentanyl, rare and historic), atypical opioids, novel synthetic opioids, prescription and designer benzodiazepines, muscle relaxants, barbiturates, sedative-hypnotics, gabapentinoids, cannabis and cannabinoids (including synthetic and hemp-derived), anesthetics and dissociatives, inhalants, stimulants, synthetic cathinones, psychedelics, empathogens, alcohol, deliriants, and other psychoactives (misused medicines, kava, nutmeg, amanita, salvia, betel, blue lotus and kanna). Shared safety pages: opioid overdose, xylazine, benzodiazepines, depressant mixing, cannabis, dissociatives, inhalants, stimulants/cathinones, psychedelics, empathogens, alcohol, deliriants, and other psychoactives.
 
 ## Disclaimer
 

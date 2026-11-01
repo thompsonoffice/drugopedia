@@ -311,6 +311,31 @@
 - [PMA and PMMA ('Dr. Death')](drugs/pma-pmma.md)
 - [4-FA (4-fluoroamphetamine)](drugs/4-fa.md)
 
+## Alcohol: general pages
+
+- [Alcohol (ethanol)](drugs/alcohol.md)
+- [Non-beverage alcohols (methanol, isopropyl, hand sanitizer, mouthwash)](drugs/alcohol-nonbeverage.md)
+
+## Deliriants and anticholinergics: general pages
+
+- [Diphenhydramine (Benadryl) as misused](drugs/diphenhydramine.md)
+- [Datura and brugmansia (jimsonweed, angel's trumpet)](drugs/datura.md)
+- [Scopolamine (hyoscine)](drugs/scopolamine.md)
+- [Dimenhydrinate (Dramamine) as misused](drugs/dimenhydrinate.md)
+- [Benztropine and trihexyphenidyl as misused](drugs/anticholinergic-meds.md)
+
+## Other psychoactive substances: general pages
+
+- [Promethazine as misused](drugs/promethazine.md)
+- [Quetiapine (Seroquel) as misused](drugs/quetiapine.md)
+- [Antidepressants as misused (bupropion, trazodone, amitriptyline)](drugs/antidepressants-misused.md)
+- [Kava](drugs/kava.md)
+- [Nutmeg (myristicin)](drugs/nutmeg.md)
+- [Amanita muscaria (fly agaric)](drugs/amanita-muscaria.md)
+- [Salvia divinorum](drugs/salvia.md)
+- [Betel nut (areca nut)](drugs/betel.md)
+- [Blue lotus and kanna](drugs/blue-lotus-kanna.md)
+
 ## Route: Oral (swallowed)
 
 - [Morphine](routes/oral/morphine.md)
@@ -512,6 +537,20 @@
 - [6-APB, 5-APB, 5-MAPB and other benzofurans](routes/oral/benzofurans.md)
 - [PMA and PMMA ('Dr. Death')](routes/oral/pma-pmma.md)
 - [4-FA (4-fluoroamphetamine)](routes/oral/4-fa.md)
+- [Alcohol (ethanol)](routes/oral/alcohol.md)
+- [Non-beverage alcohols (methanol, isopropyl, hand sanitizer, mouthwash)](routes/oral/alcohol-nonbeverage.md)
+- [Diphenhydramine (Benadryl) as misused](routes/oral/diphenhydramine.md)
+- [Datura and brugmansia (jimsonweed, angel's trumpet)](routes/oral/datura.md)
+- [Dimenhydrinate (Dramamine) as misused](routes/oral/dimenhydrinate.md)
+- [Benztropine and trihexyphenidyl as misused](routes/oral/anticholinergic-meds.md)
+- [Promethazine as misused](routes/oral/promethazine.md)
+- [Quetiapine (Seroquel) as misused](routes/oral/quetiapine.md)
+- [Antidepressants as misused (bupropion, trazodone, amitriptyline)](routes/oral/antidepressants-misused.md)
+- [Kava](routes/oral/kava.md)
+- [Nutmeg (myristicin)](routes/oral/nutmeg.md)
+- [Amanita muscaria (fly agaric)](routes/oral/amanita-muscaria.md)
+- [Betel nut (areca nut)](routes/oral/betel.md)
+- [Blue lotus and kanna](routes/oral/blue-lotus-kanna.md)
 
 ## Route: Sublingual and buccal (under the tongue or in the cheek)
 
@@ -580,6 +619,7 @@
 - [Fentanyl (pharmaceutical)](routes/transdermal/fentanyl.md)
 - [Methylphenidate (Ritalin, Concerta)](routes/transdermal/methylphenidate.md)
 - [Nicotine](routes/transdermal/nicotine.md)
+- [Scopolamine (hyoscine)](routes/transdermal/scopolamine.md)
 
 ## Route: Injected (intravenous, intramuscular, subcutaneous)
 
@@ -672,6 +712,7 @@
 - [HHC (hexahydrocannabinol)](routes/inhaled-smoked/hhc.md)
 - [DMT (N,N-dimethyltryptamine)](routes/inhaled-smoked/dmt.md)
 - [5-MeO-DMT](routes/inhaled-smoked/5-meo-dmt.md)
+- [Salvia divinorum](routes/inhaled-smoked/salvia.md)
 
 ## Brand and combination products
 
