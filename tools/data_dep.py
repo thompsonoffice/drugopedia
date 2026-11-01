@@ -216,7 +216,7 @@ X("gabapentin","Gabapentin (Neurontin)","gaba","Gabapentinoid (alpha-2-delta lig
 ["Swallowed, effects begin within about 1 to 3 hours, often slowly.","A gradual calm and lightness.","Peak around 2 to 4 hours: dizziness, relaxation, sometimes mild euphoria.","Several hours.","Fades over about 5 to 8 hours.","Tiredness.","Little next-day effect."],
 {"oral":t("1-3 h","2-3 h","2-4 h","3-6 h","5-8 h total","8-24 h","little")},{"oral":"Capsules, tablets, and liquid."},
 "Overdose alone usually causes drowsiness and unsteadiness, but with opioids it causes deadly breathing depression; gabapentin appears in many US overdose deaths.",
-"Per DailyMed, Neurontin capsules are hard capsules (in different colors by strength) and higher-strength tablets are white, elliptical and film-coated.",
+"Per DailyMed, Neurontin capsules are hard capsules (in different colors by strength) and higher-strength tablets are white, elliptical, film-coated and scored.",
 "Gabapentin is absorbed by a gut transporter that saturates and is cleared unchanged by the kidneys with a half-life of about 5 to 7 hours.",
 er="Immediate-release gabapentin is taken several times daily. Gralise is a once-daily gastric-retentive tablet taken with an evening meal, and Horizant is an extended-release prodrug; both give steadier levels and are not interchangeable with regular gabapentin.")
 

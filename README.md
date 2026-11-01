@@ -1,6 +1,6 @@
 # Drugopedia
 
-Drugopedia is an educational, harm-reduction encyclopedia of drugs, written as content for a future iPhone app. It currently covers opioids (prescription, historical, heroin, fentanyl, Lean, atypical, and novel synthetic opioids) and benzodiazepines (prescription and designer). Planned next: muscle relaxants, barbiturates, sedative-hypnotics, gabapentinoids, inhalants, cannabis, anesthetics, and more.
+Drugopedia is an educational, harm-reduction encyclopedia of drugs, written as content for a future iPhone app. It covers opioids, benzodiazepines, other depressants, cannabis, anesthetics and dissociatives, inhalants, stimulants, and synthetic cathinones.
 
 ## Why it exists
 
@@ -22,7 +22,7 @@ The project is written to be fully accessible with screen readers such as VoiceO
 
 ## Categories covered
 
-Opioids (prescription, heroin, fentanyl, rare and historic), atypical opioids, novel synthetic opioids, prescription and designer benzodiazepines, muscle relaxants, barbiturates, sedative-hypnotics, and gabapentinoids.
+Opioids (prescription, heroin, fentanyl, rare and historic), atypical opioids, novel synthetic opioids, prescription and designer benzodiazepines, muscle relaxants, barbiturates, sedative-hypnotics, gabapentinoids, cannabis and cannabinoids (including synthetic and hemp-derived), anesthetics and dissociatives, inhalants, stimulants, and synthetic cathinones. Shared safety pages: opioid overdose, xylazine, benzodiazepines, depressant mixing, cannabis, dissociatives, inhalants, and stimulants/cathinones.
 
 ## Disclaimer
 

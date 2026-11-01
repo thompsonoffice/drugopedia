@@ -7,11 +7,11 @@ from touch import touch
 from lohi import lohi
 from er import er
 import dep_common as DC
-for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo","spec","dep_common","data_dep","data_audit","data_audit2","rewrite"]:
+for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo","spec","dep_common","data_dep","data_audit","data_audit2","rewrite","new_common","data_new"]:
     try: importlib.import_module(m)
     except ModuleNotFoundError as e:
         if e.name!=m: raise
-CATS={"opioid":"Opioids (prescription, heroin, and fentanyl)","atypical":"Atypical opioids","nso":"Novel synthetic opioids","benzo":"Benzodiazepines (prescription)","rcbenzo":"Designer and research-chemical benzodiazepines","relax":"Muscle relaxants","barb":"Barbiturates","hyp":"Sedative-hypnotics (sleep drugs and related)","gaba":"Gabapentinoids"}
+CATS={"opioid":"Opioids (prescription, heroin, and fentanyl)","atypical":"Atypical opioids","nso":"Novel synthetic opioids","benzo":"Benzodiazepines (prescription)","rcbenzo":"Designer and research-chemical benzodiazepines","relax":"Muscle relaxants","barb":"Barbiturates","hyp":"Sedative-hypnotics (sleep drugs and related)","gaba":"Gabapentinoids","cann":"Cannabis and cannabinoids","diss":"Anesthetics and dissociatives","inh":"Inhalants","stim":"Stimulants","cath":"Synthetic cathinones (bath salts)"}
 SAFE={"opioid":("opioid-overdose.md","What an opioid overdose feels and looks like, and what to do"),
 "benzo":("benzodiazepine-safety.md","Benzodiazepine safety: overdose, mixing, blackouts, and withdrawal")}
 TOL={"opioid":"Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.",
@@ -42,10 +42,12 @@ def w(p,s):
 def srcs(d): return "## Sources\n\n"+"\n".join(f"- {s}" for s in d["sources"])+"\n"
 def base(d):
     c=d.get("cat","opioid")
-    return "benzo" if c in("benzo","rcbenzo") else c if c in("relax","barb","hyp","gaba") else "opioid"
+    return "benzo" if c in("benzo","rcbenzo") else c if c in("relax","barb","hyp","gaba","cann","diss","inh","stim","cath") else "opioid"
 for _c in("relax","barb","hyp","gaba"):
     SAFE[_c]=("depressant-mixing.md","Mixing depressants: why combinations kill and what to do")
     TOL[_c]="Tolerance to the pleasant and sleep effects builds with regular use, but tolerance to slowed breathing builds more slowly, so the danger stays. Daily use can lead to dependence, and stopping suddenly can be dangerous."
+import new_common as NC
+SAFE.update(NC.SAFE); TOL.update(NC.TOL)
 counts=0
 for slug,d in D.items():
     b=base(d); sf,st=SAFE[b]
@@ -77,15 +79,15 @@ for slug,d in D.items():
         t=times(slug,r)
         short=[". ".join(x.split(". ")[:2]).rstrip(".")+"." for x in ph]
         rf=d.get("rfeel",{}).get(r,"")
-        rs=f"# {d['name']}: {ROUTES[r][0]}\n\n{d.get('dis',DIS)}\n\n## About this route\n\n{ROUTES[r][1]} For {d['name']}: {note}\n\n## How this route feels different\n\n{rf+' ' if rf else ''}{ROUTE_FEEL[r] if b=='opioid' else BROUTE.get(r,'') if b=='benzo' else DC.DROUTE.get(r,'')}\n\n## Timeline for this route\n\n"
+        rs=f"# {d['name']}: {ROUTES[r][0]}\n\n{d.get('dis',DIS)}\n\n## About this route\n\n{ROUTES[r][1]} For {d['name']}: {note}\n\n## How this route feels different\n\n{rf+' ' if rf else ''}{ROUTE_FEEL[r] if b=='opioid' else BROUTE.get(r,'') if b=='benzo' else NC.RT.get(r,'') if b in NC.NEW else DC.DROUTE.get(r,'')}\n\n## Timeline for this route\n\n"
         rs+=phases("",list(zip(t,short)))
         rs+=f"For the full, detailed description of each phase, see the [general {d['name']} page](../../drugs/{slug}.md).\n\n"
-        rs+=f"## Risks of this route\n\n{RISK[r] if b=='opioid' else BRISK[r] if b=='benzo' else DC.DRISK[r]}\n\n## Overdose note\n\n{d['od']}\n\n{OD if b=='opioid' else BOD if b=='benzo' else DOD}\nRead more: [{st}](../../safety/{sf})."+(" See also [naloxone (Narcan)](../../narcan/naloxone.md)." if b=='opioid' else '')+f"\n\n## Getting help\n\n{SAMHSA}\n\n"+srcs(d)
+        rs+=f"## Risks of this route\n\n{RISK[r] if b=='opioid' else BRISK[r] if b=='benzo' else NC.RK[r] if b in NC.NEW else DC.DRISK[r]}\n\n## Overdose note\n\n{d['od']}\n\n{OD if b=='opioid' else BOD if b=='benzo' else NC.OD[b] if b in NC.NEW else DOD}\nRead more: [{st}](../../safety/{sf})."+(" See also [naloxone (Narcan)](../../narcan/naloxone.md)." if b=='opioid' else '')+f"\n\n## Getting help\n\n{SAMHSA}\n\n"+srcs(d)
         w(f"routes/{r}/{slug}.md",rs)
 print(len(D),"drugs",counts,"route entries")
 ix="# Drugopedia index\n\n## Safety\n\n- [Opioid overdose: what it feels like, looks like, and what to do](safety/opioid-overdose.md)\n- [Xylazine (tranq) safety](safety/xylazine.md)\n\n## Overdose reversal medicines\n\n- [Naloxone (Narcan)](narcan/naloxone.md)\n- [Nalmefene (Opvee)](narcan/nalmefene.md)\n"
 if os.path.exists("safety/benzodiazepine-safety.md"): ix+="- [Benzodiazepine safety](safety/benzodiazepine-safety.md)\n"
-ix+="- [Mixing depressants](safety/depressant-mixing.md)\n"
+ix+="- [Mixing depressants](safety/depressant-mixing.md)\n- [Cannabis safety](safety/cannabis-safety.md)\n- [Dissociative safety](safety/dissociative-safety.md)\n- [Inhalant safety](safety/inhalant-safety.md)\n- [Stimulant and cathinone safety](safety/stimulant-safety.md)\n"
 for c,cn in CATS.items():
     L=[k for k,d in D.items() if d.get("cat","opioid")==c]
     if not L: continue

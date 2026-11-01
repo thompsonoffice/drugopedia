@@ -1,0 +1,123 @@
+# Lisdexamfetamine (Vyvanse)
+
+> Educational harm-reduction content. Not medical advice, not a guide to use. Nothing here gives amounts, preparation, or sourcing. Street products are often mislabeled or contaminated, including with fentanyl.
+
+## At a glance
+
+Prodrug converted to dextroamphetamine in the blood.
+
+**Brand and street names:** Vyvanse (capsules and chewables).
+
+## History and origins
+
+Developed by New River Pharmaceuticals and approved in 2007 for ADHD, and in 2015 for binge-eating disorder.
+
+## Medical use, then and now
+
+ADHD and moderate-to-severe binge-eating disorder.
+
+## How it entered recreational use
+
+Less misused than IR amphetamine because the prodrug design slows onset by any route, but still misused for focus.
+
+## Legal status
+
+US Schedule II.
+
+## Immediate-release vs extended-release
+
+Vyvanse is long-acting by its chemistry (a prodrug), not by a coating, so it releases steadily however it is taken; higher amounts still cause harm.
+
+## What the pills feel like
+
+Per DailyMed, Vyvanse capsules have colored caps and bodies printed 'S489' with the strength; chewables are round and imprinted 'S489'.
+
+**Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
+
+## What it feels like
+
+### The character of its effects
+
+Vyvanse feels smoother and longer than Adderall: a gradual rise into steady focus and energy, with a gentler comedown.
+
+Side effects include low appetite, insomnia, dry mouth, anxiety and raised heart rate.
+
+Because red blood cells must convert it, other routes do not make it faster, but higher amounts still cause stimulant toxicity.
+
+Tolerance to the euphoria builds quickly, while the heart and blood-pressure effects remain. Regular users often chase the first high and use more often.
+
+### Timeline
+
+Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
+
+### Onset (1-2 h)
+
+Effects start about 1 to 2 hours after swallowing.
+
+Medically, the onset reflects how fast the drug reaches the brain. Lisdexamfetamine is converted to dextroamphetamine by enzymes in red blood cells. Rising dopamine and noradrenaline increase alertness, heart rate and blood pressure.
+
+Early signs include widened pupils, a faster pulse, dry mouth, jaw tension and reduced appetite.
+
+### Come-up (2-3 h)
+
+A gradual lift in focus.
+
+### Peak (3-4 h)
+
+Peak around 3 to 4 hours.
+
+Medically, the peak is when heart rate, blood pressure and body temperature are highest. This is when heart attack, stroke, dangerous heart rhythms and overheating are most likely, especially with exertion, heat, or other stimulants.
+
+High levels can cause anxiety, paranoia, repetitive behaviors and psychosis. Stimulant overdose has no antidote like naloxone, but cooling, calming and emergency care save lives; many 'stimulant' deaths now also involve fentanyl.
+
+### Plateau (10-14 h)
+
+Steady effects for 10 to 14 hours.
+
+### Comedown (12-14 h)
+
+Gentle comedown in the evening.
+
+As levels fall, the 'crash' brings fatigue, low mood, irritability and hunger, often with poor sleep.
+
+After binges, the crash can last days, with depression and strong cravings. Repeated use can cause dependence, weight loss, dental problems and heart damage.
+
+### After-effects (14-24 h)
+
+Insomnia if taken late.
+
+### Next day
+
+Next-day fatigue after heavy use.
+
+### Lower vs higher doses (described without amounts)
+
+At lower doses stimulants increase alertness, focus, energy and confidence and reduce appetite. At higher doses euphoria, talkativeness, restlessness, jaw clenching, sweating, a pounding heart and anxiety increase. At very high levels, paranoia, hallucinations, overheating, chest pain, seizures, heart attack and stroke can occur.
+
+### Why the same amount affects people differently
+
+Why the same amount affects people differently: tolerance, body size, genetics, heart health, mental health history, sleep, heat, hydration, and other drugs (including antidepressants and alcohol) all change the effect. Street products vary hugely in strength and content.
+
+## How the route changes the experience
+
+- [Oral (swallowed)](../routes/oral/lisdexamfetamine.md): Capsules and chewable tablets.
+
+Not covered: Other routes are not covered.
+
+## Overdose note for Lisdexamfetamine (Vyvanse)
+
+Overdose causes the same emergencies as amphetamine, delayed by several hours.
+
+Read the shared page: [Stimulant safety: overheating, heart risks, psychosis, fentanyl contamination](../safety/stimulant-safety.md).
+
+## Getting help
+
+SAMHSA National Helpline: **1-800-662-4357** (free, confidential, 24/7, English and Spanish). In an emergency, call **911**.
+
+## Sources
+
+- DailyMed: Vyvanse label
+- NIDA DrugFacts
+- DEA Drugs of Abuse (2024 edition)
+- DailyMed prescribing information
+- StatPearls (NCBI Bookshelf)

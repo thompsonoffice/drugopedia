@@ -1,0 +1,122 @@
+# Research-chemical dissociatives (3-MeO-PCP, 2-FDCK, deschloroketamine, diphenidine and others)
+
+> Educational harm-reduction content. Not medical advice, not a guide to use. Nothing here gives amounts, preparation, or sourcing. Street products are often mislabeled or contaminated, including with fentanyl.
+
+## At a glance
+
+Designer NMDA antagonists.
+
+**Brand and street names:** 3-MeO-PCP, 3-MeO-PCE, 2-fluorodeschloroketamine (2-FDCK), deschloroketamine (DCK), O-PCE, diphenidine, ephenidine.
+
+## History and origins
+
+After MXE was banned, new analogs of PCP and ketamine appeared from about 2012 onward, each sold until it was controlled.
+
+## Medical use, then and now
+
+None.
+
+## How it entered recreational use
+
+Sold as 'legal ketamine' or research chemicals, and sometimes sold as ketamine itself.
+
+## Legal status
+
+Many are Schedule I in the US (3-MeO-PCP since 2020) or controlled in Europe; others fall under analog laws.
+
+## What the products look and feel like
+
+Usually unlabeled white powders. Street and online products are frequently mislabeled; lab testing services have found products with different drugs or none of the advertised one.
+
+**Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
+
+## What it feels like
+
+### The character of its effects
+
+These drugs vary widely: PCP analogs like 3-MeO-PCP are stimulating and long-lasting, with risks of mania and psychosis; ketamine analogs like 2-FDCK feel closer to ketamine.
+
+Potency varies hugely between analogs.
+
+Hospital reports describe agitation, high blood pressure, fast heart rate, seizures and deaths, particularly with 3-MeO-PCP.
+
+Tolerance to dissociatives builds quickly, and ketamine tolerance leads people to use more, raising the risk of bladder and memory damage.
+
+### Timeline
+
+Times below are typical for the intranasal (nasal sprays and snorting) route and vary a lot between people. Other routes change the timing; see the route pages.
+
+### Onset (5-30 min)
+
+Onset varies by drug, from minutes to an hour.
+
+Medically, the onset reflects how quickly the drug reaches the brain. All block NMDA receptors, with differing potencies. As NMDA receptors are blocked, signals from the senses stop being integrated normally, so the body feels distant and numb.
+
+Early signs include unsteady walking, slurred speech, numbness, a faster heartbeat and raised blood pressure (for NMDA blockers), and nystagmus (jerky eye movements).
+
+### Come-up (15-60 min)
+
+Detachment and stimulation build.
+
+### Peak (1-3 h)
+
+Peaks may last several hours.
+
+Medically, the peak is maximal dissociation: perception, body awareness and memory are profoundly altered, and at high levels people may be unable to move or respond (the 'K-hole' for ketamine). Pain is not felt, so injuries go unnoticed.
+
+Dangers at the peak include falls, drowning, choking on vomit, and, with alcohol or other depressants, breathing problems. PCP and DXM can cause agitation, high body temperature and violence; propofol and etomidate stop breathing easily.
+
+### Plateau (2-4 h)
+
+Long plateau with PCP analogs.
+
+### Comedown (4-12 h)
+
+Comedown can last into the next day.
+
+As levels fall, people 'come back' gradually, often confused, nauseated and unsteady, with disjointed memories.
+
+Repeated ketamine use damages the bladder (ketamine cystitis) and can harm memory; regular dissociative use can cause lasting low mood and, in some, psychosis.
+
+### After-effects (12-24 h)
+
+Insomnia, low mood, confusion.
+
+### Next day
+
+Lingering effects for a day or more.
+
+### Lower vs higher doses (described without amounts)
+
+At lower doses dissociatives bring numbness, lightness, mild euphoria and dreamy detachment. At higher doses, the body feels far away, movement becomes difficult, and vision and sound distort. At still higher levels, people lose contact with surroundings entirely, cannot move or respond, and are at risk of injury, vomiting and choking, with breathing danger when combined with depressants.
+
+Because each analog has a different potency, an amount that feels mild with one can be overwhelming with another.
+
+### Why the same amount affects people differently
+
+Why the same amount affects people differently: tolerance, body size, genetics, heart health, mental health history, sleep, heat, hydration, and other drugs (including antidepressants and alcohol) all change the effect. Street products vary hugely in strength and content.
+
+## How the route changes the experience
+
+- [Intranasal (nasal sprays and snorting)](../routes/intranasal/rc-dissociatives.md): Snorted.
+- [Oral (swallowed)](../routes/oral/rc-dissociatives.md): Swallowed.
+
+Not covered: Other routes are not covered.
+
+## Overdose note for Research-chemical dissociatives (3-MeO-PCP, 2-FDCK, deschloroketamine, diphenidine and others)
+
+Severe poisonings and deaths are reported, especially with 3-MeO-PCP.
+
+Read the shared page: [Dissociative safety: K-holes, injuries, bladder damage, mixing](../safety/dissociative-safety.md).
+
+## Getting help
+
+SAMHSA National Helpline: **1-800-662-4357** (free, confidential, 24/7, English and Spanish). In an emergency, call **911**.
+
+## Sources
+
+- Bäckberg M. et al. Intoxications of the new psychoactive substance 3-MeO-PCP. J Med Toxicol 2015
+- NIDA DrugFacts and Research Reports
+- DEA Drugs of Abuse (2024 edition)
+- StatPearls (NCBI Bookshelf)
+- PsychonautWiki
