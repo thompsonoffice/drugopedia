@@ -48,9 +48,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-The 2C family (2C-I, 2C-E, 2C-T-2, 2C-T-7, 2C-C and others) varies widely, but many share a heavy 'body load' at onset: nausea, muscle tension, a tight jaw, goosebumps and a jittery, buzzing energy.
+The 2C family (2C-I, 2C-E, 2C-T-2, 2C-T-7, 2C-C and others) varies widely, but many share a heavy 'body load' at onset: nausea, muscle tension, a tight jaw, goosebumps and a jittery, buzzing energy. The 2C family (2C-E, 2C-I, 2C-T-7, 2C-P and others) varies widely: some come on within an hour, others creep in over two or three, which tempts people to take more too early. Nausea, chills, yawning and a heavy, tense stomach are common as the body adjusts, and pupils widen.
 
-Mentally the onset brings anticipation and a slowly building intensity, sometimes with anxiety before the visuals arrive.
+Mentally the onset brings anticipation and a slowly building intensity, sometimes with anxiety before the visuals arrive. Mentally the onset may feel anxious and uncertain before it settles.
 
 Effects, strength and duration differ greatly between compounds, and amounts that are mild for one can be overwhelming for another.
 
@@ -76,19 +76,19 @@ At peak, strong 5-HT2A effects; seizures and overheating are reported with some 
 
 ### Plateau (3-6 h)
 
-The plateau is long.
+The plateau of 2C compounds lasts many hours depending on the specific drug, with strong visuals, a heavy or buzzing body and a sense that effects are firmly 'locked in'. 2C-E and 2C-P are known for a long, intense, sometimes grinding plateau with body load; 2C-I is more stimulating; 2C-T-7 carries more body discomfort and has been linked to deaths.
 
-Body discomfort and tension can persist.
+Mood can be euphoric, introspective or overwhelmed, and thinking may loop, with difficult themes surfacing. Communication can become hard, and people may feel trapped in the experience because the long duration is underestimated.
 
-Fatigue grows as the hours pass.
+Overheating, rising blood pressure and agitation are risks at higher amounts, and combining with stimulants, MDMA or MAO inhibitors (with 2C-T compounds especially) is dangerous.
 
 ### Comedown (6-12 h)
 
-The comedown is slow, with lingering stimulation.
+The comedown is long and gradual, with residual visuals and stimulation lingering for hours. The body feels drained, achy and tense, sometimes with a headache, sore jaw or upset stomach. Faint color shifts and trails may still flicker when the eyes close, and the skin can feel prickly or oversensitive.
 
-Mood mixed, often tired.
+Mood may be calm and reflective or flat, anxious and irritable, especially after a grinding plateau. Many feel mentally worn out and want quiet and darkness, and some describe feeling emotionally raw for a day.
 
-Mixing with other drugs is dangerous.
+Sleep is often delayed into the night. Because doses differ greatly between 2C compounds and product identity is uncertain, misjudged amounts are a common cause of emergencies.
 
 Durations vary widely, up to many hours.
 

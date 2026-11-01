@@ -48,7 +48,7 @@ Times below are typical for the sublingual and buccal (under the tongue or in th
 
 ### Onset (15-60 min)
 
-NBOMe compounds (like 25I-NBOMe, often sold as fake LSD on blotter) frequently start with a bitter, metallic or numbing taste on the tongue; LSD itself is tasteless, so this is a key warning sign. The onset brings strong stimulation: a racing heart, tight muscles, cold hands and feet and a tense, edgy body.
+NBOMe compounds (like 25I-NBOMe, often sold as fake LSD on blotter) frequently start with a bitter, metallic or numbing taste on the tongue; LSD itself is tasteless, so this is a key warning sign. The onset brings strong stimulation: a racing heart, tight muscles, cold hands and feet and a tense, edgy body. A bitter, numbing or metallic taste on blotter is a classic warning sign of NBOMe rather than LSD. The body may feel tight, cold or jittery, with a racing heart, flushed skin and a vasoconstricted, tingling feeling in the hands and feet.
 
 Mentally the rise feels edgy and intense rather than gently opening, with anxiety often building alongside the visuals.
 
@@ -64,7 +64,7 @@ Visuals and stimulation.
 
 ### Peak (2-4 h)
 
-At the peak there are intense, sharp visuals with a harsh, stimulating body load, often described as 'dirty' compared with LSD.
+At the peak there are intense, sharp visuals with a harsh, stimulating body load, often described as 'dirty' compared with LSD. The body often feels tense and overstimulated, with a pounding heart, rising temperature, jaw clenching and restlessness. Visuals are sharp and intense but can feel harsh or chaotic. Seizures, dangerous hyperthermia, severe agitation and heart problems are recognized emergencies, and deaths have occurred even at small amounts.
 
 Emotionally it can tip into confusion, paranoia and agitation, sometimes violent.
 
@@ -76,19 +76,19 @@ Rhabdomyolysis and kidney failure follow severe cases.
 
 ### Plateau (4-6 h)
 
-The plateau is long and uncomfortable for many, with persistent tension.
+The NBOMe plateau can last many hours, with continued sharp visuals, a tense, buzzing body and persistent stimulation. Vasoconstriction may cause cold, discolored or painful fingers and toes, and the heart may stay fast. Some feel nauseous or unable to get comfortable.
 
-Thinking agitated and hard to calm.
+Mentally people often describe it as cluttered, confusing or anxious rather than insightful, with paranoia or panic possible. Confusion can lead to dangerous behavior, and some people become aggressive or unresponsive.
 
-Medical help may be needed.
+Anyone with seizures, severe agitation, chest pain, high temperature or confusion needs emergency care. NBOMes are often sold as LSD, and their risk profile is far more dangerous.
 
 ### Comedown (6-10 h)
 
-The comedown is draining, with exhaustion and muscle soreness.
+The comedown is long and often uncomfortable, with lingering stimulation, a sore, tense body, headache, and difficulty relaxing. Hands and feet may stay cold and tingly, and the stomach can feel unsettled. Residual jaw tension, muscle soreness and a racing pulse may persist for hours, and any chest discomfort should be checked.
 
-Mood anxious or low.
+Mood is often drained, anxious or flat, and many people report confusion or a sense that the experience was hollow or harsh rather than meaningful. Some feel shaky and frightened about what happened.
 
-Fentanyl test strips do not detect NBOMes; reagent tests can help distinguish them from LSD.
+Sleep can be badly disrupted. Because of the narrow safety margin, any concerning symptoms during or after use warrant medical attention without delay.
 
 Effects last several hours.
 

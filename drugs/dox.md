@@ -48,9 +48,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-3 h)
 
-DOx compounds (DOM, DOB, DOC, DOI) have a very slow onset, sometimes hours, which leads people to take more before the first has taken effect. Body stimulation and tension build gradually: a tight jaw, cold extremities, restlessness and a growing buzz.
+DOx compounds (DOM, DOB, DOC, DOI) have a very slow onset, sometimes hours, which leads people to take more before the first has taken effect. Body stimulation and tension build gradually: a tight jaw, cold extremities, restlessness and a growing buzz. DOx compounds (DOM, DOB, DOC, DOI) are very slow to begin, sometimes taking several hours to be felt, which makes people believe nothing has happened and take more. The body may feel stimulated, tense and cold, with nausea, rising heart rate and a tight jaw.
 
-Mentally a slow, building intensity, sometimes with impatience or anxiety.
+Mentally a slow, building intensity, sometimes with impatience or anxiety. Mentally the onset may be confusing, as subtle changes accumulate unnoticed.
 
 Pupils widen and the jaw may clench.
 
@@ -64,7 +64,7 @@ Slow build.
 
 ### Peak (4-8 h)
 
-At the peak there are strong visuals and stimulation, often for many hours, with a physical edginess like amphetamine.
+At the peak there are strong visuals and stimulation, often for many hours, with a physical edginess like amphetamine. Body stimulation is strong. Pupils are wide and the jaw stays tight.
 
 Emotionally intense; can be euphoric or anxious and exhausting.
 
@@ -76,19 +76,19 @@ Very long duration increases exhaustion and risk.
 
 ### Plateau (8-14 h)
 
-The plateau can last most of a day or more.
+The DOx plateau is extremely long, often lasting most of a day or more, with steady visuals, a stimulated body and persistent alertness. Vasoconstriction can cause cold hands and feet, muscle tension and aching, and the heart may stay fast for many hours.
 
-Exhaustion grows while sleep remains impossible.
+Mood varies between euphoric, introspective and exhausted, and people may feel worn down by the sheer length of the experience. Thinking can loop, and fatigue combined with stimulation creates a wired, tired feeling.
 
-Sleep is very difficult.
+Overheating, severe vasoconstriction, seizures and heart strain are dangers at higher amounts. DOx substances are sometimes sold as LSD, and their long duration and slow onset make misjudgment dangerous.
 
 ### Comedown (14-24 h)
 
-The comedown is very long, often into the next day.
+The comedown is drawn out, with stimulation persisting well into the next day. The body feels exhausted yet restless, with muscle aches, headache, sore jaw and a poor appetite. Faint visuals may linger at the edges of vision, and the skin often feels clammy, cold or oversensitive.
 
-Mood drained and frazzled.
+Mood may be flat, irritable, anxious or quietly relieved that it is over, and many people find concentration difficult for a day or more. Some feel emotionally drained and need extended rest.
 
-Dangerous with other drugs.
+Sleep is often impossible until the next night. Planning for a very long experience, with no responsibilities or travel, matters, and emergency signs need immediate medical care.
 
 Effects can last a day or more.
 

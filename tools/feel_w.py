@@ -441,3 +441,50 @@ Y("2c-b","comedown","Appetite usually returns as the stimulation fades, and many
 Y("2c-b","comedown","Fatigue and low mood the next day are usually mild.",1)
 for k,v in F.items():
     if k in D: D[k]["feel"]=v
+
+# ---- Depth pass 3 ----
+def PL(n,a,b,c): F[n]["plateau"]=[a,b,c]
+def CD(n,a,b,c): F[n]["comedown"]=[a,b,c]
+Y("2c-x","onset","The 2C family (2C-E, 2C-I, 2C-T-7, 2C-P and others) varies widely: some come on within an hour, others creep in over two or three, which tempts people to take more too early. Nausea, chills, yawning and a heavy, tense stomach are common as the body adjusts, and pupils widen.",0)
+Y("2c-x","onset","Mentally the onset may feel anxious and uncertain before it settles.",1)
+PL("2c-x","The plateau of 2C compounds lasts many hours depending on the specific drug, with strong visuals, a heavy or buzzing body and a sense that effects are firmly 'locked in'. 2C-E and 2C-P are known for a long, intense, sometimes grinding plateau with body load; 2C-I is more stimulating; 2C-T-7 carries more body discomfort and has been linked to deaths.",
+"Mood can be euphoric, introspective or overwhelmed, and thinking may loop, with difficult themes surfacing. Communication can become hard, and people may feel trapped in the experience because the long duration is underestimated.",
+"Overheating, rising blood pressure and agitation are risks at higher amounts, and combining with stimulants, MDMA or MAO inhibitors (with 2C-T compounds especially) is dangerous.")
+CD("2c-x","The comedown is long and gradual, with residual visuals and stimulation lingering for hours. The body feels drained, achy and tense, sometimes with a headache, sore jaw or upset stomach.",
+"Mood may be calm and reflective or flat, anxious and irritable, especially after a grinding plateau. Many feel mentally worn out and want quiet and darkness, and some describe feeling emotionally raw for a day.",
+"Sleep is often delayed into the night. Because doses differ greatly between 2C compounds and product identity is uncertain, misjudged amounts are a common cause of emergencies.")
+Y("nbome","onset","A bitter, numbing or metallic taste on blotter is a classic warning sign of NBOMe rather than LSD. The body may feel tight, cold or jittery, with a racing heart, flushed skin and a vasoconstricted, tingling feeling in the hands and feet.",0)
+Y("nbome","peak","The body often feels tense and overstimulated, with a pounding heart, rising temperature, jaw clenching and restlessness. Visuals are sharp and intense but can feel harsh or chaotic. Seizures, dangerous hyperthermia, severe agitation and heart problems are recognized emergencies, and deaths have occurred even at small amounts.",0)
+PL("nbome","The NBOMe plateau can last many hours, with continued sharp visuals, a tense, buzzing body and persistent stimulation. Vasoconstriction may cause cold, discolored or painful fingers and toes, and the heart may stay fast. Some feel nauseous or unable to get comfortable.",
+"Mentally people often describe it as cluttered, confusing or anxious rather than insightful, with paranoia or panic possible. Confusion can lead to dangerous behavior, and some people become aggressive or unresponsive.",
+"Anyone with seizures, severe agitation, chest pain, high temperature or confusion needs emergency care. NBOMes are often sold as LSD, and their risk profile is far more dangerous.")
+CD("nbome","The comedown is long and often uncomfortable, with lingering stimulation, a sore, tense body, headache, and difficulty relaxing. Hands and feet may stay cold and tingly, and the stomach can feel unsettled.",
+"Mood is often drained, anxious or flat, and many people report confusion or a sense that the experience was hollow or harsh rather than meaningful. Some feel shaky and frightened about what happened.",
+"Sleep can be badly disrupted. Because of the narrow safety margin, any concerning symptoms during or after use warrant medical attention without delay.")
+Y("dox","onset","DOx compounds (DOM, DOB, DOC, DOI) are very slow to begin, sometimes taking several hours to be felt, which makes people believe nothing has happened and take more. The body may feel stimulated, tense and cold, with nausea, rising heart rate and a tight jaw.",0)
+Y("dox","onset","Mentally the onset may be confusing, as subtle changes accumulate unnoticed.",1)
+Y("dox","peak","Body stimulation is strong.",0)
+PL("dox","The DOx plateau is extremely long, often lasting most of a day or more, with steady visuals, a stimulated body and persistent alertness. Vasoconstriction can cause cold hands and feet, muscle tension and aching, and the heart may stay fast for many hours.",
+"Mood varies between euphoric, introspective and exhausted, and people may feel worn down by the sheer length of the experience. Thinking can loop, and fatigue combined with stimulation creates a wired, tired feeling.",
+"Overheating, severe vasoconstriction, seizures and heart strain are dangers at higher amounts. DOx substances are sometimes sold as LSD, and their long duration and slow onset make misjudgment dangerous.")
+CD("dox","The comedown is drawn out, with stimulation persisting well into the next day. The body feels exhausted yet restless, with muscle aches, headache, sore jaw and a poor appetite.",
+"Mood may be flat, irritable, anxious or quietly relieved that it is over, and many people find concentration difficult for a day or more. Some feel emotionally drained and need extended rest.",
+"Sleep is often impossible until the next night. Planning for a very long experience, with no responsibilities or travel, matters, and emergency signs need immediate medical care.")
+Y("ibogaine","onset","Ataxia, dizziness and nausea often arrive early, with vomiting common and walking unsteady. A low hum or buzzing sound in the ears is frequently described, and the heart rhythm may already be affected.",0)
+Y("ibogaine","peak","Ibogaine prolongs the QT interval of the heart and has caused fatal arrhythmias, especially in people with heart disease, low potassium or magnesium, or those still using opioids.",2)
+PL("ibogaine","The ibogaine plateau, sometimes called the evaluative or reflective phase, can last many hours after the dreamlike visions fade. The body is heavy, weak and uncoordinated, with ongoing nausea, sensitivity to light and sound, and difficulty standing. The heart remains under strain, so cardiac monitoring matters throughout.",
+"Mentally people often review their life, behavior and relationships with unusual detachment, and many describe intense insight, guilt, grief or resolve. The mind can stay racing and alert, with difficulty sleeping, even as the body is exhausted.",
+"Opioid withdrawal is often dramatically reduced for some, which is why ibogaine is used in addiction treatment clinics abroad, but this does not remove risk. Medical supervision with ECG monitoring is strongly advised.")
+CD("ibogaine","The comedown, sometimes called residual stimulation, may last a day or more, with insomnia, fatigue, muscle weakness, unsteady gait and continued lack of appetite. Heart rhythm risks can persist, and deaths have occurred days after ingestion.",
+"Mood is often reflective and fragile, with some feeling renewed and motivated and others anxious, low or confused. Many describe a heightened clarity mixed with exhaustion and an altered sense of time.",
+"Recovery can take several days. Opioid tolerance may drop sharply, so resuming opioids at previous amounts carries a serious overdose risk.")
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v
+Y("2c-x","comedown","Faint color shifts and trails may still flicker when the eyes close, and the skin can feel prickly or oversensitive.",0)
+Y("nbome","comedown","Residual jaw tension, muscle soreness and a racing pulse may persist for hours, and any chest discomfort should be checked.",0)
+Y("dox","peak","Pupils are wide and the jaw stays tight.",0)
+Y("dox","comedown","Faint visuals may linger at the edges of vision, and the skin often feels clammy, cold or oversensitive.",0)
+Y("ibogaine","onset","The mind becomes inward.",1)
+Y("ibogaine","comedown","Light and noise may still feel harsh, and many people need help moving around safely.",0)
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v

@@ -48,9 +48,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-3 h)
 
-Ibogaine, from the root bark of the West African iboga shrub, comes on slowly with nausea, dizziness, and a heavy, uncoordinated body. Moving the head makes nausea and spinning worse, and a buzzing, droning or ringing sound is common. Many people lie still for hours.
+Ibogaine, from the root bark of the West African iboga shrub, comes on slowly with nausea, dizziness, and a heavy, uncoordinated body. Moving the head makes nausea and spinning worse, and a buzzing, droning or ringing sound is common. Many people lie still for hours. Ataxia, dizziness and nausea often arrive early, with vomiting common and walking unsteady. A low hum or buzzing sound in the ears is frequently described, and the heart rhythm may already be affected.
 
-Mentally a dreamlike state begins, with closed-eye visions that feel like watching a film.
+Mentally a dreamlike state begins, with closed-eye visions that feel like watching a film. The mind becomes inward.
 
 Coordination becomes very poor and walking can be impossible without help.
 
@@ -68,7 +68,7 @@ At the peak, long, vivid, dreamlike visions, often of personal memories, childho
 
 Emotionally the experience is confronting and introspective rather than euphoric; it is studied for opioid addiction because it can reduce withdrawal and craving.
 
-Ibogaine can cause dangerous heart rhythm problems (QT prolongation) and has caused many deaths, especially in people using opioids or with heart conditions. It requires medical screening and cardiac monitoring.
+Ibogaine can cause dangerous heart rhythm problems (QT prolongation) and has caused many deaths, especially in people using opioids or with heart conditions. It requires medical screening and cardiac monitoring. Ibogaine prolongs the QT interval of the heart and has caused fatal arrhythmias, especially in people with heart disease, low potassium or magnesium, or those still using opioids.
 
 At peak, ibogaine blocks cardiac hERG potassium channels, lengthening the QT interval and risking torsades de pointes and sudden death.
 
@@ -76,19 +76,19 @@ Medical screening (ECG, electrolytes) and monitoring are essential; deaths have 
 
 ### Plateau (8-20 h)
 
-The plateau is a long, reflective stretch of processing, lasting a day or more.
+The ibogaine plateau, sometimes called the evaluative or reflective phase, can last many hours after the dreamlike visions fade. The body is heavy, weak and uncoordinated, with ongoing nausea, sensitivity to light and sound, and difficulty standing. The heart remains under strain, so cardiac monitoring matters throughout.
 
-The mind works through memories and decisions.
+Mentally people often review their life, behavior and relationships with unusual detachment, and many describe intense insight, guilt, grief or resolve. The mind can stay racing and alert, with difficulty sleeping, even as the body is exhausted.
 
-People are exhausted but often cannot sleep.
+Opioid withdrawal is often dramatically reduced for some, which is why ibogaine is used in addiction treatment clinics abroad, but this does not remove risk. Medical supervision with ECG monitoring is strongly advised.
 
 ### Comedown (20-36 h)
 
-The comedown lasts a day or more, with fatigue and poor coordination.
+The comedown, sometimes called residual stimulation, may last a day or more, with insomnia, fatigue, muscle weakness, unsteady gait and continued lack of appetite. Heart rhythm risks can persist, and deaths have occurred days after ingestion. Light and noise may still feel harsh, and many people need help moving around safely.
 
-Mood reflective, tired, sometimes low.
+Mood is often reflective and fragile, with some feeling renewed and motivated and others anxious, low or confused. Many describe a heightened clarity mixed with exhaustion and an altered sense of time.
 
-Cardiac risk persists for days after.
+Recovery can take several days. Opioid tolerance may drop sharply, so resuming opioids at previous amounts carries a serious overdose risk.
 
 Noribogaine persists for days, extending heart risk.
 
