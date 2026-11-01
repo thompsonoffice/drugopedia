@@ -52,7 +52,7 @@ Methyprylon (Noludar), a sleep drug from the 1950s now discontinued, brought a g
 
 Mentally it brought a calm, sleepy fog with slowed thoughts and fading anxiety, sometimes with a slight drunk-like looseness before sleep took over.
 
-Coordination slowed, speech softened and became slurred, and some people felt dizzy or nauseated. It was promoted as a non-barbiturate, but felt much the same.
+Coordination slowed, speech softened and became slurred, and some people felt dizzy or nauseated. It was promoted as a non-barbiturate, but felt much the same. It acted within an hour.
 
 Medically, the onset reflects absorption and entry into the brain. Methyprylon was processed by the liver. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -68,7 +68,7 @@ At the peak there was strong sedation, clumsiness and a powerful pull toward sle
 
 Emotionally it was dull and drowsy, with memory gaps and little awareness of time. Some people became confused or briefly excited before sleep, particularly older adults.
 
-Overdose caused coma, low blood pressure, slowed breathing and sometimes shock, similar to barbiturate poisoning, and was more dangerous with alcohol.
+Overdose caused coma, low blood pressure, slowed breathing and sometimes shock, similar to barbiturate poisoning, and was more dangerous with alcohol. Reflexes slowed.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 

@@ -675,3 +675,7 @@ for n,p,t,i in [
     Y(n,p,t,i)
 for k,v in F.items():
     if k in D: D[k]["feel"]=v
+for n,p,t in [("glutethimide","plateau","Sleep was restless."),("methyprylon","onset","It acted within an hour."),("methyprylon","peak","Reflexes slowed."),("phenibut","plateau","Appetite may fall."),("phenibut","comedown","Tapering is safest."),("mirogabalin","onset","Effects are steady."),("mirogabalin","plateau","Naps are common in this stage."),("mirogabalin","comedown","Doctors adjust it gradually.")]:
+    Y(n,p,t,2)
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v

@@ -80,7 +80,7 @@ The glutethimide plateau was very long, often many hours, because the drug was s
 
 Thinking was muddled and confused, memory patchy, and judgment badly impaired. Some people became disoriented or saw things at the edge of vision, reflecting the anticholinergic effects.
 
-Effects could return after seeming to fade, as the drug was released from fat stores, which made overdoses especially treacherous and confused doctors trying to judge recovery. Pulse stayed fast. Urine retention was common.
+Effects could return after seeming to fade, as the drug was released from fat stores, which made overdoses especially treacherous and confused doctors trying to judge recovery. Pulse stayed fast. Urine retention was common. Sleep was restless.
 
 ### Comedown (many hours)
 

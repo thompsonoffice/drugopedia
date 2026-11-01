@@ -80,7 +80,7 @@ The phenibut plateau is very long, often most of a day, which surprises people u
 
 Mood stays calm and sociable, then turns drowsy, and sleep that night can be very heavy. Concentration on detailed tasks is poor, and judgment loosened. Some people feel a pleasant, drowsy afterglow, while others become clumsy and nauseated.
 
-Because effects are delayed, people may take more before the first amount has peaked, leading to unexpected oversedation many hours later.
+Because effects are delayed, people may take more before the first amount has peaked, leading to unexpected oversedation many hours later. Appetite may fall.
 
 ### Comedown (15-24 h total)
 
@@ -88,7 +88,7 @@ The comedown often brings next-day rebound anxiety, irritability, restlessness a
 
 Mood can dip noticeably, with low mood, edginess or a sense of fragility, which makes taking more tempting and is how daily use develops. Many people say the morning after feels like a hangover.
 
-Daily use quickly builds dependence, and withdrawal can be severe: intense anxiety, insomnia, agitation, tremor, hallucinations and sometimes psychosis, often requiring medical help and a slow taper.
+Daily use quickly builds dependence, and withdrawal can be severe: intense anxiety, insomnia, agitation, tremor, hallucinations and sometimes psychosis, often requiring medical help and a slow taper. Tapering is safest.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

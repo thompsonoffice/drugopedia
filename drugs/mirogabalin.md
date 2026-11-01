@@ -52,7 +52,7 @@ Mirogabalin (Tarlige), approved in Japan and parts of Asia for nerve pain such a
 
 Mentally there is a quiet calm and slight slowing, generally without the noticeable euphoria some people get from pregabalin. Many simply notice they feel sleepier and that pain is less intrusive.
 
-Unsteadiness, fatigue and, with regular use, swelling of the legs and weight gain are reported. It is usually taken twice a day.
+Unsteadiness, fatigue and, with regular use, swelling of the legs and weight gain are reported. It is usually taken twice a day. Effects are steady.
 
 Medically, the onset reflects slow and variable absorption. Mirogabalin is cleared mostly by the kidneys with a half-life of about 3 hours. Gabapentin is absorbed by a transporter in the gut that saturates, so more is not absorbed in proportion; pregabalin is absorbed more fully and quickly.
 
@@ -80,7 +80,7 @@ The mirogabalin plateau is a steady mild sedation lasting several hours, with a 
 
 Thinking is slightly slowed, with some forgetfulness or difficulty focusing, but confusion is uncommon at usual amounts. Mood stays calm and neutral. Some people feel more tired than usual.
 
-Falls are a risk, especially in older adults, and driving should wait until the person knows how it affects them.
+Falls are a risk, especially in older adults, and driving should wait until the person knows how it affects them. Naps are common in this stage.
 
 ### Comedown (about 12 h)
 
@@ -88,7 +88,7 @@ The comedown is mild tiredness as the dose wears off, sometimes with returning p
 
 Mood is mostly unchanged, though a few people notice mild irritability or low mood, and any suicidal thoughts should be reported promptly. Its misuse potential appears low.
 
-Stopping suddenly after regular use may cause withdrawal symptoms such as insomnia, anxiety, nausea and sweating, so it is usually tapered under medical guidance.
+Stopping suddenly after regular use may cause withdrawal symptoms such as insomnia, anxiety, nausea and sweating, so it is usually tapered under medical guidance. Doctors adjust it gradually.
 
 As levels fall, dizziness and sedation fade over several hours. Sleep is often deep.
 
