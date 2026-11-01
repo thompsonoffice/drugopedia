@@ -1,0 +1,93 @@
+# Meperidine (pethidine, Demerol)
+
+> Educational harm-reduction content. Not medical advice, not a guide to use. Nothing here gives amounts, preparation, or sourcing. Any opioid can cause fatal overdose, and street drugs are frequently contaminated with fentanyl.
+
+## At a glance
+
+Synthetic phenylpiperidine opioid; full mu agonist with anticholinergic and serotonergic effects.
+
+**Brand and street names:** Demerol, Pethidine, Meperitab, Dolantin (Germany).
+
+## History and origins
+
+Synthesized in 1938 by Otto Eisleb at IG Farben, originally as an anticholinergic; Otto Schaumann noticed its painkilling effect. It was the most-used hospital opioid in the US for decades, especially in childbirth, because it was wrongly believed to cause less spasm and less addiction than morphine.
+
+## Medical use, then and now
+
+Once routine for labor, post-surgical pain, and shivering after anesthesia. Today largely abandoned, because its metabolite normeperidine builds up and causes tremor, agitation, and seizures. Still used occasionally for post-anesthesia shivering.
+
+## How it entered recreational use
+
+Demerol addiction was common among doctors and nurses with access to it. A 1984 case, the death of Libby Zion after meperidine was given with the antidepressant phenelzine, led to reforms in resident doctors' work hours. In 1982, a botched attempt to make an illicit meperidine analog (MPPP) produced MPTP, which gave several young people permanent Parkinson's disease.
+
+## Legal status
+
+US Schedule II.
+
+## What it feels like
+
+### The character of its effects
+
+Meperidine is described as a short, buzzy, slightly heady opioid high, with a spinning, light-headed, almost dizzy quality and less of the heavy, dreamy warmth of morphine. Some describe a mild stimulant edge, dry mouth, and racing heart from its anticholinergic effect.
+
+People who have had it in hospital often recall a rush of pleasant floatiness that faded fast. Unlike most opioids, it often does not shrink the pupils much, and with repeated use it can cause shakiness, twitching, and anxiety instead of calm.
+
+Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.
+
+### Timeline
+
+Times below are typical for the injected (intravenous, intramuscular, subcutaneous) route and vary a lot between people. Other routes change the timing; see the route pages.
+
+### Onset (IV seconds; IM/SC 5-15 min)
+
+Injected meperidine works within a minute or two; swallowed, within 15 to 45 minutes. The first sensation is often a light-headed, spinning warmth.
+
+### Come-up (IV under 1 min; IM/SC 10-20 min)
+
+The come-up feels quick and heady: a wave of floaty well-being with dry mouth and a flushed face. Some feel a little dizzy or nauseous.
+
+### Peak (IV 2-10 min; IM/SC 20-60 min)
+
+The peak is brief and pleasant, a buzzy euphoria with reduced pain and anxiety, but less body heaviness than morphine.
+
+### Plateau (30 min-2 h)
+
+The plateau is short, roughly 1 to 2 hours. Sedation is moderate; some people feel restless rather than nodding.
+
+### Comedown (2-4 h)
+
+It wears off within 2 to 4 hours, often leaving people wanting more, which drove frequent redosing in hospital patients.
+
+### After-effects (4-12 h)
+
+After repeated doses, normeperidine accumulates: tremor, twitching, agitation, anxiety, and in some, seizures. This toxic phase can come after the pleasant effect is long gone.
+
+### Next day
+
+After regular use, withdrawal comes on quickly and is described as harsh, with anxiety and agitation.
+
+## How the route changes the experience
+
+- [Injected (intravenous, intramuscular, subcutaneous)](../routes/injected/meperidine.md): IV, IM, SC in hospitals; its main historic use.
+- [Oral (swallowed)](../routes/oral/meperidine.md): Tablets and syrup.
+
+Not covered: No intranasal, rectal (rare historic), transdermal, sublingual, or smoked medical forms.
+
+## Overdose note for Meperidine (pethidine, Demerol)
+
+Seizures from the normeperidine metabolite, especially with kidney problems or repeated doses; naloxone does not reverse these. Deadly reactions with MAOI antidepressants (serotonin syndrome).
+
+Read the shared page: [What an opioid overdose feels and looks like, and what to do](../safety/opioid-overdose.md).
+
+## Getting help
+
+SAMHSA National Helpline: **1-800-662-4357** (free, confidential, 24/7, English and Spanish). In an emergency, call **911**.
+
+## Sources
+
+- FDA label, Demerol (DailyMed)
+- Latta KS, et al. Meperidine: a critical review (Am J Ther, 2002)
+- Langston JW, et al. MPTP and parkinsonism (Science, 1983)
+- Goodman & Gilman's The Pharmacological Basis of Therapeutics (opioid chapter)
+- National Institute on Drug Abuse (nida.nih.gov)
+- DEA Controlled Substances schedules (dea.gov)
