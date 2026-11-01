@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (2 to 5 minutes IV)
 
-Given IV in hospitals, oliceridine starts working within about 2 to 5 minutes.
+Oliceridine (Olinvyk) is a newer intravenous opioid approved in the US in 2020 for severe hospital pain. It was designed to activate the pain-relieving signal of the mu receptor more than the pathways linked to some side effects. Given by injection, its onset is within minutes: warmth, relaxation and pain dropping away.
+
+Mentally patients describe drowsy calm and relief, with mild euphoria for some.
+
+Despite its design, it still slows breathing and causes nausea, especially at higher amounts.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Drowsiness and pain relief rise quickly.
 
 ### Peak
 
-The peak brings moderate pain relief and sleepiness; nausea and vomiting are common.
+At its peak the body feels heavy and comfortable; pupils narrow and breathing slows.
+
+Mentally the peak is sleepy contentment and detachment from pain, similar to morphine but often reported with somewhat less nausea.
+
+It is used only with monitoring because breathing suppression and sedation are still real. Naloxone reverses it.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1 to 3 hours)
 
-Effects last around 1 to 3 hours.
+The plateau is a few hours of steady relief while doses continue.
+
+Mentally patients feel quiet, drowsy and slightly foggy.
+
+It can affect heart rhythm (QT interval) at higher cumulative amounts, which limits how much is used.
 
 ### Comedown (3 hours or so)
 
-They fade as the drug is cleared by the liver.
+As it fades, tiredness lingers and pain returns.
+
+Emotionally the comedown is usually mild.
+
+It is a controlled drug with misuse potential similar to other opioids, though experience outside hospitals is minimal.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

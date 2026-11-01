@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (10 to 20 minutes)
 
-Tilidine drops or tablets begin within about 10 to 20 minutes, as the liver turns it into nortilidine, with warmth and a lift.
+Tilidine is a synthetic opioid prodrug used in Germany, Switzerland and Belgium, usually combined with naloxone (Valoron N). Swallowed, the liver converts it into its active form, nortilidine, and the onset comes fairly quickly: a light warmth in the chest, a loosening of the neck and shoulders and pain sliding into the background.
+
+Mentally tilidine is often described as brighter and more stimulating than morphine-type opioids. People report a lift in confidence, sociability and a buzzing sense of well-being, which has made it popular among young people in Germany.
+
+The added naloxone is meant to block effects if the drug is misused by non-oral routes; swallowed, naloxone is mostly destroyed by the liver. Dizziness, nausea and sweating are common early.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Users often report energy and talkativeness rather than sleepiness at first.
 
 ### Peak
 
-The peak is a bright, chatty euphoria with mild itch.
+At its peak the body feels warm and light rather than heavily sedated, with a mild itch, dry mouth and narrowed pupils. Some people feel a restless energy in the limbs.
+
+Mentally the peak is a confident, talkative euphoria with reduced anxiety and a sense of invulnerability; with more, drowsiness and confusion take over.
+
+Breathing suppression rises with higher amounts and especially with alcohol or benzodiazepines, a common and dangerous combination among recreational users.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2 to 3 hours)
 
-A plateau of 2 to 3 hours.
+The plateau lasts a few hours. The bright lift settles into a steadier, mellow warmth, with sweating, nausea and constipation possible.
+
+Mentally people feel calm and somewhat detached, with weaker judgment and slower reactions, so driving is unsafe.
+
+Repeated doses can build up, deepening sedation beyond what the user expects.
 
 ### Comedown (3 to 5 hours)
 
-Effects fade over 3 to 5 hours.
+The comedown brings tiredness, a heavy head and sometimes aches.
+
+Emotionally people often feel irritable, anxious or low, a dip that contrasts with the confident peak.
+
+Regular use causes dependence, and withdrawal resembles other opioids: aches, sweats, insomnia, diarrhea and craving.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

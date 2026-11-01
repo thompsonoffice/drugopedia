@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 minutes)
 
-Pholcodine syrup starts within about 30 minutes, quietening the cough reflex.
+Pholcodine is an opioid cough suppressant that was sold for decades in the UK, Australia and Europe. It mainly quiets the cough reflex in the brain, and swallowed, its onset is gradual: the tickle in the throat eases and coughing fits space out.
+
+Mentally most people feel little or nothing. It has very weak pain-relieving and euphoric effects compared with codeine.
+
+In 2022 and 2023 many countries withdrew it after evidence linked it to a higher risk of severe allergic reactions (anaphylaxis) to muscle relaxants used in surgery.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Mild drowsiness at most.
 
 ### Peak (mild)
 
-The peak is mostly cough relief; it has little pain relief or euphoria.
+At its peak there may be mild drowsiness and a faint relaxed feeling, with dry mouth.
+
+Mentally the state is calm and quiet but rarely high; this is why misuse has been uncommon.
+
+In large excess it can still cause drowsiness, confusion and slowed breathing, especially with other sedatives.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (several hours)
 
-Cough relief lasts many hours because of a long half-life.
+Pholcodine lasts a long time, so the plateau stretches for many hours of quieted cough and mild drowsiness.
+
+Mentally people feel normal or slightly sleepy.
+
+Children and older adults are more sensitive to its sedating effects.
 
 ### Comedown (about 8 to 12 hours)
 
-Fades over about 8 to 12 hours.
+As it fades the cough gradually returns.
+
+There is usually no notable mood change.
+
+Dependence is rare. Anyone who has taken it and is due for surgery should tell their anesthetist.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
