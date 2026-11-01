@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (a few min)
 
-Injection: a few minutes; oral: about 30 minutes.
+Dihydromorphine (Paramorfan) is a close morphine relative that was used for pain in some countries. Its onset is somewhat faster and its effect a bit stronger than morphine: a quick flush of warmth, heaviness in the arms and legs and pain receding.
+
+Mentally there is a rapid settling of anxiety and a comfortable, sleepy calm. It tends to be described as morphine-like but with less nausea and a shorter duration.
+
+Breathing slows early, and itching is common.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Warmth and heaviness.
 
 ### Peak (30-60 min)
 
-Peak about 30 to 60 minutes.
+At its peak the body is warm and slack, eyelids heavy, pupils small. Itch and dry mouth are frequent.
+
+Mentally the peak is a dreamy, contented drowsiness, with slowed thinking and nodding.
+
+Breathing suppression is the main danger, worsened by alcohol or benzodiazepines.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-3 h)
 
-A few hours.
+The plateau is shorter than morphine's, a couple of hours of fading heaviness.
+
+Mentally the calm thins out into quiet tiredness.
+
+Shorter action can lead to more frequent redosing and faster tolerance.
 
 ### Comedown (about 4 h total)
 
-Fades over about 4 hours.
+The comedown brings aches, restlessness and sometimes nausea.
+
+Emotionally people feel flat and irritable.
+
+Dependence and withdrawal resemble morphine's.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 15 min)
 
-Oral or injection: about 15 minutes.
+Anileridine (Leritine) was a meperidine-related opioid used for pain in the mid-twentieth century, now discontinued. Its onset was fairly quick: warmth, relaxation and a dulling of pain within a short time.
+
+Mentally people described a light, comfortable lift with mild euphoria, similar to meperidine's brighter, less sleepy quality.
+
+Dizziness, nausea and sweating were common early effects.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Quick drowsiness.
 
 ### Peak (within 1 h)
 
-Peak within about an hour.
+At its peak the body felt loose and warm, with dry mouth and some drowsiness, but less heavy sedation than morphine.
+
+Mentally there was a pleasant, airy calm, sometimes talkative.
+
+Breathing suppression rose with higher amounts or other sedatives.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-2 h)
 
-Short plateau.
+The plateau was relatively short, a couple of hours of mild warmth.
+
+Mentally the lift faded into quiet tiredness.
+
+Frequent redosing was a misuse risk.
 
 ### Comedown (2-3 h total)
 
-Fades over 2 to 3 hours.
+The comedown brought aches, restlessness and tiredness.
+
+Emotionally people felt low and anxious.
+
+Dependence developed with regular use. It is no longer marketed.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

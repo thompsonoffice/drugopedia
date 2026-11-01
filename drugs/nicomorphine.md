@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (a few min)
 
-Injection: a few minutes.
+Nicomorphine (Vilan) is a morphine ester used for pain in a few European countries. It is converted to morphine in the body quite quickly, so its onset feels like a slightly faster, smoother morphine: warmth rising through the chest, the limbs loosening and pain fading into the background.
+
+Mentally the onset brings a soft, enveloping calm. Tension and worry ease, and many describe a quiet, comforting feeling of being safe and held.
+
+Nausea, itching and light-headedness are common early, and breathing begins to slow even before the full effect is felt.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Warm rush and heaviness.
 
 ### Peak (within 30 min)
 
-Peak within 30 minutes.
+At its peak the body feels heavy and warm, skin flushed and itchy, pupils pinpoint and breathing slow. Like morphine it can cause a histamine release that makes the face and neck itch and redden.
+
+Mentally there is a deep, dreamy contentment, with drifting thoughts and drowsiness. Compared with morphine people sometimes describe a slightly cleaner, quicker arrival, but the overall character is very similar.
+
+Combined with other sedatives the peak can tip into dangerous breathing suppression; naloxone reverses it.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-3 h)
 
-Lasts a few hours.
+The plateau lasts a few hours of warm, heavy sedation with nodding, dry mouth and constipation.
+
+Mentally people feel calm, slow and inward, with fragmented dreamy moments.
+
+Breathing remains suppressed, especially during sleep.
 
 ### Comedown (3-5 h total)
 
-Fades over 3 to 5 hours.
+The comedown brings tiredness, aching and the return of pain, sometimes with nausea.
+
+Emotionally a gray, flat mood and restlessness can follow.
+
+Regular use causes morphine-like dependence and withdrawal.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

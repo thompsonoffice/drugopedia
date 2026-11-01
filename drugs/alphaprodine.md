@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (1-2 min)
 
-Injection: about 1 to 2 minutes.
+Alphaprodine, sold as Nisentil, was a fast, short-acting opioid related to meperidine, used during childbirth and in dentistry until it was discontinued in the US in the 1980s. Given by injection, it came on within minutes: a warm flush spreading through the chest and limbs, the body going loose and heavy, and pain receding sharply.
+
+Mentally the onset brought a quick, floaty calm. Patients described a sense of drifting above their pain, as if it belonged to someone else, along with a mild lift in mood.
+
+Breathing could slow very quickly, and when it was given during labor it crossed to the baby, sometimes leaving newborns sleepy and slow to breathe.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Immediate drowsiness.
 
 ### Peak (under 10 min)
 
-Peak within 10 minutes.
+At its peak the body felt relaxed and sunk, with slowed breathing, small pupils and sometimes dizziness or sweating.
+
+Mentally there was a brief, dreamy contentment and detachment. Some people felt drowsy enough to doze; others stayed awake but unconcerned.
+
+Because the peak came fast, breathing problems could develop within minutes, so it needed close monitoring and reversal medicine on hand.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (30-60 min)
 
-Short plateau.
+The plateau was short, typically fading within an hour or two, which was why it was chosen for brief procedures.
+
+Mentally the calm thinned into quiet drowsiness, with thinking slowly clearing.
+
+Breathing still needed watching until the person was fully alert.
 
 ### Comedown (1-2 h total)
 
-Gone in 1 to 2 hours.
+Effects lifted fairly quickly, leaving tiredness, sometimes nausea and a return of pain.
+
+Emotionally the comedown was usually mild, though some felt groggy or disoriented.
+
+Its short action and misuse risk, along with safer alternatives, led to its withdrawal from the market.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

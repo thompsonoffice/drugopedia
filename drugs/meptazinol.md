@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Oral: about 30 minutes; injection: faster.
+Meptazinol, sold as Meptid in the UK, is a partial opioid that has been used particularly for pain during labor. Its onset brings drowsiness, a woozy light-headedness and moderate relief, with less warmth and heaviness than full opioids.
+
+Mentally people describe a mild, sleepy calm with little euphoria. Some feel slightly detached or dizzy rather than pleasantly relaxed.
+
+Nausea and vomiting are common and are often the most noticeable early effect.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Mild drowsiness.
 
 ### Peak (1-2 h)
 
-Peak around 1 to 2 hours.
+At its peak the body feels sleepy and slow, with sweating and sometimes a sense of unsteadiness.
+
+Mentally the peak is drowsy and inward, with dulled concentration but rarely a strong high, which is part of why it is thought to carry less misuse risk.
+
+Its breathing suppression is generally lower than morphine's, but it still adds up dangerously with alcohol, benzodiazepines or other opioids.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-3 h)
 
-A few hours.
+The plateau lasts a few hours of light sedation and partial pain relief.
+
+Mentally people feel quiet and slightly foggy.
+
+Nausea and dizziness may persist, making standing or walking unsteady.
 
 ### Comedown (3-5 h total)
 
-Fades over 3 to 5 hours.
+As it fades, tiredness lingers and pain returns.
+
+Emotionally the comedown is usually unremarkable.
+
+Misuse and dependence are uncommon but possible with long use.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
