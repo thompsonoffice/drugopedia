@@ -88,7 +88,7 @@ The comedown is mild tiredness as the dose wears off, sometimes with returning p
 
 Mood is mostly unchanged, though a few people notice mild irritability or low mood, and any suicidal thoughts should be reported promptly. Its misuse potential appears low.
 
-Stopping suddenly after regular use may cause withdrawal symptoms such as insomnia, anxiety, nausea and sweating, so it is usually tapered under medical guidance. Doctors adjust it gradually.
+Stopping suddenly after regular use may cause withdrawal symptoms such as insomnia, anxiety, nausea and sweating, so it is usually tapered under medical guidance. Doctors adjust it gradually. Report side effects.
 
 As levels fall, dizziness and sedation fade over several hours. Sleep is often deep.
 

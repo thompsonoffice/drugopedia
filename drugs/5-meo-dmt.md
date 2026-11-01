@@ -76,19 +76,19 @@ Combined with MAO inhibitors (including ayahuasca), 5-MeO-DMT has caused fatal s
 
 ### Plateau (5-15 min)
 
-The plateau is short, and sensory awareness returns over minutes: first sounds, then the body, then the room. Body sensations come back as trembling, heat or heaviness.
+As 5-MeO-DMT recedes, sensory awareness returns over a span of minutes, often in a strange order: first sound, then a sense of the body as vibrating energy, then weight and position, and finally the room and the people in it. The body may tremble, sweat, feel intensely hot or cold, or lie limp and heavy, and some people cry or shake as tension releases.
 
-Mentally people return disoriented, shaken or exalted, often unable to speak for a while and struggling to describe what happened.
+Mentally people return disoriented, shaken or exalted, often unable to speak for a while and struggling to describe an experience that seemed to have no content at all. Some feel boundless love and peace; others feel terror at having 'died' and need reassurance that they are safe and back.
 
-A sober, experienced sitter is essential, and people should be lying down where they cannot hurt themselves.
+A sober, experienced sitter is essential, and people should be lying down where they cannot fall or hurt themselves, because confused movement in this return phase is common.
 
 ### Comedown (15-30 min)
 
-The comedown may bring euphoria, calm and a sense of being reborn, or lingering anxiety and confusion.
+The comedown usually takes under an hour. The body feels tired, light and slightly tingly, sometimes with a headache, sore muscles from thrashing, or a raw throat if smoke was inhaled. Many feel unusually calm and clear-headed, almost washed clean.
 
-Some experience 'reactivations', sudden brief returns of the state in the following days or weeks, which can be distressing.
+Emotionally it may bring euphoria, calm and a sense of rebirth, or lingering anxiety, confusion and a feeling of being unmoored. Some experience 'reactivations' — sudden brief returns of the state in the following days or weeks — which can be distressing, especially at night or when falling asleep.
 
-No physical dependence develops, but psychological destabilization is possible, especially in people with mental health vulnerabilities.
+No physical dependence develops, but psychological destabilization is possible, especially in people with mental health vulnerabilities, and some report weeks of anxiety or depersonalization afterwards.
 
 Rapid breakdown by MAO ends effects in under an hour.
 

@@ -393,3 +393,51 @@ BX("4-fa",
 "A sudden, severe headache after use is an emergency."])
 for k,v in F.items():
     if k in D: D[k]["feel"]=v
+
+# ---- Depth pass 2 ----
+def Y(n,p,t,i=2): F[n][p][i]+=" "+t
+Y("ayahuasca","comedown","Integration, talking through the experience with someone trusted in the following weeks, is widely recommended.",1)
+R("5-meo-dmt",
+plateau=["As 5-MeO-DMT recedes, sensory awareness returns over a span of minutes, often in a strange order: first sound, then a sense of the body as vibrating energy, then weight and position, and finally the room and the people in it. The body may tremble, sweat, feel intensely hot or cold, or lie limp and heavy, and some people cry or shake as tension releases.",
+"Mentally people return disoriented, shaken or exalted, often unable to speak for a while and struggling to describe an experience that seemed to have no content at all. Some feel boundless love and peace; others feel terror at having 'died' and need reassurance that they are safe and back.",
+"A sober, experienced sitter is essential, and people should be lying down where they cannot fall or hurt themselves, because confused movement in this return phase is common."],
+comedown=["The comedown usually takes under an hour. The body feels tired, light and slightly tingly, sometimes with a headache, sore muscles from thrashing, or a raw throat if smoke was inhaled. Many feel unusually calm and clear-headed, almost washed clean.",
+"Emotionally it may bring euphoria, calm and a sense of rebirth, or lingering anxiety, confusion and a feeling of being unmoored. Some experience 'reactivations' — sudden brief returns of the state in the following days or weeks — which can be distressing, especially at night or when falling asleep.",
+"No physical dependence develops, but psychological destabilization is possible, especially in people with mental health vulnerabilities, and some report weeks of anxiety or depersonalization afterwards."])
+R("mescaline-peyote",
+onset=F["mescaline-peyote"]["onset"][:2]+["Pupils widen, the heart rate rises, and some feel jittery, chilled or restless, with a slight tension in the jaw and a hollow, heavy stomach that lingers until vomiting passes."],
+plateau=["The mescaline plateau is long, many hours of vivid, flowing visuals and reflective, unhurried thought. Colors stay intensely saturated, patterns ripple across surfaces, and the body feels warm, energized and often deeply connected to the ground, plants and open air. Stomach discomfort usually fades as the hours pass.",
+"Mood is usually gentle and introspective, sometimes joyful and laughing, sometimes melancholy and moved to tears. Time seems to stretch, and people often feel drawn to nature, music or quiet conversation. Thinking tends to stay more coherent than with LSD, which many people find grounding.",
+"Fatigue builds as the hours pass, and the long duration means people should plan to be in a safe, comfortable setting for most of a day, with no driving or responsibilities."],
+comedown=["The comedown is slow, with visuals softening into a gentle shimmer through the evening and a tired, contented body. Muscles may ache from the long day, and appetite often returns, though the stomach can stay delicate.",
+"Emotionally people often feel calm, tired and reflective, with a lingering sense of beauty and connection, and many want to sit quietly or talk over what they saw and felt. Some feel emotionally raw or tender.",
+"Sleep can be difficult until it fully clears, sometimes well into the night. Peyote is slow-growing and threatened in the wild, and outside the Native American Church it is illegal in the US."])
+R("lsd-analogs",
+onset=F["lsd-analogs"]["onset"][:2]+[F["lsd-analogs"]["onset"][2]+" A bitter or numbing taste on the blotter is a warning sign."],
+plateau=["The plateau of LSD analogs is long, often many hours, with continued visuals such as breathing walls, color shifts and geometric patterns, and a buzzing, energized body that makes it hard to sit still or rest. Some people feel cold or warm in waves, with a tight jaw and occasional yawning.",
+"Mood varies, moving between wonder, laughter, deep reflection and fatigue, and thought loops can be absorbing or tiring. Time feels distorted, and people may lose track of how long they have been in the experience. AL-LAD's plateau tends to be shorter and lighter; ETH-LAD's heavier and more immersive.",
+"Body energy can make resting difficult, and decisions or travel during this stretch are risky because judgment remains impaired."],
+comedown=["The comedown is a slow taper with lingering stimulation, light visuals such as faint patterns or color trails, and a wired tiredness. The body may feel drained but restless, with a slight headache or sore jaw.",
+"Mood is often reflective and calm, sometimes drained, flat or a little anxious, especially if the trip was intense. Many people want quiet, food and gentle company.",
+"Sleep can be hard for hours after the visuals fade. Tolerance builds immediately and cross-tolerance with LSD and psilocybin means repeated use over consecutive days produces much weaker effects."])
+R("2c-b",
+onset=["2C-B (Nexus, Bees) has a moderate onset of tingling body energy, warmth, goosebumps and sometimes a brief queasy stomach, usually within an hour. The body feels charged, sensual and lightly electric, and many feel an urge to stretch, move or touch soft fabrics. Note that street 'tusi' or 'pink cocaine' rarely contains 2C-B.",
+"Mentally the onset is lighthearted and giggly, an open, playful mood often described as halfway between a psychedelic and MDMA. Laughter comes easily and people feel social and curious.",
+"Colors start to brighten, edges gain a sheen, and faint patterns may appear on surfaces."],
+plateau=["The 2C-B plateau is several hours of steady effects. Colors stay bright, surfaces ripple, and the body remains warm, energized and sensual, with touch and music especially pleasurable. Some feel mild stomach discomfort or muscle tension throughout.",
+"Mood stays warm, talkative and playful, often with a sense of closeness to friends. At higher amounts, the plateau can feel heavy and overwhelmingly visual, with distorted faces and difficulty communicating.",
+"Overheating and dehydration are possible in clubs, and combining with alcohol or stimulants raises the strain on the body."],
+comedown=["The comedown is fairly gentle, with tiredness, fading visuals and a relaxed, slightly heavy body. Some feel mild headache or a sore jaw.",
+"Mood is usually stable, sometimes slightly flat, and many describe a pleasant afterglow without the deep low that can follow MDMA. Sleep comes more easily than after LSD.",
+"Mixing with other drugs, especially stimulants or MDMA ('nexus flip'), raises risk, and street products may not contain 2C-B at all."])
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v
+Y("mescaline-peyote","comedown","Hydration and a light meal help.",0)
+Y("lsd-analogs","onset","Pupils widen early.",0)
+Y("lsd-analogs","comedown","Many people feel a quiet sense of perspective, though some notice lingering unease, irritability or difficulty concentrating into the next day, which usually passes with rest.",1)
+Y("2c-b","onset","Pupils widen and the heart rate climbs a little as effects build.",0)
+Y("2c-b","plateau","Effects shift noticeably with small changes in amount, so the intensity can surprise even experienced users.",1)
+Y("2c-b","comedown","Appetite usually returns as the stimulation fades, and many people feel ready to eat, shower and rest, with a light, slightly sleepy body and a fading glow of warmth.",0)
+Y("2c-b","comedown","Fatigue and low mood the next day are usually mild.",1)
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v

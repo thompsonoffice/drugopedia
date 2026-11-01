@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-LSD analogs such as 1P-LSD, 1cP-LSD, AL-LAD and ETH-LAD are research chemicals sold online, often as blotters. Some, like 1P-LSD, appear to be converted to LSD in the body. The onset is like LSD: a mild, tingly body energy, yawning, a slight tightness in the jaw and stomach, and a sense that something is shifting.
+LSD analogs such as 1P-LSD, 1cP-LSD, AL-LAD and ETH-LAD are research chemicals sold online, often as blotters. Some, like 1P-LSD, appear to be converted to LSD in the body. The onset is like LSD: a mild, tingly body energy, yawning, a slight tightness in the jaw and stomach, and a sense that something is shifting. Pupils widen early.
 
 Mentally there is anticipation and a slight brightening of thought and color, along with a buzzy, slightly anxious alertness.
 
-Because these are unregulated, what is sold may not be what the label says, and some 'LSD' blotters contain dangerous NBOMes instead.
+Because these are unregulated, what is sold may not be what the label says, and some 'LSD' blotters contain dangerous NBOMes instead. A bitter or numbing taste on the blotter is a warning sign.
 
 Most 1-acyl analogs are converted to LSD by enzymes in the blood and liver.
 
@@ -76,19 +76,19 @@ Panic, confusion and accidents are the main dangers.
 
 ### Plateau (4-7 h)
 
-The plateau is long, with continued visuals and thought loops lasting many hours.
+The plateau of LSD analogs is long, often many hours, with continued visuals such as breathing walls, color shifts and geometric patterns, and a buzzing, energized body that makes it hard to sit still or rest. Some people feel cold or warm in waves, with a tight jaw and occasional yawning.
 
-Mood varies, moving between wonder and fatigue.
+Mood varies, moving between wonder, laughter, deep reflection and fatigue, and thought loops can be absorbing or tiring. Time feels distorted, and people may lose track of how long they have been in the experience. AL-LAD's plateau tends to be shorter and lighter; ETH-LAD's heavier and more immersive.
 
-Body energy can make resting difficult.
+Body energy can make resting difficult, and decisions or travel during this stretch are risky because judgment remains impaired.
 
 ### Comedown (7-12 h)
 
-The comedown is a slow taper with lingering stimulation, light visuals and a wired tiredness.
+The comedown is a slow taper with lingering stimulation, light visuals such as faint patterns or color trails, and a wired tiredness. The body may feel drained but restless, with a slight headache or sore jaw.
 
-Mood is often reflective, sometimes drained.
+Mood is often reflective and calm, sometimes drained, flat or a little anxious, especially if the trip was intense. Many people want quiet, food and gentle company. Many people feel a quiet sense of perspective, though some notice lingering unease, irritability or difficulty concentrating into the next day, which usually passes with rest.
 
-Sleep can be hard for hours after the visuals fade.
+Sleep can be hard for hours after the visuals fade. Tolerance builds immediately and cross-tolerance with LSD and psilocybin means repeated use over consecutive days produces much weaker effects.
 
 Durations are similar to or slightly shorter than LSD.
 

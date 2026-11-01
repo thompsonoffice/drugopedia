@@ -86,7 +86,7 @@ People are vulnerable in this state and need a safe setting and trustworthy, exp
 
 The comedown is gradual, leaving deep tiredness, an empty stomach, aching muscles from purging, and sometimes a lingering shimmer when the eyes close. Sleep usually comes eventually.
 
-Emotionally people often feel cleansed, tender and reflective, sometimes euphoric for days. Others feel shaken, raw or disturbed by what surfaced, and integration support helps.
+Emotionally people often feel cleansed, tender and reflective, sometimes euphoric for days. Others feel shaken, raw or disturbed by what surfaced, and integration support helps. Integration, talking through the experience with someone trusted in the following weeks, is widely recommended.
 
 Deaths have been reported, usually involving drug interactions (especially SSRIs and stimulants), extra plants or substances added to the brew, or pre-existing heart problems. People are often advised to avoid certain foods and medicines before and after.
 

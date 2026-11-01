@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-75 min)
 
-2C-B (Nexus, 'tusi' in name only — street 'tusi' or 'pink cocaine' rarely contains 2C-B) has a moderate onset with tingling body energy, warmth, goosebumps and sometimes a brief queasy stomach. The body feels charged and sensual.
+2C-B (Nexus, Bees) has a moderate onset of tingling body energy, warmth, goosebumps and sometimes a brief queasy stomach, usually within an hour. The body feels charged, sensual and lightly electric, and many feel an urge to stretch, move or touch soft fabrics. Note that street 'tusi' or 'pink cocaine' rarely contains 2C-B. Pupils widen and the heart rate climbs a little as effects build.
 
-Mentally the onset is lighthearted and giggly, an open, playful mood often described as halfway between a psychedelic and MDMA.
+Mentally the onset is lighthearted and giggly, an open, playful mood often described as halfway between a psychedelic and MDMA. Laughter comes easily and people feel social and curious.
 
-Colors start to brighten and surfaces gain a sheen.
+Colors start to brighten, edges gain a sheen, and faint patterns may appear on surfaces.
 
 2C-B is absorbed from the gut and acts as a partial agonist at 5-HT2A and 5-HT2C receptors.
 
@@ -76,19 +76,19 @@ Mixing with stimulants raises heart risk.
 
 ### Plateau (2-4 h)
 
-The plateau is several hours of steady effects.
+The 2C-B plateau is several hours of steady effects. Colors stay bright, surfaces ripple, and the body remains warm, energized and sensual, with touch and music especially pleasurable. Some feel mild stomach discomfort or muscle tension throughout.
 
-Mood stays warm and talkative.
+Mood stays warm, talkative and playful, often with a sense of closeness to friends. At higher amounts, the plateau can feel heavy and overwhelmingly visual, with distorted faces and difficulty communicating. Effects shift noticeably with small changes in amount, so the intensity can surprise even experienced users.
 
-Overheating and dehydration are possible in clubs.
+Overheating and dehydration are possible in clubs, and combining with alcohol or stimulants raises the strain on the body.
 
 ### Comedown (4-6 h)
 
-The comedown is fairly gentle, with tiredness and residual visuals.
+The comedown is fairly gentle, with tiredness, fading visuals and a relaxed, slightly heavy body. Some feel mild headache or a sore jaw. Appetite usually returns as the stimulation fades, and many people feel ready to eat, shower and rest, with a light, slightly sleepy body and a fading glow of warmth.
 
-Mood usually stable, sometimes slightly flat.
+Mood is usually stable, sometimes slightly flat, and many describe a pleasant afterglow without the deep low that can follow MDMA. Sleep comes more easily than after LSD. Fatigue and low mood the next day are usually mild.
 
-Mixing with other drugs, especially stimulants or MDMA, raises risk.
+Mixing with other drugs, especially stimulants or MDMA ('nexus flip'), raises risk, and street products may not contain 2C-B at all.
 
 Half-life is about 2.5 hours.
 

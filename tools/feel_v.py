@@ -679,3 +679,6 @@ for n,p,t in [("glutethimide","plateau","Sleep was restless."),("methyprylon","o
     Y(n,p,t,2)
 for k,v in F.items():
     if k in D: D[k]["feel"]=v
+Y("mirogabalin","comedown","Report side effects.",2)
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v

@@ -52,7 +52,7 @@ Mescaline, from the peyote cactus and San Pedro (Echinopsis) cacti, comes on slo
 
 Mentally the onset feels like a gradual brightening and opening. Colors begin to glow, small details seem fascinating, and a sense of beauty and significance creeps in, often accompanied by a light, giggly mood.
 
-Pupils widen, the heart rate rises, and some feel jittery or chilled.
+Pupils widen, the heart rate rises, and some feel jittery, chilled or restless, with a slight tension in the jaw and a hollow, heavy stomach that lingers until vomiting passes.
 
 Mescaline is absorbed slowly from the gut and needs much more than LSD to act, because it binds 5-HT2A weakly.
 
@@ -76,19 +76,19 @@ Heart rate and blood pressure rise modestly.
 
 ### Plateau (5-8 h)
 
-The plateau is long, many hours of vivid, flowing visuals and reflective, unhurried thought. Time seems to stretch.
+The mescaline plateau is long, many hours of vivid, flowing visuals and reflective, unhurried thought. Colors stay intensely saturated, patterns ripple across surfaces, and the body feels warm, energized and often deeply connected to the ground, plants and open air. Stomach discomfort usually fades as the hours pass.
 
-Mood is usually gentle and introspective, sometimes joyful, sometimes melancholy.
+Mood is usually gentle and introspective, sometimes joyful and laughing, sometimes melancholy and moved to tears. Time seems to stretch, and people often feel drawn to nature, music or quiet conversation. Thinking tends to stay more coherent than with LSD, which many people find grounding.
 
-Fatigue builds as the hours pass, and stomach discomfort can linger.
+Fatigue builds as the hours pass, and the long duration means people should plan to be in a safe, comfortable setting for most of a day, with no driving or responsibilities.
 
 ### Comedown (8-12 h)
 
-The comedown is slow, with visuals softening into the evening and a tired, contented body.
+The comedown is slow, with visuals softening into a gentle shimmer through the evening and a tired, contented body. Muscles may ache from the long day, and appetite often returns, though the stomach can stay delicate. Hydration and a light meal help.
 
-Emotionally calm and tired, often reflective about what was seen and felt.
+Emotionally people often feel calm, tired and reflective, with a lingering sense of beauty and connection, and many want to sit quietly or talk over what they saw and felt. Some feel emotionally raw or tender.
 
-Sleep can be difficult until it fully clears, sometimes well into the night.
+Sleep can be difficult until it fully clears, sometimes well into the night. Peyote is slow-growing and threatened in the wild, and outside the Native American Church it is illegal in the US.
 
 Half-life about 6 hours.
 
