@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IM 10-15 min)
 
-Injected, it acts within minutes; swallowed within 20 to 30 minutes.
+Trimeperidine (Promedol) is a meperidine relative widely used in Russia and former Soviet countries, including in military first-aid kits. Its onset brings warmth, relaxation and quick pain relief.
+
+Mentally people describe a light, bright calm and mild euphoria, less sleepy than morphine.
+
+Dizziness, sweating and nausea can appear early.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Quick warmth.
 
 ### Peak (30-60 min)
 
-The peak is a meperidine-like calm.
+At its peak the body feels loose and warm, with dry mouth and slowed breathing.
+
+Mentally there is a pleasant, airy contentment.
+
+Breathing suppression rises with higher amounts or sedatives.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-Two to four hours.
+The plateau is a few hours of fading warmth and drowsiness.
+
+Mentally the lift becomes quiet tiredness.
+
+Like meperidine, repeated use may build up a metabolite that can cause tremor or seizures.
 
 ### Comedown (3-5 h total)
 
-Fades over 3 to 5 hours.
+The comedown brings aches, restlessness and tiredness.
+
+Emotionally low and anxious.
+
+Dependence develops with regular use.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

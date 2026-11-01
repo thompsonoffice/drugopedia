@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-It began within about 30 to 60 minutes.
+Benzylmorphine (Peronine) was a codeine-like opioid used as a cough suppressant in the early 1900s. It brought mild warmth and eased coughing.
+
+Mentally a faint calm with little euphoria.
+
+Nausea and itching could occur.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Mild warmth.
 
 ### Peak (1-2 h)
 
-A mild peak.
+At its peak, mild heaviness and drowsiness.
+
+Mentally soft contentment.
+
+Breathing risk rose with alcohol.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-A few hours.
+The plateau was a few hours of quiet sedation and dry mouth.
+
+Mentally people felt slowed.
+
+Constipation followed repeated use.
 
 ### Comedown (4-6 h total)
 
-Faded over 4 to 6 hours.
+The comedown brought tiredness and returning cough.
+
+Emotionally usually mild.
+
+It has long been out of use.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

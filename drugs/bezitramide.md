@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (after about 1 to 2 hours)
 
-Bezitramide starts very slowly, 1 to 2 hours after swallowing, as it turns into its active form.
+Bezitramide (Burgodin) was a very long-acting oral opioid used in the Netherlands and Belgium until it was withdrawn in 2004 after fatal overdoses. It came on slowly, over hours, as a creeping warmth, heaviness and pain relief.
+
+Mentally the onset felt like a slow sinking into calm, without a clear rush, which made it easy to underestimate.
+
+Its delayed build meant people could feel little at first and then become deeply sedated much later.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ A creeping heaviness.
 
 ### Peak (flat and long)
 
-The peak is flat but long.
+At its peak the body felt heavy, warm and sluggish, with slowed breathing and pinpoint pupils.
+
+Mentally there was drowsy contentment and detachment.
+
+Delayed, prolonged breathing suppression caused deaths, and naloxone wears off before it does.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (many hours)
 
-It stays active for many hours.
+The plateau lasted a very long time, with continuous sedation, constipation and sweating.
+
+Mentally people felt foggy, slow and quiet for most of a day.
+
+Repeated naloxone and prolonged hospital observation were needed in overdose.
 
 ### Comedown (a day or more)
 
-It fades over a day or more, which caused delayed, unexpected overdoses.
+The comedown stretched out over a long period, with aches and restlessness returning slowly.
+
+Emotionally a flat, low mood lingered.
+
+Dependence and long withdrawal resembled methadone's.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

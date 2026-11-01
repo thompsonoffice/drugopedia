@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30 to 60 minutes)
 
-It begins within about 30 to 60 minutes with mild warmth.
+Acetyldihydrocodeine is a dihydrocodeine ester once used as a cough suppressant in parts of Europe. Swallowed, it converts to dihydrocodeine and comes on gradually: a warm loosening in the chest, a quieter cough and a slight heaviness behind the eyes.
+
+Mentally the onset is a mild, cozy calm, the kind of softened edge people describe with codeine, rather than a strong rush.
+
+Itching around the nose, nausea and light-headedness can appear early, especially on an empty stomach.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Gentle drowsiness.
 
 ### Peak (mild)
 
-The peak is a mild codeine-like calm.
+At its peak the body feels warm and heavy, pupils narrow and breathing slows. The itch can spread across the face and chest.
+
+Mentally there is a dreamy contentment with drowsiness; talk may slow and attention drifts.
+
+Alcohol and other sedatives multiply breathing risk.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (a few hours)
 
-A few hours.
+The plateau lasts a few hours of quiet sedation, dry mouth and an eased cough. The body stays loose and slow, and constipation begins to build with repeated use.
+
+Mentally people feel calm and inward, with weaker concentration and slower reactions; reading or following a conversation takes more effort.
+
+Breathing remains suppressed, so dozing off after mixing with other depressants is the riskiest point.
 
 ### Comedown (4 to 6 hours)
 
-Fades over 4 to 6 hours.
+The comedown is gradual: tiredness, a heavy head and returning cough or aches, sometimes with mild nausea.
+
+Emotionally a gray, flat mood or restlessness may follow as the comfort fades.
+
+Regular use causes codeine-like dependence, with withdrawal of aches, yawning, runny nose, diarrhea and craving.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

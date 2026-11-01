@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 20 min)
 
-Under the tongue or swallowed, it began within about 20 minutes.
+Phenazocine (Narphen) is a strong benzomorphan opioid that was used in the UK for severe pain, including under the tongue. Its onset brings warmth, heaviness and potent pain relief.
+
+Mentally people describe a calm, mildly euphoric detachment; at higher amounts some kappa-type unease or odd thinking can appear.
+
+Nausea and dizziness are common early.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Warmth and drowsiness.
 
 ### Peak (1-2 h)
 
-The peak was strong pain relief and calm.
+At its peak the body is heavy and relaxed, with pinpoint pupils and slowed breathing.
+
+Mentally there is dreamy contentment, sometimes tinged with confusion.
+
+Breathing suppression is the main danger.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-A few hours.
+The plateau lasts several hours of steady sedation and relief, with constipation and dry mouth.
+
+Mentally people feel quiet, slowed and inward.
+
+Breathing remains suppressed, particularly during sleep.
 
 ### Comedown (4-6 h total)
 
-Faded over about 4 to 6 hours.
+The comedown brings tiredness and returning pain.
+
+Emotionally a flat or irritable mood.
+
+It was discontinued in the UK in 2001; dependence resembled other strong opioids.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

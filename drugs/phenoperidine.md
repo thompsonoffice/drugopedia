@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (under 1 min)
 
-IV within a minute.
+Phenoperidine (Operidine) is a meperidine relative used by injection in anesthesia, mainly in Europe. Its onset is fast: warmth, sedation and strong pain relief.
+
+Mentally a quick, drowsy calm.
+
+Breathing suppression is pronounced, so it is used with ventilation.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Immediate.
 
 ### Peak (minutes)
 
-Deep sedation within minutes.
+At its peak the body is heavy and still, breathing markedly depressed.
+
+Mentally sedated and detached.
+
+It has no role outside anesthesia.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (about 1 h)
 
-About an hour.
+The plateau lasts a few hours of sedation, often in intensive care.
+
+Mentally patients are foggy or asleep.
+
+Monitoring continues throughout.
 
 ### Comedown (1-2 h)
 
-Faded over 1 to 2 hours.
+The comedown is a groggy waking with nausea.
+
+Emotionally confused or blank.
+
+Largely replaced by fentanyl relatives.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

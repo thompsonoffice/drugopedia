@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (under 1 min)
 
-Injected MPPP acted within a minute with a warm rush.
+MPPP and PEPAP are meperidine-like designer opioids that appeared in the late 1970s and 1980s. Their onset resembled a fast, short pethidine high: a warm flush, loosening limbs and a quick mood lift.
+
+Mentally the effect was brisk, bright and euphoric.
+
+Their lasting legacy is tragic: badly made batches contained MPTP, which destroyed brain cells that control movement and left young people with permanent severe Parkinson's disease, sometimes after a single use.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Quick heaviness.
 
 ### Peak (minutes)
 
-A short, meperidine-like peak.
+At its peak the body felt warm, heavy and itchy, with slowed breathing.
+
+Mentally there was a short, dreamy euphoria.
+
+Overdose from breathing suppression was possible, and MPTP contamination caused lifelong disability.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (under 1 h)
 
-Under an hour.
+The plateau was short, an hour or two of fading warmth.
+
+Mentally the lift faded into drowsiness.
+
+Victims of MPTP noticed stiffness, slowness and freezing within days.
 
 ### Comedown (2-3 h)
 
-Faded within 2 to 3 hours.
+The comedown was quick, with restlessness and craving.
+
+Emotionally a low, anxious mood followed.
+
+The MPTP cases transformed Parkinson's research but showed how deadly unregulated designer opioids can be.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

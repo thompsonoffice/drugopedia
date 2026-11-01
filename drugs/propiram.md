@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 minutes)
 
-Propiram starts within about 30 minutes with mild warmth.
+Propiram is a partial opioid that was trialed and used briefly for moderate pain. Swallowed, it brought mild warmth, drowsiness and some pain relief.
+
+Mentally people felt a light calm with little euphoria; some felt dizzy or slightly detached.
+
+Nausea and dizziness were common early.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Gentle drowsiness.
 
 ### Peak (mild)
 
-The peak is mild, limited by its partial action.
+At its peak the body felt relaxed and sleepy, with a ceiling on both relief and breathing suppression.
+
+Mentally the peak was quiet and drowsy rather than pleasurable.
+
+In people dependent on full opioids it could provoke withdrawal.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (a few hours)
 
-A few hours.
+The plateau was a few hours of light sedation, dry mouth and steady but modest relief.
+
+Mentally people felt somewhat slowed and inward.
+
+Combining it with alcohol or other sedatives still raised breathing risk.
 
 ### Comedown (3 to 5 hours)
 
-Fades over 3 to 5 hours.
+The comedown brought tiredness and returning pain.
+
+Emotionally it was usually mild, sometimes with irritability.
+
+Misuse and dependence potential were low; it never became widely marketed.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

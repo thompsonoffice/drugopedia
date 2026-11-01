@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (minutes)
 
-Minutes when injected.
+The prodines, including prodine and the related alphaprodine and betaprodine, are fast, short meperidine-like opioids. Their onset is rapid warmth and pain relief.
+
+Mentally a quick, floaty calm.
+
+Breathing suppression comes on fast.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Quick warmth.
 
 ### Peak (under 15 min)
 
-A short peak.
+At its peak heavy relaxation and slowed breathing.
+
+Mentally brief euphoria then drowsiness.
+
+Short action encourages redosing.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (under 1 h)
 
-Under an hour.
+The plateau is short, an hour or two.
+
+Mentally the calm fades fast.
+
+Monitoring is needed when used medically.
 
 ### Comedown (1-3 h)
 
-Faded within 1 to 3 hours.
+The comedown brings restlessness and tiredness.
+
+Emotionally low.
+
+They have largely disappeared from medicine.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Slow, over 1 to 2 hours.
+The methadols, such as dimepheptanol, are close relatives and metabolites of methadone. Their onset is slow and steady: warmth, aches fading and gentle calm.
+
+Mentally an even, low-key contentment.
+
+They last a long time, so effects can build unexpectedly.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ A gradual heaviness.
 
 ### Peak (4-8 h)
 
-A flat, long peak.
+At its peak mild heaviness, sweating and slowed breathing.
+
+Mentally calm and level.
+
+Delayed breathing suppression is the main risk.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (many hours)
 
-Many hours.
+The plateau is long, many hours of flat sedation.
+
+Mentally steady and slow.
+
+Overdose can occur during sleep.
 
 ### Comedown (1-3 days)
 
-Lasts a day or more.
+The comedown is slow and drawn out.
+
+Emotionally a gradual drift toward irritability.
+
+Dependence like methadone.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
