@@ -52,11 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-Pregabalin (Lyrica) is absorbed faster and more reliably than gabapentin, and the onset is smoother and stronger. Warmth and heaviness spread through the body, muscles loosen, and a light, floaty dizziness arrives.
+Pregabalin (Lyrica) is absorbed faster and more reliably than gabapentin, often within an hour, and the onset is smoother and stronger. Warmth and heaviness spread through the body from the chest outward, muscles loosen, and a light, floaty dizziness arrives, sometimes with a pleasant tingling in the skin.
 
-Mentally pregabalin can bring a clear, warm euphoria and calm. People often describe it as alcohol-like: sociable, confident, chatty and relaxed, with anxiety switched off.
+Mentally pregabalin can bring a clear, warm euphoria and calm. People often describe it as alcohol-like: sociable, confident, chatty and relaxed, with anxiety switched off and a sense that everything is fine. This euphoria is why it is increasingly misused, especially alongside opioids.
 
-Blurry vision and unsteadiness show up early.
+Blurry vision, unsteadiness and dry mouth show up early.
 
 Medically, the onset reflects slow and variable absorption. Pregabalin is absorbed fully and quickly and cleared unchanged by the kidneys with a half-life of about 6 hours. Gabapentin is absorbed by a transporter in the gut that saturates, so more is not absorbed in proportion; pregabalin is absorbed more fully and quickly.
 
@@ -68,9 +68,9 @@ Lightness, warmth, dizziness.
 
 ### Peak (1-3 h)
 
-At the peak the body feels warm, loose and pleasantly drunk, with clumsy movements and slurred speech. Some report a tingling glow on the skin.
+At the peak the body feels warm, loose and pleasantly drunk, with clumsy movements, slurred speech and a swaying walk. Some report a tingling glow on the skin and a sense of physical comfort, and nerve pain is strongly dulled. The eyes may struggle to focus, and coordination for driving or fine tasks is clearly impaired. Some feel muscle twitches.
 
-Emotionally the peak is relaxed, giddy and uninhibited; with more, it becomes confused and sleepy.
+Emotionally the peak is relaxed, giddy and uninhibited; with more, it becomes confused, sleepy and disoriented, sometimes with memory gaps. Many people feel unusually talkative and affectionate.
 
 Combined with opioids, pregabalin greatly raises the risk of fatal breathing suppression. Swelling of the face or throat is a rare allergic emergency.
 
@@ -80,19 +80,19 @@ In 2019 the FDA warned that gabapentinoids can cause serious breathing problems 
 
 ### Plateau (3-6 h)
 
-The plateau is a long, mellow, sedated glow.
+The pregabalin plateau is a long, mellow, sedated glow lasting several hours. The body stays warm and heavy, coordination poor, and many people drift toward sleep. Swelling of the ankles and weight gain can develop with regular use. Hands and feet may feel slightly numb or tingly, and some people notice muscle twitches or a dry mouth. Vision may stay blurry.
 
-Memory and concentration are poor.
+Memory and concentration are poor, and people may repeat themselves or lose track of time. Mood remains relaxed and content, gradually turning drowsy. Some people feel emotionally flat or detached.
 
-Weight gain and swelling of the legs can occur with long use.
+Driving and operating machinery are unsafe, and alcohol or other sedatives make impairment much worse.
 
 ### Comedown (6-12 h total)
 
-The comedown brings tiredness and sometimes headache.
+The comedown brings tiredness, heaviness and sometimes headache, dry mouth or blurry vision. Some people feel restless or achy as levels fall, and sleep can be disturbed. The body can feel sluggish and slightly achy, and appetite may increase. Some people notice their ankles swollen by evening.
 
-Mood can drop, with anxiety or irritability.
+Mood can drop, with anxiety, irritability or low mood, which can push people to take more, especially those using it for its euphoric effect. The contrast with the warm peak can feel stark.
 
-Regular use can cause dependence, and stopping suddenly can trigger anxiety, insomnia, nausea, sweating and seizures.
+Regular use can cause dependence, and stopping suddenly can trigger anxiety, insomnia, nausea, sweating, diarrhea and seizures; tapering over at least a week is recommended.
 
 As levels fall, dizziness and sedation fade over several hours. Sleep is often deep.
 

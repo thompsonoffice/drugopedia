@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Mirogabalin (Tarlige), used mainly in Japan and parts of Asia for nerve pain, has a gradual onset of drowsiness and dizziness as burning or electric nerve pain dulls.
+Mirogabalin (Tarlige), approved in Japan and parts of Asia for nerve pain such as diabetic neuropathy and post-shingles pain, works like pregabalin on the same nerve-calcium-channel target. Its onset, over an hour or two, brings drowsiness, a light dizziness and a gradual dulling of burning, shooting or electric nerve pain.
 
-Mentally a quiet calm, generally without much euphoria.
+Mentally there is a quiet calm and slight slowing, generally without the noticeable euphoria some people get from pregabalin. Many simply notice they feel sleepier and that pain is less intrusive.
 
-Unsteadiness and swelling of the legs are reported.
+Unsteadiness, fatigue and, with regular use, swelling of the legs and weight gain are reported. It is usually taken twice a day.
 
 Medically, the onset reflects slow and variable absorption. Mirogabalin is cleared mostly by the kidneys with a half-life of about 3 hours. Gabapentin is absorbed by a transporter in the gut that saturates, so more is not absorbed in proportion; pregabalin is absorbed more fully and quickly.
 
@@ -64,11 +64,11 @@ Gradual dizziness.
 
 ### Peak (about 1 h)
 
-At the peak there is sleepiness and wobbly balance.
+At the peak there is sleepiness, a heavy body and wobbly balance, especially when standing quickly or walking on uneven ground. Nerve pain is at its most dulled, and some people feel a mild, pleasant relaxation in the limbs. The eyes may struggle to focus, and fine tasks such as typing or threading a needle feel clumsy. Some people notice mild nausea or a dry mouth.
 
-Emotionally mellow.
+Emotionally it is mellow and calm, sometimes with slight fogginess or difficulty concentrating; mood is not usually lifted much.
 
-Combining with opioids or other depressants adds sedation and breathing risk.
+Combining with opioids, alcohol or other depressants adds sedation and breathing risk, and kidney problems require lower amounts because the drug builds up.
 
 Medically, the peak brings the strongest dizziness, unsteadiness, and sedation. Some people feel calm sociability or mild euphoria; others feel only clumsy and sleepy.
 
@@ -76,19 +76,19 @@ In 2019 the FDA warned that gabapentinoids can cause serious breathing problems 
 
 ### Plateau (several hours)
 
-The plateau is a steady mild sedation.
+The mirogabalin plateau is a steady mild sedation lasting several hours, with a heavy, slow body and mild unsteadiness. Many people nap or feel drowsy in the afternoon after a morning dose. Hands or feet may feel slightly numb or tingly, and some people notice mild swelling of the ankles. Vision can stay a little blurry.
 
-Thinking slightly slowed.
+Thinking is slightly slowed, with some forgetfulness or difficulty focusing, but confusion is uncommon at usual amounts. Mood stays calm and neutral. Some people feel more tired than usual.
 
-Falls are a risk in older adults.
+Falls are a risk, especially in older adults, and driving should wait until the person knows how it affects them.
 
 ### Comedown (about 12 h)
 
-The comedown is mild tiredness.
+The comedown is mild tiredness as the dose wears off, sometimes with returning pain, slight headache or a lingering heaviness in the legs. Some people feel a little sluggish or achy as the dose fades, and the legs may feel heavy or swollen by evening, especially with long-term use.
 
-Mood mostly unchanged.
+Mood is mostly unchanged, though a few people notice mild irritability or low mood, and any suicidal thoughts should be reported promptly. Its misuse potential appears low.
 
-Stopping suddenly may cause withdrawal symptoms.
+Stopping suddenly after regular use may cause withdrawal symptoms such as insomnia, anxiety, nausea and sweating, so it is usually tapered under medical guidance.
 
 As levels fall, dizziness and sedation fade over several hours. Sleep is often deep.
 

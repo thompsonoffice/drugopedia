@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (2-4 h)
 
-Phenibut is slow: it can take hours before anything happens, which leads people to take more and overshoot. When it arrives, there is a gradual warm calm and loosening of tension, with mild muscle relaxation and a slightly floaty, comfortable heaviness.
+Phenibut, sold online as a supplement and prescribed in Russia for anxiety, is slow: it can take two hours or more before anything happens, which leads people to take more and overshoot. When it arrives, a gradual warm calm spreads through the body, shoulders drop, and tight muscles loosen into a comfortable, slightly floaty heaviness.
 
-Mentally the onset feels like social anxiety quietly switching off. People feel more talkative, confident and content, with a mild, alcohol-like euphoria but clearer thinking at first. Music can seem more enjoyable.
+Mentally the onset feels like social anxiety quietly switching off. People feel more talkative, confident and content, with a mild, alcohol-like euphoria but clearer thinking at first. Conversations flow easily and music can seem richer and more enjoyable, and many feel motivated to go out and socialize.
 
-Some feel slight dizziness, nausea or a faint headache.
+Some feel slight dizziness, nausea or a faint headache, and a few feel only sleepy.
 
 Medically, the onset reflects absorption and entry into the brain. Phenibut is cleared mostly unchanged by the kidneys with a half-life of about 5 hours, though effects last longer. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ A slow-building calm and talkativeness.
 
 ### Peak (4-6 h)
 
-At the peak there is a relaxed, sociable glow and a desire to talk. With more, it becomes drunken: slurring, unsteadiness, slowed reactions and growing sleepiness.
+At the peak there is a relaxed, sociable glow and a strong desire to talk and connect, sometimes with a warm, tingly body feeling. With more, it becomes drunken: slurring, unsteadiness, slowed reactions, double vision and growing sleepiness, sometimes with nausea and vomiting.
 
-Emotionally confident and calm, sometimes giddy, sometimes deeply relaxed.
+Emotionally it feels confident and calm, sometimes giddy or euphoric, sometimes deeply relaxed and content to sit. Inhibitions fall, which can lead to oversharing or risky decisions.
 
-Excess causes heavy sedation, vomiting, confusion, agitation and, rarely, unconsciousness requiring hospital care. Combining with alcohol or other depressants is risky.
+Excess causes heavy sedation, vomiting, confusion, agitation, delirium and, rarely, unconsciousness requiring hospital care. Combining with alcohol, gabapentinoids or other depressants is risky.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (several hours)
 
-The plateau is very long, often most of a day.
+The phenibut plateau is very long, often most of a day, which surprises people used to shorter drugs. The body stays relaxed and slightly heavy, and some people feel a pleasant warmth or tingling; others notice increasing fatigue and a wobbly walk as the hours pass.
 
-Mood stays calm, then drowsy, and sleep can be heavy.
+Mood stays calm and sociable, then turns drowsy, and sleep that night can be very heavy. Concentration on detailed tasks is poor, and judgment loosened. Some people feel a pleasant, drowsy afterglow, while others become clumsy and nauseated.
 
-Because effects are delayed, people may take more before the first amount has peaked.
+Because effects are delayed, people may take more before the first amount has peaked, leading to unexpected oversedation many hours later.
 
 ### Comedown (15-24 h total)
 
-The comedown often brings next-day rebound anxiety, irritability and poor sleep, sometimes worse than before.
+The comedown often brings next-day rebound anxiety, irritability, restlessness and poor sleep, sometimes worse than the anxiety that led to using it. Some people feel shaky, tense and hungover, with mild nausea. Shakiness and a racing heart can occur.
 
-Mood can dip, with restlessness.
+Mood can dip noticeably, with low mood, edginess or a sense of fragility, which makes taking more tempting and is how daily use develops. Many people say the morning after feels like a hangover.
 
-Daily use quickly builds dependence, and withdrawal can be severe: intense anxiety, insomnia, agitation, hallucinations and sometimes psychosis.
+Daily use quickly builds dependence, and withdrawal can be severe: intense anxiety, insomnia, agitation, tremor, hallucinations and sometimes psychosis, often requiring medical help and a slow taper.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

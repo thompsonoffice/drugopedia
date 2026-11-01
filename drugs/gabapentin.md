@@ -52,9 +52,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-3 h)
 
-Gabapentin (Neurontin) has a slow, uneven onset because the gut absorbs it in a limited, saturable way. As it builds, the body feels heavy and slightly numb, as if wrapped in padding, and a light, wobbly dizziness appears, especially on standing.
+Gabapentin (Neurontin) has a slow, uneven onset, usually over one to three hours, because the gut absorbs it through a limited transporter, so more does not mean proportionally more effect. As it builds, the body feels heavy and slightly numb, as if wrapped in padding, and a light, wobbly dizziness appears, especially on standing or turning quickly.
 
-Mentally gabapentin brings a muted calm. Anxiety and nerve pain are dulled, and some people feel a mild, mellow, alcohol-like ease; for many others it simply feels sleepy and foggy.
+Mentally gabapentin brings a muted calm. Anxiety, irritability and nerve pain are dulled, and some people feel a mild, mellow, alcohol-like ease, chatty and relaxed; for many others it simply feels sleepy, foggy and slightly detached.
 
 Blurry or doubled vision, mild unsteadiness and a 'drunk legs' feeling are common early signs.
 
@@ -68,9 +68,9 @@ A gradual calm and lightness.
 
 ### Peak (2-4 h)
 
-At the peak the body feels loose and slow, with unsteady walking and a warm, slightly tingly heaviness. Some describe a gentle euphoria and sociability; others feel spacey and clumsy.
+At the peak the body feels loose and slow, with unsteady walking and a warm, slightly tingly heaviness in the limbs. Burning or electric nerve pain may fade noticeably. Some describe a gentle euphoria and sociability; others feel spacey, clumsy and tired. The eyes may struggle to focus, and some people notice a slight tremor or jerky muscle twitches.
 
-Emotionally the peak can be relaxed and contented, sometimes chatty, but memory and attention are noticeably dulled.
+Emotionally the peak can be relaxed and contented, sometimes chatty, but memory, word-finding and attention are noticeably dulled.
 
 Alone, gabapentin rarely stops breathing, but with opioids it sharply increases the risk of fatal overdose, a combination increasingly seen in deaths. Kidney problems raise blood levels too.
 
@@ -80,19 +80,19 @@ In 2019 the FDA warned that gabapentinoids can cause serious breathing problems 
 
 ### Plateau (3-6 h)
 
-The plateau is a long, steady haze lasting several hours.
+The gabapentin plateau is a long, steady haze lasting several hours. The body stays heavy and a bit numb, with mild unsteadiness and sometimes swelling of the ankles with regular use. Many people feel sleepy and nap. Hands may feel slightly numb or tingly, and the mouth dry. Some people feel restless rather than sleepy, especially at higher amounts.
 
-Thinking is slow and forgetful, and words may be hard to find.
+Thinking is slow and forgetful, and words may be hard to find; people may lose track of what they were doing or saying. Mood stays mellow or flat. Children and older adults sometimes become agitated or confused instead of calm.
 
-Falls are common, especially in older adults.
+Falls are common, especially in older adults, and driving is risky until people know how it affects them.
 
 ### Comedown (5-8 h total)
 
-The comedown is tiredness and mild fog, sometimes with headache.
+The comedown is tiredness and mild fog, sometimes with headache, dry mouth and a lingering wobbliness. Nerve pain or restlessness may return as levels drop, and sleep can be lighter than usual. Some people describe the hours after a dose as feeling flat, sluggish and slightly 'empty', especially after the mellow peak has gone.
 
-Mood may dip, with irritability or low mood; rarely, suicidal thoughts are reported.
+Mood may dip, with irritability, low mood or anxiety; rarely, suicidal thoughts are reported, and any such change should be taken seriously. Craving can occur in people who misuse it, especially alongside opioids.
 
-Stopping after regular use can cause anxiety, insomnia, sweating, pain and, rarely, seizures.
+Stopping after regular use can cause anxiety, insomnia, sweating, nausea, pain and, rarely, seizures, so doctors usually taper it over at least a week.
 
 As levels fall, dizziness and sedation fade over several hours. Sleep is often deep.
 

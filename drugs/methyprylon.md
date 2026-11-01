@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 45 min)
 
-Methyprylon (Noludar), a sleep drug from the 1950s now discontinued, brought a gradual, heavy, barbiturate-like drowsiness over about half an hour. The limbs grew slow and weighted, the head heavy, and the eyelids difficult to keep open, while a mild warmth spread through the body.
+Methyprylon (Noludar), a sleep drug from the 1950s now discontinued, brought a gradual, heavy, barbiturate-like drowsiness over about half an hour. The limbs grew slow and weighted, the head heavy, and the eyelids difficult to keep open, while a mild warmth spread through the body. The face could flush slightly and the hands feel numb.
 
 Mentally it brought a calm, sleepy fog with slowed thoughts and fading anxiety, sometimes with a slight drunk-like looseness before sleep took over.
 
-Coordination slowed, speech softened and became slurred, and some people felt dizzy or nauseated.
+Coordination slowed, speech softened and became slurred, and some people felt dizzy or nauseated. It was promoted as a non-barbiturate, but felt much the same.
 
 Medically, the onset reflects absorption and entry into the brain. Methyprylon was processed by the liver. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,7 +64,7 @@ Drowsiness.
 
 ### Peak (1-2 h)
 
-At the peak there was strong sedation, clumsiness and a powerful pull toward sleep. The body felt heavy and numb, and most people fell asleep quickly and deeply.
+At the peak there was strong sedation, clumsiness and a powerful pull toward sleep. The body felt heavy and numb, and most people fell asleep quickly and deeply. Muscles were slack and breathing slowed. The face could feel numb, eyes heavy and unfocused, and fine movements such as buttoning or writing became fumbling and slow.
 
 Emotionally it was dull and drowsy, with memory gaps and little awareness of time. Some people became confused or briefly excited before sleep, particularly older adults.
 
@@ -76,17 +76,17 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-The methyprylon plateau was sleep for most of the night, deep and heavy, with slow breathing and little movement. People were difficult to wake.
+The methyprylon plateau was sleep for most of the night, deep and heavy, with slow breathing and little movement. People were difficult to wake. The skin could feel cool, and breathing was slow and regular, sometimes with loud snoring. People who rose in the night often stumbled or fell, and older users were particularly prone to confusion and injury.
 
-If awake, thinking was slow, confused and forgetful, speech slurred and balance poor.
+If awake, thinking was slow, confused and forgetful, speech slurred and balance poor. Some people became restless, confused or agitated instead of sleepy, especially in the elderly.
 
 Alcohol made it far more dangerous, and nightly use built tolerance, leading some people to take more and risk overdose.
 
 ### Comedown (5-8 h)
 
-The comedown was a hangover with heaviness, grogginess, headache and sometimes nausea, often carrying into the morning.
+The comedown was a hangover with heaviness, grogginess, headache and sometimes nausea, often carrying into the morning. Coordination and reaction time stayed impaired for hours, making morning driving risky.
 
-Mood was flat and slow, with irritability or mild depression in some regular users.
+Mood was flat and slow, with irritability or mild depression in some regular users. Some regular users woke with shaky hands and a dry, sour mouth, feeling restless and on edge until they took another dose, an early sign of dependence that could escalate.
 
 Dependence occurred with regular use, with barbiturate-like withdrawal including anxiety, tremor, insomnia, hallucinations and seizures. It was eventually withdrawn as safer drugs appeared.
 

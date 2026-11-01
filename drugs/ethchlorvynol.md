@@ -52,7 +52,7 @@ Ethchlorvynol (Placidyl), a sleep drug from the 1950s that was withdrawn in the 
 
 Mentally it brought a drunken, sometimes euphoric looseness, with lowered inhibitions, giggling and a sense of floating. Some people felt confused or excited rather than sleepy at first.
 
-Coordination faded quickly, and some people felt numbness, tingling or a strange metallic taste.
+Coordination faded quickly, and some people felt numbness, tingling or a strange metallic taste. Its quick action made it popular as a 'knockout' pill. Effects peaked within an hour.
 
 Medically, the onset reflects absorption and entry into the brain. Ethchlorvynol was processed by the liver. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,9 +64,9 @@ Fast, drunk-like looseness.
 
 ### Peak (1-1.5 h)
 
-At the peak there was heavy sedation and confusion, sometimes with blurred vision, slurred speech and staggering. Most people fell into deep sleep, breathing slowly and heavily.
+At the peak there was heavy sedation and confusion, sometimes with blurred vision, slurred speech and staggering. Most people fell into deep sleep, breathing slowly and heavily. Limbs felt heavy, numb and distant, and walking was a stagger.
 
-Emotionally it was loose and dreamy, then overwhelmingly sleepy, with fading memory. Some experienced odd perceptions or vivid dreams as they drifted off.
+Emotionally it was loose and dreamy, then overwhelmingly sleepy, with fading memory. Some experienced odd perceptions or vivid dreams as they drifted off. Pain and discomfort felt distant, and some people became quarrelsome or tearful before sleep.
 
 Overdose caused deep, prolonged coma and breathing failure, and it was notorious for causing severe lung injury when misused by injection. The minty breath odor helped doctors recognize poisoning.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (2-4 h)
 
-The ethchlorvynol plateau was deep sleep for many hours. The body lay heavy and still, and people were hard to rouse; the characteristic odor lingered on the breath.
+The ethchlorvynol plateau was deep sleep for many hours. The body lay heavy and still, and people were hard to rouse; the characteristic odor lingered on the breath. Breathing was slow and deep, sometimes with loud snoring, and the skin could feel cool. People who got up in the night often stumbled or fell.
 
 If awake, people were confused, unsteady and disoriented, with slurred speech and poor memory for what happened.
 
-Mixing with alcohol was especially dangerous, deepening coma and breathing suppression, and tolerance built quickly, pushing regular users toward risky amounts.
+Mixing with alcohol was especially dangerous, deepening coma and breathing suppression, and tolerance built quickly, pushing regular users toward risky amounts. Nightly use led to chronic daytime dullness, slurred speech and unsteadiness in some long-term users.
 
 ### Comedown (about 5 h)
 
-The comedown was groggy and heavy, with headache, dizziness, nausea and a lingering unpleasant taste. Coordination stayed off for hours.
+The comedown was groggy and heavy, with headache, dizziness, nausea and a lingering unpleasant taste. Coordination stayed off for hours. Some people felt shaky and anxious, with a sour stomach and a lingering metallic taste.
 
-Mood was flat and slow, sometimes irritable or low, and regular users described feeling dulled and unsteady during the day.
+Mood was flat and slow, sometimes irritable or low, and regular users described feeling dulled and unsteady during the day. Some described feeling 'drugged' for much of the day after, with slowed reactions and poor concentration.
 
-Withdrawal resembled barbiturate withdrawal, including tremor, hallucinations, delirium and seizures, and it was difficult to manage without medical care.
+Withdrawal resembled barbiturate withdrawal, including tremor, hallucinations, delirium and seizures, and it was difficult to manage without medical care. Its dangers led the manufacturer to stop making it in 1999.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

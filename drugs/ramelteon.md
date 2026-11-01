@@ -88,7 +88,7 @@ Waking is usually clear and normal, without hangover, heaviness or a bad taste. 
 
 Mood is unchanged, and there is no rebound anxiety or craving.
 
-It is not considered addictive and is not a controlled substance; stopping does not cause withdrawal or rebound insomnia, which is why it is often used in older adults and people with a history of substance use.
+It is not considered addictive and is not a controlled substance; stopping does not cause withdrawal or rebound insomnia, which is why it is often used in older adults and people with a history of substance use. No taper is needed.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

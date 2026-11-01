@@ -80,13 +80,13 @@ The glutethimide plateau was very long, often many hours, because the drug was s
 
 Thinking was muddled and confused, memory patchy, and judgment badly impaired. Some people became disoriented or saw things at the edge of vision, reflecting the anticholinergic effects.
 
-Effects could return after seeming to fade, as the drug was released from fat stores, which made overdoses especially treacherous and confused doctors trying to judge recovery.
+Effects could return after seeming to fade, as the drug was released from fat stores, which made overdoses especially treacherous and confused doctors trying to judge recovery. Pulse stayed fast. Urine retention was common.
 
 ### Comedown (many hours)
 
 The comedown was a heavy hangover with dry mouth, headache, sluggish limbs and grogginess that often lasted into the following day. Constipation and difficulty urinating were common.
 
-Mood was low, slowed and irritable, and regular users described feeling dulled and depressed between doses.
+Mood was low, slowed and irritable, and regular users described feeling dulled and depressed between doses. Users often felt shaky and anxious the morning after, with a strong pull to take more. The combination with codeine left people especially sick and craving as both drugs wore off.
 
 Severe dependence developed with regular use, and withdrawal could cause tremor, nausea, sweating, delirium and seizures, resembling barbiturate withdrawal. Its risks led to its withdrawal from the US market.
 
