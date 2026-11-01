@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-3 h)
 
-Phenazepam (Fenazepam) is prescribed in Russia and sold elsewhere as a research chemical. It builds over a while: a loosening in the neck and shoulders, a warm drowsiness and a quieting of the chest.
+Phenazepam (Fenazepam) is a prescription drug in Russia and nearby countries and has been sold elsewhere as a research chemical. Its onset is slow, a creeping heaviness that people often underestimate.
 
-Mentally the onset is a slow-building, very long and heavy sedation; people often take more because they feel little at first.
+Mentally the calm grows over hours into deep sedation.
 
-Designer benzodiazepines are unapproved, their strength in powders, blotters and counterfeit pills is unknown, and they are increasingly found mixed with fentanyl, which multiplies the risk of fatal breathing suppression.
+Taking more because 'nothing is happening' is a classic route to overdose.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ A heavy, creeping sedation builds over hours.
 
 ### Peak (2-6 h)
 
-At its peak the body is heavy and uncoordinated, with slurred speech, stumbling and a strong pull toward sleep.
+At its peak profound clumsiness, slurred speech and sleepiness.
 
-Mentally the peak is disinhibited, careless and forgetful; blackouts, where people act normally but later remember nothing, are very common with these drugs. Effects can last days, with confusion and loss of coordination.
+Mentally disinhibited, confused and forgetful.
 
-Combined with opioids, alcohol or other sedatives, breathing can slow dangerously. Naloxone reverses only the opioid part, but should still be given in any suspected overdose.
+With alcohol or opioids it has caused deaths.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (many hours)
 
-The plateau is very long, often stretching across a day or more, and repeated doses pile up. Balance stays poor and falls and injuries are common.
+The plateau can last days, with lingering unsteadiness and confusion.
 
-Mentally people feel foggy and muted, sometimes re-dosing because they forget they already took some.
+Mentally people may be impaired long after feeling sober.
 
-Driving or caring for others during this time is unsafe.
+Driving the next day is risky.
 
 ### Comedown (1-3 days)
 
-The comedown brings grogginess, headache and a heavy, dull body, sometimes lasting into the next day.
+The comedown is prolonged.
 
-Emotionally rebound anxiety, irritability, low mood and regret over forgotten actions are common.
+Emotionally low and anxious.
 
-Dependence develops fast with daily use, and withdrawal can cause seizures and psychosis; medically supervised tapering, often with a prescribed benzodiazepine, is the safe route.
+Dependence and severe withdrawal are documented.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-3-Hydroxyphenazepam is the active metabolite of phenazepam. It builds over a while: a loosening in the neck and shoulders, a warm drowsiness and a quieting of the chest.
+3-Hydroxyphenazepam is phenazepam's active metabolite. It comes on more quickly than phenazepam with a strong calm.
 
-Mentally the onset is a strong, prolonged calm.
+Mentally deep relief.
 
-Designer benzodiazepines are unapproved, their strength in powders, blotters and counterfeit pills is unknown, and they are increasingly found mixed with fentanyl, which multiplies the risk of fatal breathing suppression.
+Its strength in street pills, powders and blotters is unknown, and it is increasingly found mixed with fentanyl.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, a heavy starts to appear.
 
 ### Peak (2-4 h)
 
-At its peak the body is heavy and uncoordinated, with slurred speech, stumbling and a strong pull toward sleep.
+At its peak sedated.
 
-Mentally the peak is disinhibited, careless and forgetful; blackouts, where people act normally but later remember nothing, are very common with these drugs. Effects can last a very long time.
+Mentally forgetful.
 
-Combined with opioids, alcohol or other sedatives, breathing can slow dangerously. Naloxone reverses only the opioid part, but should still be given in any suspected overdose.
+Risky with depressants.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau is very long, often stretching across a day or more, and repeated doses pile up. Balance stays poor and falls and injuries are common.
+The plateau is long.
 
-Mentally people feel foggy and muted, sometimes re-dosing because they forget they already took some.
+Mentally dull.
 
-Driving or caring for others during this time is unsafe.
+Accumulates.
 
 ### Comedown (12-24 h)
 
-The comedown brings grogginess, headache and a heavy, dull body, sometimes lasting into the next day.
+The comedown is slow.
 
-Emotionally rebound anxiety, irritability, low mood and regret over forgotten actions are common.
+Emotionally low.
 
-Dependence develops fast with daily use, and withdrawal can cause seizures and psychosis; medically supervised tapering, often with a prescribed benzodiazepine, is the safe route.
+Dependence possible.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

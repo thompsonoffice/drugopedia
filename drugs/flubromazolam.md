@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Flubromazolam is an extremely potent triazolo designer benzodiazepine. It builds over a while: a loosening in the neck and shoulders, a warm drowsiness and a quieting of the chest.
+Flubromazolam is among the most potent designer benzos ever sold. It comes on deceptively slowly: early on people may feel only a mild relaxation and decide to take more, then the effect keeps climbing into heavy, sinking sedation.
 
-Mentally the onset is a heavy, overwhelming sedation that arrives deceptively slowly, then hits hard.
+Mentally the onset becomes a thick, smothering calm that drowns thought.
 
-Designer benzodiazepines are unapproved, their strength in powders, blotters and counterfeit pills is unknown, and they are increasingly found mixed with fentanyl, which multiplies the risk of fatal breathing suppression.
+Its strength in street pills, powders and blotters is unknown, and it is increasingly found mixed with fentanyl.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Sedation deepens steadily over the next hour.
 
 ### Peak (2-4 h)
 
-At its peak the body is heavy and uncoordinated, with slurred speech, stumbling and a strong pull toward sleep.
+At its peak the body is limp; people may be unable to stand or speak clearly, and they fall asleep in odd places.
 
-Mentally the peak is disinhibited, careless and forgetful; blackouts, where people act normally but later remember nothing, are very common with these drugs. Very long blackouts and next-day impairment are typical.
+Mentally the peak is near-total amnesia, sometimes for a day or more.
 
-Combined with opioids, alcohol or other sedatives, breathing can slow dangerously. Naloxone reverses only the opioid part, but should still be given in any suspected overdose.
+Deep unconsciousness and breathing failure are real dangers, especially with other depressants.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (4-12 h)
 
-The plateau is very long, often stretching across a day or more, and repeated doses pile up. Balance stays poor and falls and injuries are common.
+The plateau is extremely long, often well past a day, with grogginess and wobbly coordination.
 
-Mentally people feel foggy and muted, sometimes re-dosing because they forget they already took some.
+Mentally people feel slowed and forgetful long after they think it has worn off.
 
-Driving or caring for others during this time is unsafe.
+Repeated doses build to dangerous levels.
 
 ### Comedown (12-18 h total)
 
-The comedown brings grogginess, headache and a heavy, dull body, sometimes lasting into the next day.
+The comedown is a long, heavy fade with headache and lethargy.
 
-Emotionally rebound anxiety, irritability, low mood and regret over forgotten actions are common.
+Emotionally confusion, anxiety and distress over lost time.
 
-Dependence develops fast with daily use, and withdrawal can cause seizures and psychosis; medically supervised tapering, often with a prescribed benzodiazepine, is the safe route.
+Dependence forms quickly; withdrawal can be severe and prolonged.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

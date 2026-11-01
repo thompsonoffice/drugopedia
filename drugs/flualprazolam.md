@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (10-30 min)
 
-Flualprazolam is a fluorinated relative of alprazolam that appeared around 2018 and was widely found in counterfeit Xanax. It builds over a while: a loosening in the neck and shoulders, a warm drowsiness and a quieting of the chest.
+Flualprazolam is alprazolam with a fluorine added, and from about 2018 it showed up widely in counterfeit 'Xanax' bars. It comes on fast, like alprazolam: within a short time a wave of warmth rolls down from the head, shoulders drop and the chest opens.
 
-Mentally the onset is a fast, strong, alprazolam-like calm, with anxiety disappearing and a floaty, euphoric ease that is noticeably stronger and longer than Xanax.
+Mentally the onset is a sudden, almost euphoric ease. Anxiety is not just reduced but erased, and people feel chatty, careless and floaty. Compared with real Xanax it hits harder and lasts noticeably longer.
 
-Designer benzodiazepines are unapproved, their strength in powders, blotters and counterfeit pills is unknown, and they are increasingly found mixed with fentanyl, which multiplies the risk of fatal breathing suppression.
+Its strength in street pills, powders and blotters is unknown, and it is increasingly found mixed with fentanyl.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ A wave of heaviness and loosened inhibition follows quickly.
 
 ### Peak (1-3 h)
 
-At its peak the body is heavy and uncoordinated, with slurred speech, stumbling and a strong pull toward sleep.
+At its peak the body is loose and clumsy; walking becomes swaying and speech blurs.
 
-Mentally the peak is disinhibited, careless and forgetful; blackouts, where people act normally but later remember nothing, are very common with these drugs. Amnesia is pronounced.
+Mentally people feel uninhibited and fearless, and blackouts are frequent: hours of activity can be lost entirely, including risky or out-of-character behavior.
 
-Combined with opioids, alcohol or other sedatives, breathing can slow dangerously. Naloxone reverses only the opioid part, but should still be given in any suspected overdose.
+With opioids or alcohol, breathing suppression and deep unconsciousness can follow.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (3-8 h)
 
-The plateau lasts several hours of steady sedation. Balance stays poor and falls and injuries are common.
+The plateau runs much longer than a real Xanax would, so people who expect a short effect may redose and stack.
 
-Mentally people feel foggy and muted, sometimes re-dosing because they forget they already took some.
+Mentally the fog lingers, with patchy memory and poor judgment.
 
-Driving or caring for others during this time is unsafe.
+Driving and caring for others are unsafe.
 
 ### Comedown (6-14 h total)
 
-The comedown brings grogginess, headache and a heavy, dull body, sometimes lasting into the next day.
+The comedown brings a heavy, foggy hangover and sometimes nausea.
 
-Emotionally rebound anxiety, irritability, low mood and regret over forgotten actions are common.
+Emotionally rebound anxiety, shame about forgotten events and low mood are common.
 
-Dependence develops fast with daily use, and withdrawal can cause seizures and psychosis; medically supervised tapering, often with a prescribed benzodiazepine, is the safe route.
+Daily use causes dependence quickly; withdrawal can bring seizures.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

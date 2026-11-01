@@ -195,3 +195,72 @@ H("zolazepam",
 ["At its peak deep sedation with possible unconsciousness.","Mentally absent or dissociated.","Breathing problems and prolonged unconsciousness can occur."],
 ["The plateau can last hours.","Mentally confused.","Hospital monitoring is needed."],
 ["Recovery brings confusion and nausea.","Emotionally disoriented.","No therapeutic use in people."])
+
+# ---- Hand-written replacements for designer benzodiazepines ----
+W="Its strength in street pills, powders and blotters is unknown, and it is increasingly found mixed with fentanyl."
+H("flualprazolam",
+["Flualprazolam is alprazolam with a fluorine added, and from about 2018 it showed up widely in counterfeit 'Xanax' bars. It comes on fast, like alprazolam: within a short time a wave of warmth rolls down from the head, shoulders drop and the chest opens.","Mentally the onset is a sudden, almost euphoric ease. Anxiety is not just reduced but erased, and people feel chatty, careless and floaty. Compared with real Xanax it hits harder and lasts noticeably longer.",W],
+["At its peak the body is loose and clumsy; walking becomes swaying and speech blurs.","Mentally people feel uninhibited and fearless, and blackouts are frequent: hours of activity can be lost entirely, including risky or out-of-character behavior.","With opioids or alcohol, breathing suppression and deep unconsciousness can follow."],
+["The plateau runs much longer than a real Xanax would, so people who expect a short effect may redose and stack.","Mentally the fog lingers, with patchy memory and poor judgment.","Driving and caring for others are unsafe."],
+["The comedown brings a heavy, foggy hangover and sometimes nausea.","Emotionally rebound anxiety, shame about forgotten events and low mood are common.","Daily use causes dependence quickly; withdrawal can bring seizures."])
+H("flubromazolam",
+["Flubromazolam is among the most potent designer benzos ever sold. It comes on deceptively slowly: early on people may feel only a mild relaxation and decide to take more, then the effect keeps climbing into heavy, sinking sedation.","Mentally the onset becomes a thick, smothering calm that drowns thought.",W],
+["At its peak the body is limp; people may be unable to stand or speak clearly, and they fall asleep in odd places.","Mentally the peak is near-total amnesia, sometimes for a day or more.","Deep unconsciousness and breathing failure are real dangers, especially with other depressants."],
+["The plateau is extremely long, often well past a day, with grogginess and wobbly coordination.","Mentally people feel slowed and forgetful long after they think it has worn off.","Repeated doses build to dangerous levels."],
+["The comedown is a long, heavy fade with headache and lethargy.","Emotionally confusion, anxiety and distress over lost time.","Dependence forms quickly; withdrawal can be severe and prolonged."])
+H("clonazolam",
+["Clonazolam combines features of clonazepam and alprazolam and is extremely potent. It comes on over a short while with a swift heaviness and a warm, dropping sensation.","Mentally anxiety vanishes into a blank, careless calm.",W],
+["At its peak heavy sedation, stumbling and slurring.","Mentally clonazolam is notorious for blackouts in which people act seemingly normally, shoplift, drive or fight, and remember nothing.","Combined with opioids or alcohol it can cause fatal breathing suppression."],
+["The plateau lasts many hours.","Mentally foggy, forgetful and reckless.","Redosing during blackouts is common."],
+["The comedown brings a heavy hangover and dread.","Emotionally anxious and ashamed.","Dependence develops fast; tapering needs medical help."])
+H("bromazolam",
+["Bromazolam is alprazolam with bromine in place of chlorine. Since about 2021 it has become one of the most common designer benzos, often found mixed with fentanyl ('benzo-dope'). Alone, it comes on fairly quickly with an alprazolam-like calm and drowsiness.","Mentally a soft, warm relief and detachment.",W],
+["At its peak heavy, slurred and sleepy.","Mentally foggy with amnesia.","Mixed with fentanyl it causes deep, long-lasting sedation; naloxone may restore breathing but not wake the person."],
+["The plateau lasts several hours.","Mentally hazy.","People in 'benzo-dope' overdoses may need hours of monitoring after naloxone."],
+["The comedown brings grogginess.","Emotionally rebound anxiety.","Dependence on both drugs together makes withdrawal complex and dangerous."])
+H("diclazepam",
+["Diclazepam (chlorodiazepam) is a long-acting designer relative of diazepam. It comes on gradually with a warm, diazepam-like muscle loosening.","Mentally a slow, steady calm builds.","Its breakdown products, including delorazepam and lorazepam, extend the effect for days. "+W],
+["At its peak relaxed and drowsy.","Mentally calm and forgetful.","Risky with depressants."],
+["The plateau is very long.","Mentally dull.","Accumulation with repeated use."],
+["The comedown is slow.","Emotionally gradual rebound anxiety.","Dependence with daily use."])
+H("phenazepam",
+["Phenazepam (Fenazepam) is a prescription drug in Russia and nearby countries and has been sold elsewhere as a research chemical. Its onset is slow, a creeping heaviness that people often underestimate.","Mentally the calm grows over hours into deep sedation.","Taking more because 'nothing is happening' is a classic route to overdose."],
+["At its peak profound clumsiness, slurred speech and sleepiness.","Mentally disinhibited, confused and forgetful.","With alcohol or opioids it has caused deaths."],
+["The plateau can last days, with lingering unsteadiness and confusion.","Mentally people may be impaired long after feeling sober.","Driving the next day is risky."],
+["The comedown is prolonged.","Emotionally low and anxious.","Dependence and severe withdrawal are documented."])
+H("deschloroetizolam","Deschloroetizolam is a weaker, longer relative of etizolam. Its onset is moderate, bringing a light etizolam-like calm and loosened muscles.".split("|")+["Mentally a gentle anxiety relief.",W],
+["At its peak relaxed and drowsy.","Mentally calm, forgetful.","Risky with depressants."],["The plateau lasts several hours.","Mentally foggy.","Redosing stacks effects."],["The comedown brings tiredness.","Emotionally mild rebound.","Dependence possible."])
+H("pyrazolam",["Pyrazolam is a designer benzo reported to calm anxiety with less sleepiness than most. It comes on over a while.","Mentally people describe a clear-headed calm, which can hide how impaired they are.",W],
+["At its peak mild relaxation.","Mentally steady.","Risky with depressants."],["The plateau lasts several hours.","Mentally slightly slowed.","Driving is impaired."],["The comedown is gradual.","Emotionally mild rebound.","Dependence possible."])
+H("nifoxipam",["Nifoxipam, related to flunitrazepam, is a sleep-heavy designer benzo. It comes on with a strong pull toward sleep.","Mentally thoughts dim quickly.",W],
+["At its peak deep drowsiness.","Mentally amnesia.","Risky with depressants."],["The plateau lasts hours.","Mentally hazy.","Falls are common."],["The comedown brings grogginess.","Emotionally flat.","Dependence possible."])
+H("meclonazepam",["Meclonazepam is a clonazepam relative originally studied against parasitic worms. It comes on gradually with a clonazepam-like heavy calm.","Mentally steady, numb relief.",W],
+["At its peak sedated.","Mentally forgetful.","Risky with depressants."],["The plateau is long.","Mentally dull.","Builds up."],["The comedown is slow.","Emotionally rebound anxiety.","Dependence possible."])
+H("flubromazepam",["Flubromazepam is an extremely long-lasting designer benzo. It comes on slowly with a building calm.","Mentally a gradual, deep quieting.",W],
+["At its peak sleepy and clumsy.","Mentally forgetful.","Risky with depressants."],["The plateau stretches over days; it can be detected for weeks.","Mentally dull.","Repeated use stacks dangerously."],["The comedown is very slow.","Emotionally low.","Dependence likely with daily use."])
+H("metizolam",["Metizolam is a weaker etizolam relative. Its onset brings a light, short calm.","Mentally mild relief.",W],
+["At its peak lightly relaxed.","Mentally calm.","Risky with depressants."],["The plateau lasts a few hours.","Mentally slight fog.","Redosing common."],["The comedown is mild.","Emotionally slight rebound.","Dependence possible."])
+H("adinazolam",["Adinazolam was developed by Upjohn as an antidepressant benzodiazepine but never approved. It comes on fairly quickly with a short calm and slight mood lift.","Mentally relaxed and mildly brighter.",W],
+["At its peak drowsy as it converts to a more sedating metabolite.","Mentally foggy.","Risky with depressants."],["The plateau is short.","Mentally slows.","Redosing common."],["The comedown is quick.","Emotionally rebound low.","Dependence possible."])
+H("desalkylgidazepam",["Desalkylgidazepam (bromonordiazepam) is gidazepam's active metabolite, sold as a designer drug. It comes on slowly with a long, gentle calm.","Mentally steady relief.",W],
+["At its peak relaxed.","Mentally calm.","Risky with depressants."],["The plateau is long.","Mentally dull.","Accumulates."],["The comedown is gradual.","Emotionally slow.","Dependence possible."])
+H("flunitrazolam",["Flunitrazolam is an extremely potent triazolo relative of flunitrazepam. It comes on fast with overwhelming heaviness.","Mentally thought shuts down quickly.",W],
+["At its peak near-unconscious.","Mentally total amnesia.","Breathing risk is high with depressants."],["The plateau lasts hours.","Mentally absent.","Tiny differences in amount change the outcome drastically."],["The comedown brings grogginess.","Emotionally confused.","Dependence possible."])
+H("norfludiazepam",["Norfludiazepam is a very long-acting metabolite of flurazepam and other benzos. It comes on slowly with a steady calm.","Mentally an even quieting.",W],
+["At its peak relaxed.","Mentally calm.","Risky with depressants."],["The plateau lasts days.","Mentally dull.","Accumulates."],["The comedown is slow.","Emotionally gradual.","Dependence possible."])
+H("rilmazafone",["Rilmazafone is a Japanese sleep medicine that is not itself a benzodiazepine but turns into one in the body. It comes on gradually with drowsiness.","Mentally sleepy and slow.","It has appeared as a designer drug and been linked to deaths in Europe."],
+["At its peak sleep.","Mentally hazy.","Risky with depressants."],["The plateau lasts the night.","Mentally sleep.","Morning grogginess possible."],["The comedown is mild.","Emotionally mild.","Dependence possible."])
+H("clobromazolam",["Clobromazolam is a newer, very potent designer benzo. It comes on fairly quickly with heavy sedation.","Mentally a dense, blank calm.",W],
+["At its peak stumbling and sleepy.","Mentally amnesia.","Dangerous with opioids."],["The plateau lasts hours.","Mentally foggy.","Redosing risky."],["The comedown brings grogginess.","Emotionally anxious.","Dependence possible."])
+H("fonazepam",["Fonazepam (desmethylflunitrazepam) is a flunitrazepam metabolite. It comes on with a sleepy heaviness.","Mentally thoughts fade toward sleep.",W],
+["At its peak heavy sedation.","Mentally amnesia.","Risky with depressants."],["The plateau lasts hours.","Mentally hazy.","Falls common."],["The comedown is groggy.","Emotionally flat.","Dependence possible."])
+H("3-hydroxyphenazepam",["3-Hydroxyphenazepam is phenazepam's active metabolite. It comes on more quickly than phenazepam with a strong calm.","Mentally deep relief.",W],
+["At its peak sedated.","Mentally forgetful.","Risky with depressants."],["The plateau is long.","Mentally dull.","Accumulates."],["The comedown is slow.","Emotionally low.","Dependence possible."])
+H("nitemazepam",["Nitemazepam is a nitro-substituted temazepam relative. It is thought to come on with temazepam-like sleepiness.","Mentally drowsy.","Almost nothing is known about it. "+W],
+["At its peak sleepy.","Mentally hazy.","Risky with depressants."],["The plateau lasts hours.","Mentally foggy.","Unknown duration."],["The comedown is groggy.","Emotionally mild.","Dependence possible."])
+H("thionordazepam",["Thionordazepam is a sulfur-containing nordazepam relative. It is thought to bring a slow, steady calm.","Mentally quiet.","Its safety is essentially unstudied. "+W],
+["At its peak relaxed.","Mentally calm.","Risky with depressants."],["The plateau may be long.","Mentally dull.","Unknown."],["The comedown is gradual.","Emotionally slow.","Dependence possible."])
+H("cloniprazepam",["Cloniprazepam is a clonazepam prodrug sold as a designer drug. It comes on gradually as it turns into clonazepam.","Mentally a heavy clonazepam-like calm.",W],
+["At its peak sedated.","Mentally forgetful.","Risky with depressants."],["The plateau is long.","Mentally dull.","Accumulates."],["The comedown is slow.","Emotionally rebound anxiety.","Dependence possible."])
+H("norflurazepam",["Norflurazepam is flurazepam's long-lasting metabolite. It comes on slowly with heavy drowsiness.","Mentally sleepy.",W],
+["At its peak sleepy.","Mentally hazy.","Risky with depressants."],["The plateau lasts days.","Mentally dull.","Accumulates."],["The comedown is very slow.","Emotionally flat.","Dependence possible."])

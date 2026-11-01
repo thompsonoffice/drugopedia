@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Bromazolam became one of the most common designer benzos in the US drug supply around 2022, often mixed into fentanyl. It builds over a while: a loosening in the neck and shoulders, a warm drowsiness and a quieting of the chest.
+Bromazolam is alprazolam with bromine in place of chlorine. Since about 2021 it has become one of the most common designer benzos, often found mixed with fentanyl ('benzo-dope'). Alone, it comes on fairly quickly with an alprazolam-like calm and drowsiness.
 
-Mentally the onset is an alprazolam-like calm and drowsiness.
+Mentally a soft, warm relief and detachment.
 
-Designer benzodiazepines are unapproved, their strength in powders, blotters and counterfeit pills is unknown, and they are increasingly found mixed with fentanyl, which multiplies the risk of fatal breathing suppression.
+Its strength in street pills, powders and blotters is unknown, and it is increasingly found mixed with fentanyl.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Calm and heaviness rise fast.
 
 ### Peak (1-2 h)
 
-At its peak the body is heavy and uncoordinated, with slurred speech, stumbling and a strong pull toward sleep.
+At its peak heavy, slurred and sleepy.
 
-Mentally the peak is disinhibited, careless and forgetful; blackouts, where people act normally but later remember nothing, are very common with these drugs. Mixed with fentanyl, it causes deep, prolonged unconsciousness that naloxone alone does not wake.
+Mentally foggy with amnesia.
 
-Combined with opioids, alcohol or other sedatives, breathing can slow dangerously. Naloxone reverses only the opioid part, but should still be given in any suspected overdose.
+Mixed with fentanyl it causes deep, long-lasting sedation; naloxone may restore breathing but not wake the person.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (2-4 h)
 
-The plateau lasts several hours of steady sedation. Balance stays poor and falls and injuries are common.
+The plateau lasts several hours.
 
-Mentally people feel foggy and muted, sometimes re-dosing because they forget they already took some.
+Mentally hazy.
 
-Driving or caring for others during this time is unsafe.
+People in 'benzo-dope' overdoses may need hours of monitoring after naloxone.
 
 ### Comedown (5-8 h total)
 
-The comedown brings grogginess, headache and a heavy, dull body, sometimes lasting into the next day.
+The comedown brings grogginess.
 
-Emotionally rebound anxiety, irritability, low mood and regret over forgotten actions are common.
+Emotionally rebound anxiety.
 
-Dependence develops fast with daily use, and withdrawal can cause seizures and psychosis; medically supervised tapering, often with a prescribed benzodiazepine, is the safe route.
+Dependence on both drugs together makes withdrawal complex and dangerous.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
