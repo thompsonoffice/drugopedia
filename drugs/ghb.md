@@ -92,7 +92,7 @@ The comedown can be surprisingly clean for some, who wake feeling refreshed afte
 
 Emotionally there may be mild anxiety, low mood or embarrassment about gaps in memory. People who use frequently can feel a jittery, anxious rebound within hours of the last dose.
 
-People who use GHB around the clock can develop severe dependence within weeks. Withdrawal can begin within hours and cause intense anxiety, tremor, rapid heart rate, insomnia, delirium, hallucinations and seizures; it can be fatal and needs hospital care.
+People who use GHB around the clock can develop severe dependence within weeks. Withdrawal can begin within hours and cause intense anxiety, tremor, rapid heart rate, insomnia, delirium, hallucinations and seizures; it can be fatal and needs hospital care. Sudden stopping is never safe.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

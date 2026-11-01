@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-20 min)
 
-Zaleplon (Sonata) is the fastest and shortest of the Z-drugs. Within a short time the body grows heavy and warm, muscles loosen, and a soft, swimmy dizziness rises into the head. Lying down, it feels like being gently pulled under.
+Zaleplon (Sonata) is the fastest and shortest of the Z-drugs, often felt within a quarter of an hour. The body grows heavy and warm, the shoulders and jaw let go, and a soft, swimmy dizziness rises into the head. Lying down in the dark, it feels like being gently pulled under, as if sleep had been switched on.
 
-Mentally a quick, dreamy drowsiness takes over. Worries fade and thoughts loosen. If the person fights sleep, a brief zolpidem-like giddiness can appear, with silly mood, lowered inhibitions and odd perceptions such as surfaces shimmering.
+Mentally a quick, dreamy drowsiness takes over. Worries fade and thoughts loosen and drift. If the person fights sleep, a brief zolpidem-like giddiness can appear, with a silly mood, lowered inhibitions and odd perceptions such as surfaces shimmering or patterns sliding on the ceiling.
 
-Memory for the period after taking it is often poor, sometimes starting almost immediately.
+Memory for the period after taking it is often poor, sometimes starting almost immediately, so people may not recall the last few minutes before sleep.
 
 Medically, the onset reflects absorption and entry into the brain. Zaleplon is processed by aldehyde oxidase and CYP3A4, with a half-life of about 1 hour. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (1-2 h)
 
-The plateau is brief, often under a couple of hours, and usually spent asleep.
+The zaleplon plateau is brief, often under a couple of hours, and usually spent asleep. Sleep tends to be deep at first, then lightens as the drug clears, which is why some people wake in the early morning hours. The body feels heavy and still, with slow, regular breathing.
 
-If awake, thinking is fragmented and short-term memory poor.
+If awake, thinking is fragmented, short-term memory poor, and movements clumsy. People may get up for water or the bathroom and remember none of it, or have half-dreaming conversations they cannot recall.
 
-Because it clears quickly, next-day grogginess is less common than with other sleep drugs, which is why it is sometimes used for middle-of-the-night waking.
+Because it clears quickly, next-day grogginess is less common than with other sleep drugs, which is why it is sometimes prescribed for middle-of-the-night waking when enough hours remain before getting up.
 
 ### Comedown (3-4 h total)
 
-Waking is usually fairly clear, though some feel slightly heavy or headachy.
+Waking after zaleplon is usually fairly clear. Some people feel slightly heavy, dry-mouthed or headachy for the first hour, but most report feeling close to normal, without the drugged hangover of longer sleep medicines.
 
-Mood is generally steady, though some feel anxious about patchy memory.
+Mood is generally steady, though some feel anxious or uneasy about patchy memory from the night before, and a few notice a slightly flat or irritable mood in the morning.
 
-Tolerance and rebound insomnia can develop with regular use, and dependence is possible.
+Tolerance and rebound insomnia can develop with regular use, with a night or two of poor sleep after stopping, and dependence is possible. Like other Z-drugs it carries a boxed warning for complex sleep behaviors.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

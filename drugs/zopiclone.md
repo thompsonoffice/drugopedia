@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Zopiclone (Imovane, Zimovane), sold outside the US, shares eszopiclone's bitter, metallic taste. The onset is a heavy, warm sleepiness that spreads from the head down, with loosening muscles and a light, drunken unsteadiness.
+Zopiclone (Imovane, Zimovane), widely used outside the US, shares eszopiclone's bitter, metallic taste, which often lingers into the morning. The onset is a heavy, warm sleepiness that spreads from the head downward, with loosening muscles, heavy eyelids and a light, drunken unsteadiness when walking.
 
-Mentally a dreamy calm settles in. If sleep is resisted, it can turn into a drunken giddiness with loosened inhibitions and visual distortions, like patterns sliding on walls.
+Mentally a dreamy calm settles in, with thoughts slowing and worries fading. If sleep is resisted, it can turn into a drunken giddiness with loosened inhibitions, silly talk and visual distortions, like patterns sliding on walls or objects seeming to move.
 
-Coordination and memory fade early, sometimes before the person feels very sedated.
+Coordination and memory fade early, sometimes before the person feels very sedated, so the last part of the evening may be lost.
 
 Medically, the onset reflects absorption and entry into the brain. Zopiclone has a half-life of about 5 hours. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,9 +64,9 @@ Drowsiness.
 
 ### Peak (1-2 h)
 
-At the peak there is strong sedation, slurring and unsteadiness. Hands fumble and walking is risky.
+At the peak there is strong sedation, slurring and unsteadiness. Hands fumble with phones or cups, and walking is risky, with a tendency to sway or bump into furniture.
 
-Emotionally disinhibited or confused, with memory gaps that can cover hours.
+Emotionally it can feel disinhibited, giggly or confused, with memory gaps that can cover hours. Some people feel a pleasant, floating detachment, others anxious and disoriented.
 
 Z-drugs rarely stop breathing on their own, but combined with alcohol, opioids, benzodiazepines or gabapentinoids they can cause dangerous sedation and slowed breathing. Complex sleep behaviors, such as sleep-driving, cooking or walking outside with no memory, carry an FDA boxed warning. Anyone who cannot be woken, or is vomiting while drowsy, needs emergency help.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-The plateau carries sedation through the night.
+The zopiclone plateau carries sedation through most of the night. Sleep is usually deep and the body heavy and still, though some people wake with a bitter, dry mouth or a sense of strange, vivid dreams. Breathing is slow and regular.
 
-Thinking is foggy if awake.
+If awake, thinking is foggy and memory poor, and people may do things they do not remember, from eating to sending messages. Judgment and balance are significantly impaired.
 
-Next-day drowsiness and impaired driving are documented, especially in older adults.
+Next-day drowsiness and impaired driving are documented, especially in older adults, who clear the drug more slowly and are more prone to falls during night-time bathroom trips.
 
 ### Comedown (6-8 h total)
 
-Waking is often groggy with a bad taste and heavy head.
+Waking is often groggy, with a bad, metallic taste, a heavy head and a slight unsteadiness. The first hours of the morning can feel slow and muffled, and some people notice a mild headache or dry mouth.
 
-Mood can be flat or irritable.
+Mood can be flat or irritable, and some people feel low or anxious in the mornings after regular use. Rebound insomnia is common when stopping.
 
-Dependence and withdrawal similar to benzodiazepines can develop with regular use.
+Dependence and withdrawal similar to benzodiazepines can develop with regular use, including anxiety, insomnia, shakiness and, rarely, seizures; tapering with a doctor is safer than stopping suddenly.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

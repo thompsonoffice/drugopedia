@@ -68,7 +68,7 @@ At the peak people feel drowsy, unsteady and sometimes nauseated, with double vi
 
 Emotionally it is flat, and some people feel low, irritable or emotionally blunted. Many describe feeling 'not quite themselves', with blunted emotions and slower thinking that improves after the first weeks.
 
-Overdose resembles phenobarbital overdose, with deep sedation, slow breathing and low blood pressure. Mixing it with alcohol or other sedatives deepens drowsiness and unsteadiness. Blood tests guide the dose.
+Overdose resembles phenobarbital overdose, with deep sedation, slow breathing and low blood pressure. Mixing it with alcohol or other sedatives deepens drowsiness and unsteadiness. Blood tests guide the dose. Vision may blur.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 

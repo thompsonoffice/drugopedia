@@ -64,9 +64,9 @@ Tingling, warmth, and loosening.
 
 ### Peak (1-2 h)
 
-At the peak the body feels heavy, numb and tingly, and walking is uncoordinated and wobbly. Speech slurs, and people may slump or sway.
+At the peak the body feels heavy, numb and tingly, almost boneless, and walking is uncoordinated and wobbly. Speech slurs, people may slump or sway, and the characteristic pins-and-needles buzz in the lips, fingers and toes is at its strongest.
 
-Emotionally the peak is a dreamy, uninhibited euphoria, often with increased sociability and sexual interest, and fading memory. People resisting sleep may feel giddy; those lying down drift off fast.
+Emotionally the peak is a dreamy, uninhibited euphoria, often with increased sociability and sexual interest, and fading memory. People resisting sleep may feel giddy and affectionate; those lying down drift off quickly into heavy sleep.
 
 Overdose can cause delirium, muscle spasms, seizures, coma and death; with alcohol the risk is very high. Most 'Quaaludes' sold today are counterfeit and may contain other drugs, including fentanyl.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (2-4 h)
 
-The plateau is a heavy, sleepy intoxication lasting several hours.
+The methaqualone plateau is a heavy, sleepy intoxication lasting several hours. The body stays numb and rubbery, with tingling extremities, slack muscles and poor balance; people may sit or lie in one place for long periods. Some feel a pleasant floating sensation, others nausea.
 
-Judgment and memory are poor, and people may agree to things they would normally refuse.
+Judgment and memory are poor, and people may agree to things they would normally refuse. Conversation becomes slow, loose and affectionate, and the person may laugh easily or drift into sleep mid-sentence.
 
-Injury from falls, accidents and choking while sedated is common.
+Injury from falls, accidents and choking while sedated is common, and adding alcohol at this stage is especially dangerous because the two drugs strongly amplify each other.
 
 ### Comedown (4-8 h total)
 
-The comedown is groggy and hungover, with headache, heavy limbs and sometimes nausea.
+The comedown is groggy and hungover, with headache, heavy limbs, dry mouth and sometimes nausea. The tingling fades into a dull ache, and coordination may stay off well into the next day.
 
-Mood can be low and anxious, with irritability.
+Mood can be low and anxious, with irritability and embarrassment about forgotten events. Some people feel a strong pull to take more to recapture the warmth.
 
-Dependence and dangerous withdrawal with seizures can develop after regular use.
+Dependence and dangerous withdrawal with seizures can develop after regular use. Methaqualone was banned in the US in 1984 because of widespread misuse, overdoses and car crashes.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

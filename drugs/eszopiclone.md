@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Eszopiclone (Lunesta) is known first for its taste: a strong bitter, metallic flavor that spreads across the tongue soon after swallowing and can linger into the next day. The onset brings a heavy, warm drowsiness, slackening limbs and a slight swaying feeling.
+Eszopiclone (Lunesta) announces itself first with taste: a strong bitter, metallic flavor that spreads across the tongue soon after swallowing and can linger into the next day, even tainting coffee and food. Within half an hour a heavy, warm drowsiness spreads through the body, the limbs slacken, and a slight swaying feeling sets in.
 
-Mentally it produces a calm, sinking sleepiness. Awake, it can bring a mild dreamy disinhibition and drifting thoughts, though usually less giddy than zolpidem.
+Mentally it produces a calm, sinking sleepiness, with worries receding and thoughts slowing. Awake, it can bring a mild dreamy disinhibition and drifting thoughts, though usually less giddy and hallucinatory than zolpidem.
 
-Dizziness on standing and slight clumsiness are common early on.
+Dizziness on standing and slight clumsiness are common early on, and many people find it best to take it right before getting into bed.
 
 Medically, the onset reflects absorption and entry into the brain. Eszopiclone is processed by CYP3A4 with a half-life of about 6 hours. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-The plateau is longer than zolpidem's, carrying sedation through the whole night.
+The eszopiclone plateau is longer than zolpidem's and carries sedation through the whole night. Sleep is often deep and continuous, with fewer early-morning awakenings, and the body stays heavy and relaxed. The metallic taste may persist and even wake some people with a dry, sour mouth.
 
-Memory is patchy for any time spent awake.
+If awake, memory is patchy, coordination poor and judgment loosened; people may wander, snack or talk without later recall. Dreams can be vivid or strange, and some people report unusual or disturbing dreams.
 
-Next-morning impairment is possible, so driving early the next day is risky.
+Because it lasts longer, next-morning impairment is possible: studies have found reduced driving ability and memory the following morning, especially at higher amounts, so driving early the next day is risky.
 
 ### Comedown (6-8 h total)
 
-Waking may be groggy and slow, with the bitter taste still present and a dry mouth.
+Waking may be groggy and slow, with the bitter taste still present, a dry mouth and a heavy head. Coordination and reaction time may lag for the first few hours of the morning, even when the person feels awake.
 
-Mood can be flat or slightly irritable in the morning.
+Mood can be flat, foggy or slightly irritable in the morning, and some people feel anxious or low after a night on it. Rebound insomnia can follow on nights without it.
 
-Dependence and rebound insomnia can develop with regular use.
+Dependence and rebound insomnia can develop with regular use, and stopping after long-term use can cause anxiety, insomnia and, rarely, seizures. Combining with alcohol or opioids is dangerous.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

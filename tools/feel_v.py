@@ -419,3 +419,51 @@ BX("mirogabalin",
 "Stopping suddenly may cause withdrawal symptoms."])
 for k,v in F.items():
     if k in D: D[k]["feel"]=v
+
+# ---- Depth pass 2 ----
+R("zaleplon",
+onset=["Zaleplon (Sonata) is the fastest and shortest of the Z-drugs, often felt within a quarter of an hour. The body grows heavy and warm, the shoulders and jaw let go, and a soft, swimmy dizziness rises into the head. Lying down in the dark, it feels like being gently pulled under, as if sleep had been switched on.",
+"Mentally a quick, dreamy drowsiness takes over. Worries fade and thoughts loosen and drift. If the person fights sleep, a brief zolpidem-like giddiness can appear, with a silly mood, lowered inhibitions and odd perceptions such as surfaces shimmering or patterns sliding on the ceiling.",
+"Memory for the period after taking it is often poor, sometimes starting almost immediately, so people may not recall the last few minutes before sleep."],
+plateau=["The zaleplon plateau is brief, often under a couple of hours, and usually spent asleep. Sleep tends to be deep at first, then lightens as the drug clears, which is why some people wake in the early morning hours. The body feels heavy and still, with slow, regular breathing.",
+"If awake, thinking is fragmented, short-term memory poor, and movements clumsy. People may get up for water or the bathroom and remember none of it, or have half-dreaming conversations they cannot recall.",
+"Because it clears quickly, next-day grogginess is less common than with other sleep drugs, which is why it is sometimes prescribed for middle-of-the-night waking when enough hours remain before getting up."],
+comedown=["Waking after zaleplon is usually fairly clear. Some people feel slightly heavy, dry-mouthed or headachy for the first hour, but most report feeling close to normal, without the drugged hangover of longer sleep medicines.",
+"Mood is generally steady, though some feel anxious or uneasy about patchy memory from the night before, and a few notice a slightly flat or irritable mood in the morning.",
+"Tolerance and rebound insomnia can develop with regular use, with a night or two of poor sleep after stopping, and dependence is possible. Like other Z-drugs it carries a boxed warning for complex sleep behaviors."])
+R("eszopiclone",
+onset=["Eszopiclone (Lunesta) announces itself first with taste: a strong bitter, metallic flavor that spreads across the tongue soon after swallowing and can linger into the next day, even tainting coffee and food. Within half an hour a heavy, warm drowsiness spreads through the body, the limbs slacken, and a slight swaying feeling sets in.",
+"Mentally it produces a calm, sinking sleepiness, with worries receding and thoughts slowing. Awake, it can bring a mild dreamy disinhibition and drifting thoughts, though usually less giddy and hallucinatory than zolpidem.",
+"Dizziness on standing and slight clumsiness are common early on, and many people find it best to take it right before getting into bed."],
+plateau=["The eszopiclone plateau is longer than zolpidem's and carries sedation through the whole night. Sleep is often deep and continuous, with fewer early-morning awakenings, and the body stays heavy and relaxed. The metallic taste may persist and even wake some people with a dry, sour mouth.",
+"If awake, memory is patchy, coordination poor and judgment loosened; people may wander, snack or talk without later recall. Dreams can be vivid or strange, and some people report unusual or disturbing dreams.",
+"Because it lasts longer, next-morning impairment is possible: studies have found reduced driving ability and memory the following morning, especially at higher amounts, so driving early the next day is risky."],
+comedown=["Waking may be groggy and slow, with the bitter taste still present, a dry mouth and a heavy head. Coordination and reaction time may lag for the first few hours of the morning, even when the person feels awake.",
+"Mood can be flat, foggy or slightly irritable in the morning, and some people feel anxious or low after a night on it. Rebound insomnia can follow on nights without it.",
+"Dependence and rebound insomnia can develop with regular use, and stopping after long-term use can cause anxiety, insomnia and, rarely, seizures. Combining with alcohol or opioids is dangerous."])
+R("zopiclone",
+onset=["Zopiclone (Imovane, Zimovane), widely used outside the US, shares eszopiclone's bitter, metallic taste, which often lingers into the morning. The onset is a heavy, warm sleepiness that spreads from the head downward, with loosening muscles, heavy eyelids and a light, drunken unsteadiness when walking.",
+"Mentally a dreamy calm settles in, with thoughts slowing and worries fading. If sleep is resisted, it can turn into a drunken giddiness with loosened inhibitions, silly talk and visual distortions, like patterns sliding on walls or objects seeming to move.",
+"Coordination and memory fade early, sometimes before the person feels very sedated, so the last part of the evening may be lost."],
+peak=["At the peak there is strong sedation, slurring and unsteadiness. Hands fumble with phones or cups, and walking is risky, with a tendency to sway or bump into furniture.",
+"Emotionally it can feel disinhibited, giggly or confused, with memory gaps that can cover hours. Some people feel a pleasant, floating detachment, others anxious and disoriented.",
+ZR],
+plateau=["The zopiclone plateau carries sedation through most of the night. Sleep is usually deep and the body heavy and still, though some people wake with a bitter, dry mouth or a sense of strange, vivid dreams. Breathing is slow and regular.",
+"If awake, thinking is foggy and memory poor, and people may do things they do not remember, from eating to sending messages. Judgment and balance are significantly impaired.",
+"Next-day drowsiness and impaired driving are documented, especially in older adults, who clear the drug more slowly and are more prone to falls during night-time bathroom trips."],
+comedown=["Waking is often groggy, with a bad, metallic taste, a heavy head and a slight unsteadiness. The first hours of the morning can feel slow and muffled, and some people notice a mild headache or dry mouth.",
+"Mood can be flat or irritable, and some people feel low or anxious in the mornings after regular use. Rebound insomnia is common when stopping.",
+"Dependence and withdrawal similar to benzodiazepines can develop with regular use, including anxiety, insomnia, shakiness and, rarely, seizures; tapering with a doctor is safer than stopping suddenly."])
+R("methaqualone",
+peak=["At the peak the body feels heavy, numb and tingly, almost boneless, and walking is uncoordinated and wobbly. Speech slurs, people may slump or sway, and the characteristic pins-and-needles buzz in the lips, fingers and toes is at its strongest.",
+"Emotionally the peak is a dreamy, uninhibited euphoria, often with increased sociability and sexual interest, and fading memory. People resisting sleep may feel giddy and affectionate; those lying down drift off quickly into heavy sleep.",
+"Overdose can cause delirium, muscle spasms, seizures, coma and death; with alcohol the risk is very high. Most 'Quaaludes' sold today are counterfeit and may contain other drugs, including fentanyl."],
+plateau=["The methaqualone plateau is a heavy, sleepy intoxication lasting several hours. The body stays numb and rubbery, with tingling extremities, slack muscles and poor balance; people may sit or lie in one place for long periods. Some feel a pleasant floating sensation, others nausea.",
+"Judgment and memory are poor, and people may agree to things they would normally refuse. Conversation becomes slow, loose and affectionate, and the person may laugh easily or drift into sleep mid-sentence.",
+"Injury from falls, accidents and choking while sedated is common, and adding alcohol at this stage is especially dangerous because the two drugs strongly amplify each other."],
+comedown=["The comedown is groggy and hungover, with headache, heavy limbs, dry mouth and sometimes nausea. The tingling fades into a dull ache, and coordination may stay off well into the next day.",
+"Mood can be low and anxious, with irritability and embarrassment about forgotten events. Some people feel a strong pull to take more to recapture the warmth.",
+"Dependence and dangerous withdrawal with seizures can develop after regular use. Methaqualone was banned in the US in 1984 because of widespread misuse, overdoses and car crashes."])
+R("ghb",comedown=F["ghb"]["comedown"][:2]+[F["ghb"]["comedown"][2]+" Sudden stopping is never safe."])
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v

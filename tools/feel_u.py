@@ -381,3 +381,6 @@ for n,p,t in [
     Y(n,p,t)
 for k,v in F.items():
     if k in D: D[k]["feel"]=v
+Y("primidone","peak","Vision may blur.")
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v
