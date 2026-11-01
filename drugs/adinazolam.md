@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-40 min)
 
-Adinazolam was developed by Upjohn as an antidepressant benzodiazepine but never approved. It comes on fairly quickly with a short calm and slight mood lift.
+Adinazolam was developed by Upjohn as a benzodiazepine with antidepressant effects but was never approved; it later surfaced as a designer drug. It comes on fairly quickly with a short calm and a faint lift in mood. Unlike prescription tablets, the strength of each pill, powder or blotter is a guess.
 
-Mentally relaxed and mildly brighter.
+Mentally people describe a relaxed, slightly brighter state, less heavy than alprazolam at first. The early effect is often mistaken for 'not working', which is how people end up taking more.
 
-Its strength in street pills, powders and blotters is unknown, and it is increasingly found mixed with fentanyl.
+The body converts it into N-desmethyladinazolam, which is more sedating, so effects deepen later. Reaction time and coordination are already impaired here, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Calm with some mood lift.
 
 ### Peak (1-2 h)
 
-At its peak drowsy as it converts to a more sedating metabolite.
+At its peak drowsiness grows as the metabolite builds. Walking becomes swaying, hands fumble, speech thickens and the eyes grow heavy and unfocused.
 
-Mentally foggy.
+Mentally the brightness gives way to fog and forgetfulness. Blackouts are the hallmark of designer benzos: people may talk, text, drive or argue and later remember nothing, and others often cannot tell anything is wrong.
 
-Risky with depressants.
+Combined with other depressants it adds breathing risk. With opioids, alcohol, gabapentinoids or other sedatives, breathing can slow dangerously; give naloxone in any suspected overdose because fentanyl is so often present, and call emergency services.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (1-3 h)
 
-The plateau is short.
+The plateau is fairly short, a few hours. Balance stays poor and falls, burns and other injuries are common during this stretch.
 
-Mentally slows.
+Mentally the calm fades, leaving tiredness. People frequently forget they already took a dose and take another, stacking the effect.
 
-Redosing common.
+Its short action encourages repeated dosing. Driving, swimming, cooking or caring for children during this time is unsafe.
 
 ### Comedown (4-6 h total)
 
-The comedown is quick.
+The comedown is relatively quick. The body feels heavy and dull, sometimes with a headache, dry mouth and nausea.
 
-Emotionally rebound low.
+Emotionally some feel a dip in mood or restless anxiety. Rebound anxiety, irritability, low mood and worry about what happened during a blackout are common.
 
-Dependence possible.
+Dependence develops with frequent use. Daily use builds dependence within weeks; stopping suddenly can cause seizures and psychosis, so withdrawal should be managed by a doctor, often by switching to a long-acting prescribed benzodiazepine and tapering slowly.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

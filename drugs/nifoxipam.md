@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-40 min)
 
-Nifoxipam, related to flunitrazepam, is a sleep-heavy designer benzo. It comes on with a strong pull toward sleep.
+Nifoxipam is a designer benzodiazepine closely related to flunitrazepam (Rohypnol), sold from around 2014. It comes on with a strong, dragging pull toward sleep: eyelids drop and the limbs go heavy. Unlike prescription tablets, the strength of each pill, powder or blotter is a guess.
 
-Mentally thoughts dim quickly.
+Mentally the mind dims quickly; thoughts become sparse and dreamlike. The early effect is often mistaken for 'not working', which is how people end up taking more.
 
-Its strength in street pills, powders and blotters is unknown, and it is increasingly found mixed with fentanyl.
+Its hypnotic strength means people can fall asleep mid-activity. Reaction time and coordination are already impaired here, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Sedation arrives quickly.
 
 ### Peak (1-2 h)
 
-At its peak deep drowsiness.
+At its peak the body is heavy and uncoordinated, and people may nod off sitting up. Walking becomes swaying, hands fumble, speech thickens and the eyes grow heavy and unfocused.
 
-Mentally amnesia.
+Mentally there is strong amnesia, in the style of flunitrazepam. Blackouts are the hallmark of designer benzos: people may talk, text, drive or argue and later remember nothing, and others often cannot tell anything is wrong.
 
-Risky with depressants.
+Combined with alcohol it is particularly dangerous for breathing and for vulnerability to harm. With opioids, alcohol, gabapentinoids or other sedatives, breathing can slow dangerously; give naloxone in any suspected overdose because fentanyl is so often present, and call emergency services.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (2-4 h)
 
-The plateau lasts hours.
+The plateau is several hours of deep sleep or stupor. Balance stays poor and falls, burns and other injuries are common during this stretch.
 
-Mentally hazy.
+Mentally people who wake are confused and unsteady. People frequently forget they already took a dose and take another, stacking the effect.
 
-Falls are common.
+Getting up at night carries a high fall risk. Driving, swimming, cooking or caring for children during this time is unsafe.
 
 ### Comedown (6-8 h total)
 
-The comedown brings grogginess.
+The comedown brings grogginess and a heavy, sore-headed morning. The body feels heavy and dull, sometimes with a headache, dry mouth and nausea.
 
-Emotionally flat.
+Emotionally people may feel blank, unsettled or anxious about missing time. Rebound anxiety, irritability, low mood and worry about what happened during a blackout are common.
 
-Dependence possible.
+Repeated use for sleep leads to dependence and rebound insomnia. Daily use builds dependence within weeks; stopping suddenly can cause seizures and psychosis, so withdrawal should be managed by a doctor, often by switching to a long-acting prescribed benzodiazepine and tapering slowly.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

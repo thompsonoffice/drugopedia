@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (45-90 min)
 
-Desalkylgidazepam (bromonordiazepam) is gidazepam's active metabolite, sold as a designer drug. It comes on slowly with a long, gentle calm.
+Desalkylgidazepam (bromonordiazepam) is the active metabolite of the Russian drug gidazepam, sold directly as a designer benzo. Because it skips the conversion step, it comes on faster than gidazepam, with a slow-building, gentle calm. Unlike prescription tablets, the strength of each pill, powder or blotter is a guess.
 
-Mentally steady relief.
+Mentally people describe steady relief from anxiety with moderate sleepiness. The early effect is often mistaken for 'not working', which is how people end up taking more.
 
-Its strength in street pills, powders and blotters is unknown, and it is increasingly found mixed with fentanyl.
+It lasts a very long time, so effects carry over. Reaction time and coordination are already impaired here, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Diazepam-like heaviness.
 
 ### Peak (2-6 h)
 
-At its peak relaxed.
+At its peak the body is relaxed and mildly heavy. Walking becomes swaying, hands fumble, speech thickens and the eyes grow heavy and unfocused.
 
-Mentally calm.
+Mentally calm, with dulled memory. Blackouts are the hallmark of designer benzos: people may talk, text, drive or argue and later remember nothing, and others often cannot tell anything is wrong.
 
-Risky with depressants.
+Interactions with other depressants can occur long after dosing. With opioids, alcohol, gabapentinoids or other sedatives, breathing can slow dangerously; give naloxone in any suspected overdose because fentanyl is so often present, and call emergency services.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (many hours)
 
-The plateau is long.
+The plateau is long, often more than a day. Balance stays poor and falls, burns and other injuries are common during this stretch.
 
-Mentally dull.
+Mentally people feel muted and slow. People frequently forget they already took a dose and take another, stacking the effect.
 
-Accumulates.
+Daily use builds it up. Driving, swimming, cooking or caring for children during this time is unsafe.
 
 ### Comedown (1-3 days)
 
-The comedown is gradual.
+The comedown is gradual over days. The body feels heavy and dull, sometimes with a headache, dry mouth and nausea.
 
-Emotionally slow.
+Emotionally anxiety returns slowly. Rebound anxiety, irritability, low mood and worry about what happened during a blackout are common.
 
-Dependence possible.
+Withdrawal can be prolonged. Daily use builds dependence within weeks; stopping suddenly can cause seizures and psychosis, so withdrawal should be managed by a doctor, often by switching to a long-acting prescribed benzodiazepine and tapering slowly.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

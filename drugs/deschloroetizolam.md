@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-60 min)
 
-Deschloroetizolam is a weaker, longer relative of etizolam. Its onset is moderate, bringing a light etizolam-like calm and loosened muscles.
+Deschloroetizolam is etizolam missing one chlorine atom, sold online as a research chemical; it is weaker than etizolam but lasts noticeably longer. It builds over a while as a light, etizolam-like loosening in the chest and neck. Unlike prescription tablets, the strength of each pill, powder or blotter is a guess.
 
-Mentally a gentle anxiety relief.
+Mentally the onset is a soft, sociable calm, with nervousness fading and a mild, easygoing mood taking its place. The early effect is often mistaken for 'not working', which is how people end up taking more.
 
-Its strength in street pills, powders and blotters is unknown, and it is increasingly found mixed with fentanyl.
+Because it feels gentle and slow, people often underestimate how long it will last. Reaction time and coordination are already impaired here, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ A mild calm builds slowly.
 
 ### Peak (1-3 h)
 
-At its peak relaxed and drowsy.
+At its peak the body feels relaxed and pleasantly heavy, with mild clumsiness and drooping eyelids. Walking becomes swaying, hands fumble, speech thickens and the eyes grow heavy and unfocused.
 
-Mentally calm, forgetful.
+Mentally there is a carefree, mildly disinhibited calm; memory for this stretch is patchy. Blackouts are the hallmark of designer benzos: people may talk, text, drive or argue and later remember nothing, and others often cannot tell anything is wrong.
 
-Risky with depressants.
+Its long duration means a second dose taken at the peak keeps adding effect for many hours. With opioids, alcohol, gabapentinoids or other sedatives, breathing can slow dangerously; give naloxone in any suspected overdose because fentanyl is so often present, and call emergency services.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (3-8 h)
 
-The plateau lasts several hours.
+The plateau runs much longer than etizolam's, with steady drowsiness lasting well into the day or night. Balance stays poor and falls, burns and other injuries are common during this stretch.
 
-Mentally foggy.
+Mentally people feel foggy and slowed but may believe they have sobered up. People frequently forget they already took a dose and take another, stacking the effect.
 
-Redosing stacks effects.
+Next-day impairment is common. Driving, swimming, cooking or caring for children during this time is unsafe.
 
 ### Comedown (8-12 h total)
 
-The comedown brings tiredness.
+The comedown is slow, a long fade into tiredness. The body feels heavy and dull, sometimes with a headache, dry mouth and nausea.
 
-Emotionally mild rebound.
+Emotionally some notice a flat, low mood and returning anxiety, often milder but longer than with etizolam. Rebound anxiety, irritability, low mood and worry about what happened during a blackout are common.
 
-Dependence possible.
+Its long tail can mask how much has built up with repeated days of use. Daily use builds dependence within weeks; stopping suddenly can cause seizures and psychosis, so withdrawal should be managed by a doctor, often by switching to a long-acting prescribed benzodiazepine and tapering slowly.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

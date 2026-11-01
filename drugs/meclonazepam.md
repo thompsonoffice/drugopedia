@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Meclonazepam is a clonazepam relative originally studied against parasitic worms. It comes on gradually with a clonazepam-like heavy calm.
+Meclonazepam is a clonazepam relative first studied by Roche in the 1970s as a treatment for parasitic worms, later sold as a designer benzo. It comes on gradually with a clonazepam-like heaviness spreading through the body. Unlike prescription tablets, the strength of each pill, powder or blotter is a guess.
 
-Mentally steady, numb relief.
+Mentally the onset is a numb, steady calm, worry being smothered rather than lifted. The early effect is often mistaken for 'not working', which is how people end up taking more.
 
-Its strength in street pills, powders and blotters is unknown, and it is increasingly found mixed with fentanyl.
+Its slow climb tempts people to take more. Reaction time and coordination are already impaired here, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Calm builds gradually.
 
 ### Peak (2-4 h)
 
-At its peak sedated.
+At its peak the body is sedated and clumsy, with blurred focus and slurred speech at higher amounts. Walking becomes swaying, hands fumble, speech thickens and the eyes grow heavy and unfocused.
 
-Mentally forgetful.
+Mentally the state is blank and indifferent, with memory gaps. Blackouts are the hallmark of designer benzos: people may talk, text, drive or argue and later remember nothing, and others often cannot tell anything is wrong.
 
-Risky with depressants.
+It also has anti-parasitic activity, which has nothing to do with its risks in people. With opioids, alcohol, gabapentinoids or other sedatives, breathing can slow dangerously; give naloxone in any suspected overdose because fentanyl is so often present, and call emergency services.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (4-10 h)
 
-The plateau is long.
+The plateau is long, carrying into the next day like clonazepam. Balance stays poor and falls, burns and other injuries are common during this stretch.
 
-Mentally dull.
+Mentally people feel dull and slowed. People frequently forget they already took a dose and take another, stacking the effect.
 
-Builds up.
+Accumulation with daily use is likely. Driving, swimming, cooking or caring for children during this time is unsafe.
 
 ### Comedown (12+ h total)
 
-The comedown is slow.
+The comedown is slow and heavy. The body feels heavy and dull, sometimes with a headache, dry mouth and nausea.
 
-Emotionally rebound anxiety.
+Emotionally rebound anxiety and low mood develop as it fades. Rebound anxiety, irritability, low mood and worry about what happened during a blackout are common.
 
-Dependence possible.
+Its long action can make withdrawal drawn out. Daily use builds dependence within weeks; stopping suddenly can cause seizures and psychosis, so withdrawal should be managed by a doctor, often by switching to a long-acting prescribed benzodiazepine and tapering slowly.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

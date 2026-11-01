@@ -312,3 +312,136 @@ P("alfentanil",None,
 P("remifentanil",None,
 ["The plateau lasts exactly as long as the infusion runs; levels stay steady and do not build up even after hours. The body is deeply relaxed and pain profoundly blunted.","Mentally the state stays constant, often foggy and dreamlike when patients are lightly sedated.","Breathing and heart rate are monitored continuously."],
 ["Once the infusion stops, effects fade within minutes. People wake fairly clear, though some feel shivery, nauseated or sore.","Emotionally the switch-off can feel abrupt: pain and alertness return together, and some feel anxious or restless.","After long infusions there can be heightened pain sensitivity and brief withdrawal-like symptoms, which clinicians plan for."])
+
+# ---- Round 3: fuller benzo pages. Drug-specific sentences first, then accurate class detail. ----
+TR=[["Unlike prescription tablets, the strength of each pill, powder or blotter is a guess.","The early effect is often mistaken for 'not working', which is how people end up taking more.","Reaction time and coordination are already impaired here, even when the person feels only relaxed."],
+["Walking becomes swaying, hands fumble, speech thickens and the eyes grow heavy and unfocused.","Blackouts are the hallmark of designer benzos: people may talk, text, drive or argue and later remember nothing, and others often cannot tell anything is wrong.","With opioids, alcohol, gabapentinoids or other sedatives, breathing can slow dangerously; give naloxone in any suspected overdose because fentanyl is so often present, and call emergency services."],
+["Balance stays poor and falls, burns and other injuries are common during this stretch.","People frequently forget they already took a dose and take another, stacking the effect.","Driving, swimming, cooking or caring for children during this time is unsafe."],
+["The body feels heavy and dull, sometimes with a headache, dry mouth and nausea.","Rebound anxiety, irritability, low mood and worry about what happened during a blackout are common.","Daily use builds dependence within weeks; stopping suddenly can cause seizures and psychosis, so withdrawal should be managed by a doctor, often by switching to a long-acting prescribed benzodiazepine and tapering slowly."]]
+TP=[["Muscles loosen, the jaw and shoulders release, and a mild heaviness settles into the limbs.","Worries recede and the mind becomes slower and quieter, without the sparkle of a stimulant or the warmth of an opioid.","Light-headedness on standing and slowed reactions start early, even when the person feels only relaxed."],
+["Coordination is clumsy, speech may thicken and there is a pull toward sleep.","Memory for events during this window is often weak, a common benzodiazepine effect called anterograde amnesia.","With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed."],
+["Balance and coordination stay poor, raising the risk of falls, especially for older people.","Concentration, memory and reaction time remain reduced, so driving is unsafe even when the person feels normal.","Taking more during this period stacks onto drug still in the body."],
+["Tiredness, a foggy head and sometimes a mild headache linger as it fades.","Anxiety and poor sleep can return, sometimes stronger than before (rebound), with irritability or a flat mood.","Daily use causes tolerance and dependence within weeks; stopping suddenly can cause severe anxiety, insomnia, tremor and seizures, so tapering with a prescriber is essential."]]
+def Z(k,txt,T):
+    if k not in D: return
+    ph=("onset","peak","plateau","comedown"); f={}
+    for i,p in enumerate(ph):
+        f[p]=[txt[i*3+j]+" "+T[i][j] for j in range(3)]
+    D[k]["feel"]=f
+Z("deschloroetizolam",[
+"Deschloroetizolam is etizolam missing one chlorine atom, sold online as a research chemical; it is weaker than etizolam but lasts noticeably longer. It builds over a while as a light, etizolam-like loosening in the chest and neck.",
+"Mentally the onset is a soft, sociable calm, with nervousness fading and a mild, easygoing mood taking its place.",
+"Because it feels gentle and slow, people often underestimate how long it will last.",
+"At its peak the body feels relaxed and pleasantly heavy, with mild clumsiness and drooping eyelids.",
+"Mentally there is a carefree, mildly disinhibited calm; memory for this stretch is patchy.",
+"Its long duration means a second dose taken at the peak keeps adding effect for many hours.",
+"The plateau runs much longer than etizolam's, with steady drowsiness lasting well into the day or night.",
+"Mentally people feel foggy and slowed but may believe they have sobered up.",
+"Next-day impairment is common.",
+"The comedown is slow, a long fade into tiredness.",
+"Emotionally some notice a flat, low mood and returning anxiety, often milder but longer than with etizolam.",
+"Its long tail can mask how much has built up with repeated days of use."],TR)
+Z("pyrazolam",[
+"Pyrazolam is a designer benzodiazepine first sold around 2012 and reported to relieve anxiety with less sleepiness and muscle relaxation than most. It comes on over a while as a clean, quiet easing of tension.",
+"Mentally people describe a clear-headed calm, the nervous chatter in the mind simply going quiet while thinking stays fairly sharp.",
+"That clear feeling is misleading: tests of similar drugs show impairment even when the user feels fine.",
+"At its peak there is mild physical relaxation, often without strong heaviness.",
+"Mentally the peak is a steady, untroubled calm; at higher amounts the usual fog and forgetfulness appear.",
+"Because it feels light, people may mix it with alcohol or other drugs more freely, which is dangerous.",
+"The plateau lasts several hours of even calm.",
+"Mentally people feel steady but slightly slowed.",
+"Driving and judgment are still impaired.",
+"The comedown is gradual, with mild tiredness.",
+"Emotionally anxiety tends to drift back rather than surge.",
+"Regular use still leads to dependence."],TR)
+Z("nifoxipam",[
+"Nifoxipam is a designer benzodiazepine closely related to flunitrazepam (Rohypnol), sold from around 2014. It comes on with a strong, dragging pull toward sleep: eyelids drop and the limbs go heavy.",
+"Mentally the mind dims quickly; thoughts become sparse and dreamlike.",
+"Its hypnotic strength means people can fall asleep mid-activity.",
+"At its peak the body is heavy and uncoordinated, and people may nod off sitting up.",
+"Mentally there is strong amnesia, in the style of flunitrazepam.",
+"Combined with alcohol it is particularly dangerous for breathing and for vulnerability to harm.",
+"The plateau is several hours of deep sleep or stupor.",
+"Mentally people who wake are confused and unsteady.",
+"Getting up at night carries a high fall risk.",
+"The comedown brings grogginess and a heavy, sore-headed morning.",
+"Emotionally people may feel blank, unsettled or anxious about missing time.",
+"Repeated use for sleep leads to dependence and rebound insomnia."],TR)
+Z("meclonazepam",[
+"Meclonazepam is a clonazepam relative first studied by Roche in the 1970s as a treatment for parasitic worms, later sold as a designer benzo. It comes on gradually with a clonazepam-like heaviness spreading through the body.",
+"Mentally the onset is a numb, steady calm, worry being smothered rather than lifted.",
+"Its slow climb tempts people to take more.",
+"At its peak the body is sedated and clumsy, with blurred focus and slurred speech at higher amounts.",
+"Mentally the state is blank and indifferent, with memory gaps.",
+"It also has anti-parasitic activity, which has nothing to do with its risks in people.",
+"The plateau is long, carrying into the next day like clonazepam.",
+"Mentally people feel dull and slowed.",
+"Accumulation with daily use is likely.",
+"The comedown is slow and heavy.",
+"Emotionally rebound anxiety and low mood develop as it fades.",
+"Its long action can make withdrawal drawn out."],TR)
+Z("flubromazepam",[
+"Flubromazepam is one of the longest-lasting designer benzodiazepines; traces can remain in the body for weeks. It comes on slowly with a gradual quieting and a growing heaviness.",
+"Mentally the onset is a deep, unhurried calm that keeps building after people think it has peaked.",
+"Its slow onset and extreme duration make stacking especially dangerous.",
+"At its peak the body is sleepy and clumsy, with poor balance.",
+"Mentally there is a muffled calm and forgetfulness.",
+"Because it lasts so long, interactions with other sedatives can occur a day or more later.",
+"The plateau stretches over days, with steady low-grade sedation that people may stop noticing.",
+"Mentally people feel dulled, slow and less motivated.",
+"Daily use builds up to very high levels.",
+"The comedown is very slow, with fatigue and fog fading over days.",
+"Emotionally low mood and anxiety creep back gradually.",
+"Withdrawal from regular use can be long and difficult."],TR)
+Z("metizolam",[
+"Metizolam (desmethyletizolam) is a weaker, slightly longer relative of etizolam sold online since around 2015. It comes on over a short while with a light, warm loosening.",
+"Mentally the onset is a mild, sociable calm with anxiety easing.",
+"Its mildness can lead people to combine it with other substances.",
+"At its peak the body is relaxed and slightly heavy.",
+"Mentally calm and a bit careless, with some forgetfulness at higher amounts.",
+"Mixing with alcohol remains dangerous.",
+"The plateau lasts several hours of light drowsiness.",
+"Mentally people feel slightly foggy.",
+"Redosing to maintain the feeling is common.",
+"The comedown is mild, with tiredness.",
+"Emotionally a slight rebound anxiety can follow.",
+"Dependence develops with frequent use."],TR)
+Z("adinazolam",[
+"Adinazolam was developed by Upjohn as a benzodiazepine with antidepressant effects but was never approved; it later surfaced as a designer drug. It comes on fairly quickly with a short calm and a faint lift in mood.",
+"Mentally people describe a relaxed, slightly brighter state, less heavy than alprazolam at first.",
+"The body converts it into N-desmethyladinazolam, which is more sedating, so effects deepen later.",
+"At its peak drowsiness grows as the metabolite builds.",
+"Mentally the brightness gives way to fog and forgetfulness.",
+"Combined with other depressants it adds breathing risk.",
+"The plateau is fairly short, a few hours.",
+"Mentally the calm fades, leaving tiredness.",
+"Its short action encourages repeated dosing.",
+"The comedown is relatively quick.",
+"Emotionally some feel a dip in mood or restless anxiety.",
+"Dependence develops with frequent use."],TR)
+Z("desalkylgidazepam",[
+"Desalkylgidazepam (bromonordiazepam) is the active metabolite of the Russian drug gidazepam, sold directly as a designer benzo. Because it skips the conversion step, it comes on faster than gidazepam, with a slow-building, gentle calm.",
+"Mentally people describe steady relief from anxiety with moderate sleepiness.",
+"It lasts a very long time, so effects carry over.",
+"At its peak the body is relaxed and mildly heavy.",
+"Mentally calm, with dulled memory.",
+"Interactions with other depressants can occur long after dosing.",
+"The plateau is long, often more than a day.",
+"Mentally people feel muted and slow.",
+"Daily use builds it up.",
+"The comedown is gradual over days.",
+"Emotionally anxiety returns slowly.",
+"Withdrawal can be prolonged."],TR)
+Z("flunitrazolam",[
+"Flunitrazolam is a triazolo relative of flunitrazepam and one of the most potent designer benzos known; tiny differences in amount change the outcome drastically. It comes on fast with an overwhelming heaviness, the body seeming to sink and switch off.",
+"Mentally thought shuts down quickly into blankness.",
+"It has been sold on blotters and in pellets where strength cannot be judged.",
+"At its peak people may be near-unconscious and unable to stand.",
+"Mentally there is total amnesia.",
+"Breathing risk is very high with any other depressant.",
+"The plateau lasts many hours of deep sedation.",
+"Mentally people are absent or confused.",
+"Medical observation is wise after any heavy exposure.",
+"The comedown brings grogginess, nausea and confusion.",
+"Emotionally people feel disoriented and frightened by lost time.",
+"Dependence develops quickly with repeated use."],TR)
