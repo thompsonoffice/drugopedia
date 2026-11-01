@@ -76,19 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-4 h)
 
-The plateau holds a steady, heavy relaxation. Muscles remain soft and the body feels warm and slightly numb. Some people get a pleasant drifting feeling and drop into short naps, waking with a start; others feel restless legs or slight muscle twitches as the meprobamate builds up.
+The plateau of carisoprodol is a long, heavy, warm stillness. The body feels sunk into the couch or bed, limbs pleasantly limp, and the back and shoulders that were knotted earlier now feel almost absent. Some people describe a soft vibrating or humming feeling under the skin; others notice little twitches in the calves or fingers, or a restless urge to shift the legs, as the meprobamate it turns into builds up in the blood.
 
-Mentally the plateau is foggy and contented. Conversations are easy but forgetful, and concentration is poor. The early silliness tends to settle into a quiet, sleepy calm in which nothing seems urgent.
+Mentally this stretch feels foggy, unbothered and slightly drunk. Conversations wander, sentences trail off, and the person may laugh at small things or drift into half-sleep and jerk awake. Time passes in a smeared, unhurried way. Many people later remember this part only in fragments, and they often overestimate how clearly they were thinking and how well they could drive or walk.
 
-Because the meprobamate metabolite lasts much longer than carisoprodol itself, sedation can linger well after the pleasant part fades, so driving or mixing in other depressants later in the day remains dangerous.
+Because the meprobamate lasts far longer than the carisoprodol itself, the plateau is deceptive: the pleasant glow fades while real impairment continues for many more hours. Taking more to chase the early feeling, or adding alcohol, opioids or benzodiazepines later in the evening, stacks onto sedation that is still present, and this layering is how many carisoprodol overdoses happen.
 
 ### Comedown (4-6 h total (meprobamate longer))
 
-As carisoprodol wears off, the body feels tired and heavy rather than relaxed, and the original muscle tension or pain may creep back. Some notice a dull headache, dry mouth, or mild nausea.
+The comedown is slow and sluggish rather than sharp. The warm looseness drains out and leaves heavy, tired muscles, a dry and pasty mouth, a dull pressure headache, and sometimes mild nausea or a sour stomach. The original muscle pain or back spasm often creeps back, sometimes feeling stiffer than before. Waking up the next morning commonly feels like a mild hangover, with slowed reactions that linger into the day.
 
-Emotionally the comedown is often flat and groggy, with irritability or a slightly low, empty mood. Many wake the next morning feeling hungover and slow.
+Emotionally the comedown tends to be flat and gray. People describe feeling irritable, slightly low, restless or vaguely anxious as the meprobamate calm finally lifts, and there can be a pull to take more just to feel normal again. Sleep after carisoprodol may be heavy but unrefreshing, and memory of the previous evening may have gaps that bring embarrassment or worry.
 
-Regular use builds tolerance and real physical dependence, mostly through meprobamate. Stopping suddenly after heavy daily use can cause anxiety, insomnia, tremor, vomiting, hallucinations and, rarely, seizures, so stopping should be medically guided.
+With regular use, tolerance and physical dependence develop, mostly through meprobamate. Stopping suddenly after heavy daily use can cause a withdrawal that looks like barbiturate or benzodiazepine withdrawal: anxiety, insomnia, sweating, shaking, vomiting, muscle twitching, confusion, hallucinations and, rarely, seizures. Anyone dependent should taper with a doctor rather than stop cold.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

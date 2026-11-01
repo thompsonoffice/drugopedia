@@ -76,19 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-5 h)
 
-The plateau is a long, heavy drowsiness with weak muscles and poor balance.
+The baclofen plateau is a long, heavy drowsiness. Muscles feel slack and weak, the legs especially rubbery, and walking or climbing stairs takes concentration. Some people notice a warm, slightly drunk body feeling; others feel mostly weak, nauseated and unsteady. Speech may be a little slurred.
 
-Concentration is poor and memory can be patchy.
+Mentally the plateau is foggy. Concentration is poor, words come slowly, and memory for the period can be patchy. At higher amounts, people can drift between confusion and sleep, and some report odd perceptions, vivid dreams or hallucinations.
 
-Falls and accidents are a real risk during this period.
+Falls, accidents and choking while sedated are real dangers during this phase. With kidney problems, baclofen builds up and can cause severe drowsiness, confusion and coma even at ordinary prescribed amounts.
 
 ### Comedown (4-8 h total)
 
-The comedown is a slow-lifting tiredness, sometimes with headache or nausea.
+As baclofen wears off, spasticity and tightness return, and many people feel tired, heavy and a little shaky. Headache, nausea and a dry mouth are common.
 
-Mood may dip, with mild irritability or anxiety.
+Emotionally there can be a mild dip in mood, irritability or anxiety, and sleep may be disturbed. People taking it for alcohol use disorder sometimes notice cravings returning as it fades.
 
-After regular use, stopping abruptly can cause dangerous withdrawal: hallucinations, confusion, high fever, muscle rigidity and seizures. It must be tapered under medical care.
+After regular use, abrupt stopping is dangerous: withdrawal can cause hallucinations, confusion, high fever, rebound muscle rigidity and seizures, and with pump (intrathecal) baclofen it can be life-threatening. Any change should be made with a doctor.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

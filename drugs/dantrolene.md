@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Dantrolene works directly inside muscle fibers rather than in the brain, so its onset is felt as weakness more than relaxation: limbs feel tired and heavy, and grip strength softens.
+Dantrolene works directly inside muscle fibers, blocking calcium release, rather than acting on the brain. Its onset is therefore felt as weakness more than relaxation: over hours, the arms and legs feel tired and heavy, grip strength softens, and climbing stairs takes more effort.
 
-Mentally it causes some drowsiness and lightheadedness but no high.
+Mentally it brings some drowsiness, dizziness and lightheadedness, but no high or calm in the usual sense. Some feel a vague malaise, as if coming down with a cold.
 
-Diarrhea, nausea and a general washed-out feeling are common early effects.
+Diarrhea, nausea, loss of appetite and a general washed-out feeling are common early effects, and some people develop sensitivity to sunlight.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Dantrolene blocks calcium release inside muscle cells (ryanodine receptors) and has a half-life of about 9 hours. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -64,11 +64,11 @@ Gradual weakness.
 
 ### Peak (4-6 h)
 
-At the peak muscles can feel weak and floppy, and climbing stairs or holding objects becomes harder.
+At the peak muscles can feel weak and floppy, and tasks like holding a cup, getting up from a chair or walking any distance become harder. People with spasticity may find stiffness much reduced.
 
-Emotionally the peak is tired and sometimes low, without euphoria.
+Emotionally the peak is tired, sometimes low or irritable, without euphoria. Some report confusion or difficulty concentrating.
 
-Long-term use can seriously harm the liver. In hospitals, the IV form is a life-saving treatment for malignant hyperthermia.
+Long-term oral use can cause serious and sometimes fatal liver damage, so liver tests are monitored. In hospitals, the IV form is a life-saving treatment for malignant hyperthermia, a dangerous reaction to certain anesthetics.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -76,19 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (many hours)
 
-The plateau is a lasting weakness and fatigue.
+The plateau is lasting weakness and fatigue, since dantrolene stays in the body a long time.
 
-Thinking may feel a bit slow.
+Thinking may feel a little slow, and drowsiness can affect driving.
 
-Falls are a risk.
+Falls are a risk, especially when standing up or on stairs.
 
 ### Comedown (about 9 h half-life)
 
-As it fades, strength gradually returns.
+As levels drop, strength gradually returns over a day or more, and spasticity may come back.
 
-Mood is usually unaffected.
+Mood is usually unaffected, though fatigue can linger.
 
-It is not used recreationally.
+Dantrolene is not used recreationally and does not cause cravings.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Meprobamate (Miltown), the 1950s 'peace pill', has a smooth, warm onset. A gentle heaviness settles into the shoulders and chest, tension eases, and a mild drunken looseness begins.
+Meprobamate (Miltown, Equanil), the 1950s 'peace pill', comes on smoothly over an hour or so. A warm heaviness settles across the shoulders and chest, the jaw unclenches, and tension seems to drain down out of the body. A mild, tipsy looseness begins, similar to the first drink of an evening but softer.
 
-Mentally the onset is a soft, worry-free calm, closer to a barbiturate than to modern anti-anxiety medicines. Social unease melts and people feel easygoing.
+Mentally the onset is a gentle, worry-free calm. Anxious thoughts lose their urgency, social unease melts, and people feel easygoing and unbothered. Its effect is closer to a barbiturate or alcohol than to modern anti-anxiety pills, with a slightly fuzzy, contented quality.
 
-Speech slows a little and coordination starts to slip.
+Speech slows a little, the eyelids droop, and coordination starts to slip. Some people feel mildly dizzy or nauseated.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Meprobamate is cleared by the liver with a half-life of about 10 hours, longer with daily use. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -64,11 +64,11 @@ Gradual calm and looseness.
 
 ### Peak (1-3 h)
 
-At the peak the body is heavy, warm and unsteady. Walking feels like being tipsy and the eyelids droop.
+At the peak the body feels heavy, warm and unsteady. Walking is like being tipsy, fine movements are clumsy, and the eyes may flick side to side. Muscles are loose and the urge to lie down is strong.
 
-Emotionally the peak is a contented, sedated mellowness with lowered inhibitions and fuzzy memory.
+Emotionally the peak is a contented, sedated mellowness with lowered inhibitions. People may become chatty and silly or quietly dreamy, and memory for this time can be fuzzy. Judgment is loosened more than the person realizes.
 
-Overdose resembles barbiturate overdose: deep sleep, low blood pressure, slow breathing and coma, especially with alcohol or opioids.
+Overdose resembles barbiturate overdose: deep sleep, low blood pressure, slow breathing and coma, sometimes with pill masses forming in the stomach that delay recovery. Alcohol and opioids make it far more dangerous.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -76,19 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (3-6 h)
 
-The plateau is a long, drowsy calm.
+The plateau is a long, drowsy calm, lasting many hours. Many people nap heavily; those awake feel sluggish and slightly drunk.
 
-Concentration is poor and judgment loosened.
+Concentration is poor, reaction time slow, and judgment loosened. Conversation may be repetitive.
 
-Driving or operating machinery is dangerous.
+Driving or operating machinery is dangerous throughout this stretch.
 
 ### Comedown (6-12 h total)
 
-The comedown is groggy and slow, with heavy limbs.
+The comedown is groggy and slow, with heavy limbs, dry mouth and sometimes headache, like a mild hangover.
 
-Mood may be flat or anxious as calm fades.
+Mood may turn flat, irritable or anxious as the calm fades, which can encourage taking more.
 
-Dependence develops with regular use, and abrupt stopping can cause tremor, insomnia, hallucinations and seizures.
+Dependence develops with regular use, and stopping abruptly can cause tremor, insomnia, vomiting, hallucinations and seizures. Withdrawal should be medically supervised.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

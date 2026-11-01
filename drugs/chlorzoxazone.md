@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Chlorzoxazone has a quick, mild onset: light drowsiness and a gentle easing of muscle tightness.
+Chlorzoxazone (Parafon Forte, Lorzone) acts fairly quickly. Within an hour there is a light drowsiness and a gentle loosening of tight muscles, often noticed first in the lower back. Some people feel slightly lightheaded or off-balance.
 
-Mentally it brings only slight calm and sometimes mild lightheadedness.
+Mentally the effect is mild: a slight calm and sleepiness, with no real euphoria. Thinking stays mostly clear.
 
-Some feel nausea or stomach upset; urine may turn orange or reddish.
+Some notice nausea, stomach upset or heartburn. Urine may turn orange or reddish-purple, which is harmless.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Chlorzoxazone is processed by CYP2E1, the same enzyme used in alcohol metabolism. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -64,11 +64,11 @@ Mild drowsiness.
 
 ### Peak (1-2 h)
 
-At the peak the body is a bit looser and sleepier.
+At the peak the body is a bit looser and sleepier, and moving a stiff back is easier. Dizziness is usually mild.
 
-Emotionally it is mostly neutral, with mild sedation.
+Emotionally it is mostly neutral, with mild sedation and sometimes slight irritability or overstimulation instead of calm.
 
-Rarely it can harm the liver; yellow skin, dark urine or abdominal pain needs medical attention. Mixing with alcohol adds sedation and liver strain.
+Rarely chlorzoxazone causes serious liver injury; yellowing of the skin or eyes, dark urine, pale stools, or pain in the upper right abdomen need prompt medical attention. Mixing with alcohol adds both sedation and liver strain.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -76,19 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-3 h)
 
-The plateau is short and mild.
+The plateau is short and mild, lasting a few hours.
 
-Focus is slightly reduced.
+Focus is slightly reduced and the person may feel a bit tired.
 
-Effects fade within a few hours.
+Driving should wait until the person knows how it affects them.
 
 ### Comedown (3-6 h total)
 
-The comedown is barely noticeable apart from returning stiffness.
+The comedown is barely noticeable apart from returning stiffness and maybe a little tiredness.
 
 Mood is unchanged.
 
-Dependence is not typical.
+Dependence and withdrawal are not typical, and it is rarely misused.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

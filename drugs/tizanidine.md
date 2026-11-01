@@ -76,19 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-4 h)
 
-The plateau is a short, heavy sleepiness; many people simply fall asleep.
+The plateau of tizanidine is short but heavy. Many people simply fall asleep, often deeply. Those who stay awake feel leaden and weak, with limbs that seem too heavy to lift, a very dry mouth, and a dizziness that surges whenever they stand. The blood pressure drop can make the edges of vision go gray or sparkly on standing, a warning sign of fainting.
 
-Thinking is slowed and concentration poor.
+Mentally the plateau feels quiet, slowed and dreamy, with thoughts moving lazily and attention drifting. Some find this tranquil and pleasant; others find it oppressive, like being trapped in a too-heavy body. Brief dreamlike images or mild hallucinations at the edge of sleep can happen.
 
-Because the effect is short-lived, people sometimes take it repeatedly, which raises dependence risk.
+Because the effect wears off within a few hours, some people take repeated doses through the day, which builds dependence on its blood-pressure effects. Combining with alcohol, other sedatives, other blood-pressure medicines, or drugs that block its breakdown (such as ciprofloxacin or fluvoxamine) can cause dangerously low blood pressure and slow heart rate.
 
 ### Comedown (3-6 h total)
 
-As it fades, the body may feel tired yet slightly jittery.
+As tizanidine fades, the heaviness lifts quickly and can be replaced by a slightly jittery, tired-but-wired feeling. Muscle stiffness and spasm return, sometimes sharply. The mouth stays dry, and some people feel a headache or a pounding pulse as blood pressure rebounds upward.
 
-Some notice anxiety or irritability as the calm lifts.
+Emotionally, the calm can give way to irritability, restlessness or anxiety, especially after frequent use. Sleep may be broken.
 
-Stopping suddenly after regular use can cause rebound high blood pressure, fast heartbeat, tremor and anxiety, so it should be tapered.
+After regular daily use, stopping suddenly can cause rebound high blood pressure, fast heartbeat, tremor, sweating and anxiety, sometimes severe. It should be tapered under medical guidance. Long-term use also needs liver monitoring.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

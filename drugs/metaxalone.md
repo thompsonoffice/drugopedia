@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Metaxalone (Skelaxin) has a soft, gradual onset: a mild sense of muscle ease and a faint drowsiness, often stronger when taken with food.
+Metaxalone (Skelaxin) builds slowly and quietly, and it is absorbed better when taken with a meal. Over an hour or so, the muscles of the back and neck feel slightly less clenched, and a soft drowsiness gathers behind the eyes. Compared with carisoprodol or cyclobenzaprine, the sleepiness is lighter and the mind stays clearer.
 
-Mentally the effect is subtle. Many people feel slightly calmer and a bit dreamy, with little euphoria.
+Mentally the onset is subtle: a mild calm, a slight dreaminess, and a sense of tension easing. Most people do not feel 'high'. Some describe a light, pleasant heaviness that makes it easier to rest.
 
-Some notice light nausea, headache or irritability.
+Early side effects can include mild nausea, headache, dizziness, nervousness or irritability. A few people feel a little restless instead of relaxed.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Metaxalone is processed by several liver enzymes and its absorption is increased by food. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -64,11 +64,11 @@ Mild relaxation.
 
 ### Peak (about 3 h)
 
-At the peak the body feels somewhat looser and heavier; dizziness is mild.
+At the peak the body feels somewhat looser and heavier, and painful movement eases. Dizziness is usually mild, and coordination is mostly intact, though fine tasks may feel slightly clumsy.
 
-Emotionally the peak is calm and slightly sleepy, generally less sedating than carisoprodol or cyclobenzaprine.
+Emotionally the peak is calm and gently sleepy, without the drunken disinhibition of carisoprodol or the anticholinergic fog of cyclobenzaprine. Larger amounts mostly bring more drowsiness, nausea and dizziness rather than euphoria.
 
-Serious effects are uncommon but include serotonin syndrome when combined with serotonergic drugs, and liver or blood problems with long use. Combining with depressants deepens sedation.
+Serious effects are uncommon, but metaxalone can contribute to serotonin syndrome when combined with SSRIs, SNRIs, tramadol or other serotonergic drugs, and it adds to the sedation of alcohol and other depressants. People with liver disease or certain anemias should avoid it.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -76,19 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-4 h)
 
-The plateau is a mild, steady relaxation.
+The plateau is a mild, steady relaxation lasting a few hours. People can often carry on quiet activities, though they may prefer to rest.
 
-Thinking remains mostly clear, with some drowsiness.
+Thinking remains mostly clear, with a little slowing and drowsiness. Mood is calm and neutral.
 
-Drivers should still be cautious.
+Even so, reaction time is reduced enough that drivers should be cautious until they know how it affects them.
 
 ### Comedown (4-6 h total)
 
-The comedown is gentle, with returning stiffness.
+The comedown is gentle: stiffness gradually returns and a light tiredness lingers. Some notice a mild headache or upset stomach.
 
-Mood usually stays steady.
+Mood generally stays steady, without a crash.
 
-Dependence is rare.
+Dependence and withdrawal are rare. Very large overdoses, especially combined with other drugs, have caused deaths, so it should still be stored safely.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

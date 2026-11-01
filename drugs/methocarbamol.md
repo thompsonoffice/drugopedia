@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Methocarbamol (Robaxin) has a gentle, almost unremarkable onset. A mild drowsiness and a faint softening of tight muscles in the back and neck are the main signs, sometimes with a light, floaty dizziness.
+Methocarbamol (Robaxin) has one of the gentlest onsets among muscle relaxants. Within about half an hour, a faint, soft drowsiness settles in, and tight muscles in the back, neck and shoulders begin to ease slightly, as though a dial on the tension has been turned down one notch. Some people feel a light, floaty dizziness, particularly when standing or turning the head quickly.
 
-Mentally there is a slight dimming of alertness, a calmer, quieter feeling but very little euphoria. Many people say they feel 'a bit spacey' and little else.
+Mentally the effect is subtle: a slight quieting of alertness, a calmer and more inward mood, and a mild 'spacey' feeling. There is usually no rush or euphoria at all, which is part of why methocarbamol is rarely misused. People often say they could not tell it was working except that the pain bothered them a bit less and they felt like lying down.
 
-Some notice mild nausea, a metallic taste, or a flushed feeling. Urine can turn brown, green or black, which is harmless but can be alarming.
+Small physical side effects can appear early: mild nausea, a metallic taste, a slight flush in the face, or blurred vision. A harmless but startling effect is that urine can turn brown, green or nearly black, which comes from the drug's breakdown products rather than any damage.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Methocarbamol has a short half-life of about 1 to 2 hours and is processed by the liver. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -64,11 +64,11 @@ Mild drowsiness and lightheadedness.
 
 ### Peak (1-2 h)
 
-At the peak, muscles feel looser and the body heavier, with mild unsteadiness. The sensation is closer to tiredness than to intoxication.
+At the peak, the body feels looser and a bit heavier, and stiff areas move with less resistance. The sensation is closer to ordinary tiredness at the end of a long day than to being intoxicated. Balance may be slightly off and the legs can feel a little wobbly, and some people notice a mild headache or light sensitivity.
 
-Emotionally the peak is calm and slightly sleepy, with a mild cloudiness of thought. Higher amounts mainly add more drowsiness, dizziness and blurred vision rather than any pleasant high.
+Emotionally the peak is calm and slightly sleepy. Thoughts are a little cloudy and slower, and there is a gentle sense of not needing to hurry. Larger amounts mostly add more drowsiness, dizziness, blurred vision and nausea rather than any pleasant high, so people who take extra hoping for euphoria usually just feel worse.
 
-Methocarbamol alone is fairly safe, but combined with alcohol, opioids or benzodiazepines it adds to sedation and can slow breathing.
+Methocarbamol taken alone is relatively safe, but it does add to the sedation of alcohol, opioids, benzodiazepines, gabapentinoids and sleep drugs. In combination it can contribute to dangerous drowsiness and slowed breathing, and in older adults it raises the chance of falls.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -76,19 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-4 h)
 
-The plateau is a short, mellow drowsiness. Many people nap.
+The plateau is short and mellow, usually lasting a few hours. Many people take a nap and wake feeling somewhat looser. Those who stay up feel mildly drowsy, with heavy eyelids and a slight disinclination to move, but they can generally function in simple tasks.
 
-Thinking stays slightly slowed and focus is reduced.
+Mentally focus is slightly reduced and reaction time slower, similar to being moderately tired. Mood stays neutral; there is no notable emotional lift or drop. Some people feel slightly detached from minor annoyances.
 
-Because the effect is short, most people find it fades within a few hours.
+Even though the effect is mild, driving or using machinery while drowsy is unsafe, and the combination with alcohol makes impairment noticeably worse.
 
 ### Comedown (4-6 h total)
 
-The comedown is mild: some tiredness, light headache, or returning stiffness.
+The comedown is barely noticeable for most people. As it wears off, a light tiredness lingers, the muscles may stiffen up again, and some notice a mild headache or slight stomach upset. There is no hangover in the usual sense.
 
-Mood is usually unchanged, perhaps a little groggy.
+Emotionally the comedown is usually neutral, perhaps slightly groggy. Because the drug is short-acting, people often take it several times a day for spasm, and each dose rises and falls gently.
 
-It carries little risk of dependence, though driving while drowsy is still unsafe.
+Methocarbamol carries little risk of dependence or withdrawal. Rarely, allergic reactions, a slow heart rate, or seizures in people with seizure disorders have been reported, and these need medical attention.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

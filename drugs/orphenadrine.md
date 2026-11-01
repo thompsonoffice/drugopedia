@@ -52,11 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Orphenadrine (Norflex) is a relative of the antihistamine diphenhydramine, and its onset feels similar: dry mouth, a heavy-headed drowsiness and a slight blurring of near vision.
+Orphenadrine (Norflex) is a chemical cousin of the antihistamine diphenhydramine, and its onset feels like a strong sedating allergy pill. Within an hour the mouth turns dry and sticky, the eyelids grow heavy, near vision blurs slightly, and the head feels heavy and slow. Muscles in the back and neck begin to ease.
 
-Mentally there is a cloudy, sleepy calm. At usual amounts it feels like a sedating allergy pill; it is not generally euphoric.
+Mentally there is a cloudy, sleepy calm with slowed thinking. At ordinary amounts it is not euphoric; it feels more like being drugged and dull than pleasantly relaxed. Some people feel slightly uneasy or detached.
 
-The heart may beat faster and urination may be harder to start.
+The heart may beat faster, the skin may feel warm and dry because sweating is reduced, and urination can become harder to start. Some notice constipation and a faint ringing or fullness in the ears.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Orphenadrine has a half-life of about 14 hours, longer in older adults. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -68,11 +68,11 @@ Dry mouth and drowsiness.
 
 ### Peak (2-4 h)
 
-At the peak muscles feel looser and the body heavy and dry. Dizziness and clumsiness are common.
+At the peak muscles feel looser and the body heavy and dry. Dizziness, clumsiness and unsteady walking are common, along with a racing pulse that can be felt while sitting still. Light may seem too bright because the pupils are wider.
 
-Emotionally the peak is foggy. Higher amounts push it toward a deliriant, anticholinergic state with confusion, odd perceptions and agitation rather than pleasure.
+Emotionally the peak is foggy and indifferent. At higher amounts it pushes toward anticholinergic delirium: confusion, muttering, picking at the air, seeing things that are not there, and agitation rather than pleasure. People in this state often do not realize they are impaired.
 
-Overdose can cause dangerous heart rhythms, seizures, high temperature and delirium.
+Overdose can cause dangerous heart rhythms, seizures, very high body temperature and delirium, and it needs emergency care. Combining with other anticholinergic drugs, antihistamines or alcohol increases these risks.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -80,19 +80,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (4-8 h)
 
-The plateau is long, dry-mouthed and drowsy.
+The plateau is long, dry-mouthed and drowsy. Many people sleep heavily; others feel sluggish and parched for hours, with blurry near vision and a fast pulse.
 
-Memory and concentration are dulled.
+Memory and concentration are dulled, and older adults especially may become confused or disoriented.
 
-Heat tolerance is reduced because sweating is suppressed.
+Because sweating is suppressed, heat tolerance is reduced and overheating is possible in hot weather or with exertion.
 
 ### Comedown (12+ h total)
 
-The comedown feels like a heavy antihistamine hangover.
+The comedown feels like a heavy antihistamine hangover: dry mouth, headache, sluggish limbs and a dull, foggy head.
 
-Mood can be irritable or flat.
+Mood can be irritable or flat, and some people feel mentally slow for much of the next day.
 
-Long-term heavy use of anticholinergic drugs is linked to memory problems.
+Long-term heavy use of strongly anticholinergic drugs is linked to memory problems and possibly to higher dementia risk in older adults.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

@@ -52,11 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Cyclobenzaprine (Flexeril) is chemically a close cousin of the tricyclic antidepressant amitriptyline, and it feels like one. The onset is a slow, thick drowsiness: the eyelids grow heavy, the mouth turns noticeably dry and sticky, and the body begins to feel sluggish rather than euphoric.
+Cyclobenzaprine (Flexeril) is chemically almost a twin of the old antidepressant amitriptyline, and its onset feels like a sedating tricyclic rather than a classic muscle relaxer. Over the first hour, a thick, syrupy drowsiness creeps up from the body: eyelids grow heavy, limbs feel slow, and the neck and lower back gradually stop guarding. The mouth becomes noticeably dry and sticky, and the tongue may feel like it is coated.
 
-Mentally the first change is a dulling of alertness. Thoughts slow, the urge to do things fades, and a vague, cotton-wool feeling settles over the mind. There is usually little pleasure in it; most people simply feel sleepy.
+Mentally the onset is a dimming rather than a lift. Alertness slides downward, motivation drains away, and thoughts move more slowly, as if through cotton wool. There is usually little or no euphoria; most people simply feel sleepy, a bit detached and unwilling to do anything. Some describe a faint dreaminess, with daydreams that feel unusually vivid when the eyes close.
 
-Anticholinergic signs appear: dry eyes, slightly blurry near vision, a faster heartbeat, and sometimes difficulty starting to urinate. A strange metallic or bitter aftertaste is common.
+Anticholinergic signs arrive early: dry, gritty eyes, slightly blurry near vision that makes reading harder, a faster heartbeat that can be felt while lying down, constipation, and sometimes difficulty starting to urinate. Many notice a lingering bitter or metallic taste. Standing up quickly may bring a brief swimmy dizziness as blood pressure dips.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Cyclobenzaprine is processed by CYP3A4, CYP1A2 and CYP2D6 and has a long half-life, longer in older adults. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -80,19 +80,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (several hours)
 
-The plateau is long and sleepy. Many people sleep deeply for hours and wake with a thick head. Those who stay awake feel heavy-limbed, dry-mouthed and slightly disconnected from their body.
+The plateau is long and sleepy. Many people fall into a deep, heavy sleep and wake hours later feeling thick-headed and slow, sometimes after unusually vivid or strange dreams. Those who stay awake feel weighted, as if wearing a lead blanket, with a parched mouth, slightly blurred vision and a body that is reluctant to move. The pulse may stay fast even at rest, a sensation some people find unsettling.
 
-Concentration and memory are poor, and reaction time is slow, much as with an older sedating antihistamine.
+Mentally the plateau is foggy and indifferent. Concentration is poor, words come slowly, and short-term memory slips: people lose track of what they were saying or why they walked into a room. The mood is usually flat rather than pleasant. When larger amounts are involved, the fog can turn into confusion, muttering or seeing things at the edge of vision, the early signs of anticholinergic delirium.
 
-Because it lasts a long time, drowsiness frequently carries into the next day, making driving risky.
+Because the drug lasts a long time in the body, impairment continues well into the next day, and driving or operating machinery is genuinely risky. Combining it with alcohol, opioids, benzodiazepines or sleep medicines deepens the sedation, and combining it with serotonergic antidepressants, tramadol or triptans can trigger serotonin syndrome.
 
 ### Comedown (12-24 h)
 
-The comedown is a slow-lifting grogginess, often described as a hangover: dry mouth, headache, and heavy limbs.
+The comedown is a slow-lifting grogginess that many describe as a hangover without the drinking. The mouth stays dry, the head feels heavy or achy, the eyes feel tired, and the body is stiff and sluggish on waking. Constipation and a sense of being slightly 'drugged' can persist into the afternoon. The original muscle spasm may be better, but the price is a dull, slowed day.
 
-Mood can be flat or irritable, and some feel mentally slow most of the next morning.
+Emotionally the comedown is usually flat, mildly irritable or apathetic, with a sense of moving through the day half a step behind. Some people notice low mood, and older adults in particular can feel confused or forgetful for longer. It is rarely craved, because the experience is more heavy than pleasant.
 
-Cyclobenzaprine is not usually craved, but stopping after long daily use can cause nausea, headache and malaise.
+Stopping after long daily use can cause nausea, headache, malaise and poor sleep for a few days. Overdose is dangerous mainly through the heart, with fast or irregular rhythms, low blood pressure, agitation, hallucinations and seizures, much like a tricyclic antidepressant overdose, and it needs emergency care.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 
