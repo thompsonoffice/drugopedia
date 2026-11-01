@@ -13,10 +13,16 @@ The project is written to be fully accessible with screen readers such as VoiceO
 - `INDEX.md`: the full list of pages.
 - `narcan/`: naloxone and nalmefene, the overdose-reversal medicines.
 - `safety/benzodiazepine-safety.md` and `safety/xylazine.md`: shared safety pages.
+- `safety/depressant-mixing.md`: why combining depressants kills, and what to do.
+- `products/<product>.md`: brand and combination products (Percocet, Norco, Tylenol #3, Fioricet, Suboxone vs Zubsolv vs Subutex and more), with how the added ingredients change the feel and the risks.
 - `safety/opioid-overdose.md`: what an overdose feels and looks like, what naloxone (Narcan) does, and step-by-step what bystanders should do.
 - `drugs/<drug>.md`: one general page per drug: history and origins, medical use then and now, how it entered recreational use, legal status, brand names, role in addiction treatment where relevant, an in-depth description of what it feels like phase by phase, an overdose note, and sources.
 - `routes/<route>/<drug>.md`: one page per drug per route of administration (oral, sublingual-buccal, intranasal, rectal, transdermal, injected, inhaled-smoked), with timing for that route, how it feels different, and route-specific risks. Routes a drug is not used by are listed on its general page.
 - `tools/`: the Python scripts that generate the pages from structured data.
+
+## Categories covered
+
+Opioids (prescription, heroin, fentanyl, rare and historic), atypical opioids, novel synthetic opioids, prescription and designer benzodiazepines, muscle relaxants, barbiturates, sedative-hypnotics, and gabapentinoids.
 
 ## Disclaimer
 
