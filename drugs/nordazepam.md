@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Nordazepam (Calmday, Madar) is the long-lasting active metabolite behind diazepam, clorazepate, prazepam and others, and is prescribed itself in some countries. It comes on slowly with an even, unhurried calm.
+Nordazepam (Calmday, Madar) is the long-lasting active metabolite behind diazepam, clorazepate, prazepam and others, and is prescribed itself in some countries. It comes on slowly with an even, unhurried calm. Muscles loosen, the jaw and shoulders release, and a mild heaviness settles into the limbs.
 
-Mentally there is no rush, just a gradual quieting.
+Mentally there is no rush, just a gradual quieting. Worries recede and the mind becomes slower and quieter, without the sparkle of a stimulant or the warmth of an opioid.
 
-It lingers for days, so effects build.
+It lingers for days, so effects build. Light-headedness on standing and slowed reactions start early, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, a steady starts to appear.
 
 ### Peak (2-4 h)
 
-At its peak steady relaxation.
+At its peak steady relaxation. Coordination is clumsy, speech may thicken and there is a pull toward sleep.
 
-Mentally level and calm.
+Mentally level and calm. Memory for events during this window is often weak, a common benzodiazepine effect called anterograde amnesia.
 
-Dangerous with depressants.
+Dangerous with depressants. With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau is very long.
+The plateau is very long. Balance and coordination stay poor, raising the risk of falls, especially for older people.
 
-Mentally dull, forgetful.
+Mentally dull and forgetful. Concentration, memory and reaction time remain reduced, so driving is unsafe even when the person feels normal.
 
-Accumulation in older adults.
+Accumulates in older adults. Taking more during this period stacks onto drug still in the body.
 
 ### Comedown (several days)
 
-The comedown is extremely slow.
+The comedown is extremely slow. Tiredness, a foggy head and sometimes a mild headache linger as it fades.
 
-Emotionally gradual return of anxiety.
+Emotionally gradual return of anxiety. Anxiety and poor sleep can return, sometimes stronger than before (rebound), with irritability or a flat mood.
 
-Dependence with long use.
+Dependence with long use. Daily use causes tolerance and dependence within weeks; stopping suddenly can cause severe anxiety, insomnia, tremor and seizures, so tapering with a prescriber is essential.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

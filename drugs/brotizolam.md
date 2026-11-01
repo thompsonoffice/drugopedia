@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Brotizolam (Lendormin) is a short-acting thienotriazolo sleep drug used in Europe and Japan. It comes on quickly: a fast-falling heaviness and a sleepy calm within a short time.
+Brotizolam (Lendormin) is a short-acting thienotriazolo sleep drug used in Europe and Japan. It comes on quickly: a fast-falling heaviness and sleepy calm. Muscles loosen, the jaw and shoulders release, and a mild heaviness settles into the limbs.
 
-Mentally the mind dims quickly, much like triazolam.
+Mentally the mind dims quickly, much like triazolam. Worries recede and the mind becomes slower and quieter, without the sparkle of a stimulant or the warmth of an opioid.
 
-Staying awake after taking it risks forgotten actions.
+Staying awake after taking it risks forgotten actions. Light-headedness on standing and slowed reactions start early, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, fast starts to appear.
 
 ### Peak (1 h)
 
-At its peak sleep; awake, clumsy and blank.
+At its peak sleep; awake, clumsy and blank. Coordination is clumsy, speech may thicken and there is a pull toward sleep.
 
-Mentally strong amnesia.
+Mentally strong amnesia. Memory for events during this window is often weak, a common benzodiazepine effect called anterograde amnesia.
 
-Risky with alcohol.
+Risky with alcohol. With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau is short, ending before morning.
+The plateau is short, ending before morning. Balance and coordination stay poor, raising the risk of falls, especially for older people.
 
-Mentally sleep.
+Mentally sleep. Concentration, memory and reaction time remain reduced, so driving is unsafe even when the person feels normal.
 
-Little hangover.
+Little hangover. Taking more during this period stacks onto drug still in the body.
 
 ### Comedown (4-8 h)
 
-The comedown may bring early waking or rebound restlessness.
+The comedown may bring early waking or restlessness. Tiredness, a foggy head and sometimes a mild headache linger as it fades.
 
-Emotionally next-day anxiety for some.
+Emotionally next-day anxiety for some. Anxiety and poor sleep can return, sometimes stronger than before (rebound), with irritability or a flat mood.
 
-Tolerance builds with nightly use.
+Tolerance builds with nightly use. Daily use causes tolerance and dependence within weeks; stopping suddenly can cause severe anxiety, insomnia, tremor and seizures, so tapering with a prescriber is essential.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Tofisopam (Grandaxin) is an unusual 2,3-benzodiazepine that does not bind the classic benzodiazepine site. Its onset is subtle: a gentle easing of jitteriness without heaviness or sleepiness.
+Tofisopam (Grandaxin) is an unusual 2,3-benzodiazepine used in Hungary, Russia and Japan. It does not bind the classic benzodiazepine site, so its onset is subtle: a gentle easing of jitteriness and stomach nerves, with no heaviness, no drooping eyelids and no muscle slackening.
 
-Mentally people feel calmer but alert, with no fog; many feel almost nothing.
+Mentally people feel calmer but fully alert; many describe it as taking the edge off without any fog, and some feel almost nothing at all.
 
-It does not relax muscles or cause amnesia like typical benzos.
+It is used for anxiety with physical symptoms such as palpitations or alcohol-withdrawal shakiness.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, anxiety relief without sleepiness or muscle relaxation starts to a
 
 ### Peak (1-2 h)
 
-At its peak there is little physical change.
+At its peak there is little physical change beyond steadier hands and a calmer heartbeat.
 
-Mentally a mild calm.
+Mentally a mild, clear calm; memory and concentration are not noticeably affected.
 
-It is not known to cause the dangerous sedation of classic benzos, though interactions with other drugs are possible.
+It is not known to cause the dangerous breathing suppression of classic benzos, though it can raise levels of other medicines, so interactions matter.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau is short.
+The plateau is short, a few hours of light calm.
 
-Mentally clear.
+Mentally clear and functional.
 
-Side effects are uncommon.
+Side effects such as headache or stomach upset are uncommon.
 
 ### Comedown (6-8 h)
 
-The comedown is unnoticeable for most.
+The comedown is unnoticeable for most people.
 
-Emotionally steady.
+Emotionally steady, without rebound anxiety.
 
-Dependence and withdrawal are minimal.
+Dependence and withdrawal are minimal, which sets it apart from every other drug in this section.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

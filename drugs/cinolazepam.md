@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Cinolazepam (Gerodorm) is a sleep benzodiazepine used in Austria and eastern Europe. It comes on over a while with a drowsy heaviness.
+Cinolazepam (Gerodorm) is a sleep benzodiazepine used in Austria and eastern Europe. It comes on over a while with a drowsy heaviness. Muscles loosen, the jaw and shoulders release, and a mild heaviness settles into the limbs.
 
-Mentally thoughts soften toward sleep.
+Mentally thoughts soften toward sleep. Worries recede and the mind becomes slower and quieter, without the sparkle of a stimulant or the warmth of an opioid.
 
-Next-day effects are generally mild.
+Next-day effects are generally mild. Light-headedness on standing and slowed reactions start early, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, a smooth sleepiness starts to appear.
 
 ### Peak (1-2 h)
 
-At its peak sleep.
+At its peak sleep. Coordination is clumsy, speech may thicken and there is a pull toward sleep.
 
-Mentally hazy.
+Mentally hazy. Memory for events during this window is often weak, a common benzodiazepine effect called anterograde amnesia.
 
-Risky with alcohol.
+Risky with alcohol. With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau lasts the night.
+The plateau lasts the night. Balance and coordination stay poor, raising the risk of falls, especially for older people.
 
-Mentally sleep.
+Mentally sleep. Concentration, memory and reaction time remain reduced, so driving is unsafe even when the person feels normal.
 
-Older users may wake unsteady.
+Older users may wake unsteady. Taking more during this period stacks onto drug still in the body.
 
 ### Comedown (8-12 h)
 
-The comedown is a light morning grogginess.
+The comedown is a light morning grogginess. Tiredness, a foggy head and sometimes a mild headache linger as it fades.
 
-Emotionally mild.
+Emotionally mild. Anxiety and poor sleep can return, sometimes stronger than before (rebound), with irritability or a flat mood.
 
-Tolerance builds.
+Tolerance builds. Daily use causes tolerance and dependence within weeks; stopping suddenly can cause severe anxiety, insomnia, tremor and seizures, so tapering with a prescriber is essential.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

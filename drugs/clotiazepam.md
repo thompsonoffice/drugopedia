@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Clotiazepam (Rize, Veratran) is a short-acting thienodiazepine for anxiety in Japan and Europe. It comes on fairly quickly with a light, brief calm.
+Clotiazepam (Rize, Veratran) is a short-acting thienodiazepine for anxiety in Japan and Europe. It comes on fairly quickly with a light, brief calm. Muscles loosen, the jaw and shoulders release, and a mild heaviness settles into the limbs.
 
-Mentally a quick easing of nervousness, similar to a mild etizolam.
+Mentally a quick easing of nervousness, like a mild etizolam. Worries recede and the mind becomes slower and quieter, without the sparkle of a stimulant or the warmth of an opioid.
 
-It wears off within a few hours.
+It wears off within a few hours. Light-headedness on standing and slowed reactions start early, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, a short starts to appear.
 
 ### Peak (1 h)
 
-At its peak relaxed, lightly drowsy.
+At its peak relaxed and lightly drowsy. Coordination is clumsy, speech may thicken and there is a pull toward sleep.
 
-Mentally calm.
+Mentally calm. Memory for events during this window is often weak, a common benzodiazepine effect called anterograde amnesia.
 
-Risky with alcohol.
+Risky with alcohol. With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau is short.
+The plateau is short. Balance and coordination stay poor, raising the risk of falls, especially for older people.
 
-Mentally clears fast.
+Mentally clears fast. Concentration, memory and reaction time remain reduced, so driving is unsafe even when the person feels normal.
 
-Repeated dosing in a day is common.
+Repeated dosing in one day is common. Taking more during this period stacks onto drug still in the body.
 
 ### Comedown (4-6 h)
 
-The comedown is quick, with tension returning.
+The comedown is quick, with tension returning. Tiredness, a foggy head and sometimes a mild headache linger as it fades.
 
-Emotionally rebound anxiety.
+Emotionally rebound anxiety. Anxiety and poor sleep can return, sometimes stronger than before (rebound), with irritability or a flat mood.
 
-Dependence possible.
+Dependence possible. Daily use causes tolerance and dependence within weeks; stopping suddenly can cause severe anxiety, insomnia, tremor and seizures, so tapering with a prescriber is essential.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

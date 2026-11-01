@@ -48,11 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (a few min)
 
-Zolazepam is a veterinary benzodiazepine sold only combined with the dissociative tiletamine as Telazol or Zoletil for animal anesthesia. Human exposure is accidental or very rare misuse, and the onset is fast: heaviness, numbness and a sense of detachment from the body.
+Zolazepam is a veterinary benzodiazepine sold only combined with the dissociative tiletamine as Telazol or Zoletil for anesthetizing animals. Human exposure is accidental or rare misuse. The onset is fast: a spreading numbness, heavy limbs and a strange separation from the body.
 
-Mentally the dissociative tiletamine dominates early: confusion, dreamlike unreality and loss of time.
+Mentally the dissociative tiletamine dominates early: confusion, dreamlike unreality, distorted sounds and loss of time, with the benzodiazepine adding sedation and amnesia.
 
-Exposure is a medical emergency.
+Any exposure is a medical emergency, because the combination is designed to immobilize large animals.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Fast heaviness and detachment.
 
 ### Peak (10-30 min)
 
-At its peak deep sedation with possible unconsciousness.
+At its peak there is deep sedation, possibly unconsciousness, with muscle rigidity or twitching from tiletamine.
 
-Mentally absent or dissociated.
+Mentally the person is absent or deeply dissociated, unable to respond normally.
 
-Breathing problems and prolonged unconsciousness can occur.
+Breathing problems, low blood pressure and prolonged unconsciousness can occur.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (1-2 h)
 
-The plateau can last hours.
+The plateau can last hours, longer than many expect.
 
-Mentally confused.
+Mentally people drift in confusion, sometimes with frightening dreamlike experiences as they surface.
 
-Hospital monitoring is needed.
+Hospital monitoring is needed throughout.
 
 ### Comedown (several hours)
 
-Recovery brings confusion and nausea.
+Recovery brings confusion, nausea, poor coordination and exhaustion.
 
-Emotionally disoriented.
+Emotionally people may feel disoriented, anxious or distressed by what they experienced.
 
-No therapeutic use in people.
+It has no therapeutic use in people.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
