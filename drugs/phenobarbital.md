@@ -48,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Phenobarbital is long-acting and slow. Instead of a rush, it brings a gradual, deepening drowsiness and heaviness over a few hours, like a tiredness that keeps settling in and will not lift. Limbs feel slow and the head heavy.
+Phenobarbital is long-acting and slow. Instead of a rush, it brings a gradual, deepening drowsiness and heaviness over a few hours, like a tiredness that keeps settling in and will not lift. Limbs feel slow and the head heavy. Because it is so slow, many people do not notice the moment it starts; they simply realize later in the day that they feel heavier and slower.
 
 Mentally the onset is a dull, sleepy calm with slowed thinking. People taking it daily for epilepsy often describe it as feeling 'flattened' or mentally slower rather than pleasantly relaxed. There is little euphoria.
 
@@ -76,19 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (10-12 h)
 
-The plateau can last a day or more: a long, slow-witted drowsiness that colors everything.
+The plateau can last a day or more: a long, slow-witted drowsiness that colors everything. Physically people feel slow and heavy, as if moving underwater, with mild unsteadiness and a constant low-level tiredness that sleep does not fully relieve.
 
-Memory, concentration and processing speed are noticeably dulled, and some people struggle at school or work.
+Memory, concentration and processing speed are noticeably dulled, and some people struggle at school or work. Many long-term users describe a sense of thinking through fog, needing more effort to read, follow conversations or remember appointments.
 
-Some people develop depression or mood changes on long-term use, and it interacts with many medicines, including birth control.
+Some people develop depression or mood changes on long-term use, and it interacts with many medicines, including birth control. Levels are checked with blood tests.
 
 ### Comedown (1-3 days)
 
-The comedown is very gradual, with grogginess lingering for days as levels slowly fall.
+The comedown is very gradual, with grogginess lingering for days as levels slowly fall. As it clears over days, people often notice they feel lighter, quicker and more alert, sometimes with a restless edge.
 
-Mood may stay flat for some time, and people may only realize how dulled they were once it clears.
+Mood may stay flat for some time, and people may only realize how dulled they were once it clears. Some feel more anxious or irritable during this time, and sleep may be lighter until the brain adjusts.
 
-After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
+After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised. Missed doses rarely cause sudden change.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

@@ -52,7 +52,7 @@ Primidone (Mysoline) is used for epilepsy and essential tremor, and the body con
 
 Mentally there is fogginess, slowed thinking and sometimes a strange, detached feeling rather than any pleasure.
 
-Tolerance to these first-dose effects develops over days to weeks, which is why doctors start low and increase slowly.
+Tolerance to these first-dose effects develops over days to weeks, which is why doctors start low and increase slowly. Some people take their first doses at bedtime so they sleep through the worst of the dizziness and nausea, and many find the second week far easier than the first.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Primidone is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -64,11 +64,11 @@ Unsteadiness.
 
 ### Peak (3-4 h)
 
-At the peak people feel drowsy, unsteady and sometimes nauseated, with double vision or flickering eye movements in some.
+At the peak people feel drowsy, unsteady and sometimes nauseated, with double vision or flickering eye movements in some. The body feels heavy and slightly unsteady, and some people notice their tremor quieted almost completely.
 
-Emotionally it is flat, and some people feel low, irritable or emotionally blunted.
+Emotionally it is flat, and some people feel low, irritable or emotionally blunted. Many describe feeling 'not quite themselves', with blunted emotions and slower thinking that improves after the first weeks.
 
-Overdose resembles phenobarbital overdose, with deep sedation, slow breathing and low blood pressure.
+Overdose resembles phenobarbital overdose, with deep sedation, slow breathing and low blood pressure. Mixing it with alcohol or other sedatives deepens drowsiness and unsteadiness. Blood tests guide the dose.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -76,19 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (many hours)
 
-The plateau is long, with steady drowsiness on regular use.
+The plateau is long, with steady drowsiness on regular use. On regular treatment, the body settles into a steady state: mild tiredness, a slight heaviness in the limbs, and sometimes a faint unsteadiness on stairs. For people with essential tremor, hands may be noticeably steadier.
 
-Concentration and memory are dulled, especially early in treatment.
+Concentration and memory are dulled, especially early in treatment. Concentration and memory can be mildly dulled, especially early, and some people feel emotionally flat or less motivated until their body adjusts.
 
-Driving should wait until the person knows how it affects them.
+Driving should wait until the person knows how it affects them. People are advised to avoid alcohol, and doctors may check blood levels and blood counts during long-term treatment.
 
 ### Comedown (1-3 days (phenobarbital))
 
-The comedown is gradual because of the long-lasting phenobarbital it produces.
+The comedown is gradual because of the long-lasting phenobarbital it produces. Because of its long-lasting phenobarbital, primidone's effects fade slowly over days rather than hours, so missed doses rarely cause a sudden change, though tremor or seizures may gradually return.
 
-Mood mostly steadies on regular use.
+Mood mostly steadies on regular use. Some notice more energy and clearer thinking as levels drop, but also more anxiety or poorer sleep.
 
-Stopping suddenly can trigger seizures, so changes must be made with a doctor.
+Stopping suddenly can trigger seizures, so changes must be made with a doctor. Doctors taper primidone slowly over weeks when it needs to be stopped, both to avoid seizures and to limit barbiturate-like withdrawal such as anxiety, insomnia and shakiness.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

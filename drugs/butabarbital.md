@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Butabarbital (Butisol) brings an intermediate, steady onset. Warm drowsiness spreads through the body, limbs feel heavy, and a calm, slightly drunk ease sets in over the first hour.
+Butabarbital (Butisol) brings an intermediate, steady onset. Warm drowsiness spreads through the body, limbs feel heavy, and a calm, slightly drunk ease sets in over the first hour. The face flushes slightly, the eyelids grow heavy, and the arms feel loose and weighted, as if the strings holding them up have been cut.
 
-Mentally it produces a relaxed, unbothered state with slowed thoughts and lowered worry, closer to a few drinks than to a modern sleep pill.
+Mentally it produces a relaxed, unbothered state with slowed thoughts and lowered worry, closer to a few drinks than to a modern sleep pill. Some people become talkative and silly at first; others turn quiet and inward.
 
-Coordination softens, speech slows, and the person may feel slightly dizzy when standing.
+Coordination softens, speech slows, and the person may feel slightly dizzy when standing. Walking starts to feel like wading.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Butabarbital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -64,7 +64,7 @@ Drowsiness builds.
 
 ### Peak (1-3 h)
 
-At the peak the body is heavy and sleepy, balance is poor, and movements are clumsy. Many people lie down and doze.
+At the peak the body is heavy and sleepy, balance is poor, and movements are clumsy. Many people lie down and doze. Pain and tension feel very distant, and the skin can feel numb or tingly.
 
 Emotionally it is a loose, foggy contentment with memory gaps, sometimes swinging toward irritability or tearfulness.
 
@@ -76,19 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (3-6 h)
 
-The plateau is a long, sleepy stretch lasting many hours.
+The plateau is a long, sleepy stretch lasting many hours. Physically, the body lies heavy and slack, breathing slows, and the person may snore. If awake, they move slowly, sway when standing, and fumble small objects like keys or a phone.
 
-Thinking is slow and judgment impaired, and reaction time is poor.
+Thinking is slow and judgment impaired, and reaction time is poor. Speech is slurred and conversations wander; people may laugh or cry easily and later remember little of what was said.
 
-Accidents and falls are likely, and additional depressants are especially risky now.
+Accidents and falls are likely, and additional depressants are especially risky now. Choking on vomit while deeply asleep is a real danger, so a sedated person should be placed on their side and watched. Body temperature can drop, and the skin may feel cool.
 
 ### Comedown (6-8 h)
 
-The comedown feels like a heavy hangover: headache, dry mouth, aching muscles and grogginess.
+The comedown feels like a heavy hangover: headache, dry mouth, aching muscles and grogginess. The muscles ache, the eyes are heavy and sore, and coordination can stay off well into the following day.
 
-Mood can be low, anxious or irritable as it clears.
+Mood can be low, anxious or irritable as it clears. There may be a raw, jittery restlessness and difficulty concentrating as the drug clears.
 
-After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
+After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised. Shame about forgotten events is common, and the morning-after low mood can tempt people to take more.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

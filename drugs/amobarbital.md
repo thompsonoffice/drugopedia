@@ -48,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Amobarbital ('blue heavens'; with secobarbital it made Tuinal, the 'rainbows') has a moderate, rolling onset. Warmth and heaviness gather in the chest and limbs, muscles soften, and a gradual, drunken looseness creeps in, as if a few strong drinks were taking hold at once.
+Amobarbital ('blue heavens'; with secobarbital it made Tuinal, the 'rainbows') has a moderate, rolling onset. Warmth and heaviness gather in the chest and limbs, muscles soften, and a gradual, drunken looseness creeps in, as if a few strong drinks were taking hold at once. The face may flush and feel warm, the eyelids sag, and a soft numbness spreads into the lips and fingertips.
 
 Mentally it brings a calm, unguarded talkativeness. Inhibitions fall away and people become drowsily chatty and open; in the mid-1900s it was used in interviews as a so-called 'truth serum' for this reason, although it does not actually make people truthful.
 
@@ -76,19 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (2-4 h)
 
-The plateau is a long, drowsy, intoxicated stretch lasting many hours because amobarbital is intermediate-acting.
+The plateau is a long, drowsy, intoxicated stretch lasting many hours because amobarbital is intermediate-acting. The body stays heavy and loose for hours, with a warm numbness in the limbs, droopy eyelids and a wobbly, careful walk. People may doze in a chair and jerk awake, then drift off again, never quite fully alert.
 
-Thinking is slow and judgment poor. People may doze and wake repeatedly, each time foggier.
+Thinking is slow and judgment poor. People may doze and wake repeatedly, each time foggier. Conversation is slow and rambling, and the person may lose the thread, repeat stories, or become suddenly sentimental, tearful or argumentative. Memory for these hours is often patchy or missing.
 
 Repeat use within this window stacks sedation and greatly raises overdose risk.
 
 ### Comedown (6-8 h)
 
-The comedown brings a heavy hangover with headache, dry mouth, aching body and grogginess that can last well into the next day.
+The comedown brings a heavy hangover with headache, dry mouth, aching body and grogginess that can last well into the next day. The body feels sore and slowed, coordination stays off, and the mouth is dry and stale.
 
-Mood is often low and anxious, with irritability and a sense of being raw and jumpy.
+Mood is often low and anxious, with irritability and a sense of being raw and jumpy. There can be shame or worry about what was said or done during the forgotten hours.
 
-After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
+After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised. Sleep the following night is often poor. Withdrawal can begin within a day.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

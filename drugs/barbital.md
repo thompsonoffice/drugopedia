@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Barbital (Veronal), the first commercially sold barbiturate (1903), has a slow onset. Over an hour or more, heavy, spreading drowsiness settles in, the limbs feel thick and the head clouded.
+Barbital (Veronal), the first commercially sold barbiturate (1903), has a slow onset. Over an hour or more, heavy, spreading drowsiness settles in, the limbs feel thick and the head clouded. The head grows heavy, the eyelids droop, and the limbs feel thick and reluctant, as if exhausted after a long day.
 
-Mentally it brings a sleepy, hazy calm with slowed thoughts, closer to exhaustion than euphoria.
+Mentally it brings a sleepy, hazy calm with slowed thoughts, closer to exhaustion than euphoria. Early users described it as a 'heavy' calm rather than a pleasant one.
 
-Coordination fades as it builds, with slurred speech and unsteady walking.
+Coordination fades as it builds, with slurred speech and unsteady walking. Because it was slow to start, people sometimes took more before the first dose took hold, a pattern behind many early accidental overdoses.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Barbital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -64,11 +64,11 @@ Heavy drowsiness creeps in.
 
 ### Peak (several hours)
 
-At the peak there is deep sedation, heavy limbs and marked unsteadiness. Most people sleep.
+At the peak there is deep sedation, heavy limbs and marked unsteadiness. Most people sleep. The skin may feel cool and the breathing slow and deep.
 
 Emotionally it is dull and drowsy, with memory gaps for the period.
 
-Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
+Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates. Its long action made overdose prolonged and hard to survive in the era before modern intensive care.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -76,19 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (many hours)
 
-Its very long action means a long, heavy plateau that can stretch into the next day.
+Its very long action means a long, heavy plateau that can stretch into the next day. Physically the body stays heavy and slow for a very long time, with drowsiness that carries over into the next day and beyond. People wake briefly and fall back asleep, groggy and unsteady.
 
-Thinking stays slow and reaction time poor.
+Thinking stays slow and reaction time poor. Its slow clearance meant that nightly doses built up, leaving users chronically dull, slurring and forgetful.
 
-Repeated doses accumulate dangerously, and historically this caused many accidental overdoses.
+Repeated doses accumulate dangerously, and historically this caused many accidental overdoses. Elderly people and those with kidney problems were especially at risk of building up to toxic levels without realizing it. Driving was very risky.
 
 ### Comedown (1-3 days)
 
-The comedown is a prolonged hangover with heaviness, headache and grogginess.
+The comedown is a prolonged hangover with heaviness, headache and grogginess. As it slowly clears, people describe aching heads, sluggish limbs and a long-lasting dullness.
 
-Mood is low and slowed for a long time.
+Mood is low and slowed for a long time. Restlessness, poor sleep and irritability can follow as the sedation finally lifts.
 
-After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
+After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised. The slow fade meant withdrawal symptoms appeared later and lasted longer than with shorter barbiturates, sometimes catching people off guard days after stopping.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

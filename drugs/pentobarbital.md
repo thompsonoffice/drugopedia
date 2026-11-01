@@ -76,17 +76,17 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (15 min-several h)
 
-For most people the plateau becomes deep sleep, sometimes so deep they are hard to rouse. Those who stay awake are confused, disoriented and slurring, with poor balance and slow reactions.
+For most people the plateau becomes deep sleep, sometimes so deep they are hard to rouse. Those who stay awake are confused, disoriented and slurring, with poor balance and slow reactions. The body lies heavy and slack, breathing slow and deep, and the person may snore loudly. If roused, they mumble, drift, and sink back almost at once, with little sense of where they are or how long they have been asleep.
 
-Thinking is very slowed, and judgment is badly impaired; people may not realize how sedated they are.
+Thinking is very slowed, and judgment is badly impaired; people may not realize how sedated they are. Any brief waking is confused and dreamlike, and the person may not recognize familiar faces or follow simple questions.
 
 Breathing and blood pressure stay low throughout this stretch, and adding alcohol, opioids or other sedatives can tip sleep into coma.
 
 ### Comedown (3-4 h)
 
-The comedown is a groggy, heavy-headed hangover with headache, dry mouth, nausea and a body that feels bruised and slow.
+The comedown is a groggy, heavy-headed hangover with headache, dry mouth, nausea and a body that feels bruised and slow. The muscles ache as if after a long illness, the eyes feel sore, and balance can stay off for most of the next day, making stairs and driving risky.
 
-Mood is often flat, slowed or irritable, with a raw, anxious edge as the drug clears.
+Mood is often flat, slowed or irritable, with a raw, anxious edge as the drug clears. Many describe feeling 'hollowed out', jumpy and oversensitive to noise, with a sour, restless mood that makes it hard to settle.
 
 After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 

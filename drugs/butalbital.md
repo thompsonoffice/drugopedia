@@ -78,17 +78,17 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (2-4 h)
 
-The plateau is a steady, relaxed drowsiness lasting several hours.
+The plateau is a steady, relaxed drowsiness lasting several hours. The body stays warm and loose, with the neck and scalp free of the clamp-like headache, and a pleasant heaviness in the shoulders. Many people sit quietly, watch television or nap; the caffeine keeps some awake but mellow.
 
-Concentration dulls, reaction time slows, and the person may feel slightly detached.
+Concentration dulls, reaction time slows, and the person may feel slightly detached. Thoughts feel smooth and unhurried, with a gentle detachment from stress, though concentration on detailed work is poor and speech can be a little slow.
 
-Driving is unsafe during this stretch, and alcohol adds both sedation and liver risk.
+Driving is unsafe during this stretch, and alcohol adds both sedation and liver risk. Combining it with opioids, as in the codeine versions, deepens sedation and breathing risk.
 
 ### Comedown (4-8 h)
 
-As it fades, the headache can return, sometimes worse than before. Frequent use causes medication-overuse 'rebound' headaches, which can trap people in a cycle of daily use.
+As it fades, the headache can return, sometimes worse than before. Frequent use causes medication-overuse 'rebound' headaches, which can trap people in a cycle of daily use. Some notice a tense, jittery feeling as both the butalbital and the caffeine wear off together.
 
-Mood may be irritable or anxious, and sleep can be poor because of the caffeine and the rebound.
+Mood may be irritable or anxious, and sleep can be poor because of the caffeine and the rebound. The pull to take another dose to stop the returning headache is how daily use often begins.
 
 After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 

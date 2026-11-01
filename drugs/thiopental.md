@@ -48,7 +48,7 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV 30-60 sec)
 
-Thiopental (Pentothal), for decades the standard drug to start general anesthesia, works within seconds of IV injection. Patients often notice a garlic- or onion-like taste, a warm wave, and their eyelids dropping heavily as they count backward.
+Thiopental (Pentothal), for decades the standard drug to start general anesthesia, works within seconds of IV injection. Patients often notice a garlic- or onion-like taste, a warm wave, and their eyelids dropping heavily as they count backward. It was used for decades in operating rooms worldwide and was also, controversially, part of lethal injection protocols in the US.
 
 Mentally people sometimes recall a brief warm, floating sensation or the feeling of being pulled down into darkness before awareness ends.
 
@@ -64,11 +64,11 @@ Immediate.
 
 ### Peak (within 1 min)
 
-At the peak the person is unconscious, with suppressed breathing and lowered blood pressure.
+At the peak the person is unconscious, with suppressed breathing and lowered blood pressure. Breathing slows or briefly stops, the jaw relaxes, and anesthetists take over the airway, usually adding other gases or drugs to keep the patient asleep for the operation.
 
-There is no experience to remember.
+There is no experience to remember. Like methohexital, it creates a clean gap in memory from the moment of injection.
 
-It requires airway support and monitoring; outside medical hands it would be deadly.
+It requires airway support and monitoring; outside medical hands it would be deadly. Its quick, smooth effect is why it remained the standard induction drug for so long, but the slow release from fat made longer use hazardous. Blood pressure is supported with fluids or medicine if it falls too far.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -76,19 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (5-10 min)
 
-Consciousness returns within minutes as the drug moves out of the brain, but it lingers in fat tissue, so sedation continues.
+Consciousness returns within minutes as the drug moves out of the brain, but it lingers in fat tissue, so sedation continues. Because thiopental is stored in body fat and released slowly, patients who received larger or repeated doses could stay sleepy and slow for many hours, even into the next day.
 
-People are drowsy, slow and sometimes confused for hours.
+People are drowsy, slow and sometimes confused for hours. They often drifted in and out of sleep, answering questions briefly before dozing again.
 
-Thiopental is no longer made in the US.
+Thiopental is no longer made in the US. Older patients and those with poor liver function were especially slow to clear it, and staff monitored their breathing for longer. Recovery could take much longer after big doses.
 
 ### Comedown (10-30 min)
 
-The comedown brings grogginess and a hangover-like heaviness for many hours.
+The comedown brings grogginess and a hangover-like heaviness for many hours. Patients often described feeling foggy, heavy-limbed and hungover, with headache and sometimes nausea, especially after long operations.
 
-Mood may be flat and the person sleepy.
+Mood may be flat and the person sleepy. Some recalled a lingering garlic taste. Thiopental was gradually replaced by propofol, which wears off faster and more cleanly.
 
-It is not used outside medicine.
+It is not used outside medicine. Single medical use did not cause dependence, but some patients disliked how long the grogginess lasted, and the lingering sedation meant they were advised not to drive, sign legal documents, or drink alcohol for at least a day. Nausea was treated with medicine.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

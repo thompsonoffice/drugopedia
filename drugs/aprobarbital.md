@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Aprobarbital (Alurate), an older intermediate-acting barbiturate, brings a moderate onset of warm drowsiness, heavy limbs and a gradual, tipsy looseness.
+Aprobarbital (Alurate), an older intermediate-acting barbiturate, brings a moderate onset of warm drowsiness, heavy limbs and a gradual, tipsy looseness. The face may flush and warm, the shoulders drop, and a mild numbness can spread through the lips and fingertips, much like the first stage of drunkenness.
 
-Mentally it produces a calm, unbothered ease with slowed thinking and fading worry.
+Mentally it produces a calm, unbothered ease with slowed thinking and fading worry. People often feel chatty and loose at first, then increasingly sleepy and slow.
 
-Speech softens and slurs, and balance becomes uncertain.
+Speech softens and slurs, and balance becomes uncertain. Like other intermediate barbiturates it was once prescribed for sleep and anxiety before benzodiazepines replaced it. Balance falters.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Aprobarbital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -64,11 +64,11 @@ Calm and drowsiness.
 
 ### Peak (1-3 h)
 
-At the peak there is strong sleepiness, clumsiness and a heavy, numb body.
+At the peak there is strong sleepiness, clumsiness and a heavy, numb body. Pain and tension feel distant.
 
 Emotionally it is a foggy contentment, sometimes with tearfulness or irritability, and memory becomes patchy.
 
-Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
+Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates. Combined with alcohol, which was common, it could cause fatal breathing suppression even when neither amount alone seemed large.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -76,19 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (3-6 h)
 
-The plateau is a long, drowsy stretch.
+The plateau is a long, drowsy stretch. The body stays heavy, warm and unsteady for hours, with droopy eyelids, thick speech and a wobbly walk. Many people doze and wake repeatedly, never quite fully alert, and may not notice cold, hunger or minor injuries.
 
-Thinking is slow, judgment impaired.
+Thinking is slow, judgment impaired. Thinking is slow and disjointed, conversations drift, and memory for this period is often patchy. Emotions can swing from silly to tearful without obvious reason.
 
-Falls and accidents are a real risk.
+Falls and accidents are a real risk. Anyone deeply asleep after taking it should be placed on their side and watched closely. Falls, burns and injuries are common in this stage, because pain and danger are poorly noticed and reflexes are slow.
 
 ### Comedown (6-8 h)
 
-The comedown is groggy, with headache and heavy limbs.
+The comedown is groggy, with headache and heavy limbs. The muscles ache, the head pounds and coordination stays off into the next day.
 
-Mood is flat or irritable.
+Mood is flat or irritable. Some people feel jittery, anxious and oversensitive to noise as the sedation lifts.
 
-After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
+After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised. The day after can bring poor concentration, clumsiness and a flat, low mood. Regular users may wake with shaky hands and a craving to take more to steady themselves, an early sign of dependence.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

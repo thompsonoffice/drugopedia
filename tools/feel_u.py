@@ -294,3 +294,90 @@ BX("primidone",
 "Stopping suddenly can trigger seizures, so changes must be made with a doctor."])
 for k,v in F.items():
     if k in D: D[k]["feel"]=v
+
+# ---- Depth pass 2 ----
+def X(n,p,a,b=""):
+    F[n][p][0]+=" "+a
+    if b: F[n][p][1]+=" "+b
+X("pentobarbital","plateau","The body lies heavy and slack, breathing slow and deep, and the person may snore loudly. If roused, they mumble, drift, and sink back almost at once, with little sense of where they are or how long they have been asleep.","Any brief waking is confused and dreamlike, and the person may not recognize familiar faces or follow simple questions.")
+X("pentobarbital","comedown","The muscles ache as if after a long illness, the eyes feel sore, and balance can stay off for most of the next day, making stairs and driving risky.","Many describe feeling 'hollowed out', jumpy and oversensitive to noise, with a sour, restless mood that makes it hard to settle.")
+X("amobarbital","onset","The face may flush and feel warm, the eyelids sag, and a soft numbness spreads into the lips and fingertips.")
+X("amobarbital","plateau","The body stays heavy and loose for hours, with a warm numbness in the limbs, droopy eyelids and a wobbly, careful walk. People may doze in a chair and jerk awake, then drift off again, never quite fully alert.","Conversation is slow and rambling, and the person may lose the thread, repeat stories, or become suddenly sentimental, tearful or argumentative. Memory for these hours is often patchy or missing.")
+X("amobarbital","comedown","The body feels sore and slowed, coordination stays off, and the mouth is dry and stale.","There can be shame or worry about what was said or done during the forgotten hours.")
+X("butalbital","plateau","The body stays warm and loose, with the neck and scalp free of the clamp-like headache, and a pleasant heaviness in the shoulders. Many people sit quietly, watch television or nap; the caffeine keeps some awake but mellow.","Thoughts feel smooth and unhurried, with a gentle detachment from stress, though concentration on detailed work is poor and speech can be a little slow.")
+X("butalbital","comedown","Some notice a tense, jittery feeling as both the butalbital and the caffeine wear off together.","The pull to take another dose to stop the returning headache is how daily use often begins.")
+X("phenobarbital","onset","Because it is so slow, many people do not notice the moment it starts; they simply realize later in the day that they feel heavier and slower.")
+X("phenobarbital","plateau","Physically people feel slow and heavy, as if moving underwater, with mild unsteadiness and a constant low-level tiredness that sleep does not fully relieve.","Many long-term users describe a sense of thinking through fog, needing more effort to read, follow conversations or remember appointments.")
+X("phenobarbital","comedown","As it clears over days, people often notice they feel lighter, quicker and more alert, sometimes with a restless edge.","Some feel more anxious or irritable during this time, and sleep may be lighter until the brain adjusts.")
+X("butabarbital","onset","The face flushes slightly, the eyelids grow heavy, and the arms feel loose and weighted, as if the strings holding them up have been cut.","Some people become talkative and silly at first; others turn quiet and inward.")
+X("butabarbital","peak","Pain and tension feel very distant, and the skin can feel numb or tingly.")
+X("butabarbital","plateau","Physically, the body lies heavy and slack, breathing slows, and the person may snore. If awake, they move slowly, sway when standing, and fumble small objects like keys or a phone.","Speech is slurred and conversations wander; people may laugh or cry easily and later remember little of what was said.")
+X("butabarbital","comedown","The muscles ache, the eyes are heavy and sore, and coordination can stay off well into the following day.","There may be a raw, jittery restlessness and difficulty concentrating as the drug clears.")
+X("methohexital","onset","In electroconvulsive therapy it is chosen because it allows the treatment's seizure to occur more easily than other anesthetics.")
+X("methohexital","peak","Clinicians watch the breathing, oxygen level and heart rhythm closely, often supporting breathing with a mask for the few minutes it lasts. Small involuntary movements can happen even while the patient is fully unaware.","For the patient this phase is simply missing time: one moment they are looking at the ceiling, the next they are waking in recovery.")
+X("methohexital","plateau","As the drug moves from the brain into muscle and fat, patients begin to stir, open their eyes and respond to their name, often within a few minutes of the procedure ending.","Staff keep watching breathing and blood pressure until the patient is fully awake and able to talk normally.")
+X("methohexital","comedown","Some people feel slightly lightheaded or unsteady for an hour or so and are advised not to drive the rest of the day.","Occasionally patients feel tearful, giggly or briefly disoriented as they surface, which passes quickly with reassurance.")
+X("thiopental","onset","It was used for decades in operating rooms worldwide and was also, controversially, part of lethal injection protocols in the US.")
+X("thiopental","peak","Breathing slows or briefly stops, the jaw relaxes, and anesthetists take over the airway, usually adding other gases or drugs to keep the patient asleep for the operation.","Like methohexital, it creates a clean gap in memory from the moment of injection.")
+X("thiopental","plateau","Because thiopental is stored in body fat and released slowly, patients who received larger or repeated doses could stay sleepy and slow for many hours, even into the next day.","They often drifted in and out of sleep, answering questions briefly before dozing again.")
+X("thiopental","comedown","Patients often described feeling foggy, heavy-limbed and hungover, with headache and sometimes nausea, especially after long operations.","Some recalled a lingering garlic taste. Thiopental was gradually replaced by propofol, which wears off faster and more cleanly.")
+X("barbital","onset","The head grows heavy, the eyelids droop, and the limbs feel thick and reluctant, as if exhausted after a long day.","Early users described it as a 'heavy' calm rather than a pleasant one.")
+X("barbital","peak","The skin may feel cool and the breathing slow and deep.")
+X("barbital","plateau","Physically the body stays heavy and slow for a very long time, with drowsiness that carries over into the next day and beyond. People wake briefly and fall back asleep, groggy and unsteady.","Its slow clearance meant that nightly doses built up, leaving users chronically dull, slurring and forgetful.")
+X("barbital","comedown","As it slowly clears, people describe aching heads, sluggish limbs and a long-lasting dullness.","Restlessness, poor sleep and irritability can follow as the sedation finally lifts.")
+X("aprobarbital","onset","The face may flush and warm, the shoulders drop, and a mild numbness can spread through the lips and fingertips, much like the first stage of drunkenness.","People often feel chatty and loose at first, then increasingly sleepy and slow.")
+X("aprobarbital","peak","Pain and tension feel distant.")
+X("aprobarbital","plateau","The body stays heavy, warm and unsteady for hours, with droopy eyelids, thick speech and a wobbly walk. Many people doze and wake repeatedly, never quite fully alert, and may not notice cold, hunger or minor injuries.","Thinking is slow and disjointed, conversations drift, and memory for this period is often patchy. Emotions can swing from silly to tearful without obvious reason.")
+X("aprobarbital","comedown","The muscles ache, the head pounds and coordination stays off into the next day.","Some people feel jittery, anxious and oversensitive to noise as the sedation lifts.")
+X("primidone","peak","The body feels heavy and slightly unsteady, and some people notice their tremor quieted almost completely.","Many describe feeling 'not quite themselves', with blunted emotions and slower thinking that improves after the first weeks.")
+X("primidone","plateau","On regular treatment, the body settles into a steady state: mild tiredness, a slight heaviness in the limbs, and sometimes a faint unsteadiness on stairs. For people with essential tremor, hands may be noticeably steadier.","Concentration and memory can be mildly dulled, especially early, and some people feel emotionally flat or less motivated until their body adjusts.")
+X("primidone","comedown","Because of its long-lasting phenobarbital, primidone's effects fade slowly over days rather than hours, so missed doses rarely cause a sudden change, though tremor or seizures may gradually return.","Some notice more energy and clearer thinking as levels drop, but also more anxiety or poorer sleep.")
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v
+
+def Y(n,p,t): F[n][p][2]+=" "+t
+for n,p,t in [
+("amobarbital","comedown","Sleep the following night is often poor."),
+("butalbital","plateau","Combining it with opioids, as in the codeine versions, deepens sedation and breathing risk."),
+("phenobarbital","plateau","Levels are checked with blood tests."),
+("phenobarbital","comedown","Missed doses rarely cause sudden change."),
+("butabarbital","onset","Walking starts to feel like wading."),
+("butabarbital","plateau","Choking on vomit while deeply asleep is a real danger, so a sedated person should be placed on their side and watched."),
+("butabarbital","comedown","Shame about forgotten events is common, and the morning-after low mood can tempt people to take more."),
+("methohexital","peak","Patients are never left alone during this phase."),
+("methohexital","plateau","Most patients can sit up and drink within half an hour, though they are kept under observation until fully steady on their feet."),
+("methohexital","comedown","For people receiving a course of ECT, these after-effects repeat with each session and usually remain mild, though memory gaps around treatment days are common and come from the ECT itself rather than the anesthetic."),
+("thiopental","peak","Its quick, smooth effect is why it remained the standard induction drug for so long, but the slow release from fat made longer use hazardous."),
+("thiopental","plateau","Older patients and those with poor liver function were especially slow to clear it, and staff monitored their breathing for longer."),
+("thiopental","comedown","Single medical use did not cause dependence, but some patients disliked how long the grogginess lasted, and the lingering sedation meant they were advised not to drive, sign legal documents, or drink alcohol for at least a day."),
+("barbital","onset","Because it was slow to start, people sometimes took more before the first dose took hold, a pattern behind many early accidental overdoses."),
+("barbital","peak","Its long action made overdose prolonged and hard to survive in the era before modern intensive care."),
+("barbital","plateau","Elderly people and those with kidney problems were especially at risk of building up to toxic levels without realizing it."),
+("barbital","comedown","The slow fade meant withdrawal symptoms appeared later and lasted longer than with shorter barbiturates, sometimes catching people off guard days after stopping."),
+("aprobarbital","onset","Like other intermediate barbiturates it was once prescribed for sleep and anxiety before benzodiazepines replaced it."),
+("aprobarbital","peak","Combined with alcohol, which was common, it could cause fatal breathing suppression even when neither amount alone seemed large."),
+("aprobarbital","plateau","Anyone deeply asleep after taking it should be placed on their side and watched closely."),
+("aprobarbital","comedown","The day after can bring poor concentration, clumsiness and a flat, low mood."),
+("primidone","onset","Some people take their first doses at bedtime so they sleep through the worst of the dizziness and nausea, and many find the second week far easier than the first."),
+("primidone","peak","Mixing it with alcohol or other sedatives deepens drowsiness and unsteadiness."),
+("primidone","plateau","People are advised to avoid alcohol, and doctors may check blood levels and blood counts during long-term treatment."),
+("primidone","comedown","Doctors taper primidone slowly over weeks when it needs to be stopped, both to avoid seizures and to limit barbiturate-like withdrawal such as anxiety, insomnia and shakiness.")]:
+    Y(n,p,t)
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v
+for n,p,t in [
+("amobarbital","comedown","Withdrawal can begin within a day."),
+("butabarbital","plateau","Body temperature can drop, and the skin may feel cool."),
+("methohexital","plateau","A brief headache is common."),
+("methohexital","comedown","Nausea is usually mild."),
+("thiopental","peak","Blood pressure is supported with fluids or medicine if it falls too far."),
+("thiopental","plateau","Recovery could take much longer after big doses."),
+("thiopental","comedown","Nausea was treated with medicine."),
+("barbital","plateau","Driving was very risky."),
+("aprobarbital","onset","Balance falters."),
+("aprobarbital","plateau","Falls, burns and injuries are common in this stage, because pain and danger are poorly noticed and reflexes are slow."),
+("aprobarbital","comedown","Regular users may wake with shaky hands and a craving to take more to steady themselves, an early sign of dependence."),
+("primidone","peak","Blood tests guide the dose.")]:
+    Y(n,p,t)
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v

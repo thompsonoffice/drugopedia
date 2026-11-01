@@ -48,7 +48,7 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV under 1 min)
 
-Methohexital (Brevital) is an ultra-short-acting anesthetic given only by clinicians, usually by IV for brief procedures and electroconvulsive therapy. The onset is extremely fast: a brief strange taste or tingling, a heaviness in the eyelids, and a sense of the room receding or tilting away.
+Methohexital (Brevital) is an ultra-short-acting anesthetic given only by clinicians, usually by IV for brief procedures and electroconvulsive therapy. The onset is extremely fast: a brief strange taste or tingling, a heaviness in the eyelids, and a sense of the room receding or tilting away. In electroconvulsive therapy it is chosen because it allows the treatment's seizure to occur more easily than other anesthetics.
 
 Mentally there is barely time to notice anything beyond a sudden heavy drop, sometimes with a fleeting dreamy, floating or falling sensation before awareness switches off.
 
@@ -64,11 +64,11 @@ Immediate.
 
 ### Peak (within 1 min)
 
-During its peak the patient is unconscious. Breathing can slow or pause and often needs support, and blood pressure may drop.
+During its peak the patient is unconscious. Breathing can slow or pause and often needs support, and blood pressure may drop. Clinicians watch the breathing, oxygen level and heart rhythm closely, often supporting breathing with a mask for the few minutes it lasts. Small involuntary movements can happen even while the patient is fully unaware.
 
-There is no remembered experience of this phase; it feels like a cut in time.
+There is no remembered experience of this phase; it feels like a cut in time. For the patient this phase is simply missing time: one moment they are looking at the ceiling, the next they are waking in recovery.
 
-It is only safe with airway equipment, oxygen and continuous monitoring by trained staff.
+It is only safe with airway equipment, oxygen and continuous monitoring by trained staff. Patients are never left alone during this phase.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -76,19 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (5-10 min)
 
-Effects pass within minutes as the drug redistributes out of the brain.
+Effects pass within minutes as the drug redistributes out of the brain. As the drug moves from the brain into muscle and fat, patients begin to stir, open their eyes and respond to their name, often within a few minutes of the procedure ending.
 
-Patients usually wake fairly clear-headed, sometimes surprised that the procedure is over.
+Patients usually wake fairly clear-headed, sometimes surprised that the procedure is over. Staff keep watching breathing and blood pressure until the patient is fully awake and able to talk normally.
 
-It is not a drug encountered outside medical settings.
+It is not a drug encountered outside medical settings. Most patients can sit up and drink within half an hour, though they are kept under observation until fully steady on their feet. A brief headache is common.
 
 ### Comedown (10-20 min)
 
-Waking can bring brief grogginess, mild nausea or headache.
+Waking can bring brief grogginess, mild nausea or headache. Some people feel slightly lightheaded or unsteady for an hour or so and are advised not to drive the rest of the day.
 
-Some patients feel briefly confused, emotional or weepy as they surface.
+Some patients feel briefly confused, emotional or weepy as they surface. Occasionally patients feel tearful, giggly or briefly disoriented as they surface, which passes quickly with reassurance.
 
-Single medical use does not cause dependence.
+Single medical use does not cause dependence. For people receiving a course of ECT, these after-effects repeat with each session and usually remain mild, though memory gaps around treatment days are common and come from the ECT itself rather than the anesthetic. Nausea is usually mild.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 
