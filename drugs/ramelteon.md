@@ -48,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Ramelteon (Rozerem) works like the body's own melatonin, binding melatonin receptors in the brain's internal clock and nudging it toward night. The onset is subtle, usually within half an hour: a mild sense that it is time for bed, heavier eyelids and a slight slowing of thoughts, but no drugged or heavy feeling.
+Ramelteon (Rozerem) works like the body's own melatonin, binding melatonin receptors in the brain's internal clock and nudging it toward night. The onset is subtle, usually within half an hour: a mild sense that it is time for bed, heavier eyelids and a slight slowing of thoughts, but no drugged or heavy feeling. It is usually taken shortly before bedtime and works best on an empty stomach, since a heavy, fatty meal delays its effect and makes the sleepiness arrive later than expected.
 
 Mentally it is neutral; there is no high, calm, giddiness or disinhibition. Many people say they would not know they had taken anything except that falling asleep felt a little easier.
 
@@ -66,7 +66,7 @@ Gentle sleepiness.
 
 At the peak there is gentle, natural-feeling sleepiness, similar to the drowsiness that comes at the end of a long day. People can still get up, talk and move normally, though they feel ready to sleep.
 
-Emotionally it is unchanged, without the euphoria or confusion of benzodiazepines or Z-drugs. Memory is not affected.
+Emotionally it is unchanged, without the euphoria or confusion of benzodiazepines or Z-drugs. Memory is not affected. Because its action is gentle, people with severe insomnia sometimes find it too weak, while others appreciate the lack of drugged feeling.
 
 It is not known to cause overdose deaths on its own and has little effect on breathing, but alcohol and other sedatives still add drowsiness. Fluvoxamine greatly raises its levels and should not be combined.
 
@@ -76,7 +76,7 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-The ramelteon plateau is a quiet, natural-feeling sleep. It helps more with falling asleep than staying asleep, so some people still wake in the night. The body is relaxed but not heavy.
+The ramelteon plateau is a quiet, natural-feeling sleep. It helps more with falling asleep than staying asleep, so some people still wake in the night. The body is relaxed but not heavy. Breathing and heart rate stay much as in ordinary sleep, and people can usually be woken easily and respond clearly, unlike with heavier sedatives. Those who wake during the night are generally able to get up, walk to the bathroom and return to bed without the unsteadiness or confusion that Z-drugs and benzodiazepines can cause.
 
 Some people notice vivid or unusual dreams, and a few report mild changes in hormone levels with long-term use.
 
@@ -84,7 +84,7 @@ Next-day grogginess is uncommon, and coordination and memory are generally unaff
 
 ### Comedown (2-5 h)
 
-Waking is usually clear and normal, without hangover, heaviness or a bad taste. Some people notice mild tiredness or dizziness in the morning.
+Waking is usually clear and normal, without hangover, heaviness or a bad taste. Some people notice mild tiredness or dizziness in the morning. For most people the morning after feels like any other morning, which is the main reason it is chosen over stronger sleep drugs. Some people notice its benefit builds over several weeks as their sleep schedule becomes more regular.
 
 Mood is unchanged, and there is no rebound anxiety or craving.
 

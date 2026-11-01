@@ -52,7 +52,7 @@ Orexin antagonists (suvorexant/Belsomra, lemborexant/Dayvigo, daridorexant/Quviv
 
 Mentally there is no euphoria or giddiness, just a gentle, steady pull toward sleep. Some people barely notice it until they realize they are falling asleep.
 
-Some notice a slight heaviness of the limbs or mild headache.
+Some notice a slight heaviness of the limbs or mild headache. It tends to work best when taken right before bed.
 
 Medically, the onset reflects absorption and entry into the brain. Suvorexant, lemborexant and daridorexant are processed by CYP3A4; daridorexant has the shortest half-life. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -80,11 +80,11 @@ The orexin-antagonist plateau lasts through the night. Sleep is generally contin
 
 Dreams can be vivid, memorable and sometimes disturbing, and some people wake briefly with the sense of being stuck between dream and waking. A few report a feeling of being unable to move for a few seconds.
 
-Next-morning grogginess can occur, especially with higher amounts or when there are fewer than seven hours before waking, and driving may be impaired the next morning.
+Next-morning grogginess can occur, especially with higher amounts or when there are fewer than seven hours before waking, and driving may be impaired the next morning. People with breathing problems in sleep generally tolerate it well.
 
 ### Comedown (7-12 h)
 
-Waking can be slightly groggy or heavy, like waking from a deep natural sleep, with a mild sluggishness that usually clears within an hour. A few people feel a lingering headache or dry mouth.
+Waking can be slightly groggy or heavy, like waking from a deep natural sleep, with a mild sluggishness that usually clears within an hour. A few people feel a lingering headache or dry mouth. Some people notice daytime sleepiness for the first few days of treatment, which usually improves. Because they work by blocking wakefulness rather than sedating, taking them with fewer hours left for sleep is a common cause of morning grogginess, and the effect can be stronger in women and older adults.
 
 Mood is generally unchanged, though some people feel tired or low on the days after poor-quality or dream-filled nights.
 

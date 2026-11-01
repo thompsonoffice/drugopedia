@@ -68,7 +68,7 @@ At the peak there is strong sedation and clumsiness. Most people fall asleep qui
 
 Emotionally the peak is foggy and drowsy, with little awareness of time and sometimes a muddled, dreamlike confusion. In some people, especially children and older adults, it can paradoxically cause agitation or excitement.
 
-Overdose can cause dangerous heart rhythms, vomiting, stomach bleeding, low blood pressure and slowed breathing, and it is much more dangerous with alcohol, which also slows its breakdown.
+Overdose can cause dangerous heart rhythms, vomiting, stomach bleeding, low blood pressure and slowed breathing, and it is much more dangerous with alcohol, which also slows its breakdown. Its effect can be unpredictable.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -76,7 +76,7 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-The chloral hydrate plateau is usually deep sleep for several hours. The body lies heavy and still, breathing slow and deep, and the person may be hard to rouse. Some people wake briefly with stomach discomfort, a sour taste or the need to vomit.
+The chloral hydrate plateau is usually deep sleep for several hours. The body lies heavy and still, breathing slow and deep, and the person may be hard to rouse. Some people wake briefly with stomach discomfort, a sour taste or the need to vomit. The skin may feel cool and the pulse slow, and breathing should be watched closely if any other sedative or alcohol was involved, because the combination can deepen sleep into coma.
 
 If awake, thinking is very dull and confused, and the person may be disoriented about time and place. Memory for this stretch is patchy.
 
@@ -84,7 +84,7 @@ Stomach upset may continue, and repeated nightly use quickly leads to tolerance,
 
 ### Comedown (4-8 h total)
 
-Waking is groggy, sometimes with nausea, a heavy head, a lingering acrid taste and an irritated stomach. Coordination may be off for the first part of the morning, and some people feel a dull headache.
+Waking is groggy, sometimes with nausea, a heavy head, a lingering acrid taste and an irritated stomach. Coordination may be off for the first part of the morning, and some people feel a dull headache. The stomach may feel raw or burning for hours, and people often have little appetite until later in the day; drinking water and eating bland food is common to settle it.
 
 Mood is flat and slow, and some people feel irritable or low. Long-term users described feeling dulled and lethargic during the day.
 

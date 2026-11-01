@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-60 min)
 
-Ethchlorvynol (Placidyl), a sleep drug withdrawn in the US, had a fast onset with a distinctive minty or pungent aftertaste, then warm drowsiness and giddy dizziness.
+Ethchlorvynol (Placidyl), a sleep drug from the 1950s that was withdrawn in the US, had a fast onset, often within a quarter of an hour. Users noticed a distinctive minty, pungent or rubbery aftertaste and odor on the breath, then a warm drowsiness and giddy, swimmy dizziness as the head grew light.
 
-Mentally a drunken, sometimes euphoric looseness, with lowered inhibitions.
+Mentally it brought a drunken, sometimes euphoric looseness, with lowered inhibitions, giggling and a sense of floating. Some people felt confused or excited rather than sleepy at first.
 
-Coordination faded quickly, and some people felt numbness or tingling.
+Coordination faded quickly, and some people felt numbness, tingling or a strange metallic taste.
 
 Medically, the onset reflects absorption and entry into the brain. Ethchlorvynol was processed by the liver. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ Fast, drunk-like looseness.
 
 ### Peak (1-1.5 h)
 
-At the peak there was heavy sedation and confusion, sometimes with blurred vision.
+At the peak there was heavy sedation and confusion, sometimes with blurred vision, slurred speech and staggering. Most people fell into deep sleep, breathing slowly and heavily.
 
-Emotionally loose, then sleepy.
+Emotionally it was loose and dreamy, then overwhelmingly sleepy, with fading memory. Some experienced odd perceptions or vivid dreams as they drifted off.
 
-Overdose caused deep, prolonged coma and breathing failure, and it was notorious for causing lung injury when misused by injection.
+Overdose caused deep, prolonged coma and breathing failure, and it was notorious for causing severe lung injury when misused by injection. The minty breath odor helped doctors recognize poisoning.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (2-4 h)
 
-The plateau was deep sleep for many hours.
+The ethchlorvynol plateau was deep sleep for many hours. The body lay heavy and still, and people were hard to rouse; the characteristic odor lingered on the breath.
 
-Confusion if awake.
+If awake, people were confused, unsteady and disoriented, with slurred speech and poor memory for what happened.
 
-Mixing with alcohol was especially dangerous.
+Mixing with alcohol was especially dangerous, deepening coma and breathing suppression, and tolerance built quickly, pushing regular users toward risky amounts.
 
 ### Comedown (about 5 h)
 
-The comedown was groggy and heavy.
+The comedown was groggy and heavy, with headache, dizziness, nausea and a lingering unpleasant taste. Coordination stayed off for hours.
 
-Mood flat.
+Mood was flat and slow, sometimes irritable or low, and regular users described feeling dulled and unsteady during the day.
 
-Withdrawal resembled barbiturate withdrawal, including seizures.
+Withdrawal resembled barbiturate withdrawal, including tremor, hallucinations, delirium and seizures, and it was difficult to manage without medical care.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

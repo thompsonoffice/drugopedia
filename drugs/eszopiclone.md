@@ -88,7 +88,7 @@ Waking may be groggy and slow, with the bitter taste still present, a dry mouth 
 
 Mood can be flat, foggy or slightly irritable in the morning, and some people feel anxious or low after a night on it. Rebound insomnia can follow on nights without it. Some people notice the taste fading only by midday.
 
-Dependence and rebound insomnia can develop with regular use, and stopping after long-term use can cause anxiety, insomnia and, rarely, seizures. Combining with alcohol or opioids is dangerous.
+Dependence and rebound insomnia can develop with regular use, and stopping after long-term use can cause anxiety, insomnia and, rarely, seizures. Combining with alcohol or opioids is dangerous. Older adults are most affected.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

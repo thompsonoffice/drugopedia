@@ -80,7 +80,7 @@ The zopiclone plateau carries sedation through most of the night. Sleep is usual
 
 If awake, thinking is foggy and memory poor, and people may do things they do not remember, from eating to sending messages. Judgment and balance are significantly impaired. Some people sleepwalk or wake confused, unsure where they are.
 
-Next-day drowsiness and impaired driving are documented, especially in older adults, who clear the drug more slowly and are more prone to falls during night-time bathroom trips.
+Next-day drowsiness and impaired driving are documented, especially in older adults, who clear the drug more slowly and are more prone to falls during night-time bathroom trips. Falls are common.
 
 ### Comedown (6-8 h total)
 
@@ -88,7 +88,7 @@ Waking is often groggy, with a bad, metallic taste, a heavy head and a slight un
 
 Mood can be flat or irritable, and some people feel low or anxious in the mornings after regular use. Rebound insomnia is common when stopping. Many describe a 'zopiclone hangover': thick-headed mornings with poor focus.
 
-Dependence and withdrawal similar to benzodiazepines can develop with regular use, including anxiety, insomnia, shakiness and, rarely, seizures; tapering with a doctor is safer than stopping suddenly.
+Dependence and withdrawal similar to benzodiazepines can develop with regular use, including anxiety, insomnia, shakiness and, rarely, seizures; tapering with a doctor is safer than stopping suddenly. Driving should wait.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

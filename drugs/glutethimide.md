@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Glutethimide (Doriden), a 1950s sleep drug now discontinued in the US, brought a slow, heavy drowsiness along with strong dry mouth, flushed skin, wide pupils and blurry vision, because it also had anticholinergic effects.
+Glutethimide (Doriden), a 1950s sleep drug marketed as a safer alternative to barbiturates and now discontinued in the US, brought a slow, heavy drowsiness over about half an hour. Along with it came strong dry mouth, flushed warm skin, wide pupils and blurry vision, because it also had anticholinergic effects like an antihistamine.
 
-Mentally a sedated, dreamy calm settled in. In the 1980s it was combined with codeine as 'loads', 'hits' or 'sets', producing a heavy, long-lasting, heroin-like high.
+Mentally a sedated, dreamy calm settled in, with heavy thoughts and fading worries. In the 1980s it was combined with codeine as 'loads', 'hits' or 'sets', producing a heavy, long-lasting, heroin-like high that was popular in some US cities.
 
-Coordination slipped early, and speech became thick and slow.
+Coordination slipped early, speech became thick and slow, and some people felt a slight tingling or numbness in the limbs.
 
 Medically, the onset reflects absorption and entry into the brain. Glutethimide was processed by the liver. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,9 +64,9 @@ Clumsiness and drowsiness.
 
 ### Peak (1-2 h)
 
-At the peak there was deep sedation, dry hot skin, wide pupils and clumsiness.
+At the peak there was deep sedation, with dry hot skin, very wide pupils, a parched mouth and clumsy, uncoordinated movements. The body felt heavy and distant, and the pull toward sleep was strong, though the anticholinergic effects sometimes made sleep restless.
 
-Emotionally a muffled, drunken contentment, drifting in and out of sleep.
+Emotionally it brought a muffled, drunken contentment, drifting in and out of sleep, sometimes with confused or dreamlike thoughts. With codeine, users described a warm, nodding euphoria much stronger than codeine alone.
 
 Overdose was notoriously hard to treat, with fluctuating coma that seemed to improve then worsen, low blood pressure, seizures and breathing failure. The codeine combination caused many deaths.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (2-6 h)
 
-The plateau was very long.
+The glutethimide plateau was very long, often many hours, because the drug was stored in body fat and released slowly. The body stayed heavy and dry, with a fast pulse, wide pupils and poor balance, and the person might nod off repeatedly.
 
-Thinking was muddled and confused.
+Thinking was muddled and confused, memory patchy, and judgment badly impaired. Some people became disoriented or saw things at the edge of vision, reflecting the anticholinergic effects.
 
-Effects could return after seeming to fade, as the drug was released from fat stores.
+Effects could return after seeming to fade, as the drug was released from fat stores, which made overdoses especially treacherous and confused doctors trying to judge recovery.
 
 ### Comedown (many hours)
 
-The comedown was a heavy hangover with dry mouth and grogginess.
+The comedown was a heavy hangover with dry mouth, headache, sluggish limbs and grogginess that often lasted into the following day. Constipation and difficulty urinating were common.
 
-Mood was low and slowed.
+Mood was low, slowed and irritable, and regular users described feeling dulled and depressed between doses.
 
-Severe dependence and seizures on withdrawal occurred.
+Severe dependence developed with regular use, and withdrawal could cause tremor, nausea, sweating, delirium and seizures, resembling barbiturate withdrawal. Its risks led to its withdrawal from the US market.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

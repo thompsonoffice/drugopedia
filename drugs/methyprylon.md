@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 45 min)
 
-Methyprylon (Noludar), a discontinued sleep drug, brought a gradual, heavy, barbiturate-like drowsiness. The limbs grew slow, the head heavy and the eyelids difficult to keep open.
+Methyprylon (Noludar), a sleep drug from the 1950s now discontinued, brought a gradual, heavy, barbiturate-like drowsiness over about half an hour. The limbs grew slow and weighted, the head heavy, and the eyelids difficult to keep open, while a mild warmth spread through the body.
 
-Mentally a calm, sleepy fog with slowed thoughts.
+Mentally it brought a calm, sleepy fog with slowed thoughts and fading anxiety, sometimes with a slight drunk-like looseness before sleep took over.
 
-Coordination slowed and speech softened.
+Coordination slowed, speech softened and became slurred, and some people felt dizzy or nauseated.
 
 Medically, the onset reflects absorption and entry into the brain. Methyprylon was processed by the liver. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ Drowsiness.
 
 ### Peak (1-2 h)
 
-At the peak there was strong sedation, clumsiness and a pull toward sleep.
+At the peak there was strong sedation, clumsiness and a powerful pull toward sleep. The body felt heavy and numb, and most people fell asleep quickly and deeply.
 
-Emotionally dull and drowsy, with memory gaps.
+Emotionally it was dull and drowsy, with memory gaps and little awareness of time. Some people became confused or briefly excited before sleep, particularly older adults.
 
-Overdose caused coma, low blood pressure and slowed breathing.
+Overdose caused coma, low blood pressure, slowed breathing and sometimes shock, similar to barbiturate poisoning, and was more dangerous with alcohol.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-The plateau was sleep.
+The methyprylon plateau was sleep for most of the night, deep and heavy, with slow breathing and little movement. People were difficult to wake.
 
-Thinking slow if awake.
+If awake, thinking was slow, confused and forgetful, speech slurred and balance poor.
 
-Alcohol made it far more dangerous.
+Alcohol made it far more dangerous, and nightly use built tolerance, leading some people to take more and risk overdose.
 
 ### Comedown (5-8 h)
 
-The comedown was a hangover with heaviness and grogginess.
+The comedown was a hangover with heaviness, grogginess, headache and sometimes nausea, often carrying into the morning.
 
-Mood flat.
+Mood was flat and slow, with irritability or mild depression in some regular users.
 
-Dependence occurred with regular use, with barbiturate-like withdrawal.
+Dependence occurred with regular use, with barbiturate-like withdrawal including anxiety, tremor, insomnia, hallucinations and seizures. It was eventually withdrawn as safer drugs appeared.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

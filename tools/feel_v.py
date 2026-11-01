@@ -513,3 +513,61 @@ comedown=["Waking is usually clear and normal, without hangover, heaviness or a 
 "It is not considered addictive and is not a controlled substance; stopping does not cause withdrawal or rebound insomnia, which is why it is often used in older adults and people with a history of substance use."])
 for k,v in F.items():
     if k in D: D[k]["feel"]=v
+
+for n,p,t,i in [
+("eszopiclone","comedown","Older adults are most affected.",2),
+("zopiclone","plateau","Falls are common.",2),
+("zopiclone","comedown","Driving should wait.",2),
+("chloral-hydrate","peak","Its effect can be unpredictable.",2),
+("chloral-hydrate","plateau","The skin may feel cool and the pulse slow, and breathing should be watched closely if any other sedative or alcohol was involved, because the combination can deepen sleep into coma.",0),
+("chloral-hydrate","comedown","The stomach may feel raw or burning for hours, and people often have little appetite until later in the day; drinking water and eating bland food is common to settle it.",0),
+("orexin-antagonists","onset","It tends to work best when taken right before bed.",2),
+("orexin-antagonists","plateau","People with breathing problems in sleep generally tolerate it well.",2),
+("orexin-antagonists","comedown","Some people notice daytime sleepiness for the first few days of treatment, which usually improves. Because they work by blocking wakefulness rather than sedating, taking them with fewer hours left for sleep is a common cause of morning grogginess, and the effect can be stronger in women and older adults.",0),
+("ramelteon","onset","It is usually taken shortly before bedtime and works best on an empty stomach, since a heavy, fatty meal delays its effect and makes the sleepiness arrive later than expected.",0),
+("ramelteon","peak","Because its action is gentle, people with severe insomnia sometimes find it too weak, while others appreciate the lack of drugged feeling.",1),
+("ramelteon","plateau","Breathing and heart rate stay much as in ordinary sleep, and people can usually be woken easily and respond clearly, unlike with heavier sedatives. Those who wake during the night are generally able to get up, walk to the bathroom and return to bed without the unsteadiness or confusion that Z-drugs and benzodiazepines can cause.",0),
+("ramelteon","comedown","For most people the morning after feels like any other morning, which is the main reason it is chosen over stronger sleep drugs. Some people notice its benefit builds over several weeks as their sleep schedule becomes more regular.",0)]:
+    Y(n,p,t,i)
+def BX(n,on,pk,pl,cd): F[n]={"onset":on,"peak":pk,"plateau":pl,"comedown":cd}
+BX("glutethimide",
+["Glutethimide (Doriden), a 1950s sleep drug marketed as a safer alternative to barbiturates and now discontinued in the US, brought a slow, heavy drowsiness over about half an hour. Along with it came strong dry mouth, flushed warm skin, wide pupils and blurry vision, because it also had anticholinergic effects like an antihistamine.",
+"Mentally a sedated, dreamy calm settled in, with heavy thoughts and fading worries. In the 1980s it was combined with codeine as 'loads', 'hits' or 'sets', producing a heavy, long-lasting, heroin-like high that was popular in some US cities.",
+"Coordination slipped early, speech became thick and slow, and some people felt a slight tingling or numbness in the limbs."],
+["At the peak there was deep sedation, with dry hot skin, very wide pupils, a parched mouth and clumsy, uncoordinated movements. The body felt heavy and distant, and the pull toward sleep was strong, though the anticholinergic effects sometimes made sleep restless.",
+"Emotionally it brought a muffled, drunken contentment, drifting in and out of sleep, sometimes with confused or dreamlike thoughts. With codeine, users described a warm, nodding euphoria much stronger than codeine alone.",
+"Overdose was notoriously hard to treat, with fluctuating coma that seemed to improve then worsen, low blood pressure, seizures and breathing failure. The codeine combination caused many deaths."],
+["The glutethimide plateau was very long, often many hours, because the drug was stored in body fat and released slowly. The body stayed heavy and dry, with a fast pulse, wide pupils and poor balance, and the person might nod off repeatedly.",
+"Thinking was muddled and confused, memory patchy, and judgment badly impaired. Some people became disoriented or saw things at the edge of vision, reflecting the anticholinergic effects.",
+"Effects could return after seeming to fade, as the drug was released from fat stores, which made overdoses especially treacherous and confused doctors trying to judge recovery."],
+["The comedown was a heavy hangover with dry mouth, headache, sluggish limbs and grogginess that often lasted into the following day. Constipation and difficulty urinating were common.",
+"Mood was low, slowed and irritable, and regular users described feeling dulled and depressed between doses.",
+"Severe dependence developed with regular use, and withdrawal could cause tremor, nausea, sweating, delirium and seizures, resembling barbiturate withdrawal. Its risks led to its withdrawal from the US market."])
+BX("ethchlorvynol",
+["Ethchlorvynol (Placidyl), a sleep drug from the 1950s that was withdrawn in the US, had a fast onset, often within a quarter of an hour. Users noticed a distinctive minty, pungent or rubbery aftertaste and odor on the breath, then a warm drowsiness and giddy, swimmy dizziness as the head grew light.",
+"Mentally it brought a drunken, sometimes euphoric looseness, with lowered inhibitions, giggling and a sense of floating. Some people felt confused or excited rather than sleepy at first.",
+"Coordination faded quickly, and some people felt numbness, tingling or a strange metallic taste."],
+["At the peak there was heavy sedation and confusion, sometimes with blurred vision, slurred speech and staggering. Most people fell into deep sleep, breathing slowly and heavily.",
+"Emotionally it was loose and dreamy, then overwhelmingly sleepy, with fading memory. Some experienced odd perceptions or vivid dreams as they drifted off.",
+"Overdose caused deep, prolonged coma and breathing failure, and it was notorious for causing severe lung injury when misused by injection. The minty breath odor helped doctors recognize poisoning."],
+["The ethchlorvynol plateau was deep sleep for many hours. The body lay heavy and still, and people were hard to rouse; the characteristic odor lingered on the breath.",
+"If awake, people were confused, unsteady and disoriented, with slurred speech and poor memory for what happened.",
+"Mixing with alcohol was especially dangerous, deepening coma and breathing suppression, and tolerance built quickly, pushing regular users toward risky amounts."],
+["The comedown was groggy and heavy, with headache, dizziness, nausea and a lingering unpleasant taste. Coordination stayed off for hours.",
+"Mood was flat and slow, sometimes irritable or low, and regular users described feeling dulled and unsteady during the day.",
+"Withdrawal resembled barbiturate withdrawal, including tremor, hallucinations, delirium and seizures, and it was difficult to manage without medical care."])
+BX("methyprylon",
+["Methyprylon (Noludar), a sleep drug from the 1950s now discontinued, brought a gradual, heavy, barbiturate-like drowsiness over about half an hour. The limbs grew slow and weighted, the head heavy, and the eyelids difficult to keep open, while a mild warmth spread through the body.",
+"Mentally it brought a calm, sleepy fog with slowed thoughts and fading anxiety, sometimes with a slight drunk-like looseness before sleep took over.",
+"Coordination slowed, speech softened and became slurred, and some people felt dizzy or nauseated."],
+["At the peak there was strong sedation, clumsiness and a powerful pull toward sleep. The body felt heavy and numb, and most people fell asleep quickly and deeply.",
+"Emotionally it was dull and drowsy, with memory gaps and little awareness of time. Some people became confused or briefly excited before sleep, particularly older adults.",
+"Overdose caused coma, low blood pressure, slowed breathing and sometimes shock, similar to barbiturate poisoning, and was more dangerous with alcohol."],
+["The methyprylon plateau was sleep for most of the night, deep and heavy, with slow breathing and little movement. People were difficult to wake.",
+"If awake, thinking was slow, confused and forgetful, speech slurred and balance poor.",
+"Alcohol made it far more dangerous, and nightly use built tolerance, leading some people to take more and risk overdose."],
+["The comedown was a hangover with heaviness, grogginess, headache and sometimes nausea, often carrying into the morning.",
+"Mood was flat and slow, with irritability or mild depression in some regular users.",
+"Dependence occurred with regular use, with barbiturate-like withdrawal including anxiety, tremor, insomnia, hallucinations and seizures. It was eventually withdrawn as safer drugs appeared."])
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v
