@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Cloxazolam (Sepazon) is a long-acting prodrug benzodiazepine used in Japan and Latin America. It comes on gradually: shoulders drop, the jaw unclenches and a mild heaviness settles into the limbs.
+Cloxazolam (Sepazon, Olcadil) is a prodrug benzodiazepine used in Japan and Latin America for anxiety. Its onset is slow: over an hour or more, a heaviness creeps into the arms and the stomach unknots.
 
-Mentally the onset is a slow, steady relief of tension. Worries recede and the mind becomes slower and quieter.
+Mentally the calm arrives without fanfare; nagging worries just become quieter.
 
-Unsteadiness, slowed reactions and drowsiness start early, even when the person feels only relaxed.
+Its active products last a long time, so effects build over days of use.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, gentle anxiety relief starts to appear.
 
 ### Peak (1-2 h)
 
-At its peak the body feels loose and heavy, with clumsiness, sometimes slurred speech and a strong pull toward sleep.
+At its peak the body feels relaxed and slightly sleepy, with dulled reflexes.
 
-Mentally the peak is calm and detached, with weakened memory for events during this time.
+Mentally calm and less reactive, with little euphoria.
 
-With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
+Dangerous with alcohol or opioids.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau is very long because the drug and its breakdown products linger for days; with repeated use it builds up. Balance and coordination stay poor.
+The plateau is long and steady, a low-grade sedation running under the day.
 
-Mentally people feel muted and dulled, with poor concentration.
+Mentally people feel muted and forgetful.
 
-Effects accumulate with repeated use.
+Accumulation is a risk in older adults.
 
 ### Comedown (long)
 
-The comedown is very gradual, and next-day grogginess is common.
+The comedown is very gradual.
 
-Emotionally anxiety may creep back with irritability or flatness.
+Emotionally anxiety drifts back over days.
 
-Daily use causes tolerance and dependence; stopping suddenly can cause seizures, so tapering is essential.
+Dependence develops with long use.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

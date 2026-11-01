@@ -90,3 +90,53 @@ H("camazepam",
 ["At its peak calm and relaxed with light drowsiness.","Mentally steady and focused.","Combining with depressants remains dangerous."],
 ["The plateau lasts several hours as it converts partly to temazepam.","Mentally mild slowing.","Driving is still impaired."],
 ["The comedown is soft.","Emotionally mild rebound tension.","Dependence possible."])
+H("cloxazolam",
+["Cloxazolam (Sepazon, Olcadil) is a prodrug benzodiazepine used in Japan and Latin America for anxiety. Its onset is slow: over an hour or more, a heaviness creeps into the arms and the stomach unknots.","Mentally the calm arrives without fanfare; nagging worries just become quieter.","Its active products last a long time, so effects build over days of use."],
+["At its peak the body feels relaxed and slightly sleepy, with dulled reflexes.","Mentally calm and less reactive, with little euphoria.","Dangerous with alcohol or opioids."],
+["The plateau is long and steady, a low-grade sedation running under the day.","Mentally people feel muted and forgetful.","Accumulation is a risk in older adults."],
+["The comedown is very gradual.","Emotionally anxiety drifts back over days.","Dependence develops with long use."])
+H("delorazepam",
+["Delorazepam (EN) is one of the most prescribed benzos in Italy, a long-acting relative of lorazepam that is also a breakdown product of diclazepam. Taken as drops or tablets, it comes on steadily: a warm, weighted relaxation and a slackening jaw.","Mentally the onset is heavy and blanketing, a deep 'nothing matters' calm.","Its long action means a single dose can still be felt the next day."],
+["At its peak heavy and sleepy, with clumsiness and slurred speech at higher amounts.","Mentally foggy and indifferent, with memory gaps.","With alcohol, breathing and consciousness can be dangerously depressed."],
+["The plateau lasts well into the following day as dullness and slowed thinking.","Mentally people feel flat and unmotivated.","Repeated use stacks up quickly."],
+["The comedown is slow and dragging.","Emotionally a heavy, low mood can linger.","Dependence is common; tapering is essential."])
+H("ethyl-loflazepate",
+["Ethyl loflazepate (Victan, Meilax) is a very long-acting benzodiazepine used in France and Japan. Its onset is mild and slow, a gentle loosening of tension.","Mentally people describe calm with relatively clear thinking, which is why it is chosen for daytime anxiety.","Its active product stays in the body for days."],
+["At its peak mild relaxation, light drowsiness.","Mentally even and steady.","Risks rise with other depressants."],
+["The plateau is very long and steady.","Mentally low-level dulling may go unnoticed.","Builds up with repeated use."],
+["The comedown is extremely gradual, which softens withdrawal.","Emotionally slow return of anxiety.","Dependence still possible."])
+H("fludiazepam",
+["Fludiazepam (Erispan) is a potent benzodiazepine used in Japan. It comes on fairly fast with a strong release of muscle tension and a sweep of calm.","Mentally anxiety drops sharply, sometimes with a slightly euphoric looseness.","Its strength makes clumsiness appear early."],
+["At its peak sedated and uncoordinated.","Mentally disinhibited and forgetful.","Misuse has been reported in Taiwan; dangerous with alcohol."],
+["The plateau lasts several hours.","Mentally foggy.","Impairment persists after the calm fades."],
+["The comedown brings tiredness and rebound tension.","Emotionally irritable.","Dependence develops."])
+H("haloxazolam",
+["Haloxazolam (Somelin) is a Japanese sleep benzodiazepine. It comes on gradually with a heavy drowsiness.","Mentally thoughts slow and blur toward sleep.","Its long-acting products can carry into morning."],
+["At its peak deep sleep.","Mentally absent or hazy.","Risky with alcohol."],
+["The plateau carries through night and into morning.","Mentally groggy on waking.","Older users are prone to falls."],
+["The comedown is a slow-clearing morning fog.","Emotionally mild flatness.","Nightly use builds dependence."])
+H("ketazolam",
+["Ketazolam (Anxon) is a long-acting benzodiazepine used in Spain and elsewhere, partly converted to diazepam and nordazepam. It comes on slowly with diazepam-like muscle loosening.","Mentally a steady, warm calm.","Effects build over days."],
+["At its peak relaxed and mildly sleepy.","Mentally calm and slowed.","Dangerous with depressants."],
+["The plateau is long.","Mentally dulled.","Accumulation risk."],
+["The comedown is gradual.","Emotionally slow return of tension.","Dependence with long use."])
+H("loprazolam",
+["Loprazolam (Dormonoct) is a medium-acting sleep benzodiazepine used in the UK and Europe. It comes on somewhat slowly, so people may lie awake a while before a heavy tiredness rolls in.","Mentally thoughts loosen and sleep follows.","People sometimes take more because it feels slow; that stacks effects."],
+["At its peak deep sleep.","Mentally hazy with amnesia.","Risky with alcohol."],
+["The plateau carries through the night.","Mentally sleep.","Mild morning grogginess."],
+["The comedown is a slightly foggy morning.","Emotionally mild.","Tolerance builds with nightly use."])
+H("medazepam",
+["Medazepam (Nobrium) is a prodrug benzodiazepine whose active forms include nordazepam. It comes on gently, with mild loosening.","Mentally a mild calm with less sedation than diazepam.","Effects build over days."],
+["At its peak relaxed.","Mentally calm.","Risks with depressants."],
+["The plateau is long.","Mentally slightly dulled.","Accumulation risk."],
+["The comedown is gradual.","Emotionally slow.","Dependence possible."])
+H("nimetazepam",
+["Nimetazepam (Erimin) is a strong sleep benzodiazepine, related to nitrazepam, that became a major street drug in Malaysia, Singapore and Indonesia. It comes on fairly fast with a deep, dragging drowsiness and slack muscles.","Mentally people who resist sleep describe a woozy, careless detachment and a dreamy euphoria.","Counterfeit 'Erimin' tablets vary widely and may contain other drugs."],
+["At its peak stumbling, slurred speech and nodding.","Mentally reckless, disinhibited and forgetful.","With alcohol or opioids, overdose can occur."],
+["The plateau lasts several hours of heavy sedation.","Mentally foggy and blank.","Injuries and assaults during blackouts are reported."],
+["The comedown brings grogginess, headache and regret.","Emotionally anxious and low.","Dependence develops quickly; withdrawal can cause seizures."])
+H("nordazepam",
+["Nordazepam (Calmday, Madar) is the long-lasting active metabolite behind diazepam, clorazepate, prazepam and others, and is prescribed itself in some countries. It comes on slowly with an even, unhurried calm.","Mentally there is no rush, just a gradual quieting.","It lingers for days, so effects build."],
+["At its peak steady relaxation.","Mentally level and calm.","Dangerous with depressants."],
+["The plateau is very long.","Mentally dull, forgetful.","Accumulation in older adults."],
+["The comedown is extremely slow.","Emotionally gradual return of anxiety.","Dependence with long use."])

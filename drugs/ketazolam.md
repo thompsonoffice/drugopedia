@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Ketazolam is a long-acting benzodiazepine prodrug used in Spain and elsewhere. It comes on gradually: shoulders drop, the jaw unclenches and a mild heaviness settles into the limbs.
+Ketazolam (Anxon) is a long-acting benzodiazepine used in Spain and elsewhere, partly converted to diazepam and nordazepam. It comes on slowly with diazepam-like muscle loosening.
 
-Mentally the onset is a gradual calm and muscle relaxation. Worries recede and the mind becomes slower and quieter.
+Mentally a steady, warm calm.
 
-Unsteadiness, slowed reactions and drowsiness start early, even when the person feels only relaxed.
+Effects build over days.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, a slow starts to appear.
 
 ### Peak (2-4 h)
 
-At its peak the body feels loose and heavy, with clumsiness, sometimes slurred speech and a strong pull toward sleep.
+At its peak relaxed and mildly sleepy.
 
-Mentally the peak is calm and detached, with weakened memory for events during this time.
+Mentally calm and slowed.
 
-With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
+Dangerous with depressants.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau is very long because the drug and its breakdown products linger for days; with repeated use it builds up. Balance and coordination stay poor.
+The plateau is long.
 
-Mentally people feel muted and dulled, with poor concentration.
+Mentally dulled.
 
-It is converted partly to diazepam and nordazepam.
+Accumulation risk.
 
 ### Comedown (days)
 
-The comedown is very gradual, and next-day grogginess is common.
+The comedown is gradual.
 
-Emotionally anxiety may creep back with irritability or flatness.
+Emotionally slow return of tension.
 
-Daily use causes tolerance and dependence; stopping suddenly can cause seizures, so tapering is essential.
+Dependence with long use.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-Delorazepam (EN) is a long-acting benzodiazepine popular in Italy. It comes on gradually: shoulders drop, the jaw unclenches and a mild heaviness settles into the limbs.
+Delorazepam (EN) is one of the most prescribed benzos in Italy, a long-acting relative of lorazepam that is also a breakdown product of diclazepam. Taken as drops or tablets, it comes on steadily: a warm, weighted relaxation and a slackening jaw.
 
-Mentally the onset is a heavy, lasting calm. Worries recede and the mind becomes slower and quieter.
+Mentally the onset is heavy and blanketing, a deep 'nothing matters' calm.
 
-Unsteadiness, slowed reactions and drowsiness start early, even when the person feels only relaxed.
+Its long action means a single dose can still be felt the next day.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, a steady starts to appear.
 
 ### Peak (1-2 h)
 
-At its peak the body feels loose and heavy, with clumsiness, sometimes slurred speech and a strong pull toward sleep.
+At its peak heavy and sleepy, with clumsiness and slurred speech at higher amounts.
 
-Mentally the peak is calm and detached, with weakened memory for events during this time.
+Mentally foggy and indifferent, with memory gaps.
 
-With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
+With alcohol, breathing and consciousness can be dangerously depressed.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau is very long because the drug and its breakdown products linger for days; with repeated use it builds up. Balance and coordination stay poor.
+The plateau lasts well into the following day as dullness and slowed thinking.
 
-Mentally people feel muted and dulled, with poor concentration.
+Mentally people feel flat and unmotivated.
 
-Its long action means sedation can stretch into the next day.
+Repeated use stacks up quickly.
 
 ### Comedown (2-4 days)
 
-The comedown is very gradual, and next-day grogginess is common.
+The comedown is slow and dragging.
 
-Emotionally anxiety may creep back with irritability or flatness.
+Emotionally a heavy, low mood can linger.
 
-Daily use causes tolerance and dependence; stopping suddenly can cause seizures, so tapering is essential.
+Dependence is common; tapering is essential.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
