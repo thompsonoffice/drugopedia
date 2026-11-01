@@ -50,9 +50,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 Effects begin 30 minutes to 1 hour after swallowing, often with nausea and warmth.
 
-Medically, the onset reflects how quickly the drug reaches the brain. DXM is metabolized by CYP2D6 into dextrorphan; poor CYP2D6 metabolizers get much stronger, longer effects. As NMDA receptors are blocked, signals from the senses stop being integrated normally, so the body feels distant and numb.
+DXM is absorbed from the gut and converted by CYP2D6 into dextrorphan, the main dissociative compound.
 
-Early signs include unsteady walking, slurred speech, numbness, a faster heartbeat and raised blood pressure (for NMDA blockers), and nystagmus (jerky eye movements).
+Poor CYP2D6 metabolizers (about 5 to 10 percent of white people) have much higher DXM levels and longer effects.
 
 ### Come-up (1-2 h)
 
@@ -62,9 +62,9 @@ A drunk, giddy feeling and heavy limbs build.
 
 The peak, 2 to 4 hours in, brings the strongest dissociation and altered thinking.
 
-Medically, the peak is maximal dissociation: perception, body awareness and memory are profoundly altered, and at high levels people may be unable to move or respond (the 'K-hole' for ketamine). Pain is not felt, so injuries go unnoticed.
+At peak, NMDA blockade by dextrorphan causes dissociation, while DXM's serotonin effects add risk of serotonin syndrome with antidepressants.
 
-Dangers at the peak include falls, drowning, choking on vomit, and, with alcohol or other depressants, breathing problems. PCP and DXM can cause agitation, high body temperature and violence; propofol and etomidate stop breathing easily.
+Coricidin products add chlorpheniramine, an antihistamine that causes delirium, seizures and heart toxicity; acetaminophen-containing products can cause liver failure even days later.
 
 ### Plateau (3-6 h)
 
@@ -74,9 +74,9 @@ The plateau lasts several hours.
 
 Comedown is long, over 6 hours or more.
 
-As levels fall, people 'come back' gradually, often confused, nauseated and unsteady, with disjointed memories.
+DXM's long half-life means effects linger many hours.
 
-Repeated ketamine use damages the bladder (ketamine cystitis) and can harm memory; regular dissociative use can cause lasting low mood and, in some, psychosis.
+Chronic heavy use has been linked to psychosis and, with combination products, liver damage.
 
 ### After-effects (12-24 h)
 

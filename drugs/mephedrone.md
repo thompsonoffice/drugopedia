@@ -50,9 +50,9 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 Snorted, effects start within 10 to 20 minutes.
 
-Medically, the onset depends on route. Mephedrone releases dopamine and serotonin. Cathinones are beta-keto relatives of amphetamine; many cross into the brain quickly, causing a strong rush of energy and euphoria.
+Mephedrone is absorbed fast and releases both serotonin and dopamine, like a mix of MDMA and cocaine.
 
-Early signs are a racing heart, sweating, jaw clenching and enlarged pupils.
+Vasoconstriction causes cold or bluish fingers; heart rate rises.
 
 ### Come-up (15-30 min)
 
@@ -62,9 +62,9 @@ A fast rise of euphoria.
 
 Peak within 30 to 60 minutes.
 
-Medically, the peak brings the highest risk of overheating, dangerous heart rhythms, high blood pressure, agitation and psychosis ('excited delirium' in emergency reports). Strong compulsion to redose is typical.
+At peak, overheating, agitation and arrhythmias are the main dangers.
 
-Severe cases cause muscle breakdown (rhabdomyolysis), kidney failure, and death. Products sold as 'bath salts' or as 'MDMA' often contain unknown cathinones.
+Rapid redosing raises toxicity.
 
 ### Plateau (1-2 h)
 
@@ -74,9 +74,9 @@ Effects last 1 to 2 hours.
 
 Comedown with craving.
 
-As levels fall, people crash hard, with anxiety, low mood, insomnia and cravings.
+Half-life is short (about 2 hours).
 
-Binges can last days without sleep, leading to paranoia, hallucinations and long recovery times.
+Comedown includes depression and craving.
 
 ### After-effects (4-12 h)
 

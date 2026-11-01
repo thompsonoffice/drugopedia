@@ -1,4 +1,4 @@
-# Methylone and eutylone
+# Methylone (bk-MDMA)
 
 > Educational harm-reduction content. Not medical advice, not a guide to use. Nothing here gives amounts, preparation, or sourcing. Street products are often mislabeled or contaminated, including with fentanyl.
 
@@ -6,11 +6,11 @@
 
 Synthetic cathinones with MDMA-like effects.
 
-**Brand and street names:** Methylone (bk-MDMA, M1), eutylone (bk-EBDB); often sold as 'molly'.
+**Brand and street names:** Methylone, bk-MDMA, M1; often sold as 'molly'.
 
 ## History and origins
 
-Methylone was patented as an antidepressant in 1996 and sold in the Netherlands as 'Explosion' around 2004. Eutylone replaced it around 2019 and was the most common cathinone in US 'molly' samples in 2020.
+Methylone was patented by Peyton Jacob and Alexander Shulgin in 1996 as a possible antidepressant and sold in the Netherlands as 'Explosion' around 2004. It was one of the most common substitutes in US 'molly' in the early 2010s.
 
 ## Medical use, then and now
 
@@ -22,7 +22,7 @@ Commonly sold as MDMA at festivals.
 
 ## Legal status
 
-Methylone is US Schedule I (2013) and UN Schedule II; eutylone is US Schedule I and UN Schedule II (2022).
+US Schedule I (2013); UN 1971 Convention Schedule II (2015).
 
 ## What the products look and feel like
 
@@ -34,11 +34,11 @@ Off-white crystals or capsules sold as 'molly'. Street and online products are f
 
 ### The character of its effects
 
-Methylone feels like a weaker, shorter MDMA: euphoria, empathy and energy, with more stimulation and less warmth.
+Methylone feels like a weaker, shorter MDMA: euphoria, empathy and energy, with more stimulation and less emotional warmth.
 
-Eutylone is more stimulating and longer, causing insomnia, anxiety and redosing.
+Its effects arrive and fade faster than MDMA, which tempts redosing.
 
-People expecting MDMA may take more when effects feel different, raising risks of overheating and seizures.
+People expecting MDMA may take more when it feels different, raising risks of overheating, seizures and low blood sodium.
 
 Tolerance and compulsive redosing develop quickly with cathinones, and binges are common.
 
@@ -46,41 +46,41 @@ Tolerance and compulsive redosing develop quickly with cathinones, and binges ar
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (30-60 min)
+### Onset (15-45 min)
 
-Swallowed, effects begin within 30 to 60 minutes.
+Swallowed, methylone begins within 15 to 45 minutes.
 
-Medically, the onset depends on route. These release serotonin and dopamine. Cathinones are beta-keto relatives of amphetamine; many cross into the brain quickly, causing a strong rush of energy and euphoria.
+Methylone releases serotonin, dopamine and noradrenaline, but less potently than MDMA.
 
-Early signs are a racing heart, sweating, jaw clenching and enlarged pupils.
+Heart rate rises.
 
-### Come-up (about 1 h)
+### Come-up (30-60 min)
 
-A rise of energy and euphoria.
+A quick rise of energy and mild euphoria.
 
-### Peak (1-2 h)
+### Peak (1-1.5 h)
 
-Peak around 1 to 2 hours.
+Peak around 1 to 1.5 hours, with sociability and stimulation.
 
-Medically, the peak brings the highest risk of overheating, dangerous heart rhythms, high blood pressure, agitation and psychosis ('excited delirium' in emergency reports). Strong compulsion to redose is typical.
+At peak, overheating and low sodium are the main dangers.
 
-Severe cases cause muscle breakdown (rhabdomyolysis), kidney failure, and death. Products sold as 'bath salts' or as 'MDMA' often contain unknown cathinones.
+Redosing increases risk.
 
-### Plateau (2-4 h)
+### Plateau (2-3 h)
 
-Effects last 3 to 4 hours (eutylone longer).
+Effects last about 2 to 3 hours.
 
-### Comedown (4-6 h)
+### Comedown (3-5 h)
 
-Comedown with anxiety.
+A fairly quick comedown, sometimes with anxiety.
 
-As levels fall, people crash hard, with anxiety, low mood, insomnia and cravings.
+Half-life is short.
 
-Binges can last days without sleep, leading to paranoia, hallucinations and long recovery times.
+Low mood may follow.
 
 ### After-effects (6-24 h)
 
-Insomnia.
+Insomnia and tiredness.
 
 ### Next day
 
@@ -100,7 +100,7 @@ Why the same amount affects people differently: tolerance, body size, genetics, 
 
 Not covered: Other routes are not covered.
 
-## Overdose note for Methylone and eutylone
+## Overdose note for Methylone (bk-MDMA)
 
 Overheating, seizures and low blood sodium have caused deaths.
 

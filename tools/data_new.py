@@ -6,10 +6,12 @@ SG={"cann":["NIDA: Cannabis (Marijuana) DrugFacts","CDC: Cannabis and Public Hea
 "diss":["NIDA DrugFacts and Research Reports","DEA Drugs of Abuse (2024 edition)","StatPearls (NCBI Bookshelf)","PsychonautWiki"],
 "inh":["NIDA: Inhalants DrugFacts","StatPearls: Inhalant Abuse and Toxicity","DEA Drugs of Abuse (2024 edition)"],
 "stim":["NIDA DrugFacts","DEA Drugs of Abuse (2024 edition)","DailyMed prescribing information","StatPearls (NCBI Bookshelf)"],
+"psy":["NIDA: Hallucinogens DrugFacts","DEA Drugs of Abuse (2024 edition)","PsychonautWiki"],"emp":["NIDA: MDMA DrugFacts","DEA Drugs of Abuse (2024 edition)","PsychonautWiki"],"alc":["NIAAA: Alcohol Facts and Statistics","CDC: Alcohol Use and Your Health"],"del":["StatPearls: Anticholinergic Toxicity","NIDA DrugFacts","PsychonautWiki"],"oth":["StatPearls (NCBI Bookshelf)","DEA Drugs of Abuse (2024 edition)","PsychonautWiki"],
 "cath":["NIDA: Synthetic Cathinones (Bath Salts) DrugFacts","DEA Drugs of Abuse (2024 edition)","EMCDDA/EUDA drug profiles: synthetic cathinones","PsychonautWiki"]}
-TH={"cann":"What the products look and feel like","diss":"What the products look and feel like","inh":"What the products look and feel like","cath":"What the products look and feel like"}
-def X(slug,name,cat,cls,brands,hist,medu,rec,legal,flav,ph,times,routes,od,touch,met,lohi=None,er=None,skip="Other routes are not covered.",src=()):
-    D[slug]=dict(name=name,cat=cat,cls=cls,brands=brands,history=hist,medical=medu,recreational=rec,legal=legal,flavor=flav,ph=ph,times=times,routes=routes,od=od,touch=touch,lohi=lohi,er=er,skip=skip,sources=list(src)+SG[cat],dis=DN,touchh=TH.get(cat,"What the pills feel like"))
+TH={"psy":"What the products look and feel like","emp":"What the products look and feel like","alc":"What the products look and feel like","del":"What the products look and feel like","oth":"What the products look and feel like","cann":"What the products look and feel like","diss":"What the products look and feel like","inh":"What the products look and feel like","cath":"What the products look and feel like"}
+def X(slug,name,cat,cls,brands,hist,medu,rec,legal,flav,ph,times,routes,od,touch,met,lohi=None,er=None,skip="Other routes are not covered.",src=(),ext=None,**kw):
+    D[slug]=dict(name=name,cat=cat,cls=cls,brands=brands,history=hist,medical=medu,recreational=rec,legal=legal,flavor=flav,ph=ph,times=times,routes=routes,od=od,touch=touch,lohi=lohi,er=er,skip=skip,sources=list(src)+SG[cat],dis=DN,touchh=TH.get(cat,"What the pills feel like"),**kw)
+    if ext: D[slug]["ext"]={"onset":list(ext[0:2]),"peak":list(ext[2:4]),"comedown":list(ext[4:6])}
     med.MET[slug]=met
 t=lambda *a:list(a)
 CW=" Street and online products are frequently mislabeled; lab testing services have found products with different drugs or none of the advertised one."

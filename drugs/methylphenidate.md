@@ -54,9 +54,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 IR Ritalin starts within 20 to 60 minutes.
 
-Medically, the onset reflects how fast the drug reaches the brain. Methylphenidate is broken down by carboxylesterase 1 (CES1); alcohol forms ethylphenidate and raises levels. Rising dopamine and noradrenaline increase alertness, heart rate and blood pressure.
+Methylphenidate blocks dopamine and noradrenaline reuptake rather than releasing them, so its effect depends on ongoing nerve activity.
 
-Early signs include widened pupils, a faster pulse, dry mouth, jaw tension and reduced appetite.
+Heart rate and blood pressure rise modestly.
 
 ### Come-up (about 1 h)
 
@@ -66,9 +66,9 @@ Alertness rises.
 
 Peak about 1 to 2 hours.
 
-Medically, the peak is when heart rate, blood pressure and body temperature are highest. This is when heart attack, stroke, dangerous heart rhythms and overheating are most likely, especially with exertion, heat, or other stimulants.
+At peak, high doses can cause anxiety, tremor and psychosis; injected tablets cause talc granulomas in the lungs and eyes.
 
-High levels can cause anxiety, paranoia, repetitive behaviors and psychosis. Stimulant overdose has no antidote like naloxone, but cooling, calming and emergency care save lives; many 'stimulant' deaths now also involve fentanyl.
+With alcohol, the liver forms ethylphenidate, raising levels and heart effects.
 
 ### Plateau (3-4 h, ER up to 12 h)
 
@@ -78,9 +78,9 @@ IR lasts about 3 to 4 hours; Concerta about 10 to 12.
 
 Comedown brings irritability ('rebound').
 
-As levels fall, the 'crash' brings fatigue, low mood, irritability and hunger, often with poor sleep.
+Short half-life (about 2 to 3 hours) explains the IR rebound.
 
-After binges, the crash can last days, with depression and strong cravings. Repeated use can cause dependence, weight loss, dental problems and heart damage.
+Long-acting forms reduce rebound but can cause insomnia.
 
 ### After-effects (12-24 h)
 

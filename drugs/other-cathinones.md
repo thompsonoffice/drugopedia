@@ -1,4 +1,4 @@
-# Other synthetic cathinones (N-ethylpentylone, 3-MMC, 4-MEC, hexen and others)
+# Other synthetic cathinones (N-ethylpentylone, 4-MEC, pentedrone, hexen, alpha-PHP and others)
 
 > Educational harm-reduction content. Not medical advice, not a guide to use. Nothing here gives amounts, preparation, or sourcing. Street products are often mislabeled or contaminated, including with fentanyl.
 
@@ -6,7 +6,7 @@
 
 A large family of designer stimulants.
 
-**Brand and street names:** N-ethylpentylone (ephylone), 3-MMC, 4-MEC, pentedrone, N-ethylhexedrone (hexen), alpha-PHP.
+**Brand and street names:** N-ethylpentylone (ephylone), 4-MEC, pentedrone, N-ethylhexedrone (hexen), alpha-PHP.
 
 ## History and origins
 
@@ -50,9 +50,9 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 Effects begin within minutes (snorted) to an hour (swallowed).
 
-Medically, the onset depends on route. Varying dopamine, noradrenaline and serotonin effects. Cathinones are beta-keto relatives of amphetamine; many cross into the brain quickly, causing a strong rush of energy and euphoria.
+These compounds vary in potency and mechanism.
 
-Early signs are a racing heart, sweating, jaw clenching and enlarged pupils.
+Heart rate and blood pressure rise.
 
 ### Come-up (15-30 min)
 
@@ -62,9 +62,9 @@ Stimulation rises.
 
 Peak within 1 to 2 hours.
 
-Medically, the peak brings the highest risk of overheating, dangerous heart rhythms, high blood pressure, agitation and psychosis ('excited delirium' in emergency reports). Strong compulsion to redose is typical.
+At peak, overheating, agitation and seizures.
 
-Severe cases cause muscle breakdown (rhabdomyolysis), kidney failure, and death. Products sold as 'bath salts' or as 'MDMA' often contain unknown cathinones.
+Deaths have followed N-ethylpentylone and others.
 
 ### Plateau (1-3 h)
 
@@ -74,9 +74,9 @@ Effects last a few hours; binges are common.
 
 Hard crash.
 
-As levels fall, people crash hard, with anxiety, low mood, insomnia and cravings.
+Durations vary.
 
-Binges can last days without sleep, leading to paranoia, hallucinations and long recovery times.
+Psychosis may persist.
 
 ### After-effects (1-2 days)
 
@@ -101,7 +101,7 @@ Why the same amount affects people differently: tolerance, body size, genetics, 
 
 Not covered: Other routes are not covered.
 
-## Overdose note for Other synthetic cathinones (N-ethylpentylone, 3-MMC, 4-MEC, hexen and others)
+## Overdose note for Other synthetic cathinones (N-ethylpentylone, 4-MEC, pentedrone, hexen, alpha-PHP and others)
 
 Overheating, seizures, heart failure and psychosis.
 

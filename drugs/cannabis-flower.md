@@ -50,9 +50,9 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Inhaled, effects begin within minutes: a warm head rush, faster heartbeat, and lightness.
 
-Medically, the onset depends on the route. Inhaled THC peaks in the blood within minutes, then moves into fat. Inhaled THC reaches the brain within minutes; swallowed THC is absorbed slowly and turned by the liver into 11-hydroxy-THC, which is more potent and longer-lasting, which is why edibles feel stronger and start so much later.
+Inhaled THC crosses from the lungs into blood within seconds, and blood levels peak within about 10 minutes, before the high itself peaks, because THC must move from blood into the brain.
 
-Early body signs include a faster heartbeat, red eyes, dry mouth and, in some people, a drop in blood pressure on standing that can cause fainting.
+Heart rate can rise sharply in the first minutes and blood pressure may drop on standing, which is why some first-time users faint.
 
 ### Come-up (5-15 min)
 
@@ -62,9 +62,9 @@ Over 10 to 15 minutes relaxation and laughter build; senses sharpen.
 
 The peak, at about 15 to 30 minutes, brings the strongest time distortion, memory gaps and appetite.
 
-Medically, the peak is when CB1 activation is greatest. Short-term memory, attention, coordination and time perception are most affected, and anxiety or paranoia can appear, especially with high-THC products or in people prone to psychosis.
+At the peak, CB1 activation in the hippocampus and cortex disrupts short-term memory and attention; activation in the cerebellum and basal ganglia slows reaction time, which is why driving is impaired.
 
-Cannabis alone does not stop breathing, so fatal overdose is not expected, but emergency visits for panic, vomiting, fast heart rate, and psychosis are common, and children who eat edibles can become very sedated.
+Anxiety and paranoia at the peak are linked to THC acting on the amygdala; CBD in the flower may soften this, while high-THC, low-CBD strains make it more likely.
 
 ### Plateau (30-60 min)
 
@@ -74,9 +74,9 @@ The high plateaus for about an hour.
 
 It fades over 2 to 3 hours into sleepiness.
 
-As levels fall, the effect fades gradually because THC slowly leaves fat stores. Many people feel tired, hungry or foggy.
+As THC moves from blood into fat, effects fade within a few hours even though THC remains in the body for days or weeks in regular users.
 
-Daily users can develop cannabis use disorder and, with heavy long-term use, cannabinoid hyperemesis syndrome (repeated severe vomiting relieved by hot showers). Withdrawal causes irritability, poor sleep and low appetite for one to two weeks.
+In daily users, falling levels may bring irritability and poor sleep; tolerance comes from CB1 receptors reducing in number and partly recovers after about four weeks off.
 
 ### After-effects (2-4 h)
 

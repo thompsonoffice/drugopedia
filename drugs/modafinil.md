@@ -50,9 +50,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 Effects begin about 1 hour after swallowing.
 
-Medically, the onset reflects how fast the drug reaches the brain. Metabolized by CYP3A4; it induces enzymes that reduce birth control effectiveness. Rising dopamine and noradrenaline increase alertness, heart rate and blood pressure.
+Modafinil is absorbed slowly, peaking in 2 to 4 hours, and has a half-life of about 15 hours.
 
-Early signs include widened pupils, a faster pulse, dry mouth, jaw tension and reduced appetite.
+It weakly blocks dopamine reuptake and increases histamine, orexin and noradrenaline activity.
 
 ### Come-up (1-2 h)
 
@@ -62,9 +62,9 @@ Alertness builds.
 
 Peak around 2 to 4 hours.
 
-Medically, the peak is when heart rate, blood pressure and body temperature are highest. This is when heart attack, stroke, dangerous heart rhythms and overheating are most likely, especially with exertion, heat, or other stimulants.
+At peak, effects are wakefulness and modest focus; high amounts cause anxiety, tachycardia and insomnia.
 
-High levels can cause anxiety, paranoia, repetitive behaviors and psychosis. Stimulant overdose has no antidote like naloxone, but cooling, calming and emergency care save lives; many 'stimulant' deaths now also involve fentanyl.
+Rare but serious rashes (Stevens-Johnson syndrome, DRESS) need immediate medical care.
 
 ### Plateau (10-15 h)
 
@@ -74,9 +74,9 @@ Wakefulness lasts 10 to 15 hours.
 
 Gradual fade.
 
-As levels fall, the 'crash' brings fatigue, low mood, irritability and hunger, often with poor sleep.
+Its long half-life means sleep may be disrupted the following night.
 
-After binges, the crash can last days, with depression and strong cravings. Repeated use can cause dependence, weight loss, dental problems and heart damage.
+It speeds up the breakdown of hormonal contraceptives for up to a month after stopping.
 
 ### After-effects (next night)
 

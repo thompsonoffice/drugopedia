@@ -26,7 +26,7 @@ Prescription-only, not controlled.
 
 ## What the pills feel like
 
-Zanaflex tablets are small, white, and scored (some in four quarters); capsules are also made. Tablets and capsules absorb differently with food.
+Per DailyMed, Zanaflex tablets are uncoated, white and scored; Zanaflex capsules are two-piece hard gelatin capsules, in light blue, blue-and-white, or blue with a white stripe depending on strength. Tablets and capsules absorb differently with food.
 
 **Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 

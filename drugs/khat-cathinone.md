@@ -50,9 +50,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 Effects begin within 15 to 30 minutes of chewing.
 
-Medically, the onset depends on route. Cathinone is the natural beta-keto relative of amphetamine. Cathinones are beta-keto relatives of amphetamine; many cross into the brain quickly, causing a strong rush of energy and euphoria.
+Cathinone is absorbed through the mouth lining during chewing.
 
-Early signs are a racing heart, sweating, jaw clenching and enlarged pupils.
+Heart rate and blood pressure rise.
 
 ### Come-up (about 1 h)
 
@@ -62,9 +62,9 @@ Gradual alertness.
 
 Peak over 1 to 2 hours.
 
-Medically, the peak brings the highest risk of overheating, dangerous heart rhythms, high blood pressure, agitation and psychosis ('excited delirium' in emergency reports). Strong compulsion to redose is typical.
+At peak, mild euphoria and talkativeness; heavy use can trigger psychosis.
 
-Severe cases cause muscle breakdown (rhabdomyolysis), kidney failure, and death. Products sold as 'bath salts' or as 'MDMA' often contain unknown cathinones.
+Long-term use is linked to heart attack, liver injury and oral cancers.
 
 ### Plateau (3-4 h)
 
@@ -74,9 +74,9 @@ Effects last several hours.
 
 Comedown brings low mood and insomnia.
 
-As levels fall, people crash hard, with anxiety, low mood, insomnia and cravings.
+Cathinone is quickly converted to cathine and norephedrine, which are weaker.
 
-Binges can last days without sleep, leading to paranoia, hallucinations and long recovery times.
+Insomnia and low mood follow long sessions.
 
 ### After-effects (hours)
 

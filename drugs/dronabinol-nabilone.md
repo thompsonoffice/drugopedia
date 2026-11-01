@@ -50,9 +50,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 Onset in about 30 minutes to 1 hour.
 
-Medically, the onset depends on the route. Swallowed THC is converted to 11-hydroxy-THC. Inhaled THC reaches the brain within minutes; swallowed THC is absorbed slowly and turned by the liver into 11-hydroxy-THC, which is more potent and longer-lasting, which is why edibles feel stronger and start so much later.
+Dronabinol capsules are absorbed slowly, with only about 10 to 20 percent reaching the bloodstream after first-pass metabolism.
 
-Early body signs include a faster heartbeat, red eyes, dry mouth and, in some people, a drop in blood pressure on standing that can cause fainting.
+Older adults are more sensitive to dizziness, low blood pressure and confusion.
 
 ### Come-up (1-2 h)
 
@@ -62,9 +62,9 @@ Gradual relaxation and appetite.
 
 Peak around 2 to 4 hours.
 
-Medically, the peak is when CB1 activation is greatest. Short-term memory, attention, coordination and time perception are most affected, and anxiety or paranoia can appear, especially with high-THC products or in people prone to psychosis.
+At peak, patients may feel 'high', anxious or sleepy, which is the main reason doses are adjusted.
 
-Cannabis alone does not stop breathing, so fatal overdose is not expected, but emergency visits for panic, vomiting, fast heart rate, and psychosis are common, and children who eat edibles can become very sedated.
+Nabilone is longer-acting, with active metabolites lasting much longer than THC.
 
 ### Plateau (4-6 h)
 
@@ -74,9 +74,9 @@ Plateau several hours.
 
 Fades over 4 to 6 hours or longer.
 
-As levels fall, the effect fades gradually because THC slowly leaves fat stores. Many people feel tired, hungry or foggy.
+Effects fade over several hours.
 
-Daily users can develop cannabis use disorder and, with heavy long-term use, cannabinoid hyperemesis syndrome (repeated severe vomiting relieved by hot showers). Withdrawal causes irritability, poor sleep and low appetite for one to two weeks.
+Labels warn against driving until patients know how they respond.
 
 ### After-effects (12-24 h)
 

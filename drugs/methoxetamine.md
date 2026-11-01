@@ -50,9 +50,9 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 Onset is slower than ketamine, often 10 to 30 minutes snorted.
 
-Medically, the onset reflects how quickly the drug reaches the brain. An NMDA antagonist with a longer duration than ketamine. As NMDA receptors are blocked, signals from the senses stop being integrated normally, so the body feels distant and numb.
+MXE was designed as a ketamine analog with a longer half-life and slower onset.
 
-Early signs include unsteady walking, slurred speech, numbness, a faster heartbeat and raised blood pressure (for NMDA blockers), and nystagmus (jerky eye movements).
+Raised blood pressure and fast heart rate were common in hospital reports.
 
 ### Come-up (30-60 min)
 
@@ -62,9 +62,9 @@ Gradual detachment.
 
 Peak 1 to 2 hours.
 
-Medically, the peak is maximal dissociation: perception, body awareness and memory are profoundly altered, and at high levels people may be unable to move or respond (the 'K-hole' for ketamine). Pain is not felt, so injuries go unnoticed.
+At peak, deep dissociation, agitation, cerebellar signs (staggering, poor coordination) and catatonia were reported.
 
-Dangers at the peak include falls, drowning, choking on vomit, and, with alcohol or other depressants, breathing problems. PCP and DXM can cause agitation, high body temperature and violence; propofol and etomidate stop breathing easily.
+Deaths usually involved other drugs.
 
 ### Plateau (2-3 h)
 
@@ -74,9 +74,9 @@ Long plateau.
 
 Fades over several hours.
 
-As levels fall, people 'come back' gradually, often confused, nauseated and unsteady, with disjointed memories.
+MXE effects last several hours, longer than ketamine.
 
-Repeated ketamine use damages the bladder (ketamine cystitis) and can harm memory; regular dissociative use can cause lasting low mood and, in some, psychosis.
+Bladder toxicity was demonstrated in animal studies, contrary to its marketing.
 
 ### After-effects (5-12 h)
 

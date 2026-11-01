@@ -26,7 +26,7 @@ US Schedule IV (2012). Withdrawn from the European market in 2008 because of mis
 
 ## What the pills feel like
 
-Per DailyMed labels, brand Soma tablets are white and round, with 'SOMA' and the strength imprinted; many generics are white and round.
+Per DailyMed labels, brand Soma tablets are round, convex and white, inscribed 'SOMA' with the strength number; many generics are white and round.
 
 **Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 

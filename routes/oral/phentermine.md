@@ -1,10 +1,10 @@
-# Phentermine and older appetite suppressants: Oral (swallowed)
+# Phentermine (Adipex-P, Lomaira) and benzphetamine: Oral (swallowed)
 
 > Educational harm-reduction content. Not medical advice, not a guide to use. Nothing here gives amounts, preparation, or sourcing. Street products are often mislabeled or contaminated, including with fentanyl.
 
 ## About this route
 
-Swallowed as tablets, capsules, or liquids. The drug passes through the gut and liver first (first-pass metabolism), which lowers and slows what reaches the brain. For Phentermine and older appetite suppressants: Capsules and tablets.
+Swallowed as tablets, capsules, or liquids. The drug passes through the gut and liver first (first-pass metabolism), which lowers and slows what reaches the brain. For Phentermine (Adipex-P, Lomaira) and benzphetamine: Capsules and tablets.
 
 ## How this route feels different
 
@@ -40,7 +40,7 @@ Insomnia.
 
 Possible next-day fatigue.
 
-For the full, detailed description of each phase, see the [general Phentermine and older appetite suppressants page](../../drugs/phentermine.md).
+For the full, detailed description of each phase, see the [general Phentermine (Adipex-P, Lomaira) and benzphetamine page](../../drugs/phentermine.md).
 
 ## Risks of this route
 

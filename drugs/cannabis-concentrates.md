@@ -50,9 +50,9 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Inhaled concentrates take effect within seconds: a strong head rush and pounding heart.
 
-Medically, the onset depends on the route. Concentrate THC reaches the brain within seconds of inhalation. Inhaled THC reaches the brain within minutes; swallowed THC is absorbed slowly and turned by the liver into 11-hydroxy-THC, which is more potent and longer-lasting, which is why edibles feel stronger and start so much later.
+Concentrates deliver a large amount of THC through the lungs at once, so blood levels spike higher and faster than with flower.
 
-Early body signs include a faster heartbeat, red eyes, dry mouth and, in some people, a drop in blood pressure on standing that can cause fainting.
+The heart-rate jump is larger, and dizziness or fainting is more common, especially when standing up.
 
 ### Come-up (2-10 min)
 
@@ -62,9 +62,9 @@ Within minutes the high rises steeply; coughing is common.
 
 The peak is intense and early: disorientation, heavy body, and for some, panic.
 
-Medically, the peak is when CB1 activation is greatest. Short-term memory, attention, coordination and time perception are most affected, and anxiety or paranoia can appear, especially with high-THC products or in people prone to psychosis.
+The peak is dominated by very high CB1 activation with little CBD to balance it; studies link daily high-potency use to roughly several-fold higher odds of psychosis.
 
-Cannabis alone does not stop breathing, so fatal overdose is not expected, but emergency visits for panic, vomiting, fast heart rate, and psychosis are common, and children who eat edibles can become very sedated.
+Very high exposure is associated with cannabinoid hyperemesis syndrome in heavy users and with acute panic and vomiting in occasional users.
 
 ### Plateau (30-60 min)
 
@@ -74,9 +74,9 @@ The plateau lasts about an hour.
 
 Fades over 1 to 3 hours.
 
-As levels fall, the effect fades gradually because THC slowly leaves fat stores. Many people feel tired, hungry or foggy.
+Because the dose is concentrated, the fall from peak is steeper and fatigue can be heavy.
 
-Daily users can develop cannabis use disorder and, with heavy long-term use, cannabinoid hyperemesis syndrome (repeated severe vomiting relieved by hot showers). Withdrawal causes irritability, poor sleep and low appetite for one to two weeks.
+Tolerance builds especially fast with daily dabbing, and withdrawal (irritability, insomnia, low appetite, vivid dreams) is more marked.
 
 ### After-effects (2-4 h)
 

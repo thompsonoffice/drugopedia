@@ -50,9 +50,9 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Smoked, effects begin within minutes: numbness, unsteadiness and staring.
 
-Medically, the onset reflects how quickly the drug reaches the brain. PCP blocks NMDA receptors and is long-acting. As NMDA receptors are blocked, signals from the senses stop being integrated normally, so the body feels distant and numb.
+PCP is fat-soluble and long-lasting, with a half-life that can be about 1 to 2 days, and it is stored in fat and recirculated.
 
-Early signs include unsteady walking, slurred speech, numbness, a faster heartbeat and raised blood pressure (for NMDA blockers), and nystagmus (jerky eye movements).
+It raises blood pressure, heart rate and temperature and causes characteristic jerky eye movements in several directions.
 
 ### Come-up (5-30 min)
 
@@ -62,9 +62,9 @@ Detachment and blunted pain build.
 
 The peak brings intense distortion and possible agitation or catatonia.
 
-Medically, the peak is maximal dissociation: perception, body awareness and memory are profoundly altered, and at high levels people may be unable to move or respond (the 'K-hole' for ketamine). Pain is not felt, so injuries go unnoticed.
+At the peak, NMDA blockade plus effects on dopamine and sigma receptors produce agitation, psychosis, catatonia, and insensitivity to pain.
 
-Dangers at the peak include falls, drowning, choking on vomit, and, with alcohol or other depressants, breathing problems. PCP and DXM can cause agitation, high body temperature and violence; propofol and etomidate stop breathing easily.
+Severe toxicity includes very high temperature, muscle breakdown, kidney failure, seizures and coma.
 
 ### Plateau (4-6 h)
 
@@ -74,9 +74,9 @@ Effects commonly persist for 4 to 6 hours.
 
 Comedown is long and uneven, sometimes over a day or more.
 
-As levels fall, people 'come back' gradually, often confused, nauseated and unsteady, with disjointed memories.
+Because PCP lingers and recirculates, symptoms can fluctuate for days.
 
-Repeated ketamine use damages the bladder (ketamine cystitis) and can harm memory; regular dissociative use can cause lasting low mood and, in some, psychosis.
+Repeated use causes memory problems, depression and speech difficulty that can last months.
 
 ### After-effects (1-2 days)
 

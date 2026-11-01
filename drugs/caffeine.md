@@ -50,9 +50,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 Effects begin within 15 to 45 minutes.
 
-Medically, the onset reflects how fast the drug reaches the brain. Caffeine is processed by CYP1A2; smokers clear it faster, while pregnancy and some medicines slow it. Rising dopamine and noradrenaline increase alertness, heart rate and blood pressure.
+Caffeine is almost completely absorbed within 45 minutes.
 
-Early signs include widened pupils, a faster pulse, dry mouth, jaw tension and reduced appetite.
+It blocks adenosine A1 and A2A receptors, raising alertness, heart rate and urine production.
 
 ### Come-up (30-60 min)
 
@@ -62,9 +62,9 @@ Alertness rises.
 
 Peak at about 1 hour.
 
-Medically, the peak is when heart rate, blood pressure and body temperature are highest. This is when heart attack, stroke, dangerous heart rhythms and overheating are most likely, especially with exertion, heat, or other stimulants.
+At high levels, it causes tremor, palpitations, vomiting and arrhythmias; severe poisoning lowers potassium and causes seizures.
 
-High levels can cause anxiety, paranoia, repetitive behaviors and psychosis. Stimulant overdose has no antidote like naloxone, but cooling, calming and emergency care save lives; many 'stimulant' deaths now also involve fentanyl.
+Concentrated powders and liquids have caused deaths because the line between a normal and a lethal amount is invisible.
 
 ### Plateau (3-5 h)
 
@@ -74,9 +74,9 @@ Effects last 3 to 5 hours.
 
 Gradual fade.
 
-As levels fall, the 'crash' brings fatigue, low mood, irritability and hunger, often with poor sleep.
+Half-life is about 5 hours, longer in pregnancy and with some medicines.
 
-After binges, the crash can last days, with depression and strong cravings. Repeated use can cause dependence, weight loss, dental problems and heart damage.
+Daily users get withdrawal headaches, fatigue and low mood within a day of stopping.
 
 ### After-effects (8-12 h)
 

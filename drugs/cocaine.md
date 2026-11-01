@@ -50,9 +50,9 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 Snorted, effects begin within a few minutes: numbness, alertness and euphoria.
 
-Medically, the onset reflects how fast the drug reaches the brain. Cocaine is broken down quickly by blood and liver esterases, which is why it is short-acting. Rising dopamine and noradrenaline increase alertness, heart rate and blood pressure.
+Snorted cocaine also numbs the nasal lining and narrows its blood vessels, slowing its own absorption slightly.
 
-Early signs include widened pupils, a faster pulse, dry mouth, jaw tension and reduced appetite.
+It blocks dopamine, noradrenaline and serotonin reuptake and also blocks sodium channels, which affects heart rhythm.
 
 ### Come-up (5-15 min)
 
@@ -62,9 +62,9 @@ Confidence and energy surge.
 
 The peak comes within 15 to 30 minutes.
 
-Medically, the peak is when heart rate, blood pressure and body temperature are highest. This is when heart attack, stroke, dangerous heart rhythms and overheating are most likely, especially with exertion, heat, or other stimulants.
+At peak, coronary arteries narrow, heart oxygen demand rises and platelets clump, so heart attack can occur even in young people; stroke and aortic dissection are also linked.
 
-High levels can cause anxiety, paranoia, repetitive behaviors and psychosis. Stimulant overdose has no antidote like naloxone, but cooling, calming and emergency care save lives; many 'stimulant' deaths now also involve fentanyl.
+With alcohol, the liver forms cocaethylene, which lasts longer and is more toxic to the heart.
 
 ### Plateau (30-60 min)
 
@@ -74,9 +74,9 @@ Effects last about 30 to 60 minutes.
 
 The comedown brings anxiety and craving.
 
-As levels fall, the 'crash' brings fatigue, low mood, irritability and hunger, often with poor sleep.
+Cocaine's half-life is under an hour, which drives repeated use.
 
-After binges, the crash can last days, with depression and strong cravings. Repeated use can cause dependence, weight loss, dental problems and heart damage.
+Chronic snorting can perforate the nasal septum; levamisole adulteration causes skin necrosis and low white cell counts.
 
 ### After-effects (2-6 h)
 

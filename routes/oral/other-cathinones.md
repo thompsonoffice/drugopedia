@@ -1,10 +1,10 @@
-# Other synthetic cathinones (N-ethylpentylone, 3-MMC, 4-MEC, hexen and others): Oral (swallowed)
+# Other synthetic cathinones (N-ethylpentylone, 4-MEC, pentedrone, hexen, alpha-PHP and others): Oral (swallowed)
 
 > Educational harm-reduction content. Not medical advice, not a guide to use. Nothing here gives amounts, preparation, or sourcing. Street products are often mislabeled or contaminated, including with fentanyl.
 
 ## About this route
 
-Swallowed as tablets, capsules, or liquids. The drug passes through the gut and liver first (first-pass metabolism), which lowers and slows what reaches the brain. For Other synthetic cathinones (N-ethylpentylone, 3-MMC, 4-MEC, hexen and others): Swallowed.
+Swallowed as tablets, capsules, or liquids. The drug passes through the gut and liver first (first-pass metabolism), which lowers and slows what reaches the brain. For Other synthetic cathinones (N-ethylpentylone, 4-MEC, pentedrone, hexen, alpha-PHP and others): Swallowed.
 
 ## How this route feels different
 
@@ -40,7 +40,7 @@ Insomnia and paranoia.
 
 Days of low mood.
 
-For the full, detailed description of each phase, see the [general Other synthetic cathinones (N-ethylpentylone, 3-MMC, 4-MEC, hexen and others) page](../../drugs/other-cathinones.md).
+For the full, detailed description of each phase, see the [general Other synthetic cathinones (N-ethylpentylone, 4-MEC, pentedrone, hexen, alpha-PHP and others) page](../../drugs/other-cathinones.md).
 
 ## Risks of this route
 

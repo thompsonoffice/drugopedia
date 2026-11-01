@@ -50,9 +50,9 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 Onset varies by drug, from minutes to an hour.
 
-Medically, the onset reflects how quickly the drug reaches the brain. All block NMDA receptors, with differing potencies. As NMDA receptors are blocked, signals from the senses stop being integrated normally, so the body feels distant and numb.
+Each analog has a different potency and duration; 3-MeO-PCP is active at much smaller amounts than ketamine.
 
-Early signs include unsteady walking, slurred speech, numbness, a faster heartbeat and raised blood pressure (for NMDA blockers), and nystagmus (jerky eye movements).
+Hypertension, fast heart rate and nystagmus are common.
 
 ### Come-up (15-60 min)
 
@@ -62,9 +62,9 @@ Detachment and stimulation build.
 
 Peaks may last several hours.
 
-Medically, the peak is maximal dissociation: perception, body awareness and memory are profoundly altered, and at high levels people may be unable to move or respond (the 'K-hole' for ketamine). Pain is not felt, so injuries go unnoticed.
+Peak effects range from ketamine-like dissociation to PCP-like agitation and psychosis.
 
-Dangers at the peak include falls, drowning, choking on vomit, and, with alcohol or other depressants, breathing problems. PCP and DXM can cause agitation, high body temperature and violence; propofol and etomidate stop breathing easily.
+3-MeO-PCP has been linked to several deaths and severe agitation; 2-FDCK closely mirrors ketamine.
 
 ### Plateau (2-4 h)
 
@@ -74,9 +74,9 @@ Long plateau with PCP analogs.
 
 Comedown can last into the next day.
 
-As levels fall, people 'come back' gradually, often confused, nauseated and unsteady, with disjointed memories.
+Long-acting analogs prolong confusion for many hours.
 
-Repeated ketamine use damages the bladder (ketamine cystitis) and can harm memory; regular dissociative use can cause lasting low mood and, in some, psychosis.
+Bladder and psychiatric harms are presumed similar to ketamine and PCP.
 
 ### After-effects (12-24 h)
 

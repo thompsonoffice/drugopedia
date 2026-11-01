@@ -1,10 +1,10 @@
-# Delta-8-THC, THC-O and HHC (hemp-derived cannabinoids): Oral (swallowed)
+# Delta-8-THC: Oral (swallowed)
 
 > Educational harm-reduction content. Not medical advice, not a guide to use. Nothing here gives amounts, preparation, or sourcing. Street products are often mislabeled or contaminated, including with fentanyl.
 
 ## About this route
 
-Swallowed as tablets, capsules, or liquids. The drug passes through the gut and liver first (first-pass metabolism), which lowers and slows what reaches the brain. For Delta-8-THC, THC-O and HHC (hemp-derived cannabinoids): Gummies and edibles.
+Swallowed as tablets, capsules, or liquids. The drug passes through the gut and liver first (first-pass metabolism), which lowers and slows what reaches the brain. For Delta-8-THC: Gummies and edibles.
 
 ## How this route feels different
 
@@ -40,7 +40,7 @@ Dry mouth and grogginess.
 
 Possible next-day fog, particularly with edibles.
 
-For the full, detailed description of each phase, see the [general Delta-8-THC, THC-O and HHC (hemp-derived cannabinoids) page](../../drugs/delta-8-thc.md).
+For the full, detailed description of each phase, see the [general Delta-8-THC page](../../drugs/delta-8-thc.md).
 
 ## Risks of this route
 

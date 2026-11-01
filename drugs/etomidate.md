@@ -50,9 +50,9 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 IV etomidate causes unconsciousness within about a minute; vaped, effects come within seconds to minutes.
 
-Medically, the onset reflects how quickly the drug reaches the brain. Etomidate enhances GABA-A receptors and blocks cortisol production. As NMDA receptors are blocked, signals from the senses stop being integrated normally, so the body feels distant and numb.
+Etomidate reaches the brain within a minute; it keeps blood pressure stable, unlike propofol.
 
-Early signs include unsteady walking, slurred speech, numbness, a faster heartbeat and raised blood pressure (for NMDA blockers), and nystagmus (jerky eye movements).
+Involuntary muscle jerks are common at induction.
 
 ### Come-up (about 1 min)
 
@@ -62,9 +62,9 @@ Sedation and muscle jerks.
 
 The peak lasts minutes.
 
-Medically, the peak is maximal dissociation: perception, body awareness and memory are profoundly altered, and at high levels people may be unable to move or respond (the 'K-hole' for ketamine). Pain is not felt, so injuries go unnoticed.
+At the peak, sedation is deep and breathing can stop.
 
-Dangers at the peak include falls, drowning, choking on vomit, and, with alcohol or other depressants, breathing problems. PCP and DXM can cause agitation, high body temperature and violence; propofol and etomidate stop breathing easily.
+Etomidate blocks 11-beta-hydroxylase, the adrenal enzyme that makes cortisol; repeated exposure from vapes has caused adrenal insufficiency with weakness, low blood pressure and low sodium.
 
 ### Plateau (3-10 min)
 
@@ -74,9 +74,9 @@ Short plateau.
 
 Recovery within minutes to an hour.
 
-As levels fall, people 'come back' gradually, often confused, nauseated and unsteady, with disjointed memories.
+Its effect ends within minutes after a single dose.
 
-Repeated ketamine use damages the bladder (ketamine cystitis) and can harm memory; regular dissociative use can cause lasting low mood and, in some, psychosis.
+Hong Kong and mainland China report psychiatric symptoms and dependence in young people who vape etomidate.
 
 ### After-effects (hours)
 

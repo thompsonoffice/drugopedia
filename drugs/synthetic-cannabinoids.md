@@ -50,9 +50,9 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Effects begin within seconds to minutes of smoking.
 
-Medically, the onset depends on the route. Most are full CB1 agonists far stronger than THC. Inhaled THC reaches the brain within minutes; swallowed THC is absorbed slowly and turned by the liver into 11-hydroxy-THC, which is more potent and longer-lasting, which is why edibles feel stronger and start so much later.
+Synthetic cannabinoids are full CB1 agonists, many 10 to 100 times more potent than THC at the receptor, and reach the brain within seconds when smoked.
 
-Early body signs include a faster heartbeat, red eyes, dry mouth and, in some people, a drop in blood pressure on standing that can cause fainting.
+Early signs include racing heart, chest pain, high blood pressure, sweating and vomiting.
 
 ### Come-up (2-10 min)
 
@@ -62,9 +62,9 @@ The rise is fast and heavy, with a racing heart.
 
 The peak can include confusion, paranoia, vomiting, or unresponsiveness.
 
-Medically, the peak is when CB1 activation is greatest. Short-term memory, attention, coordination and time perception are most affected, and anxiety or paranoia can appear, especially with high-THC products or in people prone to psychosis.
+At the peak, seizures, severe agitation, psychosis, catatonia and unresponsiveness occur; some compounds also affect heart rhythm and kidneys.
 
-Cannabis alone does not stop breathing, so fatal overdose is not expected, but emergency visits for panic, vomiting, fast heart rate, and psychosis are common, and children who eat edibles can become very sedated.
+Some batches have been contaminated with brodifacoum, a long-acting rat poison causing severe bleeding that needs weeks of vitamin K treatment.
 
 ### Plateau (30-90 min)
 
@@ -74,9 +74,9 @@ Effects are relatively short, often 1 to 2 hours.
 
 Comedown brings anxiety and craving.
 
-As levels fall, the effect fades gradually because THC slowly leaves fat stores. Many people feel tired, hungry or foggy.
+Effects are short, but active metabolites can prolong toxicity.
 
-Daily users can develop cannabis use disorder and, with heavy long-term use, cannabinoid hyperemesis syndrome (repeated severe vomiting relieved by hot showers). Withdrawal causes irritability, poor sleep and low appetite for one to two weeks.
+Daily users develop severe withdrawal (vomiting, sweating, tremor, insomnia, cravings), sometimes needing hospital care.
 
 ### After-effects (3-6 h)
 

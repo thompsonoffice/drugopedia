@@ -54,9 +54,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 Effects start about 1 to 2 hours after swallowing.
 
-Medically, the onset reflects how fast the drug reaches the brain. Lisdexamfetamine is converted to dextroamphetamine by enzymes in red blood cells. Rising dopamine and noradrenaline increase alertness, heart rate and blood pressure.
+Lisdexamfetamine is absorbed intact and cleaved in red blood cells to release dextroamphetamine, so the rate is limited by enzyme activity.
 
-Early signs include widened pupils, a faster pulse, dry mouth, jaw tension and reduced appetite.
+This makes onset slower and peak levels lower than the same amphetamine in IR form.
 
 ### Come-up (2-3 h)
 
@@ -66,9 +66,9 @@ A gradual lift in focus.
 
 Peak around 3 to 4 hours.
 
-Medically, the peak is when heart rate, blood pressure and body temperature are highest. This is when heart attack, stroke, dangerous heart rhythms and overheating are most likely, especially with exertion, heat, or other stimulants.
+At peak, effects are those of dextroamphetamine: alertness, raised heart rate and blood pressure.
 
-High levels can cause anxiety, paranoia, repetitive behaviors and psychosis. Stimulant overdose has no antidote like naloxone, but cooling, calming and emergency care save lives; many 'stimulant' deaths now also involve fentanyl.
+The FDA label includes a boxed warning for misuse and dependence.
 
 ### Plateau (10-14 h)
 
@@ -78,9 +78,9 @@ Steady effects for 10 to 14 hours.
 
 Gentle comedown in the evening.
 
-As levels fall, the 'crash' brings fatigue, low mood, irritability and hunger, often with poor sleep.
+Dextroamphetamine's half-life extends effects into the evening.
 
-After binges, the crash can last days, with depression and strong cravings. Repeated use can cause dependence, weight loss, dental problems and heart damage.
+Insomnia and appetite loss are the most common lingering effects.
 
 ### After-effects (14-24 h)
 

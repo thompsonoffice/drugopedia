@@ -26,7 +26,7 @@ Prescription-only in the US, not controlled. Some combinations are over the coun
 
 ## What the pills feel like
 
-Robaxin tablets are large, white, oblong (capsule-shaped) film-coated tablets.
+Robaxin tablets are large, white, oblong (capsule-shaped) film-coated tablets. (The current DailyMed Robaxin listing is the injection; tablet descriptions come from generic methocarbamol labels.)
 
 **Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 

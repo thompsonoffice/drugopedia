@@ -1,4 +1,4 @@
-# Delta-8-THC, THC-O and HHC (hemp-derived cannabinoids)
+# Delta-8-THC
 
 > Educational harm-reduction content. Not medical advice, not a guide to use. Nothing here gives amounts, preparation, or sourcing. Street products are often mislabeled or contaminated, including with fentanyl.
 
@@ -6,7 +6,7 @@
 
 Semi-synthetic or converted cannabinoids marketed from hemp.
 
-**Brand and street names:** Delta-8, D8, THC-O acetate, HHC, THCP; sold as gummies, vapes and 'legal weed'.
+**Brand and street names:** Delta-8, D8; sold as gummies, vapes and 'diet weed' in gas stations and online.
 
 ## History and origins
 
@@ -34,11 +34,11 @@ Often sold as brightly colored gummies or disposable vape pens. Street and onlin
 
 ### The character of its effects
 
-Delta-8 feels like a milder, clearer version of THC; HHC sits between delta-8 and delta-9; THC-O is described as slow and heavy. All act on the same CB1 receptor.
+Delta-8 feels like a milder, clearer version of ordinary THC: relaxed, mildly euphoric and sleepy, with less anxiety for many people.
 
-The main concern is manufacturing: products are made by chemical reactions in unregulated labs and may contain leftover acids, solvents, metals or unknown by-products.
+It occurs naturally only in tiny amounts, so commercial delta-8 is made by chemically converting hemp CBD; leftover acids, solvents and by-products are a concern.
 
-Labels are often wrong, so a product sold as delta-8 may contain delta-9-THC or synthetic cannabinoids.
+Products are often mislabeled and may contain delta-9-THC or other cannabinoids. Poison centers report many child exposures.
 
 Tolerance to the high builds quickly with daily use and fades after a break of a few weeks; people returning after a break, or switching to concentrates or edibles, are often surprised by how strong the effect is.
 
@@ -50,9 +50,9 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Inhaled effects begin within minutes; edibles take 30 minutes to 2 hours.
 
-Medically, the onset depends on the route. These compounds act at CB1 like THC. Inhaled THC reaches the brain within minutes; swallowed THC is absorbed slowly and turned by the liver into 11-hydroxy-THC, which is more potent and longer-lasting, which is why edibles feel stronger and start so much later.
+Delta-8-THC is a partial CB1 agonist with roughly half to two-thirds the potency of delta-9-THC in older studies.
 
-Early body signs include a faster heartbeat, red eyes, dry mouth and, in some people, a drop in blood pressure on standing that can cause fainting.
+Body signs mirror THC: dry mouth, red eyes and a faster heartbeat.
 
 ### Come-up (5-15 min)
 
@@ -62,9 +62,9 @@ A gradual relaxation and lightness.
 
 The peak brings typical cannabis effects: time distortion, appetite and sleepiness, with possible anxiety.
 
-Medically, the peak is when CB1 activation is greatest. Short-term memory, attention, coordination and time perception are most affected, and anxiety or paranoia can appear, especially with high-THC products or in people prone to psychosis.
+Peak effects include sedation and time distortion; poison center reports show confusion, vomiting and loss of consciousness, especially in children.
 
-Cannabis alone does not stop breathing, so fatal overdose is not expected, but emergency visits for panic, vomiting, fast heart rate, and psychosis are common, and children who eat edibles can become very sedated.
+Contaminants from the conversion process, not just delta-8 itself, may contribute to harm.
 
 ### Plateau (1 h)
 
@@ -74,9 +74,9 @@ Plateau of an hour (vapes) to several hours (edibles).
 
 Gradual fade.
 
-As levels fall, the effect fades gradually because THC slowly leaves fat stores. Many people feel tired, hungry or foggy.
+Effects fade over a few hours (vapes) or many hours (edibles).
 
-Daily users can develop cannabis use disorder and, with heavy long-term use, cannabinoid hyperemesis syndrome (repeated severe vomiting relieved by hot showers). Withdrawal causes irritability, poor sleep and low appetite for one to two weeks.
+Delta-8 shows up on standard cannabis drug tests.
 
 ### After-effects (3-5 h)
 
@@ -103,7 +103,7 @@ Why the same amount affects people differently: tolerance, body size, genetics, 
 
 Not covered: Other routes are not covered.
 
-## Overdose note for Delta-8-THC, THC-O and HHC (hemp-derived cannabinoids)
+## Overdose note for Delta-8-THC
 
 FDA and poison centers report vomiting, hallucinations, confusion and loss of consciousness, often in children.
 

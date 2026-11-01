@@ -50,9 +50,9 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Effects start within seconds of inhaling.
 
-Medically, the onset is extremely fast because the lungs deliver vapors straight to the brain. Nitrites release nitric oxide, relaxing blood vessels. Effects begin within seconds and resemble rapid alcohol intoxication.
+Alkyl nitrites are absorbed through the lungs within seconds and release nitric oxide, which relaxes smooth muscle in blood vessels.
 
-Early signs are dizziness, lightheadedness, slurred speech, and a 'rush'; for poppers, flushing and a pounding head from widened blood vessels.
+Blood pressure falls and heart rate rises reflexively; flushing and headache follow.
 
 ### Come-up (10-30 s)
 
@@ -62,9 +62,9 @@ A rush of warmth and flushing.
 
 The peak lasts about a minute.
 
-Medically, the peak is brief. Many solvents and propellants make the heart extra sensitive to adrenaline, so a sudden scare or exertion can trigger a fatal heart rhythm ('sudden sniffing death'), even the first time.
+At peak, low blood pressure can cause fainting; combined with PDE5 inhibitors (Viagra, Cialis) it can cause collapse, heart attack or stroke.
 
-Oxygen can be displaced, and using a bag or covering the head can cause suffocation; vomiting while intoxicated can choke. Poppers can drop blood pressure dangerously, especially with erectile dysfunction medicines.
+Nitrites oxidize hemoglobin to methemoglobin, which cannot carry oxygen; swallowing poppers can be fatal and needs methylene blue treatment.
 
 ### Plateau (1-2 min)
 
@@ -74,9 +74,9 @@ Short plateau.
 
 Fades over 2 to 5 minutes.
 
-As the vapor is breathed out, effects fade within minutes, leaving headache, nausea and drowsiness.
+Effects end within minutes.
 
-Long-term solvent use damages the brain, nerves, liver, kidneys and bone marrow; regular nitrous oxide use depletes vitamin B12 and can cause spinal cord and nerve damage.
+Repeated use is linked to poppers maculopathy (central vision loss), especially with isopropyl nitrite.
 
 ### After-effects (minutes)
 

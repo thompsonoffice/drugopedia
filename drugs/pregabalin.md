@@ -30,7 +30,7 @@ Immediate-release pregabalin is taken two or three times daily. Lyrica CR is tak
 
 ## What the pills feel like
 
-Lyrica capsules are hard capsules in different colors by strength; Lyrica CR tablets are film-coated.
+Lyrica capsules are hard capsules in different colors by strength. Per DailyMed, Lyrica CR tablets are film-coated and almond-shaped (light blue, beige, or rose by strength), debossed 'VLE' on one side and 'PGN' with the strength number on the other.
 
 **Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 

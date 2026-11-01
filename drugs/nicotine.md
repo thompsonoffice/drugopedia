@@ -50,9 +50,9 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Inhaled effects begin within seconds.
 
-Medically, the onset reflects how fast the drug reaches the brain. Nicotine is cleared by CYP2A6; slower metabolizers tend to smoke less. Rising dopamine and noradrenaline increase alertness, heart rate and blood pressure.
+Inhaled nicotine reaches the brain within about 10 to 20 seconds.
 
-Early signs include widened pupils, a faster pulse, dry mouth, jaw tension and reduced appetite.
+It activates nicotinic receptors, releasing dopamine, adrenaline and other chemicals, raising heart rate and blood pressure.
 
 ### Come-up (seconds)
 
@@ -62,9 +62,9 @@ A brief buzz.
 
 Peak within minutes.
 
-Medically, the peak is when heart rate, blood pressure and body temperature are highest. This is when heart attack, stroke, dangerous heart rhythms and overheating are most likely, especially with exertion, heat, or other stimulants.
+At high exposure, nicotine causes nausea, vomiting, sweating and, in poisoning, seizures and breathing muscle paralysis.
 
-High levels can cause anxiety, paranoia, repetitive behaviors and psychosis. Stimulant overdose has no antidote like naloxone, but cooling, calming and emergency care save lives; many 'stimulant' deaths now also involve fentanyl.
+Children who swallow e-liquid or pouches are at greatest risk.
 
 ### Plateau (15-60 min)
 
@@ -74,9 +74,9 @@ Effects last 30 minutes to an hour.
 
 Craving returns as levels fall.
 
-As levels fall, the 'crash' brings fatigue, low mood, irritability and hunger, often with poor sleep.
+Half-life is about 2 hours, which drives frequent use.
 
-After binges, the crash can last days, with depression and strong cravings. Repeated use can cause dependence, weight loss, dental problems and heart damage.
+Dependence is strong; withdrawal brings irritability, anxiety, poor concentration and craving.
 
 ### After-effects (hours)
 

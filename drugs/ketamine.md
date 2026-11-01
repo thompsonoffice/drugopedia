@@ -50,9 +50,9 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 Snorted, ketamine takes effect within about 5 to 15 minutes: numbness, a light 'drunk' feeling, and a shifting visual field.
 
-Medically, the onset reflects how quickly the drug reaches the brain. Ketamine blocks NMDA receptors and is metabolized by the liver to norketamine. As NMDA receptors are blocked, signals from the senses stop being integrated normally, so the body feels distant and numb.
+Snorted ketamine is absorbed through the nasal lining; intravenous ketamine reaches the brain within seconds, which is why anesthesia uses it.
 
-Early signs include unsteady walking, slurred speech, numbness, a faster heartbeat and raised blood pressure (for NMDA blockers), and nystagmus (jerky eye movements).
+Ketamine raises heart rate and blood pressure by releasing noradrenaline, unlike most anesthetics, and causes nystagmus and increased saliva.
 
 ### Come-up (10-20 min)
 
@@ -62,9 +62,9 @@ Within minutes the body starts to feel distant; walking becomes unsteady.
 
 The peak, about 15 to 30 minutes in, is the strongest dissociation; at high levels, the K-hole.
 
-Medically, the peak is maximal dissociation: perception, body awareness and memory are profoundly altered, and at high levels people may be unable to move or respond (the 'K-hole' for ketamine). Pain is not felt, so injuries go unnoticed.
+At the peak, NMDA blockade in the thalamus and cortex disconnects sensory input from awareness; protective airway reflexes are partly preserved, but vomiting while unresponsive can still cause choking.
 
-Dangers at the peak include falls, drowning, choking on vomit, and, with alcohol or other depressants, breathing problems. PCP and DXM can cause agitation, high body temperature and violence; propofol and etomidate stop breathing easily.
+Emergence reactions (vivid dreams, confusion, agitation) are known from anesthesia, and similar experiences occur in recreational use.
 
 ### Plateau (30-60 min)
 
@@ -74,9 +74,9 @@ Effects plateau for 30 to 60 minutes.
 
 People 'come back' over another hour, often confused and nauseated.
 
-As levels fall, people 'come back' gradually, often confused, nauseated and unsteady, with disjointed memories.
+Ketamine's half-life is about 2 to 3 hours; norketamine is active and extends after-effects.
 
-Repeated ketamine use damages the bladder (ketamine cystitis) and can harm memory; regular dissociative use can cause lasting low mood and, in some, psychosis.
+Chronic use damages the bladder lining (ketamine cystitis), causing pain, urgency and blood in urine; stopping early can allow recovery, but severe cases need surgery. Liver and bile duct injury is also reported.
 
 ### After-effects (2-4 h)
 

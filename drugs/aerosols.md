@@ -50,9 +50,9 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Effects start within seconds.
 
-Medically, the onset is extremely fast because the lungs deliver vapors straight to the brain. Fluorocarbon propellants sensitize the heart to adrenaline. Effects begin within seconds and resemble rapid alcohol intoxication.
+Propellants such as difluoroethane enter the brain within seconds.
 
-Early signs are dizziness, lightheadedness, slurred speech, and a 'rush'; for poppers, flushing and a pounding head from widened blood vessels.
+Ear ringing and dizziness appear almost immediately.
 
 ### Come-up (seconds)
 
@@ -62,9 +62,9 @@ A rush of dizziness.
 
 The peak lasts seconds to a minute.
 
-Medically, the peak is brief. Many solvents and propellants make the heart extra sensitive to adrenaline, so a sudden scare or exertion can trigger a fatal heart rhythm ('sudden sniffing death'), even the first time.
+At peak, fluorocarbons sensitize the heart to adrenaline, causing sudden fatal arrhythmias.
 
-Oxygen can be displaced, and using a bag or covering the head can cause suffocation; vomiting while intoxicated can choke. Poppers can drop blood pressure dangerously, especially with erectile dysfunction medicines.
+The rapid expansion of gas can freeze the airway, causing swelling and choking.
 
 ### Plateau (1-2 min)
 
@@ -74,9 +74,9 @@ Very brief plateau.
 
 Fades within minutes.
 
-As the vapor is breathed out, effects fade within minutes, leaving headache, nausea and drowsiness.
+Effects end within minutes.
 
-Long-term solvent use damages the brain, nerves, liver, kidneys and bone marrow; regular nitrous oxide use depletes vitamin B12 and can cause spinal cord and nerve damage.
+Repeated use damages the heart, liver and kidneys.
 
 ### After-effects (hours)
 

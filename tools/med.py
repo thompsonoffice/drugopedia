@@ -36,6 +36,7 @@ EXTRA={
 VARY={"opioid":"Why the same amount affects people differently: tolerance is the biggest factor, since daily users may need many times more to feel the same effect, and tolerance drops quickly after a break. Liver enzymes (especially CYP2D6 and CYP3A4) vary by genetics and are changed by other medicines and even grapefruit. Body size, age, kidney and liver health, sleep apnea, and lung disease all matter. Mixing with alcohol, benzodiazepines, or other sedatives multiplies the effect on breathing. Stronger effects do not stop at a higher level of pleasure: the line between deep sedation and overdose is thin and invisible from the inside.",
 "benzo":"Why the same amount affects people differently: tolerance builds quickly, liver function and age change how fast benzodiazepines are cleared (older adults clear many much more slowly), and many medicines block the CYP3A4 enzyme that breaks down alprazolam, midazolam, and triazolam. Alcohol and opioids multiply the sedation and breathing risk. Stronger effects shade into blackouts, falls, and, in combinations, stopped breathing."}
 def expand(slug,d,b):
+    if d.get('ext'): return {k:list(v) for k,v in d['ext'].items()}
     met=MET.get(slug,GENERIC[b])
     E={k:[x.format(met=met) for x in v] for k,v in EXTRA[b].items()}
     return E

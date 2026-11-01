@@ -50,9 +50,9 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 Effects start within minutes of the spray.
 
-Medically, the onset reflects how quickly the drug reaches the brain. Esketamine is the stronger mirror-image form of ketamine. As NMDA receptors are blocked, signals from the senses stop being integrated normally, so the body feels distant and numb.
+Esketamine is absorbed through the nasal lining, with peak levels within about 20 to 40 minutes.
 
-Early signs include unsteady walking, slurred speech, numbness, a faster heartbeat and raised blood pressure (for NMDA blockers), and nystagmus (jerky eye movements).
+Blood pressure rises in many patients, peaking around 40 minutes, so it is checked before and after.
 
 ### Come-up (10-20 min)
 
@@ -62,9 +62,9 @@ Dissociation builds over 15 to 30 minutes.
 
 The peak is about 30 to 40 minutes.
 
-Medically, the peak is maximal dissociation: perception, body awareness and memory are profoundly altered, and at high levels people may be unable to move or respond (the 'K-hole' for ketamine). Pain is not felt, so injuries go unnoticed.
+At peak, dissociation, dizziness and nausea are common; sedation is monitored.
 
-Dangers at the peak include falls, drowning, choking on vomit, and, with alcohol or other depressants, breathing problems. PCP and DXM can cause agitation, high body temperature and violence; propofol and etomidate stop breathing easily.
+Antidepressant effects are thought to come from glutamate surges and new synaptic connections after the drug wears off.
 
 ### Plateau (40-60 min)
 
@@ -74,9 +74,9 @@ Effects ease within about an hour.
 
 Most effects resolve within two hours.
 
-As levels fall, people 'come back' gradually, often confused, nauseated and unsteady, with disjointed memories.
+Most acute effects resolve within two hours.
 
-Repeated ketamine use damages the bladder (ketamine cystitis) and can harm memory; regular dissociative use can cause lasting low mood and, in some, psychosis.
+Bladder symptoms and misuse potential are monitored under the REMS program.
 
 ### After-effects (2-4 h)
 

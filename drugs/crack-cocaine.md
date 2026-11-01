@@ -50,9 +50,9 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Effects begin within seconds.
 
-Medically, the onset reflects how fast the drug reaches the brain. Smoking delivers cocaine to the brain within seconds. Rising dopamine and noradrenaline increase alertness, heart rate and blood pressure.
+Smoked cocaine reaches the brain in seconds, faster than snorting, producing a sharp dopamine spike.
 
-Early signs include widened pupils, a faster pulse, dry mouth, jaw tension and reduced appetite.
+Blood pressure and heart rate surge immediately.
 
 ### Come-up (seconds)
 
@@ -62,9 +62,9 @@ An intense rush.
 
 Peak within minutes.
 
-Medically, the peak is when heart rate, blood pressure and body temperature are highest. This is when heart attack, stroke, dangerous heart rhythms and overheating are most likely, especially with exertion, heat, or other stimulants.
+At peak, the same heart and stroke risks as cocaine apply, plus lung injury (crack lung) from hot smoke.
 
-High levels can cause anxiety, paranoia, repetitive behaviors and psychosis. Stimulant overdose has no antidote like naloxone, but cooling, calming and emergency care save lives; many 'stimulant' deaths now also involve fentanyl.
+Binge use can cause seizures and severe agitation.
 
 ### Plateau (5-15 min)
 
@@ -74,9 +74,9 @@ Effects last about 5 to 15 minutes.
 
 A sharp crash and craving.
 
-As levels fall, the 'crash' brings fatigue, low mood, irritability and hunger, often with poor sleep.
+The rapid fall in dopamine drives intense craving within minutes.
 
-After binges, the crash can last days, with depression and strong cravings. Repeated use can cause dependence, weight loss, dental problems and heart damage.
+Chronic use damages lungs, causes burns to lips and fingers, and spreads hepatitis C through shared pipes.
 
 ### After-effects (hours)
 

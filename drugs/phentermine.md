@@ -1,4 +1,4 @@
-# Phentermine and older appetite suppressants
+# Phentermine (Adipex-P, Lomaira) and benzphetamine
 
 > Educational harm-reduction content. Not medical advice, not a guide to use. Nothing here gives amounts, preparation, or sourcing. Street products are often mislabeled or contaminated, including with fentanyl.
 
@@ -6,7 +6,7 @@
 
 Amphetamine-like appetite suppressants (anorectics).
 
-**Brand and street names:** Phentermine (Adipex-P, Lomaira; with topiramate in Qsymia), diethylpropion (Tenuate), phendimetrazine (Bontril), benzphetamine (Didrex); withdrawn: fenfluramine (Pondimin), sibutramine (Meridia).
+**Brand and street names:** Phentermine: Adipex-P, Lomaira; with topiramate in Qsymia. Benzphetamine: Didrex, Regimex. Withdrawn relatives: fenfluramine (Pondimin), sibutramine (Meridia).
 
 ## History and origins
 
@@ -50,9 +50,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 Effects begin within about 1 hour.
 
-Medically, the onset reflects how fast the drug reaches the brain. Phentermine releases noradrenaline. Rising dopamine and noradrenaline increase alertness, heart rate and blood pressure.
+Phentermine is absorbed well and releases noradrenaline more than dopamine.
 
-Early signs include widened pupils, a faster pulse, dry mouth, jaw tension and reduced appetite.
+Heart rate and blood pressure rise.
 
 ### Come-up (1-3 h)
 
@@ -62,9 +62,9 @@ Energy rises and appetite drops.
 
 Peak around 3 to 4 hours.
 
-Medically, the peak is when heart rate, blood pressure and body temperature are highest. This is when heart attack, stroke, dangerous heart rhythms and overheating are most likely, especially with exertion, heat, or other stimulants.
+At high levels, agitation, psychosis and arrhythmias can occur.
 
-High levels can cause anxiety, paranoia, repetitive behaviors and psychosis. Stimulant overdose has no antidote like naloxone, but cooling, calming and emergency care save lives; many 'stimulant' deaths now also involve fentanyl.
+Combined with serotonergic drugs (as with fenfluramine in fen-phen), heart valve and lung artery damage occurred.
 
 ### Plateau (8-12 h)
 
@@ -74,9 +74,9 @@ Effects last much of the day.
 
 Comedown brings fatigue.
 
-As levels fall, the 'crash' brings fatigue, low mood, irritability and hunger, often with poor sleep.
+Half-life is about 20 hours, explaining day-long effects.
 
-After binges, the crash can last days, with depression and strong cravings. Repeated use can cause dependence, weight loss, dental problems and heart damage.
+Insomnia and dry mouth are common.
 
 ### After-effects (next night)
 
@@ -100,7 +100,7 @@ Why the same amount affects people differently: tolerance, body size, genetics, 
 
 Not covered: Other routes are not covered.
 
-## Overdose note for Phentermine and older appetite suppressants
+## Overdose note for Phentermine (Adipex-P, Lomaira) and benzphetamine
 
 Overdose causes agitation, high blood pressure, fast heart rate and psychosis.
 

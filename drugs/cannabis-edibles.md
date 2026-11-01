@@ -50,9 +50,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 Effects usually begin 30 minutes to 2 hours after eating, slower on a full stomach.
 
-Medically, the onset depends on the route. Swallowed THC is converted by the liver to 11-hydroxy-THC, which is more potent. Inhaled THC reaches the brain within minutes; swallowed THC is absorbed slowly and turned by the liver into 11-hydroxy-THC, which is more potent and longer-lasting, which is why edibles feel stronger and start so much later.
+Swallowed THC is absorbed slowly and unevenly from the gut, and only a fraction survives first-pass liver metabolism; much is converted to 11-hydroxy-THC, which crosses into the brain readily.
 
-Early body signs include a faster heartbeat, red eyes, dry mouth and, in some people, a drop in blood pressure on standing that can cause fainting.
+Food in the stomach can delay onset by an hour or more, which is the main reason people take extra before the first amount works.
 
 ### Come-up (1-3 h)
 
@@ -62,9 +62,9 @@ The rise is gradual: body heaviness, warmth and giddiness.
 
 The peak, around 2 to 4 hours, is the strongest and longest-feeling high, sometimes with time loss and confusion.
 
-Medically, the peak is when CB1 activation is greatest. Short-term memory, attention, coordination and time perception are most affected, and anxiety or paranoia can appear, especially with high-THC products or in people prone to psychosis.
+At the peak, 11-hydroxy-THC levels can be high relative to THC, giving a heavier, more sedating and more disorienting effect than smoked cannabis.
 
-Cannabis alone does not stop breathing, so fatal overdose is not expected, but emergency visits for panic, vomiting, fast heart rate, and psychosis are common, and children who eat edibles can become very sedated.
+Emergency departments see edible cases with vomiting, fast heart rate, panic and, in children, deep sedation, low breathing effort and seizures.
 
 ### Plateau (4-6 h)
 
@@ -74,9 +74,9 @@ The plateau can last for hours.
 
 It fades slowly over 6 to 8 hours or more.
 
-As levels fall, the effect fades gradually because THC slowly leaves fat stores. Many people feel tired, hungry or foggy.
+Effects persist for many hours as the gut keeps absorbing THC and the liver keeps producing 11-hydroxy-THC.
 
-Daily users can develop cannabis use disorder and, with heavy long-term use, cannabinoid hyperemesis syndrome (repeated severe vomiting relieved by hot showers). Withdrawal causes irritability, poor sleep and low appetite for one to two weeks.
+Next-day impairment is common; children may need hospital observation until fully awake.
 
 ### After-effects (12-24 h)
 

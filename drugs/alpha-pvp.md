@@ -50,9 +50,9 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Smoked or snorted, effects begin within minutes.
 
-Medically, the onset depends on route. A potent dopamine reuptake blocker. Cathinones are beta-keto relatives of amphetamine; many cross into the brain quickly, causing a strong rush of energy and euphoria.
+Alpha-PVP is a potent dopamine and noradrenaline reuptake inhibitor.
 
-Early signs are a racing heart, sweating, jaw clenching and enlarged pupils.
+Heart rate and temperature rise.
 
 ### Come-up (minutes)
 
@@ -62,9 +62,9 @@ Rapid stimulation.
 
 Peak within an hour.
 
-Medically, the peak brings the highest risk of overheating, dangerous heart rhythms, high blood pressure, agitation and psychosis ('excited delirium' in emergency reports). Strong compulsion to redose is typical.
+At peak, excited delirium, paranoia and hyperthermia occur.
 
-Severe cases cause muscle breakdown (rhabdomyolysis), kidney failure, and death. Products sold as 'bath salts' or as 'MDMA' often contain unknown cathinones.
+Deaths followed overheating and cardiac arrest.
 
 ### Plateau (1-3 h)
 
@@ -74,9 +74,9 @@ Effects last a few hours.
 
 A hard crash with paranoia.
 
-As levels fall, people crash hard, with anxiety, low mood, insomnia and cravings.
+Effects last a few hours.
 
-Binges can last days without sleep, leading to paranoia, hallucinations and long recovery times.
+Psychosis may last longer.
 
 ### After-effects (1-2 days)
 

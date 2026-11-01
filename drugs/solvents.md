@@ -50,9 +50,9 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Effects begin within seconds.
 
-Medically, the onset is extremely fast because the lungs deliver vapors straight to the brain. Solvents dissolve in fat and act on many brain receptors, like anesthetics. Effects begin within seconds and resemble rapid alcohol intoxication.
+Solvents are highly fat-soluble and enter the brain within seconds, acting on GABA-A, NMDA and glycine receptors like anesthetics.
 
-Early signs are dizziness, lightheadedness, slurred speech, and a 'rush'; for poppers, flushing and a pounding head from widened blood vessels.
+Early signs include dizziness, slurred speech and a chemical odor on the breath.
 
 ### Come-up (seconds-minutes)
 
@@ -62,9 +62,9 @@ Dizziness and giddiness rise quickly.
 
 The peak lasts minutes.
 
-Medically, the peak is brief. Many solvents and propellants make the heart extra sensitive to adrenaline, so a sudden scare or exertion can trigger a fatal heart rhythm ('sudden sniffing death'), even the first time.
+At peak, solvents sensitize the heart muscle to adrenaline, so a surge from fright or exertion can trigger ventricular fibrillation (sudden sniffing death).
 
-Oxygen can be displaced, and using a bag or covering the head can cause suffocation; vomiting while intoxicated can choke. Poppers can drop blood pressure dangerously, especially with erectile dysfunction medicines.
+Hypoxia from bags, choking on vomit, and burns from flammable vapors are other major causes of death.
 
 ### Plateau (minutes)
 
@@ -74,9 +74,9 @@ Users often repeat to keep effects going.
 
 Fades within minutes to an hour.
 
-As the vapor is breathed out, effects fade within minutes, leaving headache, nausea and drowsiness.
+Effects fade within minutes to an hour as vapors are exhaled.
 
-Long-term solvent use damages the brain, nerves, liver, kidneys and bone marrow; regular nitrous oxide use depletes vitamin B12 and can cause spinal cord and nerve damage.
+Chronic toluene exposure causes white matter damage (toluene leukoencephalopathy), hearing loss, kidney acid-base problems, and liver injury; leaded gasoline adds lead poisoning.
 
 ### After-effects (hours)
 

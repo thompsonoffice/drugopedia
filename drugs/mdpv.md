@@ -50,9 +50,9 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 Snorted, effects start within minutes.
 
-Medically, the onset depends on route. MDPV strongly blocks dopamine reuptake. Cathinones are beta-keto relatives of amphetamine; many cross into the brain quickly, causing a strong rush of energy and euphoria.
+MDPV is very lipophilic and strongly blocks dopamine and noradrenaline reuptake.
 
-Early signs are a racing heart, sweating, jaw clenching and enlarged pupils.
+Heart rate, blood pressure and temperature rise quickly.
 
 ### Come-up (15-30 min)
 
@@ -62,9 +62,9 @@ A steep rise in energy.
 
 Peak within 1 to 2 hours.
 
-Medically, the peak brings the highest risk of overheating, dangerous heart rhythms, high blood pressure, agitation and psychosis ('excited delirium' in emergency reports). Strong compulsion to redose is typical.
+At peak, MDPV is linked to excited delirium, hyperthermia, rhabdomyolysis and death.
 
-Severe cases cause muscle breakdown (rhabdomyolysis), kidney failure, and death. Products sold as 'bath salts' or as 'MDMA' often contain unknown cathinones.
+Animal studies show MDPV is more reinforcing than cocaine.
 
 ### Plateau (2-4 h)
 
@@ -74,9 +74,9 @@ Effects last 3 to 4 hours, but long binges are common.
 
 A hard crash.
 
-As levels fall, people crash hard, with anxiety, low mood, insomnia and cravings.
+Half-life of several hours.
 
-Binges can last days without sleep, leading to paranoia, hallucinations and long recovery times.
+Psychosis can persist for days.
 
 ### After-effects (1-3 days)
 

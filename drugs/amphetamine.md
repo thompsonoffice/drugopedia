@@ -54,9 +54,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 Swallowed immediate-release amphetamine starts in about 30 to 60 minutes: alertness and a lift in mood.
 
-Medically, the onset reflects how fast the drug reaches the brain. Amphetamine is processed partly by CYP2D6 and excreted in urine, faster when urine is acidic. Rising dopamine and noradrenaline increase alertness, heart rate and blood pressure.
+Amphetamine is well absorbed from the gut; dextroamphetamine is the more potent form centrally, and levoamphetamine adds more peripheral effects.
 
-Early signs include widened pupils, a faster pulse, dry mouth, jaw tension and reduced appetite.
+It reverses dopamine and noradrenaline transporters, pushing these chemicals out of neurons, which raises heart rate and blood pressure early.
 
 ### Come-up (1-2 h)
 
@@ -66,9 +66,9 @@ Focus and energy build; appetite fades.
 
 The peak, around 2 to 3 hours, brings the most energy and the highest heart rate.
 
-Medically, the peak is when heart rate, blood pressure and body temperature are highest. This is when heart attack, stroke, dangerous heart rhythms and overheating are most likely, especially with exertion, heat, or other stimulants.
+At peak, dopamine in the striatum and prefrontal cortex is high; at therapeutic levels this improves focus, but at high levels it causes euphoria, stereotyped behavior and psychosis.
 
-High levels can cause anxiety, paranoia, repetitive behaviors and psychosis. Stimulant overdose has no antidote like naloxone, but cooling, calming and emergency care save lives; many 'stimulant' deaths now also involve fentanyl.
+Cardiovascular risks include high blood pressure, arrhythmias and, rarely, stroke; labels carry a boxed warning for misuse and dependence.
 
 ### Plateau (3-6 h, XR 8-12 h)
 
@@ -78,9 +78,9 @@ IR effects last about 4 to 6 hours; XR products about 10 to 12.
 
 Comedown brings tiredness and irritability.
 
-As levels fall, the 'crash' brings fatigue, low mood, irritability and hunger, often with poor sleep.
+Half-life is about 10 to 12 hours, longer if urine is alkaline.
 
-After binges, the crash can last days, with depression and strong cravings. Repeated use can cause dependence, weight loss, dental problems and heart damage.
+Insomnia and appetite loss persist; heavy misuse causes depression during withdrawal.
 
 ### After-effects (12-24 h)
 

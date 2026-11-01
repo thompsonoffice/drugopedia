@@ -50,9 +50,9 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 Given intravenously, unconsciousness occurs within about 30 to 60 seconds.
 
-Medically, the onset reflects how quickly the drug reaches the brain. Propofol enhances GABA-A receptors and is very short-acting. As NMDA receptors are blocked, signals from the senses stop being integrated normally, so the body feels distant and numb.
+Propofol is extremely fat-soluble, crossing into the brain within one arm-to-brain circulation time (about 30 seconds).
 
-Early signs include unsteady walking, slurred speech, numbness, a faster heartbeat and raised blood pressure (for NMDA blockers), and nystagmus (jerky eye movements).
+It causes pain on injection and quickly lowers blood pressure by relaxing blood vessels.
 
 ### Come-up (about 1 min)
 
@@ -62,9 +62,9 @@ Breathing slows and blood pressure falls.
 
 Deep sedation lasts minutes.
 
-Medically, the peak is maximal dissociation: perception, body awareness and memory are profoundly altered, and at high levels people may be unable to move or respond (the 'K-hole' for ketamine). Pain is not felt, so injuries go unnoticed.
+At the peak, propofol suppresses breathing and airway reflexes; apnea is common at induction, which is why airway equipment and trained staff are required.
 
-Dangers at the peak include falls, drowning, choking on vomit, and, with alcohol or other depressants, breathing problems. PCP and DXM can cause agitation, high body temperature and violence; propofol and etomidate stop breathing easily.
+Long infusions can cause propofol infusion syndrome (acid build-up, heart failure, muscle breakdown).
 
 ### Plateau (as long as infused)
 
@@ -74,9 +74,9 @@ Effects last only as long as it is given.
 
 People wake within minutes of stopping.
 
-As levels fall, people 'come back' gradually, often confused, nauseated and unsteady, with disjointed memories.
+Rapid redistribution to fat ends its effect within minutes.
 
-Repeated ketamine use damages the bladder (ketamine cystitis) and can harm memory; regular dissociative use can cause lasting low mood and, in some, psychosis.
+Healthcare worker misuse often ends in death because people use it alone without airway support.
 
 ### After-effects (under 1 h)
 

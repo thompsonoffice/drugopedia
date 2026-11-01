@@ -50,9 +50,9 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Smoked, the rush comes within seconds; swallowed, within 20 to 30 minutes.
 
-Medically, the onset reflects how fast the drug reaches the brain. Methamphetamine has a long half-life (around 10 hours) and is processed partly by CYP2D6. Rising dopamine and noradrenaline increase alertness, heart rate and blood pressure.
+Methamphetamine crosses into the brain more readily than amphetamine and releases dopamine powerfully while also blocking its breakdown.
 
-Early signs include widened pupils, a faster pulse, dry mouth, jaw tension and reduced appetite.
+Early signs include high blood pressure, fast heart rate, high temperature and dilated pupils.
 
 ### Come-up (minutes)
 
@@ -62,9 +62,9 @@ Intense euphoria and energy.
 
 The peak lasts much longer than cocaine.
 
-Medically, the peak is when heart rate, blood pressure and body temperature are highest. This is when heart attack, stroke, dangerous heart rhythms and overheating are most likely, especially with exertion, heat, or other stimulants.
+At peak, very high dopamine causes euphoria and, in heavy use, paranoia and hallucinations; severe toxicity causes hyperthermia, rhabdomyolysis, stroke and heart attack.
 
-High levels can cause anxiety, paranoia, repetitive behaviors and psychosis. Stimulant overdose has no antidote like naloxone, but cooling, calming and emergency care save lives; many 'stimulant' deaths now also involve fentanyl.
+Methamphetamine-related heart failure (cardiomyopathy) and pulmonary hypertension are increasingly common in long-term users.
 
 ### Plateau (4-8 h)
 
@@ -74,9 +74,9 @@ Effects last 8 to 12 hours or more.
 
 The crash brings exhaustion and depression.
 
-As levels fall, the 'crash' brings fatigue, low mood, irritability and hunger, often with poor sleep.
+Half-life of about 10 to 12 hours keeps effects going long after the high.
 
-After binges, the crash can last days, with depression and strong cravings. Repeated use can cause dependence, weight loss, dental problems and heart damage.
+Chronic use reduces dopamine transporters in the brain; partial recovery takes months to years of abstinence.
 
 ### After-effects (1-3 days)
 

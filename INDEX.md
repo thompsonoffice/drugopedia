@@ -15,6 +15,11 @@
 - [Dissociative safety](safety/dissociative-safety.md)
 - [Inhalant safety](safety/inhalant-safety.md)
 - [Stimulant and cathinone safety](safety/stimulant-safety.md)
+- [Psychedelic safety](safety/psychedelic-safety.md)
+- [Empathogen (MDMA) safety](safety/empathogen-safety.md)
+- [Alcohol safety](safety/alcohol-safety.md)
+- [Deliriant safety](safety/deliriant-safety.md)
+- [Other psychoactives safety](safety/other-psychoactives-safety.md)
 
 ## Opioids (prescription, heroin, and fentanyl): general pages
 
@@ -231,9 +236,11 @@
 - [Cannabis flower (marijuana)](drugs/cannabis-flower.md)
 - [Cannabis concentrates (wax, shatter, dabs, vape oil)](drugs/cannabis-concentrates.md)
 - [Cannabis edibles](drugs/cannabis-edibles.md)
-- [Delta-8-THC, THC-O and HHC (hemp-derived cannabinoids)](drugs/delta-8-thc.md)
+- [Delta-8-THC](drugs/delta-8-thc.md)
 - [Synthetic cannabinoids (K2, Spice)](drugs/synthetic-cannabinoids.md)
 - [Dronabinol and nabilone (prescription THC)](drugs/dronabinol-nabilone.md)
+- [THC-O acetate](drugs/thc-o.md)
+- [HHC (hexahydrocannabinol)](drugs/hhc.md)
 
 ## Anesthetics and dissociatives: general pages
 
@@ -264,8 +271,10 @@
 - [Modafinil and armodafinil (Provigil, Nuvigil)](drugs/modafinil.md)
 - [Caffeine](drugs/caffeine.md)
 - [Nicotine](drugs/nicotine.md)
-- [Phentermine and older appetite suppressants](drugs/phentermine.md)
+- [Phentermine (Adipex-P, Lomaira) and benzphetamine](drugs/phentermine.md)
 - [Ephedrine, pseudoephedrine and ephedra](drugs/ephedrine.md)
+- [Diethylpropion (amfepramone)](drugs/diethylpropion.md)
+- [Phendimetrazine (Bontril)](drugs/phendimetrazine.md)
 
 ## Synthetic cathinones (bath salts): general pages
 
@@ -273,8 +282,10 @@
 - [Mephedrone (4-MMC)](drugs/mephedrone.md)
 - [MDPV](drugs/mdpv.md)
 - [Alpha-PVP (flakka)](drugs/alpha-pvp.md)
-- [Methylone and eutylone](drugs/methylone.md)
-- [Other synthetic cathinones (N-ethylpentylone, 3-MMC, 4-MEC, hexen and others)](drugs/other-cathinones.md)
+- [Methylone (bk-MDMA)](drugs/methylone.md)
+- [Other synthetic cathinones (N-ethylpentylone, 4-MEC, pentedrone, hexen, alpha-PHP and others)](drugs/other-cathinones.md)
+- [Eutylone (bk-EBDB)](drugs/eutylone.md)
+- [3-MMC (3-methylmethcathinone)](drugs/3-mmc.md)
 
 ## Route: Oral (swallowed)
 
@@ -438,7 +449,7 @@
 - [Methadols and acetylmethadols (alphacetylmethadol, betamethadol, noracymethadol)](routes/oral/methadols.md)
 - [Cannabis flower (marijuana)](routes/oral/cannabis-flower.md)
 - [Cannabis edibles](routes/oral/cannabis-edibles.md)
-- [Delta-8-THC, THC-O and HHC (hemp-derived cannabinoids)](routes/oral/delta-8-thc.md)
+- [Delta-8-THC](routes/oral/delta-8-thc.md)
 - [Dronabinol and nabilone (prescription THC)](routes/oral/dronabinol-nabilone.md)
 - [Ketamine](routes/oral/ketamine.md)
 - [DXM (dextromethorphan)](routes/oral/dxm.md)
@@ -450,12 +461,18 @@
 - [Modafinil and armodafinil (Provigil, Nuvigil)](routes/oral/modafinil.md)
 - [Caffeine](routes/oral/caffeine.md)
 - [Nicotine](routes/oral/nicotine.md)
-- [Phentermine and older appetite suppressants](routes/oral/phentermine.md)
+- [Phentermine (Adipex-P, Lomaira) and benzphetamine](routes/oral/phentermine.md)
 - [Ephedrine, pseudoephedrine and ephedra](routes/oral/ephedrine.md)
 - [Khat and cathinone](routes/oral/khat-cathinone.md)
 - [Mephedrone (4-MMC)](routes/oral/mephedrone.md)
-- [Methylone and eutylone](routes/oral/methylone.md)
-- [Other synthetic cathinones (N-ethylpentylone, 3-MMC, 4-MEC, hexen and others)](routes/oral/other-cathinones.md)
+- [Methylone (bk-MDMA)](routes/oral/methylone.md)
+- [Other synthetic cathinones (N-ethylpentylone, 4-MEC, pentedrone, hexen, alpha-PHP and others)](routes/oral/other-cathinones.md)
+- [Eutylone (bk-EBDB)](routes/oral/eutylone.md)
+- [3-MMC (3-methylmethcathinone)](routes/oral/3-mmc.md)
+- [THC-O acetate](routes/oral/thc-o.md)
+- [HHC (hexahydrocannabinol)](routes/oral/hhc.md)
+- [Diethylpropion (amfepramone)](routes/oral/diethylpropion.md)
+- [Phendimetrazine (Bontril)](routes/oral/phendimetrazine.md)
 
 ## Route: Sublingual and buccal (under the tongue or in the cheek)
 
@@ -501,7 +518,8 @@
 - [Mephedrone (4-MMC)](routes/intranasal/mephedrone.md)
 - [MDPV](routes/intranasal/mdpv.md)
 - [Alpha-PVP (flakka)](routes/intranasal/alpha-pvp.md)
-- [Other synthetic cathinones (N-ethylpentylone, 3-MMC, 4-MEC, hexen and others)](routes/intranasal/other-cathinones.md)
+- [Other synthetic cathinones (N-ethylpentylone, 4-MEC, pentedrone, hexen, alpha-PHP and others)](routes/intranasal/other-cathinones.md)
+- [3-MMC (3-methylmethcathinone)](routes/intranasal/3-mmc.md)
 
 ## Route: Rectal (suppositories)
 
@@ -598,7 +616,7 @@
 - [Methaqualone (Quaaludes)](routes/inhaled-smoked/methaqualone.md)
 - [Cannabis flower (marijuana)](routes/inhaled-smoked/cannabis-flower.md)
 - [Cannabis concentrates (wax, shatter, dabs, vape oil)](routes/inhaled-smoked/cannabis-concentrates.md)
-- [Delta-8-THC, THC-O and HHC (hemp-derived cannabinoids)](routes/inhaled-smoked/delta-8-thc.md)
+- [Delta-8-THC](routes/inhaled-smoked/delta-8-thc.md)
 - [Synthetic cannabinoids (K2, Spice)](routes/inhaled-smoked/synthetic-cannabinoids.md)
 - [PCP (phencyclidine)](routes/inhaled-smoked/pcp.md)
 - [Nitrous oxide (laughing gas)](routes/inhaled-smoked/nitrous-oxide.md)
@@ -610,6 +628,8 @@
 - [Crack cocaine](routes/inhaled-smoked/crack-cocaine.md)
 - [Nicotine](routes/inhaled-smoked/nicotine.md)
 - [Alpha-PVP (flakka)](routes/inhaled-smoked/alpha-pvp.md)
+- [THC-O acetate](routes/inhaled-smoked/thc-o.md)
+- [HHC (hexahydrocannabinol)](routes/inhaled-smoked/hhc.md)
 
 ## Brand and combination products
 

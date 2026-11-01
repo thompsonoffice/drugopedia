@@ -7,11 +7,11 @@ from touch import touch
 from lohi import lohi
 from er import er
 import dep_common as DC
-for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo","spec","dep_common","data_dep","data_audit","data_audit2","rewrite","new_common","data_new"]:
+for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo","spec","dep_common","data_dep","data_audit","data_audit2","rewrite","new_common","data_new","new_common2","data_split","data_psy","data_emp","data_alc","data_del","data_oth","ext_new"]:
     try: importlib.import_module(m)
     except ModuleNotFoundError as e:
         if e.name!=m: raise
-CATS={"opioid":"Opioids (prescription, heroin, and fentanyl)","atypical":"Atypical opioids","nso":"Novel synthetic opioids","benzo":"Benzodiazepines (prescription)","rcbenzo":"Designer and research-chemical benzodiazepines","relax":"Muscle relaxants","barb":"Barbiturates","hyp":"Sedative-hypnotics (sleep drugs and related)","gaba":"Gabapentinoids","cann":"Cannabis and cannabinoids","diss":"Anesthetics and dissociatives","inh":"Inhalants","stim":"Stimulants","cath":"Synthetic cathinones (bath salts)"}
+CATS={"opioid":"Opioids (prescription, heroin, and fentanyl)","atypical":"Atypical opioids","nso":"Novel synthetic opioids","benzo":"Benzodiazepines (prescription)","rcbenzo":"Designer and research-chemical benzodiazepines","relax":"Muscle relaxants","barb":"Barbiturates","hyp":"Sedative-hypnotics (sleep drugs and related)","gaba":"Gabapentinoids","cann":"Cannabis and cannabinoids","diss":"Anesthetics and dissociatives","inh":"Inhalants","stim":"Stimulants","cath":"Synthetic cathinones (bath salts)","psy":"Psychedelics","emp":"Empathogens (MDMA and relatives)","alc":"Alcohol","del":"Deliriants and anticholinergics","oth":"Other psychoactive substances"}
 SAFE={"opioid":("opioid-overdose.md","What an opioid overdose feels and looks like, and what to do"),
 "benzo":("benzodiazepine-safety.md","Benzodiazepine safety: overdose, mixing, blackouts, and withdrawal")}
 TOL={"opioid":"Tolerance changes everything here. Someone who has never used opioids feels far stronger effects, more nausea, and much higher overdose risk than someone who uses daily, and people who use every day often say they mainly feel 'normal' rather than high.",
@@ -42,7 +42,7 @@ def w(p,s):
 def srcs(d): return "## Sources\n\n"+"\n".join(f"- {s}" for s in d["sources"])+"\n"
 def base(d):
     c=d.get("cat","opioid")
-    return "benzo" if c in("benzo","rcbenzo") else c if c in("relax","barb","hyp","gaba","cann","diss","inh","stim","cath") else "opioid"
+    return "benzo" if c in("benzo","rcbenzo") else c if c in("relax","barb","hyp","gaba","cann","diss","inh","stim","cath","psy","emp","alc","del","oth") else "opioid"
 for _c in("relax","barb","hyp","gaba"):
     SAFE[_c]=("depressant-mixing.md","Mixing depressants: why combinations kill and what to do")
     TOL[_c]="Tolerance to the pleasant and sleep effects builds with regular use, but tolerance to slowed breathing builds more slowly, so the danger stays. Daily use can lead to dependence, and stopping suddenly can be dangerous."
@@ -87,7 +87,7 @@ for slug,d in D.items():
 print(len(D),"drugs",counts,"route entries")
 ix="# Drugopedia index\n\n## Safety\n\n- [Opioid overdose: what it feels like, looks like, and what to do](safety/opioid-overdose.md)\n- [Xylazine (tranq) safety](safety/xylazine.md)\n\n## Overdose reversal medicines\n\n- [Naloxone (Narcan)](narcan/naloxone.md)\n- [Nalmefene (Opvee)](narcan/nalmefene.md)\n"
 if os.path.exists("safety/benzodiazepine-safety.md"): ix+="- [Benzodiazepine safety](safety/benzodiazepine-safety.md)\n"
-ix+="- [Mixing depressants](safety/depressant-mixing.md)\n- [Cannabis safety](safety/cannabis-safety.md)\n- [Dissociative safety](safety/dissociative-safety.md)\n- [Inhalant safety](safety/inhalant-safety.md)\n- [Stimulant and cathinone safety](safety/stimulant-safety.md)\n"
+ix+="- [Mixing depressants](safety/depressant-mixing.md)\n- [Cannabis safety](safety/cannabis-safety.md)\n- [Dissociative safety](safety/dissociative-safety.md)\n- [Inhalant safety](safety/inhalant-safety.md)\n- [Stimulant and cathinone safety](safety/stimulant-safety.md)\n- [Psychedelic safety](safety/psychedelic-safety.md)\n- [Empathogen (MDMA) safety](safety/empathogen-safety.md)\n- [Alcohol safety](safety/alcohol-safety.md)\n- [Deliriant safety](safety/deliriant-safety.md)\n- [Other psychoactives safety](safety/other-psychoactives-safety.md)\n"
 for c,cn in CATS.items():
     L=[k for k,d in D.items() if d.get("cat","opioid")==c]
     if not L: continue

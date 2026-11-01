@@ -50,9 +50,9 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 Effects start within seconds of inhaling.
 
-Medically, the onset reflects how quickly the drug reaches the brain. Nitrous blocks NMDA receptors and inactivates vitamin B12. As NMDA receptors are blocked, signals from the senses stop being integrated normally, so the body feels distant and numb.
+Nitrous oxide is poorly soluble in blood, so it reaches equilibrium in the brain within seconds and leaves just as fast.
 
-Early signs include unsteady walking, slurred speech, numbness, a faster heartbeat and raised blood pressure (for NMDA blockers), and nystagmus (jerky eye movements).
+Breathing it without oxygen lowers blood oxygen; large tanks deliver very cold gas that can freeze tissue.
 
 ### Come-up (10-20 s)
 
@@ -62,9 +62,9 @@ A rush of tingling and sound distortion follows.
 
 The peak lasts seconds to a minute.
 
-Medically, the peak is maximal dissociation: perception, body awareness and memory are profoundly altered, and at high levels people may be unable to move or respond (the 'K-hole' for ketamine). Pain is not felt, so injuries go unnoticed.
+At the peak, NMDA blockade and endorphin release give dissociation and pain relief; falls and fainting are the main acute risks.
 
-Dangers at the peak include falls, drowning, choking on vomit, and, with alcohol or other depressants, breathing problems. PCP and DXM can cause agitation, high body temperature and violence; propofol and etomidate stop breathing easily.
+Using bags, masks, or enclosed spaces has caused deaths by asphyxiation.
 
 ### Plateau (1-2 min)
 
@@ -74,9 +74,9 @@ Brief plateau.
 
 Effects fade within 2 to 5 minutes.
 
-As levels fall, people 'come back' gradually, often confused, nauseated and unsteady, with disjointed memories.
+Effects end within minutes as the gas is breathed out.
 
-Repeated ketamine use damages the bladder (ketamine cystitis) and can harm memory; regular dissociative use can cause lasting low mood and, in some, psychosis.
+Nitrous oxide irreversibly oxidizes the cobalt in vitamin B12, blocking the enzyme methionine synthase; repeated use causes spinal cord degeneration (myeloneuropathy), numbness and weakness, which needs B12 treatment and may not fully recover.
 
 ### After-effects (minutes)
 
