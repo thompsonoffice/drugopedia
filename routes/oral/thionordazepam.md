@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (1-2 h)
 
-Thionordazepam usually begins within about 1-2 h.
+Thionordazepam begins slowly, over 1 to 2 hours.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, a long starts to appear.
 
 ### Peak (2-4 h)
 
-The peak, around 2-4 h, brings a long, mild calm.
+The peak brings a long, mild calm.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (long)
 
-Effects fade over long.
+As it wears off, it lingers for a day or more.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general Thionordazepam page](../../drugs/thionordazepam.md).
 

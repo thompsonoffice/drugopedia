@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (30-90 min)
 
-Delorazepam usually begins within about 30-90 min.
+Delorazepam begins within about 30 to 90 minutes.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, a steady starts to appear.
 
 ### Peak (1-2 h)
 
-The peak, around 1-2 h, brings a long, steady, diazepam-like calm.
+The peak brings a steady, diazepam-like muscle and mind relaxation.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (2-4 days)
 
-Effects fade over 2-4 days.
+As it wears off, it lingers for days because of its long half-life.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general Delorazepam (EN) page](../../drugs/delorazepam.md).
 

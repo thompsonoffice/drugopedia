@@ -14,31 +14,31 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (seconds to minutes)
 
-Fentanyl analogs usually begins within seconds to minutes, with a rush of heaviness.
+Injected or smoked fentanyl analogs act within seconds; snorted within minutes.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+A rush of heaviness with little warning.
 
 ### Peak (strong and short)
 
-The peak is strong and short.
+The peak is strong and short, and strength varies hugely between analogs (some far weaker, some far stronger than fentanyl).
 
 ### Plateau (under an hour to a few hours)
 
-A plateau of under an hour to a few hours.
+Under an hour to a few hours.
 
 ### Comedown (2 to 4 hours)
 
-Effects fade over 2 to 4 hours.
+Effects fade fast, often within 2 to 4 hours, driving redosing.
 
 ### After-effects (hours after)
 
-Craving.
+Craving and early withdrawal.
 
 ### Next day
 
-Withdrawal-like low.
+Next-day withdrawal in regular users.
 
 For the full, detailed description of each phase, see the [general Fentanyl analogs (acetylfentanyl, furanylfentanyl, ocfentanil, alpha-methylfentanyl and others) page](../../drugs/fentanyl-analogs.md).
 

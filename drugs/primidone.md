@@ -48,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Effects begin within about 1-2 h.
+Primidone takes 1 to 2 hours to begin; early doses often cause dizziness and nausea.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Primidone is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -56,11 +56,11 @@ Early signs are like alcohol intoxication: loosened inhibitions, slurred speech,
 
 ### Come-up (2-4 h)
 
-Drowsiness and loosened coordination build.
+Unsteadiness.
 
 ### Peak (3-4 h)
 
-The peak is the deepest sedation.
+The peak brings drowsiness and, in the first weeks, clumsiness.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +68,11 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (many hours)
 
-Plateau of many hours.
+Long.
 
 ### Comedown (1-3 days (phenobarbital))
 
-Effects fade over 1-3 days (phenobarbital).
+Its phenobarbital metabolite lasts for days.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 
@@ -80,11 +80,11 @@ Tolerance to the pleasant effects builds faster than tolerance to the breathing 
 
 ### After-effects (days)
 
-Grogginess and poor sleep quality.
+Sedation.
 
 ### Next day (still active)
 
-Next-day effects: still active.
+Still active.
 
 ### Lower vs higher doses (described without amounts)
 

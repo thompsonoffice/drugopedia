@@ -48,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Effects begin within about 30-60 min.
+Aprobarbital begins within about 30 to 60 minutes.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Aprobarbital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -56,11 +56,11 @@ Early signs are like alcohol intoxication: loosened inhibitions, slurred speech,
 
 ### Come-up (1 h)
 
-Drowsiness and loosened coordination build.
+Calm and drowsiness.
 
 ### Peak (1-3 h)
 
-The peak is the deepest sedation.
+The peak is moderate sedation and sleep.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +68,11 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (3-6 h)
 
-Plateau of 3-6 h.
+Several hours.
 
 ### Comedown (6-8 h)
 
-Effects fade over 6-8 h.
+Fades over 6 to 8 hours.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 
@@ -80,11 +80,11 @@ Tolerance to the pleasant effects builds faster than tolerance to the breathing 
 
 ### After-effects (8-24 h)
 
-Grogginess and poor sleep quality.
+Grogginess.
 
 ### Next day (hangover)
 
-Next-day effects: hangover.
+Hangover.
 
 ### Lower vs higher doses (described without amounts)
 

@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (15-30 min)
 
-Clobromazolam usually begins within about 15-30 min.
+Clobromazolam begins within about 15 to 30 minutes.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, very potent sedation and blackouts starts to appear.
 
 ### Peak (1-2 h)
 
-The peak, around 1-2 h, brings very potent sedation and blackouts.
+The peak brings very potent sedation and blackouts; it has been found mixed with fentanyl.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (8-12 h)
 
-Effects fade over 8-12 h.
+As it wears off, it fades over 8 to 12 hours.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general Clobromazolam page](../../drugs/clobromazolam.md).
 

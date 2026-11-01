@@ -48,7 +48,7 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (minutes when injected)
 
-Desomorphine usually begins within minutes when injected, with a rush of warmth.
+Injected street desomorphine hits within a minute or two with a strong, heroin-like rush of warmth.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -56,11 +56,11 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+There is almost no come-up; the rush is the come-up.
 
 ### Peak (intense but brief)
 
-The peak is intense but brief.
+The peak is intense but short, with heavy sedation and euphoria.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +68,11 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (about an hour)
 
-A plateau of about an hour.
+The plateau lasts only about an hour.
 
 ### Comedown (2 to 3 hours)
 
-Effects fade over 2 to 3 hours.
+Effects fade within 2 to 3 hours, which drives very frequent redosing.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
@@ -80,11 +80,11 @@ For long-acting or extended-release forms, the comedown can be very drawn out, a
 
 ### After-effects (hours after)
 
-Craving and withdrawal start quickly.
+Withdrawal and craving begin quickly; the toxic chemicals in homemade krokodil cause burning at the injection site.
 
 ### Next day
 
-Severe withdrawal by next day with regular use.
+With regular use, gangrene, bone and jaw damage, and severe infections appear within weeks or months.
 
 ### Lower vs higher doses (described without amounts)
 

@@ -14,23 +14,23 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (20 to 40 minutes)
 
-Nicocodeine usually begins within 20 to 40 minutes, with warmth.
+Nicocodeine begins within about 20 to 40 minutes, a bit faster than codeine.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+A warm, cough-quieting calm.
 
 ### Peak (mild to moderate)
 
-The peak is mild to moderate.
+The peak is mild to moderate warmth and drowsiness.
 
 ### Plateau (a few hours)
 
-A plateau of a few hours.
+A few hours.
 
 ### Comedown (4 to 6 hours)
 
-Effects fade over 4 to 6 hours.
+Fades over 4 to 6 hours.
 
 ### After-effects (hours after)
 
@@ -38,7 +38,7 @@ Constipation.
 
 ### Next day
 
-Little.
+Little next-day effect.
 
 For the full, detailed description of each phase, see the [general Nicocodeine (Vilan) page](../../drugs/nicocodeine.md).
 

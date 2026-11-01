@@ -48,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Effects began within about about 30 min.
+Glutethimide began within about 30 minutes, with heavy sedation and a very dry mouth.
 
 Medically, the onset reflects absorption and entry into the brain. Glutethimide was processed by the liver. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -56,11 +56,11 @@ Clinicians advise taking hypnotics only right before bed, because people who sta
 
 ### Come-up (30-60 min)
 
-Drowsiness and clumsiness built.
+Clumsiness and drowsiness.
 
 ### Peak (1-2 h)
 
-Peak sedation came around 1-2 h.
+The peak was barbiturate-like; with codeine ('loads') it greatly deepened opioid effects.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -68,11 +68,11 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (2-6 h)
 
-Sedation or sleep for 2-6 h.
+Several hours.
 
 ### Comedown (many hours)
 
-Effects faded over many hours.
+It faded over many hours, and its fat solubility made overdoses last days.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 
@@ -80,11 +80,11 @@ Nightly use can cause tolerance and rebound insomnia on stopping; some hypnotics
 
 ### After-effects (1-2 days)
 
-Grogginess and confusion.
+Confusion, dry mouth.
 
 ### Next day (hangover)
 
-Next-day hangover.
+Hangover.
 
 ### Lower vs higher doses (described without amounts)
 

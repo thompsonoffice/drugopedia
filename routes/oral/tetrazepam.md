@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (30-60 min)
 
-Tetrazepam usually begins within about 30-60 min.
+Tetrazepam begins within about 30 to 60 minutes.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, muscle loosening with mild drowsiness starts to appear.
 
 ### Peak (1-2 h)
 
-The peak, around 1-2 h, brings muscle loosening with mild sedation.
+The peak brings muscle loosening with mild drowsiness.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (10-20 h)
 
-Effects fade over 10-20 h.
+As it wears off, it fades over 10 to 20 hours.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general Tetrazepam page](../../drugs/tetrazepam.md).
 

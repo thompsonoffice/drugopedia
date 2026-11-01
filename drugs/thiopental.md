@@ -48,7 +48,7 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV 30-60 sec)
 
-Effects begin within about IV 30-60 sec.
+Given IV, thiopental causes unconsciousness within about 30 to 60 seconds, often with a garlic or onion taste.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Thiopental is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -56,11 +56,11 @@ Early signs are like alcohol intoxication: loosened inhibitions, slurred speech,
 
 ### Come-up (immediate)
 
-Drowsiness and loosened coordination build.
+Immediate.
 
 ### Peak (within 1 min)
 
-The peak is the deepest sedation.
+Deep anesthesia.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +68,11 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (5-10 min)
 
-Plateau of 5-10 min.
+Five to ten minutes after a single dose.
 
 ### Comedown (10-30 min)
 
-Effects fade over 10-30 min.
+Waking within 10 to 30 minutes, but it builds up in fat with repeated doses.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 
@@ -80,11 +80,11 @@ Tolerance to the pleasant effects builds faster than tolerance to the breathing 
 
 ### After-effects (hours of grogginess)
 
-Grogginess and poor sleep quality.
+Hours of grogginess.
 
 ### Next day (none)
 
-Next-day effects: none.
+Usually none.
 
 ### Lower vs higher doses (described without amounts)
 

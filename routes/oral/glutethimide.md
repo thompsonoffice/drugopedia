@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually; food can slow
 
 ### Onset (about 30 min)
 
-Effects began within about about 30 min.
+Glutethimide began within about 30 minutes, with heavy sedation and a very dry mouth.
 
 ### Come-up (30-60 min)
 
-Drowsiness and clumsiness built.
+Clumsiness and drowsiness.
 
 ### Peak (1-2 h)
 
-Peak sedation came around 1-2 h.
+The peak was barbiturate-like; with codeine ('loads') it greatly deepened opioid effects.
 
 ### Plateau (2-6 h)
 
-Sedation or sleep for 2-6 h.
+Several hours.
 
 ### Comedown (many hours)
 
-Effects faded over many hours.
+It faded over many hours, and its fat solubility made overdoses last days.
 
 ### After-effects (1-2 days)
 
-Grogginess and confusion.
+Confusion, dry mouth.
 
 ### Next day (hangover)
 
-Next-day hangover.
+Hangover.
 
 For the full, detailed description of each phase, see the [general Glutethimide (Doriden) page](../../drugs/glutethimide.md).
 

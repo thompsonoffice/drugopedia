@@ -65,6 +65,18 @@
 - [Propiram](drugs/propiram.md)
 - [2-methyl-AP-237 and AP-237 (bucinnazine)](drugs/ap-237.md)
 - [Thebaine and oripavine](drugs/thebaine-oripavine.md)
+- [MPPP and PEPAP ('synthetic heroin')](drugs/mppp-pepap.md)
+- [Phenazocine (Narphen)](drugs/phenazocine.md)
+- [Racemorphan, levomethorphan and levorphanol relatives](drugs/racemorphan.md)
+- [Trimeperidine (Promedol)](drugs/trimeperidine.md)
+- [Thebacon (Acedicon)](drugs/thebacon.md)
+- [Benzylmorphine (Peronine)](drugs/benzylmorphine.md)
+- [Phenoperidine (Operidine)](drugs/phenoperidine.md)
+- [Metazocine](drugs/metazocine.md)
+- [Hydromorphinol and normorphine](drugs/hydromorphinol.md)
+- [Thiambutenes (diethylthiambutene and relatives)](drugs/thiambutenes.md)
+- [Prodines (allylprodine, alphameprodine, betaprodine and relatives)](drugs/prodines.md)
+- [Methadols and acetylmethadols (alphacetylmethadol, betamethadol, noracymethadol)](drugs/methadols.md)
 
 ## Atypical opioids: general pages
 
@@ -132,6 +144,7 @@
 - [Gidazepam](drugs/gidazepam.md)
 - [Tofisopam](drugs/tofisopam.md)
 - [Bentazepam](drugs/bentazepam.md)
+- [Zolazepam (in Telazol)](drugs/zolazepam.md)
 
 ## Designer and research-chemical benzodiazepines: general pages
 
@@ -361,6 +374,14 @@
 - [Bentazepam](routes/oral/bentazepam.md)
 - [Cloniprazepam](routes/oral/cloniprazepam.md)
 - [Norflurazepam (desalkylflurazepam)](routes/oral/norflurazepam.md)
+- [Phenazocine (Narphen)](routes/oral/phenazocine.md)
+- [Racemorphan, levomethorphan and levorphanol relatives](routes/oral/racemorphan.md)
+- [Thebacon (Acedicon)](routes/oral/thebacon.md)
+- [Benzylmorphine (Peronine)](routes/oral/benzylmorphine.md)
+- [Metazocine](routes/oral/metazocine.md)
+- [Hydromorphinol and normorphine](routes/oral/hydromorphinol.md)
+- [Thiambutenes (diethylthiambutene and relatives)](routes/oral/thiambutenes.md)
+- [Methadols and acetylmethadols (alphacetylmethadol, betamethadol, noracymethadol)](routes/oral/methadols.md)
 
 ## Route: Sublingual and buccal (under the tongue or in the cheek)
 
@@ -468,6 +489,11 @@
 - [Oliceridine (Olinvyk)](routes/injected/oliceridine.md)
 - [Fentanyl analogs (acetylfentanyl, furanylfentanyl, ocfentanil, alpha-methylfentanyl and others)](routes/injected/fentanyl-analogs.md)
 - [Brorphine and orphine-class opioids](routes/injected/brorphine.md)
+- [MPPP and PEPAP ('synthetic heroin')](routes/injected/mppp-pepap.md)
+- [Trimeperidine (Promedol)](routes/injected/trimeperidine.md)
+- [Phenoperidine (Operidine)](routes/injected/phenoperidine.md)
+- [Prodines (allylprodine, alphameprodine, betaprodine and relatives)](routes/injected/prodines.md)
+- [Zolazepam (in Telazol)](routes/injected/zolazepam.md)
 
 ## Route: Inhaled and smoked
 

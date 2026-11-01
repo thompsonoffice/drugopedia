@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually; food can slow
 
 ### Onset (15-60 min)
 
-Effects began within about 15-60 min.
+Ethchlorvynol began within 15 to 60 minutes with a minty aftertaste.
 
 ### Come-up (30-60 min)
 
-Drowsiness and clumsiness built.
+Fast, drunk-like looseness.
 
 ### Peak (1-1.5 h)
 
-Peak sedation came around 1-1.5 h.
+The peak was a strong sedation.
 
 ### Plateau (2-4 h)
 
-Sedation or sleep for 2-4 h.
+A few hours.
 
 ### Comedown (about 5 h)
 
-Effects faded over about 5 h.
+Faded over about 5 hours, though overdoses lasted much longer.
 
 ### After-effects (5-24 h)
 
-Grogginess and confusion.
+Grogginess.
 
 ### Next day (hangover)
 
-Next-day hangover.
+Hangover.
 
 For the full, detailed description of each phase, see the [general Ethchlorvynol (Placidyl) page](../../drugs/ethchlorvynol.md).
 

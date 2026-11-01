@@ -48,7 +48,7 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV under 1 min)
 
-Effects begin within about IV under 1 min.
+Given IV, methohexital causes unconsciousness within about 30 to 60 seconds.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Methohexital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -56,11 +56,11 @@ Early signs are like alcohol intoxication: loosened inhibitions, slurred speech,
 
 ### Come-up (immediate)
 
-Drowsiness and loosened coordination build.
+Immediate.
 
 ### Peak (within 1 min)
 
-The peak is the deepest sedation.
+Deep unconsciousness for a few minutes; muscle twitches and hiccups can occur.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +68,11 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (5-10 min)
 
-Plateau of 5-10 min.
+Five to ten minutes.
 
 ### Comedown (10-20 min)
 
-Effects fade over 10-20 min.
+Wakes within 10 to 20 minutes.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 
@@ -80,11 +80,11 @@ Tolerance to the pleasant effects builds faster than tolerance to the breathing 
 
 ### After-effects (under 1 h)
 
-Grogginess and poor sleep quality.
+Brief confusion.
 
 ### Next day (none)
 
-Next-day effects: none.
+None.
 
 ### Lower vs higher doses (described without amounts)
 

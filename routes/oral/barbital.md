@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually; food can slow
 
 ### Onset (about 1 h)
 
-Effects begin within about about 1 h.
+Barbital starts slowly, about an hour after swallowing.
 
 ### Come-up (1-2 h)
 
-Drowsiness and loosened coordination build.
+Heavy drowsiness creeps in.
 
 ### Peak (several hours)
 
-The peak is the deepest sedation.
+The peak is a deep, unrefreshing sleep.
 
 ### Plateau (many hours)
 
-Plateau of many hours.
+Many hours.
 
 ### Comedown (1-3 days)
 
-Effects fade over 1-3 days.
+It lingers for a day or more because it is cleared slowly by the kidneys.
 
 ### After-effects (days)
 
-Grogginess and poor sleep quality.
+Confusion and sluggishness.
 
 ### Next day (still active)
 
-Next-day effects: still active.
+Still active the next day.
 
 For the full, detailed description of each phase, see the [general Barbital (Veronal) page](../../drugs/barbital.md).
 

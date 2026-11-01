@@ -14,31 +14,31 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (2 to 5 minutes IV)
 
-Oliceridine usually begins within 2 to 5 minutes IV, with drowsiness.
+Given IV in hospitals, oliceridine starts working within about 2 to 5 minutes.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+Drowsiness and pain relief rise quickly.
 
 ### Peak
 
-The peak is moderate pain relief and sedation.
+The peak brings moderate pain relief and sleepiness; nausea and vomiting are common.
 
 ### Plateau (1 to 3 hours)
 
-A plateau of 1 to 3 hours.
+Effects last around 1 to 3 hours.
 
 ### Comedown (3 hours or so)
 
-Effects fade over 3 hours or so.
+They fade as the drug is cleared by the liver.
 
 ### After-effects (hours after)
 
-Nausea.
+Nausea, dizziness.
 
 ### Next day
 
-Little.
+Usually little next-day effect.
 
 For the full, detailed description of each phase, see the [general Oliceridine (Olinvyk) page](../../drugs/oliceridine.md).
 

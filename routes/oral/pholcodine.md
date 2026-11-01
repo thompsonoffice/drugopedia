@@ -14,31 +14,31 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (about 30 minutes)
 
-Pholcodine usually begins within about 30 minutes, with mild drowsiness.
+Pholcodine syrup starts within about 30 minutes, quietening the cough reflex.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+Mild drowsiness at most.
 
 ### Peak (mild)
 
-The peak is mild.
+The peak is mostly cough relief; it has little pain relief or euphoria.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+Cough relief lasts many hours because of a long half-life.
 
 ### Comedown (about 8 to 12 hours)
 
-Effects fade over about 8 to 12 hours.
+Fades over about 8 to 12 hours.
 
 ### After-effects (hours after)
 
-Mild drowsiness.
+Mild drowsiness or constipation.
 
 ### Next day
 
-Little.
+Little next-day effect.
 
 For the full, detailed description of each phase, see the [general Pholcodine page](../../drugs/pholcodine.md).
 

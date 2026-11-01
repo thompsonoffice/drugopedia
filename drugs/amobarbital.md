@@ -48,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Effects begin within about 15-30 min.
+Swallowed amobarbital begins within about 15 to 30 minutes with a loosening of speech; this is why it was used in 'Amytal interviews'.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Amobarbital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -56,11 +56,11 @@ Early signs are like alcohol intoxication: loosened inhibitions, slurred speech,
 
 ### Come-up (30 min)
 
-Drowsiness and loosened coordination build.
+Inhibitions fall and words come easily.
 
 ### Peak (1-2 h)
 
-The peak is the deepest sedation.
+The peak is a drunk-like sedation, slurred and unsteady.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +68,11 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (2-4 h)
 
-Plateau of 2-4 h.
+A few hours.
 
 ### Comedown (6-8 h)
 
-Effects fade over 6-8 h.
+Fades over 6 to 8 hours.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 
@@ -80,11 +80,11 @@ Tolerance to the pleasant effects builds faster than tolerance to the breathing 
 
 ### After-effects (8-24 h)
 
-Grogginess and poor sleep quality.
+Grogginess.
 
 ### Next day (hangover)
 
-Next-day effects: hangover.
+Hangover the next day.
 
 ### Lower vs higher doses (described without amounts)
 

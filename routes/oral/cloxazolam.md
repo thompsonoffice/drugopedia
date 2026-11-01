@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (30-60 min)
 
-Cloxazolam usually begins within about 30-60 min.
+Cloxazolam begins within about 30 to 60 minutes.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, gentle anxiety relief starts to appear.
 
 ### Peak (1-2 h)
 
-The peak, around 1-2 h, brings a gentle anxiety relief.
+The peak brings gentle anxiety relief.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (long)
 
-Effects fade over long.
+As it wears off, its active metabolites linger for a day or more.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general Cloxazolam page](../../drugs/cloxazolam.md).
 

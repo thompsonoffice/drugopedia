@@ -14,31 +14,31 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (seconds to minutes)
 
-Etorphine usually begins within seconds to minutes, with sudden heaviness.
+In accidental human exposure, effects begin within seconds to minutes: sudden dizziness, heaviness and confusion.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+There is no meaningful come-up before collapse can occur.
 
 ### Peak
 
-The peak is profound sedation and stopped breathing.
+The 'peak' is profound sedation, pinpoint pupils and breathing that slows or stops.
 
 ### Plateau (long)
 
-A plateau of long.
+Without treatment, it lasts for hours.
 
 ### Comedown (hours)
 
-Effects fade over hours.
+With naloxone or diprenorphine and medical care, recovery can still take hours, and sedation can return.
 
 ### After-effects (hours after)
 
-Medical emergency.
+Exhaustion, nausea, possible brain injury from low oxygen.
 
 ### Next day
 
-Medical follow-up.
+Medical follow-up is needed.
 
 For the full, detailed description of each phase, see the [general Etorphine (M99) page](../../drugs/etorphine.md).
 

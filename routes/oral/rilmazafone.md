@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (1-2 h)
 
-Rilmazafone usually begins within about 1-2 h.
+Rilmazafone begins slowly, over 1 to 2 hours, because the body has to convert it into an active benzodiazepine.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, heavy sleepiness that arrives later than people expect starts to appear.
 
 ### Peak (2-3 h)
 
-The peak, around 2-3 h, brings slow-starting heavy sleepiness.
+The peak brings heavy sleepiness that arrives later than people expect.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (8-12 h)
 
-Effects fade over 8-12 h.
+As it wears off, it fades over 8 to 12 hours.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general Rilmazafone page](../../drugs/rilmazafone.md).
 

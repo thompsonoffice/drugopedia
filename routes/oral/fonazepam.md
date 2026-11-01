@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (20-40 min)
 
-Fonazepam usually begins within about 20-40 min.
+Fonazepam begins within about 20 to 40 minutes.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, strong sleepiness similar to flunitrazepam starts to appear.
 
 ### Peak (1-2 h)
 
-The peak, around 1-2 h, brings strong sleepiness.
+The peak brings strong sleepiness similar to flunitrazepam.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (8-12 h)
 
-Effects fade over 8-12 h.
+As it wears off, it fades over 8 to 12 hours.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general Fonazepam (desmethylflunitrazepam) page](../../drugs/fonazepam.md).
 

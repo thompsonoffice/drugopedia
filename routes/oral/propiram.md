@@ -14,23 +14,23 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (about 30 minutes)
 
-Propiram usually begins within about 30 minutes, with mild warmth.
+Propiram starts within about 30 minutes with mild warmth.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+Gentle drowsiness.
 
 ### Peak (mild)
 
-The peak is mild.
+The peak is mild, limited by its partial action.
 
 ### Plateau (a few hours)
 
-A plateau of a few hours.
+A few hours.
 
 ### Comedown (3 to 5 hours)
 
-Effects fade over 3 to 5 hours.
+Fades over 3 to 5 hours.
 
 ### After-effects (hours after)
 

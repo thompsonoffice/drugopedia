@@ -14,31 +14,31 @@ Injection is a hospital route for anesthesia, seizures, or emergencies, with mon
 
 ### Onset (IV 30-60 sec)
 
-Effects begin within about IV 30-60 sec.
+Given IV, thiopental causes unconsciousness within about 30 to 60 seconds, often with a garlic or onion taste.
 
 ### Come-up (immediate)
 
-Drowsiness and loosened coordination build.
+Immediate.
 
 ### Peak (within 1 min)
 
-The peak is the deepest sedation.
+Deep anesthesia.
 
 ### Plateau (5-10 min)
 
-Plateau of 5-10 min.
+Five to ten minutes after a single dose.
 
 ### Comedown (10-30 min)
 
-Effects fade over 10-30 min.
+Waking within 10 to 30 minutes, but it builds up in fat with repeated doses.
 
 ### After-effects (hours of grogginess)
 
-Grogginess and poor sleep quality.
+Hours of grogginess.
 
 ### Next day (none)
 
-Next-day effects: none.
+Usually none.
 
 For the full, detailed description of each phase, see the [general Thiopental (Pentothal) page](../../drugs/thiopental.md).
 

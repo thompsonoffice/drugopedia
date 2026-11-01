@@ -14,31 +14,31 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (minutes when injected)
 
-Desomorphine usually begins within minutes when injected, with a rush of warmth.
+Injected street desomorphine hits within a minute or two with a strong, heroin-like rush of warmth.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+There is almost no come-up; the rush is the come-up.
 
 ### Peak (intense but brief)
 
-The peak is intense but brief.
+The peak is intense but short, with heavy sedation and euphoria.
 
 ### Plateau (about an hour)
 
-A plateau of about an hour.
+The plateau lasts only about an hour.
 
 ### Comedown (2 to 3 hours)
 
-Effects fade over 2 to 3 hours.
+Effects fade within 2 to 3 hours, which drives very frequent redosing.
 
 ### After-effects (hours after)
 
-Craving and withdrawal start quickly.
+Withdrawal and craving begin quickly; the toxic chemicals in homemade krokodil cause burning at the injection site.
 
 ### Next day
 
-Severe withdrawal by next day with regular use.
+With regular use, gangrene, bone and jaw damage, and severe infections appear within weeks or months.
 
 For the full, detailed description of each phase, see the [general Desomorphine (krokodil) page](../../drugs/desomorphine.md).
 

@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (1-2 h)
 
-Ethyl loflazepate usually begins within about 1-2 h.
+Ethyl loflazepate begins slowly, over 1 to 2 hours.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, a mild starts to appear.
 
 ### Peak (2-4 h)
 
-The peak, around 2-4 h, brings a very long, mild calm.
+The peak brings a mild, even calm.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (several days)
 
-Effects fade over several days.
+As it wears off, effects persist for several days.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general Ethyl loflazepate page](../../drugs/ethyl-loflazepate.md).
 

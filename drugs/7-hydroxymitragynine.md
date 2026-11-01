@@ -46,7 +46,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Swallowed, effects begin within 15 to 30 minutes with warmth and calm.
+7-OH tablets or shots usually begin within about 15 to 30 minutes, much faster and stronger than plain kratom, with a clear opioid warmth.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -54,11 +54,11 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 ### Come-up (30-60 min)
 
-A smooth build of euphoria and body heaviness.
+The come-up is quick and smooth, with heaviness and itch.
 
 ### Peak (1-2 h)
 
-Peak around 1 hour: opioid-like warmth, contentment, itch, and nodding.
+The peak, around 1 hour, feels like a prescription opioid: euphoria, sedation, nodding, and slowed breathing at higher amounts.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +66,11 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-Plateau of a couple of hours.
+A plateau of 1 to 3 hours.
 
 ### Comedown (4-6 h)
 
-Fades over 3 to 5 hours.
+Effects fade over about 3 to 5 hours, often leaving a craving to repeat.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
@@ -78,11 +78,11 @@ For long-acting or extended-release forms, the comedown can be very drawn out, a
 
 ### After-effects (6-24 h)
 
-Constipation and tiredness.
+Constipation, nausea, and low mood.
 
 ### Next day
 
-Daily users describe opioid-like withdrawal, often stronger than kratom withdrawal.
+Dependence develops fast; withdrawal resembles prescription opioid withdrawal and the FDA moved to restrict 7-OH products in 2025.
 
 ### Lower vs higher doses (described without amounts)
 

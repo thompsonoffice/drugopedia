@@ -14,19 +14,19 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (15 to 30 minutes when swallowed)
 
-Ketobemidone usually begins within 15 to 30 minutes when swallowed, with warmth and lightness.
+Swallowed ketobemidone begins within about 15 to 30 minutes with warmth and lightness.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+A quick, clean rise in mood with less itch than morphine.
 
 ### Peak (strong and euphoric)
 
-The peak is strong and euphoric.
+The peak brings strong euphoria and pain relief; its NMDA-blocking action may make it useful for nerve pain.
 
 ### Plateau (a few hours)
 
-A plateau of a few hours.
+A few hours of contentment.
 
 ### Comedown (3 to 5 hours)
 
@@ -34,11 +34,11 @@ Effects fade over 3 to 5 hours.
 
 ### After-effects (hours after)
 
-Sedation, constipation.
+Constipation and sleepiness.
 
 ### Next day
 
-Grogginess.
+In Scandinavia it was known as one of the most addictive prescription opioids.
 
 For the full, detailed description of each phase, see the [general Ketobemidone (Ketogan) page](../../drugs/ketobemidone.md).
 

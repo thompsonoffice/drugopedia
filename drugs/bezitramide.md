@@ -48,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (after about 1 to 2 hours)
 
-Bezitramide usually begins after about 1 to 2 hours, with slow heaviness.
+Bezitramide starts very slowly, 1 to 2 hours after swallowing, as it turns into its active form.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -56,11 +56,11 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+A creeping heaviness.
 
 ### Peak (flat and long)
 
-The peak is flat and long.
+The peak is flat but long.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +68,11 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (many hours)
 
-A plateau of many hours.
+It stays active for many hours.
 
 ### Comedown (a day or more)
 
-Effects fade over a day or more.
+It fades over a day or more, which caused delayed, unexpected overdoses.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
@@ -84,7 +84,7 @@ Constipation.
 
 ### Next day
 
-Still active.
+Still active the next day.
 
 ### Lower vs higher doses (described without amounts)
 

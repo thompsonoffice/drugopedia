@@ -14,19 +14,19 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ### Onset (minutes)
 
-Brorphine and orphine-class opioids usually begins within minutes, with heaviness.
+Brorphine, usually hidden in other drugs, acts within minutes when injected or smoked.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+Sudden heaviness.
 
 ### Peak (strong)
 
-The peak is strong.
+The peak is strong, fentanyl-like sedation.
 
 ### Plateau (a few hours)
 
-A plateau of a few hours.
+A few hours.
 
 ### Comedown (several hours)
 
@@ -38,7 +38,7 @@ Exhaustion.
 
 ### Next day
 
-Withdrawal.
+Withdrawal in regular users.
 
 For the full, detailed description of each phase, see the [general Brorphine and orphine-class opioids page](../../drugs/brorphine.md).
 

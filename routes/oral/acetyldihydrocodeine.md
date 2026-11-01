@@ -14,23 +14,23 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (30 to 60 minutes)
 
-Acetyldihydrocodeine usually begins within 30 to 60 minutes, with warmth.
+It begins within about 30 to 60 minutes with mild warmth.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+Gentle drowsiness.
 
 ### Peak (mild)
 
-The peak is mild.
+The peak is a mild codeine-like calm.
 
 ### Plateau (a few hours)
 
-A plateau of a few hours.
+A few hours.
 
 ### Comedown (4 to 6 hours)
 
-Effects fade over 4 to 6 hours.
+Fades over 4 to 6 hours.
 
 ### After-effects (hours after)
 
@@ -38,7 +38,7 @@ Constipation.
 
 ### Next day
 
-Little.
+Little next-day effect.
 
 For the full, detailed description of each phase, see the [general Acetyldihydrocodeine page](../../drugs/acetyldihydrocodeine.md).
 

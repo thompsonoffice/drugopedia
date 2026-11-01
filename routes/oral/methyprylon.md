@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually; food can slow
 
 ### Onset (about 45 min)
 
-Effects began within about about 45 min.
+Methyprylon began within about 45 minutes.
 
 ### Come-up (1 h)
 
-Drowsiness and clumsiness built.
+Drowsiness.
 
 ### Peak (1-2 h)
 
-Peak sedation came around 1-2 h.
+The peak was barbiturate-like sleep.
 
 ### Plateau (sleep)
 
-Sedation or sleep for sleep.
+Sleep.
 
 ### Comedown (5-8 h)
 
-Effects faded over 5-8 h.
+Faded over 5 to 8 hours.
 
 ### After-effects (8-24 h)
 
-Grogginess and confusion.
+Grogginess.
 
 ### Next day (hangover)
 
-Next-day hangover.
+Hangover.
 
 For the full, detailed description of each phase, see the [general Methyprylon (Noludar) page](../../drugs/methyprylon.md).
 

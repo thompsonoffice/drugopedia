@@ -14,31 +14,31 @@ Slower and steadier than injecting or snorting, faster than swallowing for some 
 
 ### Onset (minutes under the tongue)
 
-Dihydroetorphine usually begins within minutes under the tongue, with a quick warm wave.
+Under the tongue, dihydroetorphine begins within a few minutes with a quick warm wave.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+Warmth and euphoria rise fast.
 
 ### Peak (strong and short)
 
-The peak is strong and short.
+The peak is strong and heroin-like but short.
 
 ### Plateau (about an hour)
 
-A plateau of about an hour.
+The plateau lasts about an hour.
 
 ### Comedown (2 to 3 hours)
 
-Effects fade over 2 to 3 hours.
+Effects fade within 2 to 3 hours.
 
 ### After-effects (hours after)
 
-Craving.
+Craving and irritability.
 
 ### Next day
 
-Withdrawal-like low with repeated use.
+Tolerance and dependence build quickly; misuse spread in China in the 1990s.
 
 For the full, detailed description of each phase, see the [general Dihydroetorphine page](../../drugs/dihydroetorphine.md).
 

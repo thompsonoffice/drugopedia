@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (30-60 min)
 
-Cloniprazepam usually begins within about 30-60 min.
+Cloniprazepam begins within about 30 to 60 minutes, as it turns into clonazepam.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, a clonazepam-like long calm starts to appear.
 
 ### Peak (1-3 h)
 
-The peak, around 1-3 h, brings clonazepam-like long calm.
+The peak brings a clonazepam-like long calm.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (long)
 
-Effects fade over long.
+As it wears off, it lingers for a day or more.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general Cloniprazepam page](../../drugs/cloniprazepam.md).
 

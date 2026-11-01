@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (30-60 min)
 
-Fludiazepam usually begins within about 30-60 min.
+Fludiazepam begins within about 30 to 60 minutes.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, a strong calm for its class starts to appear.
 
 ### Peak (1 h)
 
-The peak, around 1 h, brings a strong calm.
+The peak brings a strong calm for its class.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (long)
 
-Effects fade over long.
+As it wears off, it fades slowly over many hours.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general Fludiazepam page](../../drugs/fludiazepam.md).
 

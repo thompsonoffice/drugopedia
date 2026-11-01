@@ -48,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Effects begin within about about 1 h.
+Barbital starts slowly, about an hour after swallowing.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Barbital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -56,11 +56,11 @@ Early signs are like alcohol intoxication: loosened inhibitions, slurred speech,
 
 ### Come-up (1-2 h)
 
-Drowsiness and loosened coordination build.
+Heavy drowsiness creeps in.
 
 ### Peak (several hours)
 
-The peak is the deepest sedation.
+The peak is a deep, unrefreshing sleep.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +68,11 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (many hours)
 
-Plateau of many hours.
+Many hours.
 
 ### Comedown (1-3 days)
 
-Effects fade over 1-3 days.
+It lingers for a day or more because it is cleared slowly by the kidneys.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 
@@ -80,11 +80,11 @@ Tolerance to the pleasant effects builds faster than tolerance to the breathing 
 
 ### After-effects (days)
 
-Grogginess and poor sleep quality.
+Confusion and sluggishness.
 
 ### Next day (still active)
 
-Next-day effects: still active.
+Still active the next day.
 
 ### Lower vs higher doses (described without amounts)
 

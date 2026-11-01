@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually; food can slow
 
 ### Onset (1-2 h)
 
-Effects begin within about 1-2 h.
+Primidone takes 1 to 2 hours to begin; early doses often cause dizziness and nausea.
 
 ### Come-up (2-4 h)
 
-Drowsiness and loosened coordination build.
+Unsteadiness.
 
 ### Peak (3-4 h)
 
-The peak is the deepest sedation.
+The peak brings drowsiness and, in the first weeks, clumsiness.
 
 ### Plateau (many hours)
 
-Plateau of many hours.
+Long.
 
 ### Comedown (1-3 days (phenobarbital))
 
-Effects fade over 1-3 days (phenobarbital).
+Its phenobarbital metabolite lasts for days.
 
 ### After-effects (days)
 
-Grogginess and poor sleep quality.
+Sedation.
 
 ### Next day (still active)
 
-Next-day effects: still active.
+Still active.
 
 For the full, detailed description of each phase, see the [general Primidone (Mysoline) page](../../drugs/primidone.md).
 

@@ -14,31 +14,31 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (about an hour)
 
-Normethadone usually begins within about an hour, with gentle warmth.
+Normethadone starts slowly, about an hour after swallowing, with gentle warmth.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+Slow calm.
 
 ### Peak (moderate)
 
-The peak is moderate.
+The peak is a moderate, methadone-like heaviness.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+Long plateau of several hours.
 
 ### Comedown (many hours)
 
-Effects fade over many hours.
+It fades over many hours.
 
 ### After-effects (hours after)
 
-Constipation.
+Constipation and drowsiness.
 
 ### Next day
 
-Grogginess.
+Grogginess the next day.
 
 For the full, detailed description of each phase, see the [general Normethadone page](../../drugs/normethadone.md).
 

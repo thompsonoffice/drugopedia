@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (30-60 min)
 
-3-Hydroxyphenazepam usually begins within about 30-60 min.
+3-Hydroxyphenazepam begins within about 30 to 60 minutes.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, a heavy starts to appear.
 
 ### Peak (2-4 h)
 
-The peak, around 2-4 h, brings a long, heavy sedation.
+The peak brings a heavy, long sedation like phenazepam.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (12-24 h)
 
-Effects fade over 12-24 h.
+As it wears off, it fades over 12 to 24 hours.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general 3-Hydroxyphenazepam page](../../drugs/3-hydroxyphenazepam.md).
 

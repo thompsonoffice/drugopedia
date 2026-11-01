@@ -46,7 +46,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-45 min)
 
-Sipped slowly, lean begins working in 20 to 45 minutes: a warm, heavy feeling in the limbs and a softening of the mind.
+Sipped slowly, lean takes about 30 to 60 minutes to be felt: a syrupy warmth in the chest and a slowing of thoughts, often with a heavy-tongued, slightly drunk feel from the promethazine.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Codeine is converted by CYP2D6 into morphine; promethazine is a phenothiazine antihistamine metabolized by CYP2D6 with a half-life of 10 to 19 hours. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -54,11 +54,11 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 ### Come-up (45-90 min)
 
-The come-up is gradual. Promethazine's drowsiness and codeine's warmth build together; people describe their body getting heavy and their movements slowing down, with an itch on the face or chest.
+Over the next hour the body gets heavy and movements slow down; music and conversation seem to stretch out, which is the 'leaning' slouch the drink is named for.
 
 ### Peak (1-2 h)
 
-The peak, around 1 to 2 hours, is a dreamy, deeply relaxed, almost underwater feeling. Speech and reactions slow, eyelids droop, and music and time feel stretched. Breathing slows, and with alcohol or pills this is when it becomes dangerous.
+The peak, around 1.5 to 2.5 hours, combines codeine's mild warm euphoria with promethazine's heavy, dreamy drowsiness; itching, dry mouth and restless legs are common.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +66,11 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-6 h)
 
-The plateau can last several hours with continued sipping, with nodding, napping, and a 'stuck on the couch' feeling. Promethazine can cause restlessness in the legs, confusion, and in some people strange dreams or agitation.
+A long, slow-motion plateau of several hours in which people drift between dozing and waking.
 
 ### Comedown (4-8 h)
 
-The comedown is drowsy and foggy; many simply sleep for many hours.
+Effects fade over about 4 to 6 hours, though promethazine's grogginess lasts longer; sleep is heavy.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
@@ -78,11 +78,11 @@ For long-acting or extended-release forms, the comedown can be very drawn out, a
 
 ### After-effects (8-24 h)
 
-After-effects include a heavy hangover, dry mouth, constipation, and grogginess. Promethazine can cause a lingering, restless, 'can't get comfortable' feeling.
+Constipation, dry mouth, a thick head, and sometimes urinary trouble.
 
 ### Next day
 
-The next day is often sluggish. Regular lean use leads to codeine dependence, weight gain and tooth decay from the sugar, and withdrawal with insomnia, sweating, and irritability.
+Next-day sluggishness is typical, and regular use brings dependence on codeine and weight gain from the sugary mixers.
 
 ### Lower vs higher doses (described without amounts)
 

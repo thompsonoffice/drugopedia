@@ -48,7 +48,7 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (minutes)
 
-Brorphine and orphine-class opioids usually begins within minutes, with heaviness.
+Brorphine, usually hidden in other drugs, acts within minutes when injected or smoked.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -56,11 +56,11 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+Sudden heaviness.
 
 ### Peak (strong)
 
-The peak is strong.
+The peak is strong, fentanyl-like sedation.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,7 +68,7 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (a few hours)
 
-A plateau of a few hours.
+A few hours.
 
 ### Comedown (several hours)
 
@@ -84,7 +84,7 @@ Exhaustion.
 
 ### Next day
 
-Withdrawal.
+Withdrawal in regular users.
 
 ### Lower vs higher doses (described without amounts)
 

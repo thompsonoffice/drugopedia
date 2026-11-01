@@ -14,23 +14,23 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (after about 1 to 2 hours)
 
-Bezitramide usually begins after about 1 to 2 hours, with slow heaviness.
+Bezitramide starts very slowly, 1 to 2 hours after swallowing, as it turns into its active form.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+A creeping heaviness.
 
 ### Peak (flat and long)
 
-The peak is flat and long.
+The peak is flat but long.
 
 ### Plateau (many hours)
 
-A plateau of many hours.
+It stays active for many hours.
 
 ### Comedown (a day or more)
 
-Effects fade over a day or more.
+It fades over a day or more, which caused delayed, unexpected overdoses.
 
 ### After-effects (hours after)
 
@@ -38,7 +38,7 @@ Constipation.
 
 ### Next day
 
-Still active.
+Still active the next day.
 
 For the full, detailed description of each phase, see the [general Bezitramide (Burgodin) page](../../drugs/bezitramide.md).
 

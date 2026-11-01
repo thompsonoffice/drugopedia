@@ -14,31 +14,31 @@ Injection is a hospital route for anesthesia, seizures, or emergencies, with mon
 
 ### Onset (IV under 1 min)
 
-Effects begin within about IV under 1 min.
+Given IV, methohexital causes unconsciousness within about 30 to 60 seconds.
 
 ### Come-up (immediate)
 
-Drowsiness and loosened coordination build.
+Immediate.
 
 ### Peak (within 1 min)
 
-The peak is the deepest sedation.
+Deep unconsciousness for a few minutes; muscle twitches and hiccups can occur.
 
 ### Plateau (5-10 min)
 
-Plateau of 5-10 min.
+Five to ten minutes.
 
 ### Comedown (10-20 min)
 
-Effects fade over 10-20 min.
+Wakes within 10 to 20 minutes.
 
 ### After-effects (under 1 h)
 
-Grogginess and poor sleep quality.
+Brief confusion.
 
 ### Next day (none)
 
-Next-day effects: none.
+None.
 
 For the full, detailed description of each phase, see the [general Methohexital (Brevital) page](../../drugs/methohexital.md).
 

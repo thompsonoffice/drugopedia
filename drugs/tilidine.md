@@ -48,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (10 to 20 minutes)
 
-Tilidine usually begins within 10 to 20 minutes, with warmth and lift.
+Tilidine drops or tablets begin within about 10 to 20 minutes, as the liver turns it into nortilidine, with warmth and a lift.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -56,11 +56,11 @@ Clinicians watch for early signs at this stage: the pupils begin to narrow, brea
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+Users often report energy and talkativeness rather than sleepiness at first.
 
 ### Peak
 
-The peak is a bright, chatty euphoria.
+The peak is a bright, chatty euphoria with mild itch.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -80,11 +80,11 @@ For long-acting or extended-release forms, the comedown can be very drawn out, a
 
 ### After-effects (hours after)
 
-Tiredness and irritability.
+Tiredness and irritability; the naloxone in Valoron N does nothing when swallowed but blocks effects if injected.
 
 ### Next day
 
-Low mood.
+Low mood and craving with regular use; tilidine misuse has been a concern among young people in German cities.
 
 ### Lower vs higher doses (described without amounts)
 

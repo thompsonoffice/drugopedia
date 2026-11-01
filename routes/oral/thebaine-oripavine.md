@@ -14,23 +14,23 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (about 30 minutes)
 
-Thebaine and oripavine usually begins within about 30 minutes, with restlessness.
+Thebaine, if swallowed, acts within about 30 minutes, but not as a typical opioid.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+Restlessness and unease rather than calm.
 
 ### Peak (unpleasant)
 
-The peak is unpleasant.
+The peak can include muscle rigidity and convulsions.
 
 ### Plateau (short)
 
-A plateau of short.
+Short.
 
 ### Comedown (a few hours)
 
-Effects fade over a few hours.
+Fades over a few hours.
 
 ### After-effects (hours after)
 

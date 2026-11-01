@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (30-90 min)
 
-Camazepam usually begins within about 30-90 min.
+Camazepam begins within about 30 to 90 minutes.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, a light starts to appear.
 
 ### Peak (1-3 h)
 
-The peak, around 1-3 h, brings a mild calm with relatively little sleepiness.
+The peak brings a light, clear-headed calm; it was marketed as causing little sleepiness.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (10-20 h)
 
-Effects fade over 10-20 h.
+As it wears off, it partly turns into temazepam, so a sleepier tail can follow.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general Camazepam page](../../drugs/camazepam.md).
 

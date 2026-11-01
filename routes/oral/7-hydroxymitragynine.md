@@ -14,31 +14,31 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (15-45 min)
 
-Swallowed, effects begin within 15 to 30 minutes with warmth and calm.
+7-OH tablets or shots usually begin within about 15 to 30 minutes, much faster and stronger than plain kratom, with a clear opioid warmth.
 
 ### Come-up (30-60 min)
 
-A smooth build of euphoria and body heaviness.
+The come-up is quick and smooth, with heaviness and itch.
 
 ### Peak (1-2 h)
 
-Peak around 1 hour: opioid-like warmth, contentment, itch, and nodding.
+The peak, around 1 hour, feels like a prescription opioid: euphoria, sedation, nodding, and slowed breathing at higher amounts.
 
 ### Plateau (2-4 h)
 
-Plateau of a couple of hours.
+A plateau of 1 to 3 hours.
 
 ### Comedown (4-6 h)
 
-Fades over 3 to 5 hours.
+Effects fade over about 3 to 5 hours, often leaving a craving to repeat.
 
 ### After-effects (6-24 h)
 
-Constipation and tiredness.
+Constipation, nausea, and low mood.
 
 ### Next day
 
-Daily users describe opioid-like withdrawal, often stronger than kratom withdrawal.
+Dependence develops fast; withdrawal resembles prescription opioid withdrawal and the FDA moved to restrict 7-OH products in 2025.
 
 For the full, detailed description of each phase, see the [general 7-OH (7-hydroxymitragynine) page](../../drugs/7-hydroxymitragynine.md).
 

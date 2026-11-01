@@ -48,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Clobromazolam usually begins within about 15-30 min.
+Clobromazolam begins within about 15 to 30 minutes.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -56,11 +56,11 @@ Clinicians notice early signs such as slower speech, drooping eyelids, and reduc
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, very potent sedation and blackouts starts to appear.
 
 ### Peak (1-2 h)
 
-The peak, around 1-2 h, brings very potent sedation and blackouts.
+The peak brings very potent sedation and blackouts; it has been found mixed with fentanyl.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -68,11 +68,11 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (8-12 h)
 
-Effects fade over 8-12 h.
+As it wears off, it fades over 8 to 12 hours.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
@@ -80,11 +80,11 @@ In people who take them daily, falling levels can trigger withdrawal, which in s
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 ### Lower vs higher doses (described without amounts)
 

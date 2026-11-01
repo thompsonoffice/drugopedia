@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (15-30 min)
 
-Brotizolam usually begins within about 15-30 min.
+Brotizolam begins within about 15 to 30 minutes.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, fast starts to appear.
 
 ### Peak (1 h)
 
-The peak, around 1 h, brings fast, strong sleepiness.
+The peak brings fast, strong sleepiness.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (4-8 h)
 
-Effects fade over 4-8 h.
+As it wears off, it fades in about 4 to 8 hours.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general Brotizolam page](../../drugs/brotizolam.md).
 

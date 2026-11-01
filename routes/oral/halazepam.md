@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (1-3 h)
 
-Halazepam usually begins within about 1-3 h.
+Halazepam begins very slowly, over 1 to 3 hours, as it turns into desmethyldiazepam.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, a mild starts to appear.
 
 ### Peak (2-4 h)
 
-The peak, around 2-4 h, brings a slow, mild, long calm.
+The peak brings a mild, background calm with little sedation.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (1-3 days)
 
-Effects fade over 1-3 days.
+As it wears off, the long-lived metabolite keeps a faint calm going for days.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general Halazepam (Paxipam) page](../../drugs/halazepam.md).
 

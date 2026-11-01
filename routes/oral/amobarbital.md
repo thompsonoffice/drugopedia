@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually; food can slow
 
 ### Onset (15-30 min)
 
-Effects begin within about 15-30 min.
+Swallowed amobarbital begins within about 15 to 30 minutes with a loosening of speech; this is why it was used in 'Amytal interviews'.
 
 ### Come-up (30 min)
 
-Drowsiness and loosened coordination build.
+Inhibitions fall and words come easily.
 
 ### Peak (1-2 h)
 
-The peak is the deepest sedation.
+The peak is a drunk-like sedation, slurred and unsteady.
 
 ### Plateau (2-4 h)
 
-Plateau of 2-4 h.
+A few hours.
 
 ### Comedown (6-8 h)
 
-Effects fade over 6-8 h.
+Fades over 6 to 8 hours.
 
 ### After-effects (8-24 h)
 
-Grogginess and poor sleep quality.
+Grogginess.
 
 ### Next day (hangover)
 
-Next-day effects: hangover.
+Hangover the next day.
 
 For the full, detailed description of each phase, see the [general Amobarbital (Amytal) page](../../drugs/amobarbital.md).
 

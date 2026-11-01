@@ -14,15 +14,15 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ### Onset (10 to 20 minutes)
 
-Tilidine usually begins within 10 to 20 minutes, with warmth and lift.
+Tilidine drops or tablets begin within about 10 to 20 minutes, as the liver turns it into nortilidine, with warmth and a lift.
 
 ### Come-up (after onset)
 
-The effect builds over the next stretch.
+Users often report energy and talkativeness rather than sleepiness at first.
 
 ### Peak
 
-The peak is a bright, chatty euphoria.
+The peak is a bright, chatty euphoria with mild itch.
 
 ### Plateau (2 to 3 hours)
 
@@ -34,11 +34,11 @@ Effects fade over 3 to 5 hours.
 
 ### After-effects (hours after)
 
-Tiredness and irritability.
+Tiredness and irritability; the naloxone in Valoron N does nothing when swallowed but blocks effects if injected.
 
 ### Next day
 
-Low mood.
+Low mood and craving with regular use; tilidine misuse has been a concern among young people in German cities.
 
 For the full, detailed description of each phase, see the [general Tilidine (Valoron) page](../../drugs/tilidine.md).
 

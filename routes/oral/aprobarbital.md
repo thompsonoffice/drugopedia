@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually; food can slow
 
 ### Onset (30-60 min)
 
-Effects begin within about 30-60 min.
+Aprobarbital begins within about 30 to 60 minutes.
 
 ### Come-up (1 h)
 
-Drowsiness and loosened coordination build.
+Calm and drowsiness.
 
 ### Peak (1-3 h)
 
-The peak is the deepest sedation.
+The peak is moderate sedation and sleep.
 
 ### Plateau (3-6 h)
 
-Plateau of 3-6 h.
+Several hours.
 
 ### Comedown (6-8 h)
 
-Effects fade over 6-8 h.
+Fades over 6 to 8 hours.
 
 ### After-effects (8-24 h)
 
-Grogginess and poor sleep quality.
+Grogginess.
 
 ### Next day (hangover)
 
-Next-day effects: hangover.
+Hangover.
 
 For the full, detailed description of each phase, see the [general Aprobarbital (Alurate) page](../../drugs/aprobarbital.md).
 

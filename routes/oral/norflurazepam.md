@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (1-2 h)
 
-Norflurazepam usually begins within about 1-2 h.
+Norflurazepam begins slowly, over 1 to 2 hours.
 
 ### Come-up (after onset)
 
-Calm and heaviness build.
+As it builds, very long sedation starts to appear.
 
 ### Peak (2-4 h)
 
-The peak, around 2-4 h, brings very long sedation.
+The peak brings very long sedation.
 
 ### Plateau (several hours)
 
-A plateau of several hours.
+The plateau lasts several hours, with memory and coordination reduced.
 
 ### Comedown (days)
 
-Effects fade over days.
+As it wears off, it lingers for several days.
 
 ### After-effects (hours after)
 
-Drowsiness and memory gaps.
+Drowsiness and patchy memory.
 
 ### Next day
 
-Next-day grogginess is common with longer-acting drugs.
+Daily use causes dependence; stopping suddenly can cause seizures.
 
 For the full, detailed description of each phase, see the [general Norflurazepam (desalkylflurazepam) page](../../drugs/norflurazepam.md).
 
