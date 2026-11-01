@@ -88,6 +88,12 @@ Headache, constipation, sweating, and insomnia are common. Precipitated withdraw
 
 Still active the next day and beyond. Withdrawal after stopping is slow to start (often 2 to 4 days) and milder but longer than with full agonists.
 
+### Lower vs higher doses (described without amounts)
+
+At lower doses, opioids mainly relieve pain and anxiety, with mild warmth, slight drowsiness, and a gentle lift in mood; many medical patients feel little beyond pain relief. At higher doses, euphoria, heavy body warmth, itching, nausea, and deep sedation become stronger, pupils shrink to pinpoints, and nodding appears. As effects keep rising, nodding turns into being hard to wake, breathing becomes slow, shallow, or irregular, snoring or gurgling begins, and lips turn blue or gray: these are overdose warning signs, and there is often no felt boundary between 'very high' and overdose.
+
+Because of its ceiling effect, higher doses of buprenorphine mainly last longer rather than producing ever-stronger euphoria or breathing suppression. The danger rises sharply when it is combined with benzodiazepines or alcohol, and in children or people without tolerance.
+
 ### Why the same amount affects people differently
 
 Why the same amount affects people differently: tolerance is the biggest factor, since daily users may need many times more to feel the same effect, and tolerance drops quickly after a break. Liver enzymes (especially CYP2D6 and CYP3A4) vary by genetics and are changed by other medicines and even grapefruit. Body size, age, kidney and liver health, sleep apnea, and lung disease all matter. Mixing with alcohol, benzodiazepines, or other sedatives multiplies the effect on breathing. Stronger effects do not stop at a higher level of pleasure: the line between deep sedation and overdose is thin and invisible from the inside.

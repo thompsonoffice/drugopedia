@@ -84,6 +84,12 @@ After-effects include dizziness, dry mouth, and constipation.
 
 After repeated use, withdrawal is opioid-like and may include anxiety and agitation.
 
+### Lower vs higher doses (described without amounts)
+
+At lower doses, opioids mainly relieve pain and anxiety, with mild warmth, slight drowsiness, and a gentle lift in mood; many medical patients feel little beyond pain relief. At higher doses, euphoria, heavy body warmth, itching, nausea, and deep sedation become stronger, pupils shrink to pinpoints, and nodding appears. As effects keep rising, nodding turns into being hard to wake, breathing becomes slow, shallow, or irregular, snoring or gurgling begins, and lips turn blue or gray: these are overdose warning signs, and there is often no felt boundary between 'very high' and overdose.
+
+At higher doses seizure and serotonin risk rise along with opioid sedation and slowed breathing.
+
 ### Why the same amount affects people differently
 
 Why the same amount affects people differently: tolerance is the biggest factor, since daily users may need many times more to feel the same effect, and tolerance drops quickly after a break. Liver enzymes (especially CYP2D6 and CYP3A4) vary by genetics and are changed by other medicines and even grapefruit. Body size, age, kidney and liver health, sleep apnea, and lung disease all matter. Mixing with alcohol, benzodiazepines, or other sedatives multiplies the effect on breathing. Stronger effects do not stop at a higher level of pleasure: the line between deep sedation and overdose is thin and invisible from the inside.

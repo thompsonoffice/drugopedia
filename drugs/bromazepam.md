@@ -84,6 +84,10 @@ Grogginess, memory gaps, impaired driving.
 
 After daily use, stopping can cause dangerous withdrawal including seizures.
 
+### Lower vs higher doses (described without amounts)
+
+At lower doses, benzodiazepines mainly ease anxiety and muscle tension, with mild calm and slight drowsiness. At higher doses, sedation, clumsiness, slurred speech, disinhibition, and memory loss grow, and blackouts become likely. As effects keep rising, people become very difficult to wake, confused, and unable to stand, and when opioids or alcohol are involved, breathing slows and can stop: these are overdose warning signs.
+
 ### Why the same amount affects people differently
 
 Why the same amount affects people differently: tolerance builds quickly, liver function and age change how fast benzodiazepines are cleared (older adults clear many much more slowly), and many medicines block the CYP3A4 enzyme that breaks down alprazolam, midazolam, and triazolam. Alcohol and opioids multiply the sedation and breathing risk. Stronger effects shade into blackouts, falls, and, in combinations, stopped breathing.

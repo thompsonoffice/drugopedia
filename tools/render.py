@@ -4,6 +4,7 @@ os.chdir(os.path.dirname(os.path.abspath(__file__))+"/..")
 from gen import *
 from med import expand,VARY
 from touch import touch
+from lohi import lohi
 for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo"]:
     try: importlib.import_module(m)
     except ModuleNotFoundError as e:
@@ -47,6 +48,7 @@ for slug,d in D.items():
     if d.get("noext"): E={"onset":[],"peak":[],"comedown":[]}
     ph2[0]=ph2[0]+"\n\n"+"\n\n".join(E["onset"]); ph2[2]=ph2[2]+"\n\n"+"\n\n".join(E["peak"]); ph2[4]=ph2[4]+"\n\n"+"\n\n".join(E["comedown"])
     s+=phases("",list(zip(t,ph2)))
+    s+=lohi(slug,b,d)
     s+=f"### Why the same amount affects people differently\n\n{VARY[b]}\n\n"
     s+="## How the route changes the experience\n\n"
     for r,note in d["routes"].items():
