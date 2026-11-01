@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Effects began 30 to 60 minutes after swallowing.
+Propoxyphene, sold as Darvon and Darvocet until its withdrawal from the US market in 2010, was a weak opioid related to methadone. Swallowed, it came on gradually with mild warmth, slight drowsiness and a softening of pain.
+
+Mentally the onset was gentle: a faint calm and mild contentment rather than a strong high. Many patients felt little beyond easing pain.
+
+Dizziness, nausea and light-headedness were common, especially in older patients.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ A gentle warmth and drowsiness.
 
 ### Peak (1-2 h)
 
-A mild calm peaking around 2 hours.
+The peak was mild physically: light heaviness, warmth and reduced pain, with some sedation.
+
+Mentally people described a soft, slightly dreamy calm. Higher amounts brought more sedation, confusion and sometimes unease rather than more pleasure.
+
+Its breakdown product, norpropoxyphene, caused heart-rhythm problems, and overdoses were notorious for combining breathing failure with cardiac arrest and seizures. Darvocet also contained acetaminophen, adding liver risk.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-Mild sedation for a few hours.
+The plateau was a few hours of light sedation and pain relief.
+
+Mentally the state was mild and drowsy, with reduced focus.
+
+Repeated use let the cardiac-toxic metabolite build up, which is a key reason it was withdrawn.
 
 ### Comedown (4-6 h)
 
-Faded over 4 to 6 hours.
+The comedown was mild: tiredness and returning aches.
+
+Emotionally some felt flat or irritable.
+
+Dependence occurred with regular use. It is no longer prescribed in the US, UK or EU.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

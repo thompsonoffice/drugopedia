@@ -46,7 +46,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Smoked: within seconds to minutes; swallowed: 30 to 60 minutes. A soft warmth and loosening.
+Opium is the dried latex of the poppy, containing morphine, codeine and other alkaloids. Its onset tends to be gradual and dreamy: warmth spreading through the stomach and limbs, a heavy relaxation and an itch across the face.
+
+Mentally the onset is famous for a slow drift into reverie. People describe their thoughts loosening, images and memories floating up, and a deep calm settling in. The mix of alkaloids gives a broader, more sedating and dreamy feel than morphine alone.
+
+Nausea and vomiting are common, especially for newcomers, and the strength of natural opium varies wildly from batch to batch.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -58,7 +62,11 @@ Dreamy relaxation builds, with itch and some nausea.
 
 ### Peak (1-2 h)
 
-A peaceful, contemplative euphoria, rich daydream imagery.
+At its peak the body feels sunk and warm, limbs pleasantly heavy, breathing slow and pupils pinpoint. Itch and nodding are common.
+
+Mentally the peak is a dreamy, half-waking state, sometimes called 'opium reverie': vivid daydreams, a sense of timelessness and deep contentment. Writers through history described it as both blissful and isolating.
+
+Unpredictable strength makes overdose possible, especially with alcohol, benzodiazepines or when someone's tolerance has dropped.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-Long reverie and light nodding.
+The plateau is long and drowsy: hours of warmth, heaviness and dozing, with dry mouth and constipation.
+
+Mentally people drift in and out of dreamlike states, often with little interest in moving or talking.
+
+Breathing remains suppressed throughout.
 
 ### Comedown (4-6 h)
 
-Gradual fade over several hours.
+The comedown is slow: tiredness, aching and sometimes nausea.
+
+Emotionally people often describe a gray, flat mood and a longing for the calm to return.
+
+Regular use causes dependence and withdrawal like other opioids: aches, sweats, goosebumps, diarrhea, insomnia and strong craving.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

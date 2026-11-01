@@ -46,7 +46,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Effects start 30 to 45 minutes after swallowing.
+Dihydrocodeine is a close relative of codeine, a bit stronger, used for pain and cough in many countries. Swallowed, it comes on gradually: a warm, loosening feeling in the chest and limbs, an itchy nose or face, and pain fading.
+
+Mentally the onset brings a mild, cozy calm. Worries lose their edge and people feel more comfortable and content, though less euphoric than with stronger opioids.
+
+Nausea, itching and dizziness are common early and may be more noticeable than the pleasant effects for many people.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -58,7 +62,11 @@ Warmth and relaxation build gently.
 
 ### Peak (1-2 h)
 
-Mild to moderate euphoria peaks around 1 to 2 hours.
+At its peak the body feels heavy and warm, skin may itch, and there is a pleasant tiredness. Pupils narrow and breathing slows.
+
+Mentally there is a soft, dreamy contentment, sometimes with chattiness, sometimes with nodding drowsiness. Compared with codeine it is often described as cleaner and a little stronger.
+
+Combined with alcohol or other sedatives, breathing risk rises. Some products include paracetamol (acetaminophen) or aspirin, adding their own dangers.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-Drowsy calm for a few hours.
+The plateau lasts a few hours of steady warmth, itch and mild sedation; constipation builds.
+
+Mentally people feel calm, slow and inward.
+
+Variations in how people metabolize it mean some feel stronger effects than expected.
 
 ### Comedown (4-6 h)
 
-Fades over 4 to 6 hours.
+The comedown brings tiredness, itchy skin fading, and returning aches.
+
+Emotionally a mild low or restlessness can follow.
+
+Regular use leads to dependence, with codeine-like withdrawal: aches, runny nose, yawning and craving.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

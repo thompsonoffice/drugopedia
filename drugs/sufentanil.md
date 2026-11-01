@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV about 1 min)
 
-IV: about one minute; sublingual: around 15 to 30 minutes.
+Sufentanil is an anesthesia-strength fentanyl relative, many times stronger than fentanyl itself, and it is used in operating rooms or as a monitored tablet under the tongue. In medical settings, onset comes within minutes: a wave of warmth and heaviness, eyelids drooping, and pain sharply fading.
+
+Mentally the onset feels like being switched down. Anxiety disappears abruptly, and patients often describe a pleasant blankness or a sudden indifference to their surroundings before sleepiness takes over.
+
+Its speed and potency are exactly why it is only used with oxygen, monitoring and reversal drugs nearby. Chest-wall rigidity, a stiff, hard-to-breathe chest, can appear quickly.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Almost no come-up: drowsiness falls quickly.
 
 ### Peak (IV 2-5 min)
 
-Deep sedation; chest-wall stiffness can occur with fast IV use.
+At peak the body is deeply sedated; muscles are slack except where the chest stiffens, breathing slows dramatically and may stop, and the skin may feel warm or itchy.
+
+Mentally there is little 'experience' left at clinical levels: deep calm sliding into unconsciousness. At lower clinical amounts patients describe floating, a dreamy detachment and little memory afterward.
+
+Outside a hospital any sufentanil exposure is an overdose emergency: tiny amounts can stop breathing within minutes, and repeated or stronger naloxone may be needed.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (30-60 min (single dose))
 
-Sedation for under an hour after a single IV bolus; longer with infusions.
+The plateau is short when given by injection; the drug redistributes quickly, though with prolonged infusions it can build up and linger. The body remains heavy and breathing remains depressed.
+
+Mentally patients stay drowsy and foggy, drifting between sleep and dim awareness, often with little memory of this period.
+
+Monitoring continues because breathing suppression can recur as the drug releases from body tissues after long use.
 
 ### Comedown (1-2 h)
 
-Wears off quickly once stopped, though it builds up in fat with long infusions.
+Coming down feels like waking from deep anesthesia: groggy, heavy, sometimes nauseated, cold or shivering.
+
+Emotionally people may feel confused, weepy or blank, and memory of the event is patchy.
+
+Pain returns as the drug clears, which is why other pain control is arranged in advance. Any non-medical exposure needs emergency care.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

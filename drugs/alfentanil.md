@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (under 1 min)
 
-IV: under one minute.
+Alfentanil is an ultra-short-acting fentanyl relative given by injection in anesthesia. Its onset is extremely fast, often within a minute or two: a sudden heaviness, warmth spreading through the body and pain dropping away.
+
+Mentally the arrival is abrupt, like a curtain falling over anxiety. Patients often describe a brief floating calm or a soft, wordless contentment before sedation deepens.
+
+Breathing can slow or stop almost immediately, and chest stiffness can appear, so it is given only with airway support ready.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Essentially immediate.
 
 ### Peak (1-2 min)
 
-Peaks within about 1 to 2 minutes.
+The peak is brief and intense: muscles go slack, breathing is markedly suppressed and eyelids are heavy. Nausea can follow.
+
+Mentally there is a narrow, dreamlike window, then blankness. Little is remembered.
+
+Because the effect is so quick, its danger is concentrated into minutes, making unmonitored use extremely hazardous.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (5-10 min)
 
-Lasts only about 5 to 10 minutes after one dose.
+There is barely a plateau. Effects fade within minutes after a single injection as the drug redistributes, though infusions sustain a steady level.
+
+Mentally patients rise quickly back toward awareness, often foggy but oriented.
+
+Breathing still needs watching briefly after the effect seems to end.
 
 ### Comedown (10-20 min)
 
-Fades fast.
+The comedown is quick: a short grogginess, sometimes nausea, shivering or a mild headache.
+
+Emotionally people usually feel little beyond confusion about lost time.
+
+Pain can return sharply, so longer-acting pain relief is usually planned. It has essentially no recreational role, and any non-medical exposure is an emergency.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

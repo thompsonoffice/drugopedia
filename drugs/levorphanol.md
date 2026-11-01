@@ -46,7 +46,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Swallowed, it begins in about 30 to 60 minutes with a gradual warmth.
+Levorphanol arrives slowly when swallowed. The first sign is often a faint loosening across the shoulders and jaw, a warmth that starts in the chest and spreads outward, and a softening of any background ache. Because it is a long-acting morphine relative, the build feels gradual rather than like a rush.
+
+Mentally the onset brings a quiet settling. Worry recedes, the mind becomes less busy, and people describe a sense that problems are further away. Some notice a faint dreaminess or mild dysphoria, linked to levorphanol's extra action on kappa receptors and NMDA receptors, which makes its mood less purely pleasant than oxycodone's.
+
+Early side effects include mild nausea, light-headedness on standing, dry mouth and narrowing pupils. Because the drug lasts far longer than its onset suggests, taking more while waiting for it to 'kick in' is one of the main ways people stack it into dangerous territory.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -58,7 +62,11 @@ The come-up is slow and even, with relaxation and easing of pain.
 
 ### Peak (1-2 h)
 
-The peak, around 1 to 2 hours, is a calm, moderate euphoria with some sedation; some people feel slightly detached.
+At its peak the body feels heavy, warm and slow. Limbs sink, the face may flush or itch, and pain feels muffled rather than gone. Breathing becomes slower and shallower, often without the person noticing.
+
+The mental peak is calm and detached, with a soft contentment more than an exuberant high. Some describe a mildly spacey, slightly unreal quality, thoughts drifting sideways, that sets it apart from morphine. Others find the kappa effect produces unease or a flat, odd mood.
+
+Drowsiness can deepen into nodding. Combined with alcohol, benzodiazepines or other sedatives, the peak can quietly cross into dangerous breathing suppression.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -66,11 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (6-15 h)
 
-The plateau lasts many hours, often 6 to 15.
+Levorphanol's plateau is notably long, lasting many hours, and the drug lingers in the body far longer than its felt effect. The body stays relaxed and warm, constipation sets in, and urination may be slow.
+
+Mentally the plateau is steady and muted: quiet, inward, low-energy calm. Concentration is weaker, reaction time slower, and time can feel thick.
+
+Because the drug builds up with repeated use over days, the plateau can grow heavier than expected. Overdose may develop late, even during sleep.
 
 ### Comedown (15-24 h)
 
-The comedown is slow.
+The comedown is slow. Heaviness gives way to tiredness, stiffness and a return of aches, sometimes with sweating or a runny nose in regular users.
+
+Emotionally people often feel flat, irritable or restless as the calm drains away; the mood dip can be more noticeable than with shorter opioids because it stretches out.
+
+Regular use causes dependence, and withdrawal is prolonged because of the long half-life: aches, yawning, goosebumps, diarrhea, insomnia and craving. Stopping should be done with a prescriber's taper.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (2-15 min)
 
-Injection: about 2 to 15 minutes.
+Nalbuphine is given by injection, mainly in hospitals. It activates kappa receptors and blocks mu receptors. Onset is within minutes: sleepiness, a sense of heaviness and pain softening.
+
+Mentally there is little euphoria. People describe calm drowsiness, sometimes with a slightly detached or foggy feeling.
+
+Sweating, dizziness and nausea can occur, and in someone dependent on full opioids it can trigger withdrawal.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Quick drowsiness.
 
 ### Peak (about 30 min)
 
-Peak around 30 minutes: sleepiness and pain relief.
+The peak is mainly sedation: heavy eyelids, slackened muscles and quiet breathing. Pain relief reaches a ceiling.
+
+Mentally people are sleepy and inward. At higher amounts some feel confused, anxious or disconnected, and odd dreams are possible.
+
+Breathing suppression also has a ceiling, making it safer alone than full opioids, but combinations with other sedatives still carry risk.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-4 h)
 
-Lasts about 3 to 6 hours.
+The plateau lasts a few hours of light drowsiness and reduced pain.
+
+Mentally the state is quiet and unremarkable for most, sometimes with mild dysphoria.
+
+Because it blocks mu receptors it can reduce full-opioid itching, which is one of its hospital uses.
 
 ### Comedown (3-6 h total)
 
-Gentle fade.
+As it fades people feel tired and sometimes headachy.
+
+Emotionally the comedown is usually mild, with occasional low mood or irritability.
+
+Its misuse potential is low but not zero; long-term use can still lead to dependence.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

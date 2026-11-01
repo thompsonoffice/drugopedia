@@ -48,7 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (about 15 min)
 
-Nasal spray: within about 15 minutes; injection: a few minutes.
+Butorphanol is a mixed opioid, partially activating mu receptors and strongly activating kappa receptors. As a nasal spray, it comes on within minutes: a heavy drowsiness, dizziness and a lightening of headache or pain.
+
+Mentally the onset is often strange rather than pleasant. Many people feel spacey, floaty or slightly disconnected, and some notice uneasy, dreamlike or unreal sensations that come from kappa activity.
+
+Dizziness, nausea and sweating are common early, and standing up can cause light-headedness.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Drowsiness and lightheadedness rise fast.
 
 ### Peak (30-60 min)
 
-Peak around 30 to 60 minutes: heavy sleepiness, dizziness, sometimes a dreamy unreality.
+At its peak the body feels heavy and sleepy; limbs may tingle and balance is poor. Pain relief is real but has a ceiling, so more does not keep adding relief.
+
+Mentally the peak can feel dissociative: thoughts slowed, sense of distance from the body, vivid dreamy images when the eyes close. For some people this is calm and pleasant; for others it is anxious, confusing or dysphoric, with racing or odd thoughts.
+
+Its breathing suppression has a ceiling too, but it is still dangerous with alcohol, benzodiazepines or other opioids. In people dependent on full opioids it can trigger sudden withdrawal.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (1-3 h)
 
-Sedation for a few hours.
+The plateau is several hours of drowsy, dizzy heaviness, with sweating, dry mouth and sometimes a pounding sensation in the head.
+
+Mentally people drift between sleep and foggy wakefulness, often with vivid dreams. The mood can sour into restlessness or unease.
+
+Falls and confusion are a real risk, especially for older people.
 
 ### Comedown (3-5 h total)
 
-Fades over about 3 to 5 hours.
+The comedown brings tiredness, headache and sometimes nausea or a hungover feeling.
+
+Emotionally some feel low or irritable, and the odd kappa mood can linger.
+
+Repeated nasal use, often for migraine, can lead to dependence and rebound headaches, and stopping can bring withdrawal.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

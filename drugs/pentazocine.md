@@ -50,7 +50,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Oral: about 15 to 30 minutes; injection: a few minutes.
+Pentazocine, once sold as Talwin, is a mixed opioid with strong kappa activity. Swallowed, it takes effect gradually: warmth, sleepiness and reduced pain, often with dizziness.
+
+Mentally the onset can tilt in either direction: some feel a mild, relaxed calm, while others feel jittery, uneasy or strangely detached.
+
+Nausea, sweating and light-headedness are common. In people dependent on other opioids it can cause withdrawal.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -62,7 +66,11 @@ Drowsiness and sometimes unease.
 
 ### Peak (1-2 h)
 
-Peak around 1 to 2 hours, mixed sedation and odd thoughts.
+At its peak the body feels heavy and loose, with lowered pain and sometimes a pounding heartbeat or raised blood pressure, unlike most opioids.
+
+Mentally pentazocine is known for kappa-type effects: dysphoria, vivid or frightening thoughts, confusion, a sense of unreality and sometimes hallucinations, especially at higher amounts.
+
+Historically, pills were crushed and injected with other drugs, leading to severe tissue damage and lung injury; formulations were changed to deter this. Its breathing suppression rises when combined with other sedatives.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -70,11 +78,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-3 h)
 
-Sedation for a few hours.
+The plateau lasts a few hours: sleepy, dizzy and heavy, with continued sweating and dry mouth.
+
+Mentally the mood may be dreamy and calm or uneasy and confused, sometimes alternating.
+
+Confusion and falls are risks, especially in older adults.
 
 ### Comedown (3-4 h total)
 
-Fades over about 3 to 4 hours.
+The comedown brings fatigue, headache and sometimes nausea.
+
+Emotionally people may feel low, anxious or unsettled after the strange mental effects.
+
+Regular use causes dependence, with withdrawal resembling other opioids.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

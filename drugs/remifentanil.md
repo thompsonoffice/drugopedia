@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (about 1 min)
 
-IV: about one minute.
+Remifentanil is the shortest-acting opioid in medicine, broken down in the blood within minutes and given only by continuous infusion. Onset is within about a minute: warmth, heaviness, a strong slowing of breathing and a drop in heart rate.
+
+Mentally there is a fast drift into calm detachment; anxious patients relax almost instantly, and the world seems muffled.
+
+Chest-wall rigidity and stopped breathing can come very quickly, so airway support is always ready.
 
 From a medical point of view, the onset reflects how quickly the drug reaches the brain. Like other opioids, it acts mainly on mu-opioid receptors in the brain, spinal cord, and gut, and is cleared mostly by the liver. As blood levels rise, mu-opioid receptors in the brainstem, limbic system, and spinal cord begin to activate, which is why pain signals soften and mood changes before the body feels fully affected.
 
@@ -60,7 +64,11 @@ Immediate.
 
 ### Peak (within minutes)
 
-Peak within minutes of starting or changing an infusion.
+During the infusion the body is deeply relaxed and pain is profoundly blunted. Breathing is strongly depressed, and blood pressure and heart rate may drop.
+
+Mentally patients are sedated, dreamy or unconscious depending on what other anesthetics are used.
+
+Its power and speed make it unsuitable for any use outside monitored care.
 
 Medically, the peak corresponds to the highest drug levels at the receptors. The same receptors that produce euphoria and pain relief also tell the brainstem to breathe less, so respiratory depression is greatest during the peak. Oxygen levels can fall without the person noticing, because opioids blunt the brain's alarm response to rising carbon dioxide.
 
@@ -68,11 +76,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (only during infusion)
 
-Steady only while the infusion runs.
+The plateau lasts exactly as long as the infusion runs; levels stay steady and do not build up much even after hours.
+
+Mentally the state remains constant, often foggy and dreamlike when patients are lightly sedated.
+
+Monitoring of breathing and heart rate is continuous.
 
 ### Comedown (5-10 min after stopping)
 
-Gone within about 5 to 10 minutes of stopping.
+Once the infusion stops, effects fade within minutes. People wake fairly clear, though some feel shivery, nauseated or briefly sore.
+
+Emotionally the switch-off can feel abrupt: pain and alertness return together. Some feel anxious or restless.
+
+After long infusions there can be heightened pain sensitivity, called opioid-induced hyperalgesia, and sometimes brief withdrawal-like symptoms, which clinicians plan for.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
