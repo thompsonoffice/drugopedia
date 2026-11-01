@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Swallowed, it starts within about 30 to 60 minutes.
+Baclofen acts on GABA-B receptors, the same receptor GHB touches, and its onset is a slow, creeping relaxation. Muscles feel softer and heavier, the body warms slightly, and a light, sleepy dizziness sets in.
+
+Mentally the onset brings a mild calm and loosening of anxiety. Some describe a faint alcohol-like ease; others feel only drowsy and slightly muddled.
+
+Early side effects include nausea, a weak or rubbery feeling in the legs, and a slight drunk-like unsteadiness.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Baclofen is mostly cleared unchanged by the kidneys with a half-life of about 2 to 6 hours. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -60,7 +64,11 @@ Muscles loosen and drowsiness grows.
 
 ### Peak (1-3 h)
 
-Peak around 1 to 3 hours: relaxation, dizziness, sometimes mild euphoria.
+At the peak muscles are clearly slack, coordination poor, and the body heavy. Some report a pleasant, warm body sensation; many notice weakness, slurred speech and confusion instead.
+
+Emotionally the peak ranges from relaxed and content to foggy and disoriented. Higher amounts can bring an intoxicated, GHB-like state with lowered inhibitions, followed by sudden deep sleepiness.
+
+Overdose can cause severe drowsiness, coma, slowed breathing, low body temperature, slow heart rate and seizures. Combining with alcohol, opioids or other sedatives multiplies the danger.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -68,11 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-5 h)
 
-Lasts several hours.
+The plateau is a long, heavy drowsiness with weak muscles and poor balance.
+
+Concentration is poor and memory can be patchy.
+
+Falls and accidents are a real risk during this period.
 
 ### Comedown (4-8 h total)
 
-Fades over about 4 to 8 hours.
+The comedown is a slow-lifting tiredness, sometimes with headache or nausea.
+
+Mood may dip, with mild irritability or anxiety.
+
+After regular use, stopping abruptly can cause dangerous withdrawal: hallucinations, confusion, high fever, muscle rigidity and seizures. It must be tapered under medical care.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

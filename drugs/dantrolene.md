@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-IV acts within minutes; oral capsules over 1 to 2 hours.
+Dantrolene works directly inside muscle fibers rather than in the brain, so its onset is felt as weakness more than relaxation: limbs feel tired and heavy, and grip strength softens.
+
+Mentally it causes some drowsiness and lightheadedness but no high.
+
+Diarrhea, nausea and a general washed-out feeling are common early effects.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Dantrolene blocks calcium release inside muscle cells (ryanodine receptors) and has a half-life of about 9 hours. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -60,7 +64,11 @@ Gradual weakness.
 
 ### Peak (4-6 h)
 
-Peak muscle effect a few hours after oral use.
+At the peak muscles can feel weak and floppy, and climbing stairs or holding objects becomes harder.
+
+Emotionally the peak is tired and sometimes low, without euphoria.
+
+Long-term use can seriously harm the liver. In hospitals, the IV form is a life-saving treatment for malignant hyperthermia.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -68,11 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (many hours)
 
-Long plateau.
+The plateau is a lasting weakness and fatigue.
+
+Thinking may feel a bit slow.
+
+Falls are a risk.
 
 ### Comedown (about 9 h half-life)
 
-Fades over many hours.
+As it fades, strength gradually returns.
+
+Mood is usually unaffected.
+
+It is not used recreationally.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

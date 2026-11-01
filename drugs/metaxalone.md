@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Swallowed, it starts within about 1 hour.
+Metaxalone (Skelaxin) has a soft, gradual onset: a mild sense of muscle ease and a faint drowsiness, often stronger when taken with food.
+
+Mentally the effect is subtle. Many people feel slightly calmer and a bit dreamy, with little euphoria.
+
+Some notice light nausea, headache or irritability.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Metaxalone is processed by several liver enzymes and its absorption is increased by food. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -60,7 +64,11 @@ Mild relaxation.
 
 ### Peak (about 3 h)
 
-Peak around 3 hours.
+At the peak the body feels somewhat looser and heavier; dizziness is mild.
+
+Emotionally the peak is calm and slightly sleepy, generally less sedating than carisoprodol or cyclobenzaprine.
+
+Serious effects are uncommon but include serotonin syndrome when combined with serotonergic drugs, and liver or blood problems with long use. Combining with depressants deepens sedation.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -68,11 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-4 h)
 
-Several hours.
+The plateau is a mild, steady relaxation.
+
+Thinking remains mostly clear, with some drowsiness.
+
+Drivers should still be cautious.
 
 ### Comedown (4-6 h total)
 
-Fades over about 4 to 6 hours.
+The comedown is gentle, with returning stiffness.
+
+Mood usually stays steady.
+
+Dependence is rare.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

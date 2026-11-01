@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Swallowed, it starts within about 1 hour.
+Chlorzoxazone has a quick, mild onset: light drowsiness and a gentle easing of muscle tightness.
+
+Mentally it brings only slight calm and sometimes mild lightheadedness.
+
+Some feel nausea or stomach upset; urine may turn orange or reddish.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Chlorzoxazone is processed by CYP2E1, the same enzyme used in alcohol metabolism. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -60,7 +64,11 @@ Mild drowsiness.
 
 ### Peak (1-2 h)
 
-Peak 1 to 2 hours.
+At the peak the body is a bit looser and sleepier.
+
+Emotionally it is mostly neutral, with mild sedation.
+
+Rarely it can harm the liver; yellow skin, dark urine or abdominal pain needs medical attention. Mixing with alcohol adds sedation and liver strain.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -68,11 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-3 h)
 
-A few hours.
+The plateau is short and mild.
+
+Focus is slightly reduced.
+
+Effects fade within a few hours.
 
 ### Comedown (3-6 h total)
 
-Fades over 3 to 6 hours.
+The comedown is barely noticeable apart from returning stiffness.
+
+Mood is unchanged.
+
+Dependence is not typical.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

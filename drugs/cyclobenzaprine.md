@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Effects start about 1 hour after swallowing, as a slow, heavy drowsiness.
+Cyclobenzaprine (Flexeril) is chemically a close cousin of the tricyclic antidepressant amitriptyline, and it feels like one. The onset is a slow, thick drowsiness: the eyelids grow heavy, the mouth turns noticeably dry and sticky, and the body begins to feel sluggish rather than euphoric.
+
+Mentally the first change is a dulling of alertness. Thoughts slow, the urge to do things fades, and a vague, cotton-wool feeling settles over the mind. There is usually little pleasure in it; most people simply feel sleepy.
+
+Anticholinergic signs appear: dry eyes, slightly blurry near vision, a faster heartbeat, and sometimes difficulty starting to urinate. A strange metallic or bitter aftertaste is common.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Cyclobenzaprine is processed by CYP3A4, CYP1A2 and CYP2D6 and has a long half-life, longer in older adults. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -64,7 +68,11 @@ Dry mouth and heaviness grow.
 
 ### Peak (3-8 h)
 
-The peak, around 3 to 8 hours, is deep sleepiness and loosened muscles.
+At the peak the body is heavy and slow, with muscle spasm eased but not in a warm or glowing way. Dizziness on standing, unsteady walking and a parched mouth dominate. Some feel their heart pounding or skipping while lying still.
+
+Emotionally the peak is muted and foggy. Some report a mild dreamy detachment; others feel uncomfortable, restless or confused. Higher amounts push it toward a deliriant state with odd thoughts, vivid dreams or hallucinations rather than toward euphoria.
+
+Overdose is dangerous mainly because of the heart: fast or irregular rhythms, low blood pressure, agitation, hallucinations and seizures. Mixing with serotonergic antidepressants or tramadol can cause serotonin syndrome, with shaking, sweating, fever and confusion.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -72,11 +80,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (several hours)
 
-Long plateau; half-life is long (about 18 hours on average).
+The plateau is long and sleepy. Many people sleep deeply for hours and wake with a thick head. Those who stay awake feel heavy-limbed, dry-mouthed and slightly disconnected from their body.
+
+Concentration and memory are poor, and reaction time is slow, much as with an older sedating antihistamine.
+
+Because it lasts a long time, drowsiness frequently carries into the next day, making driving risky.
 
 ### Comedown (12-24 h)
 
-Fades over 12 to 24 hours.
+The comedown is a slow-lifting grogginess, often described as a hangover: dry mouth, headache, and heavy limbs.
+
+Mood can be flat or irritable, and some feel mentally slow most of the next morning.
+
+Cyclobenzaprine is not usually craved, but stopping after long daily use can cause nausea, headache and malaise.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

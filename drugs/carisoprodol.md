@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Swallowed carisoprodol begins within about 30 minutes, with a warm softening of muscles and thoughts.
+Carisoprodol (Soma) arrives as a creeping looseness rather than a jolt. The first thing most people notice is the back, shoulders and thighs softening, as if a clenched fist inside each muscle slowly opens. A mild heaviness gathers behind the eyes, the head feels slightly too large for the neck, and the hands may feel faintly numb or buzzy at the fingertips.
+
+Mentally the onset feels like the edges of the day being sanded down. Irritation and worry lose their bite, and a calm, slightly silly contentment can appear. Because part of carisoprodol is converted in the liver to meprobamate, an older anxiety drug, many people describe a calm that feels more like a barbiturate or alcohol than like a simple muscle relaxer.
+
+Small signs of sedation show up early: blinking slows, speech becomes a little lazy, and standing up quickly can bring a brief wave of dizziness. Some people feel a warm flush or a slight queasy, hollow sensation in the stomach. Clumsiness begins before the person realizes they are impaired.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Carisoprodol is processed by the CYP2C19 liver enzyme into meprobamate, which has a much longer half-life; people with low CYP2C19 activity feel stronger, longer effects. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -60,7 +64,11 @@ Over the next half hour a drunk-like looseness builds; speech can slur slightly.
 
 ### Peak (1.5-2 h)
 
-The peak, around 1.5 to 2 hours, is the strongest relaxation, dizziness and calm; coordination is poor.
+At the peak the body feels heavy, warm and pleasantly boneless. Lying down feels like sinking, and muscles that were aching or spasming go quiet. Many describe a tingling, slightly drunk body buzz, with arms and legs that feel far away. Balance is clearly off: walking is wobbly, the room can tilt, and fine movements like typing or buttoning become fumbling.
+
+Emotionally the peak is a loose, sociable, carefree mellowness, often compared to a couple of drinks combined with a mild sedative. People may become chatty and giggly, or simply drowsy and dreamy. Thinking is slowed and memory for this period may be patchy, especially in someone new to it.
+
+This is the riskiest window. Carisoprodol is notorious for being combined with opioids and benzodiazepines (the old 'holy trinity'), and that combination deepens breathing suppression sharply. Very heavy drowsiness, slurred speech, jerking or twitching muscles, confusion, or slow and noisy breathing mean danger; seizures and coma have been reported in overdose.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -68,11 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-4 h)
 
-The carisoprodol effect lasts about 4 to 6 hours.
+The plateau holds a steady, heavy relaxation. Muscles remain soft and the body feels warm and slightly numb. Some people get a pleasant drifting feeling and drop into short naps, waking with a start; others feel restless legs or slight muscle twitches as the meprobamate builds up.
+
+Mentally the plateau is foggy and contented. Conversations are easy but forgetful, and concentration is poor. The early silliness tends to settle into a quiet, sleepy calm in which nothing seems urgent.
+
+Because the meprobamate metabolite lasts much longer than carisoprodol itself, sedation can linger well after the pleasant part fades, so driving or mixing in other depressants later in the day remains dangerous.
 
 ### Comedown (4-6 h total (meprobamate longer))
 
-As carisoprodol fades, meprobamate keeps a quieter sedation going for several more hours.
+As carisoprodol wears off, the body feels tired and heavy rather than relaxed, and the original muscle tension or pain may creep back. Some notice a dull headache, dry mouth, or mild nausea.
+
+Emotionally the comedown is often flat and groggy, with irritability or a slightly low, empty mood. Many wake the next morning feeling hungover and slow.
+
+Regular use builds tolerance and real physical dependence, mostly through meprobamate. Stopping suddenly after heavy daily use can cause anxiety, insomnia, tremor, vomiting, hallucinations and, rarely, seizures, so stopping should be medically guided.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

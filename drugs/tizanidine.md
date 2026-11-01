@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Swallowed, effects start within about 30 to 60 minutes.
+Tizanidine (Zanaflex) works on the same brain receptors as the blood-pressure drug clonidine, and its onset feels like the body's engine being turned down. A heavy, warm drowsiness spreads quickly, the mouth goes very dry, and standing up can bring a sudden lightheaded swoon as blood pressure drops.
+
+Mentally the onset is a quiet, sinking calm. Anxiety and racing thoughts fade, and many people feel peaceful and detached. There is little giddy euphoria, more a soft, sleepy stillness.
+
+Muscles, especially those with spasticity, slacken noticeably. Some people feel their heart slowing, a heaviness in the chest, or cold hands.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Tizanidine is processed by CYP1A2 and has a short half-life of about 2.5 hours; tablets and capsules are not interchangeable when taken with food. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -60,7 +64,11 @@ Drowsiness and lightheadedness rise quickly.
 
 ### Peak (1-2 h)
 
-Peak around 1 to 2 hours: strong sleepiness, low blood pressure, dry mouth.
+At the peak the body feels leaden and very relaxed, sometimes almost paralyzed by drowsiness. Dizziness, weakness and fainting on standing are common, and the dry mouth can be intense.
+
+Emotionally the peak is tranquil and foggy, with a dreamy, half-asleep quality. Some find it pleasant; others find it unpleasantly heavy or dysphoric. Vivid dreams or brief hallucinations can occur.
+
+Low blood pressure and a slow heart rate are the main risks, worse with alcohol, other depressants, or medicines like ciprofloxacin and fluvoxamine that block its breakdown. Fainting, very slow pulse or extreme sedation needs urgent care.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -68,11 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-4 h)
 
-Lasts about 3 to 6 hours.
+The plateau is a short, heavy sleepiness; many people simply fall asleep.
+
+Thinking is slowed and concentration poor.
+
+Because the effect is short-lived, people sometimes take it repeatedly, which raises dependence risk.
 
 ### Comedown (3-6 h total)
 
-Fades fairly quickly as it has a short half-life.
+As it fades, the body may feel tired yet slightly jittery.
+
+Some notice anxiety or irritability as the calm lifts.
+
+Stopping suddenly after regular use can cause rebound high blood pressure, fast heartbeat, tremor and anxiety, so it should be tapered.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

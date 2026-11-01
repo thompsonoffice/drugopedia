@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Swallowed, it starts within about 1 hour.
+Orphenadrine (Norflex) is a relative of the antihistamine diphenhydramine, and its onset feels similar: dry mouth, a heavy-headed drowsiness and a slight blurring of near vision.
+
+Mentally there is a cloudy, sleepy calm. At usual amounts it feels like a sedating allergy pill; it is not generally euphoric.
+
+The heart may beat faster and urination may be harder to start.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Orphenadrine has a half-life of about 14 hours, longer in older adults. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -64,7 +68,11 @@ Dry mouth and drowsiness.
 
 ### Peak (2-4 h)
 
-Peak around 2 to 4 hours.
+At the peak muscles feel looser and the body heavy and dry. Dizziness and clumsiness are common.
+
+Emotionally the peak is foggy. Higher amounts push it toward a deliriant, anticholinergic state with confusion, odd perceptions and agitation rather than pleasure.
+
+Overdose can cause dangerous heart rhythms, seizures, high temperature and delirium.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -72,11 +80,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (4-8 h)
 
-Long plateau.
+The plateau is long, dry-mouthed and drowsy.
+
+Memory and concentration are dulled.
+
+Heat tolerance is reduced because sweating is suppressed.
 
 ### Comedown (12+ h total)
 
-Fades over 12 hours or more.
+The comedown feels like a heavy antihistamine hangover.
+
+Mood can be irritable or flat.
+
+Long-term heavy use of anticholinergic drugs is linked to memory problems.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

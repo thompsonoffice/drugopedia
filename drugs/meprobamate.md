@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Swallowed, it begins within about 1 hour.
+Meprobamate (Miltown), the 1950s 'peace pill', has a smooth, warm onset. A gentle heaviness settles into the shoulders and chest, tension eases, and a mild drunken looseness begins.
+
+Mentally the onset is a soft, worry-free calm, closer to a barbiturate than to modern anti-anxiety medicines. Social unease melts and people feel easygoing.
+
+Speech slows a little and coordination starts to slip.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Meprobamate is cleared by the liver with a half-life of about 10 hours, longer with daily use. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -60,7 +64,11 @@ Gradual calm and looseness.
 
 ### Peak (1-3 h)
 
-Peak around 1 to 3 hours.
+At the peak the body is heavy, warm and unsteady. Walking feels like being tipsy and the eyelids droop.
+
+Emotionally the peak is a contented, sedated mellowness with lowered inhibitions and fuzzy memory.
+
+Overdose resembles barbiturate overdose: deep sleep, low blood pressure, slow breathing and coma, especially with alcohol or opioids.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -68,11 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (3-6 h)
 
-Several hours.
+The plateau is a long, drowsy calm.
+
+Concentration is poor and judgment loosened.
+
+Driving or operating machinery is dangerous.
 
 ### Comedown (6-12 h total)
 
-Fades over 6 to 12 hours.
+The comedown is groggy and slow, with heavy limbs.
+
+Mood may be flat or anxious as calm fades.
+
+Dependence develops with regular use, and abrupt stopping can cause tremor, insomnia, hallucinations and seizures.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

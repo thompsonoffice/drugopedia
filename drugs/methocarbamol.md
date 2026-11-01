@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Swallowed, it begins within about 30 minutes.
+Methocarbamol (Robaxin) has a gentle, almost unremarkable onset. A mild drowsiness and a faint softening of tight muscles in the back and neck are the main signs, sometimes with a light, floaty dizziness.
+
+Mentally there is a slight dimming of alertness, a calmer, quieter feeling but very little euphoria. Many people say they feel 'a bit spacey' and little else.
+
+Some notice mild nausea, a metallic taste, or a flushed feeling. Urine can turn brown, green or black, which is harmless but can be alarming.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Methocarbamol has a short half-life of about 1 to 2 hours and is processed by the liver. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -60,7 +64,11 @@ Mild drowsiness and lightheadedness.
 
 ### Peak (1-2 h)
 
-Peak about 1 to 2 hours: gentle relaxation.
+At the peak, muscles feel looser and the body heavier, with mild unsteadiness. The sensation is closer to tiredness than to intoxication.
+
+Emotionally the peak is calm and slightly sleepy, with a mild cloudiness of thought. Higher amounts mainly add more drowsiness, dizziness and blurred vision rather than any pleasant high.
+
+Methocarbamol alone is fairly safe, but combined with alcohol, opioids or benzodiazepines it adds to sedation and can slow breathing.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -68,11 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-4 h)
 
-A few hours.
+The plateau is a short, mellow drowsiness. Many people nap.
+
+Thinking stays slightly slowed and focus is reduced.
+
+Because the effect is short, most people find it fades within a few hours.
 
 ### Comedown (4-6 h total)
 
-Fades over about 4 to 6 hours.
+The comedown is mild: some tiredness, light headache, or returning stiffness.
+
+Mood is usually unchanged, perhaps a little groggy.
+
+It carries little risk of dependence, though driving while drowsy is still unsafe.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 
