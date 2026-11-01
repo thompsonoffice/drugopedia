@@ -84,7 +84,7 @@ The plateau is a long, mellow, sedated glow.
 
 Memory and concentration are poor.
 
-Weight gain and swelling can occur with long use.
+Weight gain and swelling of the legs can occur with long use.
 
 ### Comedown (6-12 h total)
 

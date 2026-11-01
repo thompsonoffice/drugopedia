@@ -80,19 +80,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (2-4 h)
 
-The plateau is short. For most people it ends in deep sleep. Those who stay awake drift through a fragmented, dreamlike haze with patchy memory.
+For most people the zolpidem plateau ends in deep sleep, often within minutes of lying down. Those who stay awake drift through a fragmented, dreamlike haze: the body is heavy and floaty at once, walls and textures may breathe or crawl, and sounds seem far away or echoing. The hands and face can tingle, and walking feels like being on a boat.
 
-Thinking is loose and judgment very poor.
+Mentally the plateau is loose and unreal. Thoughts jump without connection, judgment is very poor, and people act on impulses — eating, texting, online shopping, phone calls — that they will not remember. They feel awake and capable while recording almost nothing. Mood can be giggly and euphoric or confused and suspicious.
 
-Women and older adults clear it more slowly, raising next-morning impairment.
+Women and older adults clear zolpidem more slowly, which is why the FDA lowered recommended starting amounts for women; next-morning driving impairment is documented even when people feel alert.
 
 ### Comedown (6-8 h total)
 
-Waking after zolpidem may feel fine, or groggy and slow with a mild headache. Some people find evidence of things they did and do not remember.
+Waking after zolpidem can feel surprisingly normal, or it can feel groggy, slow and headachy, with a dry mouth and heavy limbs. Some people wake to find evidence of things they did overnight — food eaten, messages sent — with no memory of doing them.
 
-Emotionally there can be confusion, embarrassment or anxiety about the lost time. Rebound insomnia can follow when it is stopped.
+Emotionally there can be confusion, embarrassment, anxiety or dread about the lost time. After regular use, rebound insomnia often appears when it is stopped, with a night or two of worse sleep than before, which pulls people back toward using it.
 
-Regular use builds tolerance and dependence; stopping after heavy use can cause insomnia, anxiety, tremor and, rarely, seizures.
+Regular use builds tolerance and dependence. Stopping after heavy use can cause anxiety, insomnia, shakiness, sweating, and rarely seizures, so tapering with a doctor is safer.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

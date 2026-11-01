@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Glutethimide (Doriden), a discontinued 1950s sleep drug, brings a slow, heavy drowsiness with strong dry mouth and blurry vision, because it has anticholinergic effects too.
+Glutethimide (Doriden), a 1950s sleep drug now discontinued in the US, brought a slow, heavy drowsiness along with strong dry mouth, flushed skin, wide pupils and blurry vision, because it also had anticholinergic effects.
 
-Mentally a sedated, dreamy calm. In the 1980s it was combined with codeine as 'loads' or 'hits', producing a heavy, long-lasting opioid-like high.
+Mentally a sedated, dreamy calm settled in. In the 1980s it was combined with codeine as 'loads', 'hits' or 'sets', producing a heavy, long-lasting, heroin-like high.
 
-Coordination slips early.
+Coordination slipped early, and speech became thick and slow.
 
 Medically, the onset reflects absorption and entry into the brain. Glutethimide was processed by the liver. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ Clumsiness and drowsiness.
 
 ### Peak (1-2 h)
 
-At the peak deep sedation, dry skin, wide pupils and clumsiness.
+At the peak there was deep sedation, dry hot skin, wide pupils and clumsiness.
 
-Emotionally a muffled, drunken contentment.
+Emotionally a muffled, drunken contentment, drifting in and out of sleep.
 
-Overdose was notoriously hard to treat, with fluctuating coma, low blood pressure and seizures. The codeine combination caused many deaths.
+Overdose was notoriously hard to treat, with fluctuating coma that seemed to improve then worsen, low blood pressure, seizures and breathing failure. The codeine combination caused many deaths.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -76,17 +76,17 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (2-6 h)
 
-The plateau is very long.
+The plateau was very long.
 
-Thinking muddled.
+Thinking was muddled and confused.
 
-Effects can return after seeming to fade.
+Effects could return after seeming to fade, as the drug was released from fat stores.
 
 ### Comedown (many hours)
 
-The comedown is a heavy hangover.
+The comedown was a heavy hangover with dry mouth and grogginess.
 
-Mood low.
+Mood was low and slowed.
 
 Severe dependence and seizures on withdrawal occurred.
 

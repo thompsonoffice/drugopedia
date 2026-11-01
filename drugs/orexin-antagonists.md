@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Orexin antagonists (suvorexant/Belsomra, lemborexant/Dayvigo, daridorexant/Quviviq) work differently from other sleep drugs. Rather than sedating the whole brain, they switch off the wake signal. The onset feels like natural sleepiness arriving early: heavy eyes, a slowing mind, little 'drugged' feeling.
+Orexin antagonists (suvorexant/Belsomra, lemborexant/Dayvigo, daridorexant/Quviviq) work differently from older sleep drugs: rather than broadly sedating the brain, they switch off the signal that keeps it awake. The onset feels like natural bedtime sleepiness arriving early — heavy eyelids, a slowing mind, yawning — with little of the 'drugged' or drunk feeling of benzodiazepines or Z-drugs.
 
-Mentally there is no euphoria or giddiness, just a gentle pull toward sleep.
+Mentally there is no euphoria or giddiness, just a gentle, steady pull toward sleep. Some people barely notice it until they realize they are falling asleep.
 
-Some notice a slight heaviness of the limbs.
+Some notice a slight heaviness of the limbs or mild headache.
 
 Medically, the onset reflects absorption and entry into the brain. Suvorexant, lemborexant and daridorexant are processed by CYP3A4; daridorexant has the shortest half-life. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ Gradual drowsiness.
 
 ### Peak (1-3 h)
 
-At the peak sleep is likely. A few people experience sleep paralysis, vivid or frightening dreams, or brief hallucinations as they fall asleep or wake.
+At the peak sleep is likely. A few people experience sleep paralysis (waking unable to move), very vivid or frightening dreams, or brief hallucinations as they fall asleep or wake, because orexin also regulates the boundaries of sleep.
 
-Emotionally neutral.
+Emotionally it is neutral. Rarely, people with narcolepsy-like reactions feel sudden leg weakness.
 
-Combining with alcohol or other depressants adds impairment.
+Combining with alcohol or other depressants adds impairment; complex sleep behaviors are possible but less common.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -78,17 +78,17 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 The plateau lasts through the night.
 
-Dreams can be vivid.
+Dreams can be vivid and memorable.
 
-Next-morning grogginess can occur.
+Next-morning grogginess can occur, especially with higher amounts.
 
 ### Comedown (7-12 h)
 
-Waking can be slightly groggy.
+Waking can be slightly groggy or heavy.
 
-Mood generally unchanged.
+Mood is generally unchanged.
 
-Abuse potential is low but not zero.
+Abuse potential is low but not zero, and there is little rebound insomnia.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

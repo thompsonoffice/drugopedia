@@ -52,7 +52,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-3 h)
 
-Gabapentin (Neurontin) has a slow, uneven onset because the gut absorbs it in a limited way. As it builds, the body feels heavy and slightly numb, as if wrapped in padding, and a light, wobbly dizziness appears.
+Gabapentin (Neurontin) has a slow, uneven onset because the gut absorbs it in a limited, saturable way. As it builds, the body feels heavy and slightly numb, as if wrapped in padding, and a light, wobbly dizziness appears, especially on standing.
 
 Mentally gabapentin brings a muted calm. Anxiety and nerve pain are dulled, and some people feel a mild, mellow, alcohol-like ease; for many others it simply feels sleepy and foggy.
 
@@ -70,7 +70,7 @@ A gradual calm and lightness.
 
 At the peak the body feels loose and slow, with unsteady walking and a warm, slightly tingly heaviness. Some describe a gentle euphoria and sociability; others feel spacey and clumsy.
 
-Emotionally the peak can be relaxed and contented, sometimes chatty. Memory and attention are noticeably dulled.
+Emotionally the peak can be relaxed and contented, sometimes chatty, but memory and attention are noticeably dulled.
 
 Alone, gabapentin rarely stops breathing, but with opioids it sharply increases the risk of fatal overdose, a combination increasingly seen in deaths. Kidney problems raise blood levels too.
 
@@ -80,15 +80,15 @@ In 2019 the FDA warned that gabapentinoids can cause serious breathing problems 
 
 ### Plateau (3-6 h)
 
-The plateau is a long, steady haze.
+The plateau is a long, steady haze lasting several hours.
 
-Thinking slow and forgetful.
+Thinking is slow and forgetful, and words may be hard to find.
 
 Falls are common, especially in older adults.
 
 ### Comedown (5-8 h total)
 
-The comedown is tiredness and mild fog.
+The comedown is tiredness and mild fog, sometimes with headache.
 
 Mood may dip, with irritability or low mood; rarely, suicidal thoughts are reported.
 

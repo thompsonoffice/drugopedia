@@ -52,11 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (10-20 min)
 
-GHB has a fairly quick onset that many people compare to alcohol, but smoother. A warm, relaxed glow spreads through the body, muscles loosen, and there is a pleasant, tingly lightness. Some feel a mild, wavy dizziness.
+GHB usually comes on within a short time and is often compared to alcohol, but smoother and quicker. A warm, relaxed glow spreads from the chest outward, muscles loosen, and a pleasant, tingly lightness fills the body. Many describe a mild, wavy dizziness, as if gently rocking, and a softening of the edges of vision.
 
-Mentally the onset is euphoric and disinhibiting: people feel sociable, affectionate, talkative and sometimes sexually aroused. Anxiety melts away and the mood feels bright and open.
+Mentally the onset is euphoric and disinhibiting. People feel sociable, affectionate, chatty and confident, and many notice heightened touch and sexual interest. Anxiety and self-consciousness melt away, and music and dancing can feel especially good.
 
-The line between a pleasant state and heavy sedation is very thin. Small differences in amount, or adding alcohol, can push someone from tipsy to unconscious quickly.
+The line between this pleasant state and heavy sedation is extremely thin. Small differences in amount, concentration, or adding even a little alcohol can push someone from tipsy to unconscious within minutes, with little warning.
 
 Medically, the onset reflects absorption and entry into the brain. GHB is absorbed quickly and has a half-life of about 30 to 60 minutes, and its absorption is non-linear, so small increases can cause large jumps in effect. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -80,19 +80,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (30-90 min)
 
-The plateau is short, and as the euphoria fades people often feel drowsy and heavy.
+The plateau is short. As the euphoria peaks and begins to fade, the body grows heavier and drowsier, coordination worsens, and people may sway, slur or yawn repeatedly. Some feel nauseated or dizzy, especially when moving.
 
-Mood stays relaxed or becomes sleepy.
+Mood stays relaxed and warm, then turns sleepy. Some people feel a pull toward taking more to recapture the high, and timing becomes confusing, which is why re-dosing is a major cause of GHB overdose.
 
-Re-dosing to extend the effect is a major cause of overdose.
+During this phase people can suddenly fall asleep and become unrousable ('G-hole'), sometimes with vomiting or jerking movements. Friends should never leave someone sleeping off GHB alone, and anyone who cannot be woken should be placed on their side and 911 called.
 
 ### Comedown (1.5-3 h total)
 
-The comedown can be surprisingly clean for some, while others feel tired, foggy or nauseated.
+The comedown can be surprisingly clean for some, who wake feeling refreshed after deep sleep. Others feel tired, foggy, nauseated or headachy, with a heavy body and poor coordination for a few hours.
 
-Mood may dip into mild anxiety.
+Emotionally there may be mild anxiety, low mood or embarrassment about gaps in memory. People who use frequently can feel a jittery, anxious rebound within hours of the last dose.
 
-People who use GHB around the clock can develop severe dependence, and withdrawal can cause rapid-onset anxiety, tremor, delirium, hallucinations and seizures that can be fatal. It needs medical care.
+People who use GHB around the clock can develop severe dependence within weeks. Withdrawal can begin within hours and cause intense anxiety, tremor, rapid heart rate, insomnia, delirium, hallucinations and seizures; it can be fatal and needs hospital care.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

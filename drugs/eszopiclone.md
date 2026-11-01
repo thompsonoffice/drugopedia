@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Eszopiclone (Lunesta) is known first for its taste: a strong bitter, metallic flavor that can linger in the mouth into the next day. The onset brings a heavy, warm drowsiness and loose limbs.
+Eszopiclone (Lunesta) is known first for its taste: a strong bitter, metallic flavor that spreads across the tongue soon after swallowing and can linger into the next day. The onset brings a heavy, warm drowsiness, slackening limbs and a slight swaying feeling.
 
-Mentally it produces a calm, sinking sleepiness; awake, it can bring a mild dreamy disinhibition.
+Mentally it produces a calm, sinking sleepiness. Awake, it can bring a mild dreamy disinhibition and drifting thoughts, though usually less giddy than zolpidem.
 
-Dizziness on standing is common.
+Dizziness on standing and slight clumsiness are common early on.
 
 Medically, the onset reflects absorption and entry into the brain. Eszopiclone is processed by CYP3A4 with a half-life of about 6 hours. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ Drowsiness grows.
 
 ### Peak (about 1 h)
 
-At the peak sleep pulls strongly. Those awake are clumsy and forgetful.
+At the peak sleep pulls strongly. Those awake are clumsy, slurring and forgetful, with heavy eyelids and a muffled sense of their surroundings.
 
-Emotionally mellow, sometimes confused.
+Emotionally it is mellow and sometimes confused; vivid or strange dreams are common once asleep.
 
-Complex sleep behaviors and dangerous combinations with alcohol or opioids apply as with zolpidem.
+Z-drugs rarely stop breathing on their own, but combined with alcohol, opioids, benzodiazepines or gabapentinoids they can cause dangerous sedation and slowed breathing. Complex sleep behaviors, such as sleep-driving, cooking or walking outside with no memory, carry an FDA boxed warning. Anyone who cannot be woken, or is vomiting while drowsy, needs emergency help.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-The plateau is longer than zolpidem's, carrying sedation through the night.
+The plateau is longer than zolpidem's, carrying sedation through the whole night.
 
-Memory is patchy.
+Memory is patchy for any time spent awake.
 
-Next-morning impairment is possible, so driving early is risky.
+Next-morning impairment is possible, so driving early the next day is risky.
 
 ### Comedown (6-8 h total)
 
-Waking may be groggy, with the bitter taste still present.
+Waking may be groggy and slow, with the bitter taste still present and a dry mouth.
 
-Mood may be flat.
+Mood can be flat or slightly irritable in the morning.
 
-Dependence and rebound insomnia can occur with regular use.
+Dependence and rebound insomnia can develop with regular use.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

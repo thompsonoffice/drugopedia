@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Chloral hydrate, one of the oldest sleep drugs, starts with an unpleasant, burning, bitter taste and stomach irritation, then a quick, heavy drowsiness.
+Chloral hydrate, one of the oldest sleep drugs (from the 1800s), starts with an unpleasant, burning, bitter taste and a warm, irritated feeling in the stomach. Soon a quick, heavy drowsiness follows, with the head growing heavy and the limbs slow.
 
-Mentally a sleepy, dull calm, sometimes with mild giddiness.
+Mentally it brings a sleepy, dull calm, sometimes with a brief giddiness or lightheaded feeling before sleep.
 
-Historically mixed into alcohol as 'knockout drops' (a 'Mickey Finn').
+Historically, it was slipped into alcohol as 'knockout drops' — the original 'Mickey Finn'.
 
 Medically, the onset reflects absorption and entry into the brain. Its active metabolite trichloroethanol has a half-life of about 8 to 10 hours. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ Heaviness.
 
 ### Peak (about 1 h)
 
-At the peak strong sedation and clumsiness.
+At the peak there is strong sedation and clumsiness. Most people fall asleep quickly and deeply.
 
-Emotionally foggy and drowsy.
+Emotionally foggy and drowsy, with little awareness of time.
 
-Overdose can cause dangerous heart rhythms, vomiting, low blood pressure and slowed breathing, much worse with alcohol.
+Overdose can cause dangerous heart rhythms, vomiting, stomach bleeding, low blood pressure and slowed breathing, and it is much more dangerous with alcohol.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-The plateau is deep sleep.
+The plateau is deep sleep for several hours.
 
-Thinking very dull if awake.
+If awake, thinking is very dull and confused.
 
 Stomach upset may continue.
 
 ### Comedown (4-8 h total)
 
-Waking is groggy, sometimes with nausea.
+Waking is groggy, sometimes with nausea and a heavy head.
 
-Mood flat.
+Mood is flat.
 
-Dependence and withdrawal can occur after regular use.
+Dependence and withdrawal can occur after regular use, and tolerance builds quickly.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Ramelteon (Rozerem) acts like the body's own melatonin. The onset is subtle: a mild sense that it is time for bed, with little else.
+Ramelteon (Rozerem) works like the body's own melatonin, nudging the internal clock toward night. The onset is subtle: a mild sense that it is time for bed, with heavier eyelids but no drugged feeling.
 
-Mentally neutral, no high.
+Mentally neutral; there is no high, calm or disinhibition.
 
-Some feel mild dizziness.
+Some feel mild dizziness, tiredness or nausea.
 
 Medically, the onset reflects absorption and entry into the brain. Ramelteon is processed by CYP1A2; fluvoxamine strongly raises its levels. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ Gentle sleepiness.
 
 ### Peak (about 45 min)
 
-At the peak, gentle sleepiness.
+At the peak there is gentle sleepiness, similar to natural drowsiness at bedtime.
 
 Emotionally unchanged.
 
-It is not known to cause overdose deaths alone.
+It is not known to cause overdose deaths on its own, and it has little effect on breathing.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -76,7 +76,7 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-The plateau is a quiet, natural-feeling sleep.
+The plateau is a quiet, natural-feeling sleep, though it helps more with falling asleep than staying asleep.
 
 Some notice vivid dreams.
 
@@ -88,7 +88,7 @@ Waking is usually clear.
 
 Mood unchanged.
 
-It is not considered addictive.
+It is not considered addictive and is not a controlled substance.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

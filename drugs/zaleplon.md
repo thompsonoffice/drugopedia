@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-20 min)
 
-Zaleplon (Sonata) has the fastest and shortest action of the 'Z-drugs'. The body grows heavy and relaxed quickly, with a soft, swimmy dizziness.
+Zaleplon (Sonata) is the fastest and shortest of the Z-drugs. Within a short time the body grows heavy and warm, muscles loosen, and a soft, swimmy dizziness rises into the head. Lying down, it feels like being gently pulled under.
 
-Mentally a quick, dreamy drowsiness sets in. Fighting sleep can bring a brief zolpidem-like giddiness and odd perceptions.
+Mentally a quick, dreamy drowsiness takes over. Worries fade and thoughts loosen. If the person fights sleep, a brief zolpidem-like giddiness can appear, with silly mood, lowered inhibitions and odd perceptions such as surfaces shimmering.
 
-Memory for the period after taking it may be poor.
+Memory for the period after taking it is often poor, sometimes starting almost immediately.
 
 Medically, the onset reflects absorption and entry into the brain. Zaleplon is processed by aldehyde oxidase and CYP3A4, with a half-life of about 1 hour. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ Fast heaviness.
 
 ### Peak (about 1 h)
 
-At the peak, the pull to sleep is strong; awake, people are unsteady and foggy.
+At the peak, the pull toward sleep is strong and most people are asleep. Those still awake are unsteady, slurring and foggy, with heavy eyelids and clumsy hands.
 
-Emotionally mellow or slightly disinhibited, with possible mild visual distortions.
+Emotionally the peak is mellow or mildly disinhibited, and mild visual distortions — rippling patterns or shapes at the edge of vision — can occur.
 
-Complex sleep behaviors can occur. Combining with alcohol or other depressants is dangerous.
+Z-drugs rarely stop breathing on their own, but combined with alcohol, opioids, benzodiazepines or gabapentinoids they can cause dangerous sedation and slowed breathing. Complex sleep behaviors, such as sleep-driving, cooking or walking outside with no memory, carry an FDA boxed warning. Anyone who cannot be woken, or is vomiting while drowsy, needs emergency help.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (1-2 h)
 
-The plateau is brief, often under a couple of hours.
+The plateau is brief, often under a couple of hours, and usually spent asleep.
 
-Most people are asleep.
+If awake, thinking is fragmented and short-term memory poor.
 
-Because it clears quickly, next-day grogginess is less common.
+Because it clears quickly, next-day grogginess is less common than with other sleep drugs, which is why it is sometimes used for middle-of-the-night waking.
 
 ### Comedown (3-4 h total)
 
-Waking is usually fairly clear.
+Waking is usually fairly clear, though some feel slightly heavy or headachy.
 
-Mood steady.
+Mood is generally steady, though some feel anxious about patchy memory.
 
-Tolerance and rebound insomnia can develop with regular use.
+Tolerance and rebound insomnia can develop with regular use, and dependence is possible.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

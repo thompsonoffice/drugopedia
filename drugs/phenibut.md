@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (2-4 h)
 
-Phenibut is slow: it can take hours before anything happens, which leads people to take more and overshoot. When it arrives, there is a gradual warm calm and loosening of tension, with mild muscle relaxation.
+Phenibut is slow: it can take hours before anything happens, which leads people to take more and overshoot. When it arrives, there is a gradual warm calm and loosening of tension, with mild muscle relaxation and a slightly floaty, comfortable heaviness.
 
-Mentally the onset feels like social anxiety quietly switching off. People feel more talkative, confident and content, with a mild, alcohol-like euphoria but clearer thinking at first.
+Mentally the onset feels like social anxiety quietly switching off. People feel more talkative, confident and content, with a mild, alcohol-like euphoria but clearer thinking at first. Music can seem more enjoyable.
 
-Some feel slight dizziness or nausea.
+Some feel slight dizziness, nausea or a faint headache.
 
 Medically, the onset reflects absorption and entry into the brain. Phenibut is cleared mostly unchanged by the kidneys with a half-life of about 5 hours, though effects last longer. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ A slow-building calm and talkativeness.
 
 ### Peak (4-6 h)
 
-At the peak a relaxed, sociable glow, sometimes with music sounding richer and a desire to talk. With more, it becomes drunken: slurring, unsteadiness and sleepiness.
+At the peak there is a relaxed, sociable glow and a desire to talk. With more, it becomes drunken: slurring, unsteadiness, slowed reactions and growing sleepiness.
 
-Emotionally confident and calm, sometimes giddy.
+Emotionally confident and calm, sometimes giddy, sometimes deeply relaxed.
 
-Excess causes heavy sedation, vomiting, confusion and, rarely, unconsciousness requiring hospital care. Combining with alcohol or other depressants is risky.
+Excess causes heavy sedation, vomiting, confusion, agitation and, rarely, unconsciousness requiring hospital care. Combining with alcohol or other depressants is risky.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -78,15 +78,15 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 The plateau is very long, often most of a day.
 
-Mood stays calm, then drowsy.
+Mood stays calm, then drowsy, and sleep can be heavy.
 
-Sleep can be heavy.
+Because effects are delayed, people may take more before the first amount has peaked.
 
 ### Comedown (15-24 h total)
 
-The comedown often brings next-day rebound anxiety, irritability and poor sleep.
+The comedown often brings next-day rebound anxiety, irritability and poor sleep, sometimes worse than before.
 
-Mood can dip.
+Mood can dip, with restlessness.
 
 Daily use quickly builds dependence, and withdrawal can be severe: intense anxiety, insomnia, agitation, hallucinations and sometimes psychosis.
 

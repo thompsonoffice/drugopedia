@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Methaqualone (Quaaludes, 'ludes', Mandrax) has a moderate onset of warm, tingly relaxation. A pins-and-needles buzzing can spread through the lips, fingers and toes, and the body loosens into a rubbery heaviness.
+Methaqualone (Quaaludes, 'ludes', Mandrax) has a moderate onset of warm, tingly relaxation. A distinctive pins-and-needles buzzing spreads through the lips, fingers and toes, and the body loosens into a rubbery, pleasantly heavy state. Some feel a slight numbness in the mouth and face.
 
-Mentally the onset is euphoric and disinhibiting: calm, warm, chatty and affectionate, with lowered inhibitions. Its 1970s reputation as a party and 'love' drug came from this mix of sedation and euphoria.
+Mentally the onset is euphoric and disinhibiting: calm, warm, chatty and affectionate, with lowered inhibitions and a sense that everything is fine. Its 1970s reputation as a party and 'love' drug came from this mix of sedation and euphoria.
 
-Coordination falls apart early: the term 'luding out' described the stumbling, rubber-legged state.
+Coordination falls apart early; 'luding out' described the stumbling, rubber-legged state of someone who could barely walk but felt wonderful.
 
 Medically, the onset reflects absorption and entry into the brain. Methaqualone was processed by the liver with a half-life of about 20 to 60 hours. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ Tingling, warmth, and loosening.
 
 ### Peak (1-2 h)
 
-At the peak the body feels heavy, numb and tingly, and walking is uncoordinated. Speech slurs.
+At the peak the body feels heavy, numb and tingly, and walking is uncoordinated and wobbly. Speech slurs, and people may slump or sway.
 
-Emotionally a dreamy, uninhibited euphoria, often with increased sociability and sexual interest, and fading memory.
+Emotionally the peak is a dreamy, uninhibited euphoria, often with increased sociability and sexual interest, and fading memory. People resisting sleep may feel giddy; those lying down drift off fast.
 
-Overdose can cause delirium, muscle spasms, seizures, coma and death; with alcohol the risk is very high. Most 'Quaaludes' sold today are counterfeit and may contain other drugs.
+Overdose can cause delirium, muscle spasms, seizures, coma and death; with alcohol the risk is very high. Most 'Quaaludes' sold today are counterfeit and may contain other drugs, including fentanyl.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -76,17 +76,17 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (2-4 h)
 
-The plateau is a heavy, sleepy intoxication.
+The plateau is a heavy, sleepy intoxication lasting several hours.
 
-Judgment and memory are poor.
+Judgment and memory are poor, and people may agree to things they would normally refuse.
 
-Injury from falls or accidents is common.
+Injury from falls, accidents and choking while sedated is common.
 
 ### Comedown (4-8 h total)
 
-The comedown is groggy and hungover.
+The comedown is groggy and hungover, with headache, heavy limbs and sometimes nausea.
 
-Mood can be low and anxious.
+Mood can be low and anxious, with irritability.
 
 Dependence and dangerous withdrawal with seizures can develop after regular use.
 

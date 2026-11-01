@@ -48,7 +48,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Mirogabalin (Tarlige), used mainly in Japan for nerve pain, has an onset of mild drowsiness and dizziness with dulling of pain.
+Mirogabalin (Tarlige), used mainly in Japan and parts of Asia for nerve pain, has a gradual onset of drowsiness and dizziness as burning or electric nerve pain dulls.
 
 Mentally a quiet calm, generally without much euphoria.
 
@@ -64,11 +64,11 @@ Gradual dizziness.
 
 ### Peak (about 1 h)
 
-At the peak sleepiness and wobbly balance.
+At the peak there is sleepiness and wobbly balance.
 
 Emotionally mellow.
 
-Combining with opioids or other depressants adds sedation.
+Combining with opioids or other depressants adds sedation and breathing risk.
 
 Medically, the peak brings the strongest dizziness, unsteadiness, and sedation. Some people feel calm sociability or mild euphoria; others feel only clumsy and sleepy.
 

@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-60 min)
 
-Ethchlorvynol (Placidyl) had a fast onset with a distinctive minty or pungent aftertaste, then warm drowsiness and giddy dizziness.
+Ethchlorvynol (Placidyl), a sleep drug withdrawn in the US, had a fast onset with a distinctive minty or pungent aftertaste, then warm drowsiness and giddy dizziness.
 
-Mentally a drunken, sometimes euphoric looseness.
+Mentally a drunken, sometimes euphoric looseness, with lowered inhibitions.
 
-Coordination fades quickly.
+Coordination faded quickly, and some people felt numbness or tingling.
 
 Medically, the onset reflects absorption and entry into the brain. Ethchlorvynol was processed by the liver. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ Fast, drunk-like looseness.
 
 ### Peak (1-1.5 h)
 
-At the peak heavy sedation and confusion.
+At the peak there was heavy sedation and confusion, sometimes with blurred vision.
 
 Emotionally loose, then sleepy.
 
-Overdose caused deep, prolonged coma and breathing failure; it was withdrawn in the US.
+Overdose caused deep, prolonged coma and breathing failure, and it was notorious for causing lung injury when misused by injection.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -76,7 +76,7 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (2-4 h)
 
-The plateau is deep sleep.
+The plateau was deep sleep for many hours.
 
 Confusion if awake.
 
@@ -84,11 +84,11 @@ Mixing with alcohol was especially dangerous.
 
 ### Comedown (about 5 h)
 
-The comedown is groggy.
+The comedown was groggy and heavy.
 
 Mood flat.
 
-Withdrawal resembled barbiturate withdrawal.
+Withdrawal resembled barbiturate withdrawal, including seizures.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

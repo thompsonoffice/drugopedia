@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Zopiclone (Imovane, Zimovane) shares eszopiclone's bitter, metallic taste. The onset is a heavy, warm sleepiness and loosening of the body.
+Zopiclone (Imovane, Zimovane), sold outside the US, shares eszopiclone's bitter, metallic taste. The onset is a heavy, warm sleepiness that spreads from the head down, with loosening muscles and a light, drunken unsteadiness.
 
-Mentally a dreamy calm, and if sleep is resisted, a drunken giddiness and possible visual distortions.
+Mentally a dreamy calm settles in. If sleep is resisted, it can turn into a drunken giddiness with loosened inhibitions and visual distortions, like patterns sliding on walls.
 
-Coordination and memory fade early.
+Coordination and memory fade early, sometimes before the person feels very sedated.
 
 Medically, the onset reflects absorption and entry into the brain. Zopiclone has a half-life of about 5 hours. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ Drowsiness.
 
 ### Peak (1-2 h)
 
-At the peak strong sedation, slurring and unsteadiness.
+At the peak there is strong sedation, slurring and unsteadiness. Hands fumble and walking is risky.
 
-Emotionally disinhibited or confused, with memory gaps.
+Emotionally disinhibited or confused, with memory gaps that can cover hours.
 
-Combining with alcohol, opioids or benzos is dangerous.
+Z-drugs rarely stop breathing on their own, but combined with alcohol, opioids, benzodiazepines or gabapentinoids they can cause dangerous sedation and slowed breathing. Complex sleep behaviors, such as sleep-driving, cooking or walking outside with no memory, carry an FDA boxed warning. Anyone who cannot be woken, or is vomiting while drowsy, needs emergency help.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -78,17 +78,17 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 The plateau carries sedation through the night.
 
-Thinking foggy.
+Thinking is foggy if awake.
 
-Next-day drowsiness and impaired driving are documented.
+Next-day drowsiness and impaired driving are documented, especially in older adults.
 
 ### Comedown (6-8 h total)
 
-Waking is often groggy, with a bad taste.
+Waking is often groggy with a bad taste and heavy head.
 
-Mood flat or irritable.
+Mood can be flat or irritable.
 
-Dependence and withdrawal similar to benzodiazepines can develop.
+Dependence and withdrawal similar to benzodiazepines can develop with regular use.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 
