@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Ramelteon (Rozerem) works like the body's own melatonin, nudging the internal clock toward night. The onset is subtle: a mild sense that it is time for bed, with heavier eyelids but no drugged feeling.
+Ramelteon (Rozerem) works like the body's own melatonin, binding melatonin receptors in the brain's internal clock and nudging it toward night. The onset is subtle, usually within half an hour: a mild sense that it is time for bed, heavier eyelids and a slight slowing of thoughts, but no drugged or heavy feeling.
 
-Mentally neutral; there is no high, calm or disinhibition.
+Mentally it is neutral; there is no high, calm, giddiness or disinhibition. Many people say they would not know they had taken anything except that falling asleep felt a little easier.
 
-Some feel mild dizziness, tiredness or nausea.
+Some feel mild dizziness, tiredness, nausea or a light headache.
 
 Medically, the onset reflects absorption and entry into the brain. Ramelteon is processed by CYP1A2; fluvoxamine strongly raises its levels. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ Gentle sleepiness.
 
 ### Peak (about 45 min)
 
-At the peak there is gentle sleepiness, similar to natural drowsiness at bedtime.
+At the peak there is gentle, natural-feeling sleepiness, similar to the drowsiness that comes at the end of a long day. People can still get up, talk and move normally, though they feel ready to sleep.
 
-Emotionally unchanged.
+Emotionally it is unchanged, without the euphoria or confusion of benzodiazepines or Z-drugs. Memory is not affected.
 
-It is not known to cause overdose deaths on its own, and it has little effect on breathing.
+It is not known to cause overdose deaths on its own and has little effect on breathing, but alcohol and other sedatives still add drowsiness. Fluvoxamine greatly raises its levels and should not be combined.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-The plateau is a quiet, natural-feeling sleep, though it helps more with falling asleep than staying asleep.
+The ramelteon plateau is a quiet, natural-feeling sleep. It helps more with falling asleep than staying asleep, so some people still wake in the night. The body is relaxed but not heavy.
 
-Some notice vivid dreams.
+Some people notice vivid or unusual dreams, and a few report mild changes in hormone levels with long-term use.
 
-Next-day grogginess is uncommon.
+Next-day grogginess is uncommon, and coordination and memory are generally unaffected.
 
 ### Comedown (2-5 h)
 
-Waking is usually clear.
+Waking is usually clear and normal, without hangover, heaviness or a bad taste. Some people notice mild tiredness or dizziness in the morning.
 
-Mood unchanged.
+Mood is unchanged, and there is no rebound anxiety or craving.
 
-It is not considered addictive and is not a controlled substance.
+It is not considered addictive and is not a controlled substance; stopping does not cause withdrawal or rebound insomnia, which is why it is often used in older adults and people with a history of substance use.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

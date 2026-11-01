@@ -88,7 +88,7 @@ Waking after zaleplon is usually fairly clear. Some people feel slightly heavy, 
 
 Mood is generally steady, though some feel anxious or uneasy about patchy memory from the night before, and a few notice a slightly flat or irritable mood in the morning.
 
-Tolerance and rebound insomnia can develop with regular use, with a night or two of poor sleep after stopping, and dependence is possible. Like other Z-drugs it carries a boxed warning for complex sleep behaviors.
+Tolerance and rebound insomnia can develop with regular use, with a night or two of poor sleep after stopping, and dependence is possible. Like other Z-drugs it carries a boxed warning for complex sleep behaviors. Taking it with too little time before waking can leave people foggy.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

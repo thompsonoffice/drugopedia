@@ -64,11 +64,11 @@ Gradual drowsiness.
 
 ### Peak (1-3 h)
 
-At the peak sleep is likely. A few people experience sleep paralysis (waking unable to move), very vivid or frightening dreams, or brief hallucinations as they fall asleep or wake, because orexin also regulates the boundaries of sleep.
+At the peak sleep is likely, and it often feels more like natural sleep than drugged sleep. A few people experience sleep paralysis (waking briefly unable to move), very vivid or frightening dreams, or hypnagogic hallucinations — seeing or hearing things as they fall asleep or wake — because orexin also guards the borders between sleep and waking.
 
-Emotionally it is neutral. Rarely, people with narcolepsy-like reactions feel sudden leg weakness.
+Emotionally it is neutral, with no euphoria. Rarely, people experience cataplexy-like episodes of sudden leg weakness, and those with narcolepsy should not take these drugs.
 
-Combining with alcohol or other depressants adds impairment; complex sleep behaviors are possible but less common.
+Combining with alcohol or other depressants adds impairment; complex sleep behaviors are possible but less common than with Z-drugs.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-The plateau lasts through the night.
+The orexin-antagonist plateau lasts through the night. Sleep is generally continuous, with fewer awakenings, and the body feels heavy and calm rather than sedated or drunk. Breathing is not significantly suppressed at usual amounts.
 
-Dreams can be vivid and memorable.
+Dreams can be vivid, memorable and sometimes disturbing, and some people wake briefly with the sense of being stuck between dream and waking. A few report a feeling of being unable to move for a few seconds.
 
-Next-morning grogginess can occur, especially with higher amounts.
+Next-morning grogginess can occur, especially with higher amounts or when there are fewer than seven hours before waking, and driving may be impaired the next morning.
 
 ### Comedown (7-12 h)
 
-Waking can be slightly groggy or heavy.
+Waking can be slightly groggy or heavy, like waking from a deep natural sleep, with a mild sluggishness that usually clears within an hour. A few people feel a lingering headache or dry mouth.
 
-Mood is generally unchanged.
+Mood is generally unchanged, though some people feel tired or low on the days after poor-quality or dream-filled nights.
 
-Abuse potential is low but not zero, and there is little rebound insomnia.
+Abuse potential is low but not zero, and there is little rebound insomnia or withdrawal on stopping, which makes these drugs attractive for long-term insomnia treatment.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

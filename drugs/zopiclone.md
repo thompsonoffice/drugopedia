@@ -78,7 +78,7 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 The zopiclone plateau carries sedation through most of the night. Sleep is usually deep and the body heavy and still, though some people wake with a bitter, dry mouth or a sense of strange, vivid dreams. Breathing is slow and regular.
 
-If awake, thinking is foggy and memory poor, and people may do things they do not remember, from eating to sending messages. Judgment and balance are significantly impaired.
+If awake, thinking is foggy and memory poor, and people may do things they do not remember, from eating to sending messages. Judgment and balance are significantly impaired. Some people sleepwalk or wake confused, unsure where they are.
 
 Next-day drowsiness and impaired driving are documented, especially in older adults, who clear the drug more slowly and are more prone to falls during night-time bathroom trips.
 
@@ -86,7 +86,7 @@ Next-day drowsiness and impaired driving are documented, especially in older adu
 
 Waking is often groggy, with a bad, metallic taste, a heavy head and a slight unsteadiness. The first hours of the morning can feel slow and muffled, and some people notice a mild headache or dry mouth.
 
-Mood can be flat or irritable, and some people feel low or anxious in the mornings after regular use. Rebound insomnia is common when stopping.
+Mood can be flat or irritable, and some people feel low or anxious in the mornings after regular use. Rebound insomnia is common when stopping. Many describe a 'zopiclone hangover': thick-headed mornings with poor focus.
 
 Dependence and withdrawal similar to benzodiazepines can develop with regular use, including anxiety, insomnia, shakiness and, rarely, seizures; tapering with a doctor is safer than stopping suddenly.
 

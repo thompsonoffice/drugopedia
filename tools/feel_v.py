@@ -467,3 +467,49 @@ comedown=["The comedown is groggy and hungover, with headache, heavy limbs, dry 
 R("ghb",comedown=F["ghb"]["comedown"][:2]+[F["ghb"]["comedown"][2]+" Sudden stopping is never safe."])
 for k,v in F.items():
     if k in D: D[k]["feel"]=v
+
+def Y(n,p,t,i=2): F[n][p][i]+=" "+t
+Y("zaleplon","comedown","Taking it with too little time before waking can leave people foggy.")
+Y("eszopiclone","peak","Older adults are at particular risk of falls and confusion.")
+Y("eszopiclone","comedown","Some people notice the taste fading only by midday.",1)
+Y("zopiclone","plateau","Some people sleepwalk or wake confused, unsure where they are.",1)
+Y("zopiclone","comedown","Many describe a 'zopiclone hangover': thick-headed mornings with poor focus.",1)
+Y("methaqualone","comedown","Survivors of heavy overdoses sometimes describe days of shakiness, muscle aches and broken sleep afterwards, along with lingering confusion and low mood.",1)
+R("chloral-hydrate",
+onset=["Chloral hydrate, one of the oldest sleep drugs (introduced in 1869), starts with an unpleasant, burning, acrid taste and a warm, irritated feeling in the throat and stomach that can bring nausea or belching. Within about half an hour a quick, heavy drowsiness follows: the head grows heavy, the eyelids droop and the limbs slow.",
+"Mentally it brings a sleepy, dull calm, sometimes with a brief giddiness or lightheaded, slightly drunk feeling before sleep arrives. It was once a favorite of Victorian writers and was used in children for medical scans because it reliably put them to sleep.",
+"Historically, it was slipped into alcohol as 'knockout drops' — the original 'Mickey Finn' — because the combination quickly overpowered drinkers."],
+peak=["At the peak there is strong sedation and clumsiness. Most people fall asleep quickly and deeply, often snoring, with slow, regular breathing and a heavy, motionless body. If awake, they sway, slur and struggle to keep their eyes open.",
+"Emotionally the peak is foggy and drowsy, with little awareness of time and sometimes a muddled, dreamlike confusion. In some people, especially children and older adults, it can paradoxically cause agitation or excitement.",
+"Overdose can cause dangerous heart rhythms, vomiting, stomach bleeding, low blood pressure and slowed breathing, and it is much more dangerous with alcohol, which also slows its breakdown."],
+plateau=["The chloral hydrate plateau is usually deep sleep for several hours. The body lies heavy and still, breathing slow and deep, and the person may be hard to rouse. Some people wake briefly with stomach discomfort, a sour taste or the need to vomit.",
+"If awake, thinking is very dull and confused, and the person may be disoriented about time and place. Memory for this stretch is patchy.",
+"Stomach upset may continue, and repeated nightly use quickly leads to tolerance, so people needed more to get the same sleep, which raised overdose risk."],
+comedown=["Waking is groggy, sometimes with nausea, a heavy head, a lingering acrid taste and an irritated stomach. Coordination may be off for the first part of the morning, and some people feel a dull headache.",
+"Mood is flat and slow, and some people feel irritable or low. Long-term users described feeling dulled and lethargic during the day.",
+"Dependence and withdrawal can occur after regular use, with tolerance building quickly; withdrawal resembles alcohol withdrawal and can include tremor, delirium and seizures. It is rarely used today."])
+R("orexin-antagonists",
+peak=["At the peak sleep is likely, and it often feels more like natural sleep than drugged sleep. A few people experience sleep paralysis (waking briefly unable to move), very vivid or frightening dreams, or hypnagogic hallucinations — seeing or hearing things as they fall asleep or wake — because orexin also guards the borders between sleep and waking.",
+"Emotionally it is neutral, with no euphoria. Rarely, people experience cataplexy-like episodes of sudden leg weakness, and those with narcolepsy should not take these drugs.",
+"Combining with alcohol or other depressants adds impairment; complex sleep behaviors are possible but less common than with Z-drugs."],
+plateau=["The orexin-antagonist plateau lasts through the night. Sleep is generally continuous, with fewer awakenings, and the body feels heavy and calm rather than sedated or drunk. Breathing is not significantly suppressed at usual amounts.",
+"Dreams can be vivid, memorable and sometimes disturbing, and some people wake briefly with the sense of being stuck between dream and waking. A few report a feeling of being unable to move for a few seconds.",
+"Next-morning grogginess can occur, especially with higher amounts or when there are fewer than seven hours before waking, and driving may be impaired the next morning."],
+comedown=["Waking can be slightly groggy or heavy, like waking from a deep natural sleep, with a mild sluggishness that usually clears within an hour. A few people feel a lingering headache or dry mouth.",
+"Mood is generally unchanged, though some people feel tired or low on the days after poor-quality or dream-filled nights.",
+"Abuse potential is low but not zero, and there is little rebound insomnia or withdrawal on stopping, which makes these drugs attractive for long-term insomnia treatment."])
+R("ramelteon",
+onset=["Ramelteon (Rozerem) works like the body's own melatonin, binding melatonin receptors in the brain's internal clock and nudging it toward night. The onset is subtle, usually within half an hour: a mild sense that it is time for bed, heavier eyelids and a slight slowing of thoughts, but no drugged or heavy feeling.",
+"Mentally it is neutral; there is no high, calm, giddiness or disinhibition. Many people say they would not know they had taken anything except that falling asleep felt a little easier.",
+"Some feel mild dizziness, tiredness, nausea or a light headache."],
+peak=["At the peak there is gentle, natural-feeling sleepiness, similar to the drowsiness that comes at the end of a long day. People can still get up, talk and move normally, though they feel ready to sleep.",
+"Emotionally it is unchanged, without the euphoria or confusion of benzodiazepines or Z-drugs. Memory is not affected.",
+"It is not known to cause overdose deaths on its own and has little effect on breathing, but alcohol and other sedatives still add drowsiness. Fluvoxamine greatly raises its levels and should not be combined."],
+plateau=["The ramelteon plateau is a quiet, natural-feeling sleep. It helps more with falling asleep than staying asleep, so some people still wake in the night. The body is relaxed but not heavy.",
+"Some people notice vivid or unusual dreams, and a few report mild changes in hormone levels with long-term use.",
+"Next-day grogginess is uncommon, and coordination and memory are generally unaffected."],
+comedown=["Waking is usually clear and normal, without hangover, heaviness or a bad taste. Some people notice mild tiredness or dizziness in the morning.",
+"Mood is unchanged, and there is no rebound anxiety or craving.",
+"It is not considered addictive and is not a controlled substance; stopping does not cause withdrawal or rebound insomnia, which is why it is often used in older adults and people with a history of substance use."])
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v

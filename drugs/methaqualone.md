@@ -86,7 +86,7 @@ Injury from falls, accidents and choking while sedated is common, and adding alc
 
 The comedown is groggy and hungover, with headache, heavy limbs, dry mouth and sometimes nausea. The tingling fades into a dull ache, and coordination may stay off well into the next day.
 
-Mood can be low and anxious, with irritability and embarrassment about forgotten events. Some people feel a strong pull to take more to recapture the warmth.
+Mood can be low and anxious, with irritability and embarrassment about forgotten events. Some people feel a strong pull to take more to recapture the warmth. Survivors of heavy overdoses sometimes describe days of shakiness, muscle aches and broken sleep afterwards, along with lingering confusion and low mood.
 
 Dependence and dangerous withdrawal with seizures can develop after regular use. Methaqualone was banned in the US in 1984 because of widespread misuse, overdoses and car crashes.
 

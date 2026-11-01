@@ -68,7 +68,7 @@ At the peak sleep pulls strongly. Those awake are clumsy, slurring and forgetful
 
 Emotionally it is mellow and sometimes confused; vivid or strange dreams are common once asleep.
 
-Z-drugs rarely stop breathing on their own, but combined with alcohol, opioids, benzodiazepines or gabapentinoids they can cause dangerous sedation and slowed breathing. Complex sleep behaviors, such as sleep-driving, cooking or walking outside with no memory, carry an FDA boxed warning. Anyone who cannot be woken, or is vomiting while drowsy, needs emergency help.
+Z-drugs rarely stop breathing on their own, but combined with alcohol, opioids, benzodiazepines or gabapentinoids they can cause dangerous sedation and slowed breathing. Complex sleep behaviors, such as sleep-driving, cooking or walking outside with no memory, carry an FDA boxed warning. Anyone who cannot be woken, or is vomiting while drowsy, needs emergency help. Older adults are at particular risk of falls and confusion.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -86,7 +86,7 @@ Because it lasts longer, next-morning impairment is possible: studies have found
 
 Waking may be groggy and slow, with the bitter taste still present, a dry mouth and a heavy head. Coordination and reaction time may lag for the first few hours of the morning, even when the person feels awake.
 
-Mood can be flat, foggy or slightly irritable in the morning, and some people feel anxious or low after a night on it. Rebound insomnia can follow on nights without it.
+Mood can be flat, foggy or slightly irritable in the morning, and some people feel anxious or low after a night on it. Rebound insomnia can follow on nights without it. Some people notice the taste fading only by midday.
 
 Dependence and rebound insomnia can develop with regular use, and stopping after long-term use can cause anxiety, insomnia and, rarely, seizures. Combining with alcohol or opioids is dangerous.
 

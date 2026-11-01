@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Chloral hydrate, one of the oldest sleep drugs (from the 1800s), starts with an unpleasant, burning, bitter taste and a warm, irritated feeling in the stomach. Soon a quick, heavy drowsiness follows, with the head growing heavy and the limbs slow.
+Chloral hydrate, one of the oldest sleep drugs (introduced in 1869), starts with an unpleasant, burning, acrid taste and a warm, irritated feeling in the throat and stomach that can bring nausea or belching. Within about half an hour a quick, heavy drowsiness follows: the head grows heavy, the eyelids droop and the limbs slow.
 
-Mentally it brings a sleepy, dull calm, sometimes with a brief giddiness or lightheaded feeling before sleep.
+Mentally it brings a sleepy, dull calm, sometimes with a brief giddiness or lightheaded, slightly drunk feeling before sleep arrives. It was once a favorite of Victorian writers and was used in children for medical scans because it reliably put them to sleep.
 
-Historically, it was slipped into alcohol as 'knockout drops' — the original 'Mickey Finn'.
+Historically, it was slipped into alcohol as 'knockout drops' — the original 'Mickey Finn' — because the combination quickly overpowered drinkers.
 
 Medically, the onset reflects absorption and entry into the brain. Its active metabolite trichloroethanol has a half-life of about 8 to 10 hours. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,11 +64,11 @@ Heaviness.
 
 ### Peak (about 1 h)
 
-At the peak there is strong sedation and clumsiness. Most people fall asleep quickly and deeply.
+At the peak there is strong sedation and clumsiness. Most people fall asleep quickly and deeply, often snoring, with slow, regular breathing and a heavy, motionless body. If awake, they sway, slur and struggle to keep their eyes open.
 
-Emotionally foggy and drowsy, with little awareness of time.
+Emotionally the peak is foggy and drowsy, with little awareness of time and sometimes a muddled, dreamlike confusion. In some people, especially children and older adults, it can paradoxically cause agitation or excitement.
 
-Overdose can cause dangerous heart rhythms, vomiting, stomach bleeding, low blood pressure and slowed breathing, and it is much more dangerous with alcohol.
+Overdose can cause dangerous heart rhythms, vomiting, stomach bleeding, low blood pressure and slowed breathing, and it is much more dangerous with alcohol, which also slows its breakdown.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -76,19 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-The plateau is deep sleep for several hours.
+The chloral hydrate plateau is usually deep sleep for several hours. The body lies heavy and still, breathing slow and deep, and the person may be hard to rouse. Some people wake briefly with stomach discomfort, a sour taste or the need to vomit.
 
-If awake, thinking is very dull and confused.
+If awake, thinking is very dull and confused, and the person may be disoriented about time and place. Memory for this stretch is patchy.
 
-Stomach upset may continue.
+Stomach upset may continue, and repeated nightly use quickly leads to tolerance, so people needed more to get the same sleep, which raised overdose risk.
 
 ### Comedown (4-8 h total)
 
-Waking is groggy, sometimes with nausea and a heavy head.
+Waking is groggy, sometimes with nausea, a heavy head, a lingering acrid taste and an irritated stomach. Coordination may be off for the first part of the morning, and some people feel a dull headache.
 
-Mood is flat.
+Mood is flat and slow, and some people feel irritable or low. Long-term users described feeling dulled and lethargic during the day.
 
-Dependence and withdrawal can occur after regular use, and tolerance builds quickly.
+Dependence and withdrawal can occur after regular use, with tolerance building quickly; withdrawal resembles alcohol withdrawal and can include tremor, delirium and seizures. It is rarely used today.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 
