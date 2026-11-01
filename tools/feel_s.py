@@ -140,3 +140,58 @@ H("nordazepam",
 ["At its peak steady relaxation.","Mentally level and calm.","Dangerous with depressants."],
 ["The plateau is very long.","Mentally dull, forgetful.","Accumulation in older adults."],
 ["The comedown is extremely slow.","Emotionally gradual return of anxiety.","Dependence with long use."])
+H("oxazolam",
+["Oxazolam (Serenal) is a Japanese prodrug benzodiazepine converted mostly into nordazepam. Its onset is slow, a soft loosening of tension over an hour or two.","Mentally the calm is understated, more an absence of worry than a feeling.","Because nordazepam lingers, each day's dose adds to the last."],
+["At its peak, gentle relaxation and mild drowsiness.","Mentally calm and somewhat slowed.","Dangerous with alcohol."],
+["The plateau is long and flat, a background sedation.","Mentally reduced sharpness and memory.","Older people may become confused."],
+["The comedown stretches over days.","Emotionally anxiety slowly resurfaces.","Dependence with long use."])
+H("pinazepam",
+["Pinazepam (Domar) is a long-acting benzodiazepine used in Italy, converted to nordazepam. It comes on gradually with a steady weight in the limbs.","Mentally a broad, slow calm.","It accumulates with daily use."],
+["At its peak relaxed and drowsy.","Mentally calm, slightly foggy.","Risky with depressants."],
+["The plateau lasts days.","Mentally dull.","Falls in older adults."],
+["The comedown is slow.","Emotionally gradual.","Dependence with long use."])
+H("tetrazepam",
+["Tetrazepam (Myolastan) was used in Europe mainly for back and muscle spasm until it was withdrawn in 2013 after rare but serious skin reactions. It came on over a while with a distinctive loosening of tight, knotted muscles.","Mentally the calm was milder than with diazepam, more physical relief than mental quieting.","Drowsiness and unsteadiness appeared at higher amounts."],
+["At its peak muscles felt slack and warm.","Mentally mildly relaxed.","Dangerous with alcohol."],
+["The plateau lasted several hours.","Mentally slightly slowed.","Skin rashes were a warning sign to stop."],
+["The comedown brought returning stiffness.","Emotionally mild.","Dependence possible with long use."])
+H("brotizolam",
+["Brotizolam (Lendormin) is a short-acting thienotriazolo sleep drug used in Europe and Japan. It comes on quickly: a fast-falling heaviness and a sleepy calm within a short time.","Mentally the mind dims quickly, much like triazolam.","Staying awake after taking it risks forgotten actions."],
+["At its peak sleep; awake, clumsy and blank.","Mentally strong amnesia.","Risky with alcohol."],
+["The plateau is short, ending before morning.","Mentally sleep.","Little hangover."],
+["The comedown may bring early waking or rebound restlessness.","Emotionally next-day anxiety for some.","Tolerance builds with nightly use."])
+H("cinolazepam",
+["Cinolazepam (Gerodorm) is a sleep benzodiazepine used in Austria and eastern Europe. It comes on over a while with a drowsy heaviness.","Mentally thoughts soften toward sleep.","Next-day effects are generally mild."],
+["At its peak sleep.","Mentally hazy.","Risky with alcohol."],
+["The plateau lasts the night.","Mentally sleep.","Older users may wake unsteady."],
+["The comedown is a light morning grogginess.","Emotionally mild.","Tolerance builds."])
+H("mexazolam",
+["Mexazolam (Melex, Sedoxil) is an anxiety benzodiazepine used in Japan and Portugal. It comes on gradually with a calm, unclenching sensation.","Mentally worry quiets; people often describe it as not very sleepy.","Its active products last long."],
+["At its peak mild relaxation.","Mentally calm.","Risky with depressants."],
+["The plateau is long.","Mentally slight dulling.","Builds with use."],
+["The comedown is gradual.","Emotionally slow.","Dependence possible."])
+H("clotiazepam",
+["Clotiazepam (Rize, Veratran) is a short-acting thienodiazepine for anxiety in Japan and Europe. It comes on fairly quickly with a light, brief calm.","Mentally a quick easing of nervousness, similar to a mild etizolam.","It wears off within a few hours."],
+["At its peak relaxed, lightly drowsy.","Mentally calm.","Risky with alcohol."],
+["The plateau is short.","Mentally clears fast.","Repeated dosing in a day is common."],
+["The comedown is quick, with tension returning.","Emotionally rebound anxiety.","Dependence possible."])
+H("gidazepam",
+["Gidazepam (Hydazepam) is a prodrug benzodiazepine used in Russia and Ukraine, described as a 'daytime tranquilizer'. Its onset is slow because the body must convert it, and the calm builds over hours.","Mentally people describe relief from anxiety with relatively little sleepiness, sometimes with a faintly activating quality.","Its active metabolite, desalkylgidazepam, lingers for days."],
+["At its peak mild relaxation.","Mentally calm and fairly clear.","Risky with alcohol."],
+["The plateau is long.","Mentally steady.","Accumulation with repeated use."],
+["The comedown is gradual.","Emotionally slow return of anxiety.","Dependence possible."])
+H("tofisopam",
+["Tofisopam (Grandaxin) is an unusual 2,3-benzodiazepine that does not bind the classic benzodiazepine site. Its onset is subtle: a gentle easing of jitteriness without heaviness or sleepiness.","Mentally people feel calmer but alert, with no fog; many feel almost nothing.","It does not relax muscles or cause amnesia like typical benzos."],
+["At its peak there is little physical change.","Mentally a mild calm.","It is not known to cause the dangerous sedation of classic benzos, though interactions with other drugs are possible."],
+["The plateau is short.","Mentally clear.","Side effects are uncommon."],
+["The comedown is unnoticeable for most.","Emotionally steady.","Dependence and withdrawal are minimal."])
+H("bentazepam",
+["Bentazepam (Tiadipona) is a thienodiazepine used in Spain. It comes on over a while with moderate relaxation.","Mentally calm with mild sleepiness.","Rare cases of liver injury have been reported."],
+["At its peak relaxed.","Mentally calm.","Risky with alcohol."],
+["The plateau lasts several hours.","Mentally slowed.","Watch for yellow skin or dark urine."],
+["The comedown is mild.","Emotionally mild.","Dependence possible."])
+H("zolazepam",
+["Zolazepam is a veterinary benzodiazepine sold only combined with the dissociative tiletamine as Telazol or Zoletil for animal anesthesia. Human exposure is accidental or very rare misuse, and the onset is fast: heaviness, numbness and a sense of detachment from the body.","Mentally the dissociative tiletamine dominates early: confusion, dreamlike unreality and loss of time.","Exposure is a medical emergency."],
+["At its peak deep sedation with possible unconsciousness.","Mentally absent or dissociated.","Breathing problems and prolonged unconsciousness can occur."],
+["The plateau can last hours.","Mentally confused.","Hospital monitoring is needed."],
+["Recovery brings confusion and nausea.","Emotionally disoriented.","No therapeutic use in people."])
