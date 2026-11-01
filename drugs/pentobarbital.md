@@ -48,11 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV about 1 min)
 
-Pentobarbital (Nembutal, 'yellow jackets') produces a fast, smooth slide into sedation. A warm, heavy wave moves through the body, the eyelids drop, and limbs feel weighted and slow.
+Pentobarbital (Nembutal, the old 'yellow jackets') produces a smooth, fairly quick slide into sedation. A warm, heavy wave moves outward from the chest into the arms and legs, the eyelids grow heavy, and the limbs feel thick and slow, as though moving through warm water. The face may flush and the head can feel pleasantly swimmy.
 
-Mentally the onset is a soft, carefree detachment. Anxiety dissolves and a drunk-like looseness takes over, with slurred speech and slowed thought.
+Mentally the onset is a soft, carefree detachment. Anxiety dissolves quickly, and a drunken looseness follows: thoughts slow, speech thickens, and the person may become chatty, giggly or simply content to sit and drift. Many who knew both said it felt more 'drunk' and less clean than benzodiazepines.
 
-Medically it is now used mostly in hospitals for brain swelling, uncontrolled seizures and anesthesia, and in veterinary euthanasia, which reflects how powerfully it suppresses the brain.
+Today pentobarbital is used mostly in hospitals for uncontrolled seizures, raised brain pressure and procedural sedation, and in veterinary euthanasia. That medical use reflects how powerfully and quickly it can shut down brain activity, including the drive to breathe.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Pentobarbital is processed by the liver with a half-life of about 15 to 50 hours. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -64,9 +64,9 @@ Rapid heaviness.
 
 ### Peak (within minutes)
 
-At the peak the body is heavy, numb and uncoordinated, and the pull toward sleep is strong. Breathing slows and deepens.
+At the peak the body is heavy, numb and very uncoordinated. Standing is wobbly, hands fumble, and the pull toward sleep is strong. Breathing slows and deepens, the heart rate may drop, and the skin can feel cool. Pain and discomfort seem far away.
 
-Emotionally the peak is a hazy, dreamlike calm, with fading memory and little awareness of time.
+Emotionally the peak is a hazy, dreamlike calm with little awareness of time. Some feel a warm, uncritical euphoria; others become confused, tearful or irritable. Memory recording fades, so the peak is often only partly remembered.
 
 Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
 
@@ -76,17 +76,17 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (15 min-several h)
 
-The plateau is deep sleep for most people, sometimes so deep they are hard to wake.
+For most people the plateau becomes deep sleep, sometimes so deep they are hard to rouse. Those who stay awake are confused, disoriented and slurring, with poor balance and slow reactions.
 
-Those awake are confused and disoriented.
+Thinking is very slowed, and judgment is badly impaired; people may not realize how sedated they are.
 
-Breathing and blood pressure remain low throughout.
+Breathing and blood pressure stay low throughout this stretch, and adding alcohol, opioids or other sedatives can tip sleep into coma.
 
 ### Comedown (3-4 h)
 
-The comedown is a groggy, heavy-headed hangover.
+The comedown is a groggy, heavy-headed hangover with headache, dry mouth, nausea and a body that feels bruised and slow.
 
-Mood is flat, slowed or irritable.
+Mood is often flat, slowed or irritable, with a raw, anxious edge as the drug clears.
 
 After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 

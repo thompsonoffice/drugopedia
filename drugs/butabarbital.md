@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Butabarbital (Butisol) brings an intermediate, steady onset of warm drowsiness and heavy limbs.
+Butabarbital (Butisol) brings an intermediate, steady onset. Warm drowsiness spreads through the body, limbs feel heavy, and a calm, slightly drunk ease sets in over the first hour.
 
-Mentally it produces a calm, slightly drunk ease.
+Mentally it produces a relaxed, unbothered state with slowed thoughts and lowered worry, closer to a few drinks than to a modern sleep pill.
 
-Coordination softens and speech slows.
+Coordination softens, speech slows, and the person may feel slightly dizzy when standing.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Butabarbital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -64,9 +64,9 @@ Drowsiness builds.
 
 ### Peak (1-3 h)
 
-At the peak the body is heavy and sleepy and balance poor.
+At the peak the body is heavy and sleepy, balance is poor, and movements are clumsy. Many people lie down and doze.
 
-Emotionally a loose, foggy contentment, with memory gaps.
+Emotionally it is a loose, foggy contentment with memory gaps, sometimes swinging toward irritability or tearfulness.
 
 Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
 
@@ -76,17 +76,17 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (3-6 h)
 
-The plateau is a long, sleepy stretch.
+The plateau is a long, sleepy stretch lasting many hours.
 
-Thinking is slow.
+Thinking is slow and judgment impaired, and reaction time is poor.
 
-Accidents and falls are likely.
+Accidents and falls are likely, and additional depressants are especially risky now.
 
 ### Comedown (6-8 h)
 
-The comedown feels like a heavy hangover.
+The comedown feels like a heavy hangover: headache, dry mouth, aching muscles and grogginess.
 
-Mood can be low.
+Mood can be low, anxious or irritable as it clears.
 
 After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 

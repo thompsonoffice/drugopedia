@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Phenobarbital is long-acting and slow: rather than a rush, it brings a gradual, deepening drowsiness and heaviness over hours.
+Phenobarbital is long-acting and slow. Instead of a rush, it brings a gradual, deepening drowsiness and heaviness over a few hours, like a tiredness that keeps settling in and will not lift. Limbs feel slow and the head heavy.
 
-Mentally the onset is a dull, sleepy calm with slowed thinking. For people taking it daily for epilepsy, it often feels like little more than tiredness and mental slowness.
+Mentally the onset is a dull, sleepy calm with slowed thinking. People taking it daily for epilepsy often describe it as feeling 'flattened' or mentally slower rather than pleasantly relaxed. There is little euphoria.
 
-Clumsiness and slurred speech appear as levels rise.
+Clumsiness, slurred speech and unsteady walking appear as levels rise, and the eyes may flick side to side.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Phenobarbital is partly cleared by the kidneys and partly by the liver, with a half-life of about 2 to 5 days; it speeds up the breakdown of many other medicines. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -64,11 +64,11 @@ A heavy, creeping drowsiness.
 
 ### Peak (4-12 h)
 
-At the peak the body is heavy and sluggish, with poor balance and a strong pull toward sleep.
+At the peak the body is heavy and sluggish, with poor balance and a strong pull toward sleep. Movements are slow and effortful.
 
-Emotionally it is muted, foggy and sometimes low; in children and older adults it can paradoxically cause agitation.
+Emotionally it is muted, foggy and sometimes low. In children and older adults it can paradoxically cause agitation, hyperactivity or confusion instead of calm.
 
-Because it lasts so long, sedation builds with repeated use. Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
+Because it lasts so long, phenobarbital accumulates with repeated use, and sedation can build over days. Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -76,17 +76,17 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (10-12 h)
 
-The plateau can last a day or more, a long, slow-witted drowsiness.
+The plateau can last a day or more: a long, slow-witted drowsiness that colors everything.
 
-Memory and concentration are noticeably dulled.
+Memory, concentration and processing speed are noticeably dulled, and some people struggle at school or work.
 
-Some people develop depression on long-term use.
+Some people develop depression or mood changes on long-term use, and it interacts with many medicines, including birth control.
 
 ### Comedown (1-3 days)
 
-The comedown is very gradual, with lingering grogginess.
+The comedown is very gradual, with grogginess lingering for days as levels slowly fall.
 
-Mood may stay flat for days.
+Mood may stay flat for some time, and people may only realize how dulled they were once it clears.
 
 After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 

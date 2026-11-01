@@ -48,11 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV under 1 min)
 
-Methohexital (Brevital) is an ultra-short-acting anesthetic given only by clinicians in procedures. The onset is extremely fast: a brief taste or tingle, a sense of the room receding, and unconsciousness within moments.
+Methohexital (Brevital) is an ultra-short-acting anesthetic given only by clinicians, usually by IV for brief procedures and electroconvulsive therapy. The onset is extremely fast: a brief strange taste or tingling, a heaviness in the eyelids, and a sense of the room receding or tilting away.
 
-Mentally there is barely time to notice anything beyond a sudden heavy drop, sometimes with a fleeting dreamy or floating sensation.
+Mentally there is barely time to notice anything beyond a sudden heavy drop, sometimes with a fleeting dreamy, floating or falling sensation before awareness switches off.
 
-Some patients have hiccups or small muscle twitches as it takes hold.
+Some patients have hiccups, small muscle twitches, or a burning feeling along the vein as it is injected.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Methohexital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -64,11 +64,11 @@ Immediate.
 
 ### Peak (within 1 min)
 
-During its peak the patient is unconscious and breathing may need support.
+During its peak the patient is unconscious. Breathing can slow or pause and often needs support, and blood pressure may drop.
 
-There is no remembered experience of this phase.
+There is no remembered experience of this phase; it feels like a cut in time.
 
-It is only safe with airway equipment and monitoring.
+It is only safe with airway equipment, oxygen and continuous monitoring by trained staff.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -76,17 +76,17 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (5-10 min)
 
-Effects pass within minutes.
+Effects pass within minutes as the drug redistributes out of the brain.
 
-Patients wake fairly clear-headed.
+Patients usually wake fairly clear-headed, sometimes surprised that the procedure is over.
 
 It is not a drug encountered outside medical settings.
 
 ### Comedown (10-20 min)
 
-Waking can bring grogginess and mild nausea.
+Waking can bring brief grogginess, mild nausea or headache.
 
-Some feel briefly confused or emotional.
+Some patients feel briefly confused, emotional or weepy as they surface.
 
 Single medical use does not cause dependence.
 

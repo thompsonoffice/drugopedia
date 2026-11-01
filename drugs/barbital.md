@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Barbital (Veronal), the first commercial barbiturate, has a slow onset of heavy, spreading drowsiness.
+Barbital (Veronal), the first commercially sold barbiturate (1903), has a slow onset. Over an hour or more, heavy, spreading drowsiness settles in, the limbs feel thick and the head clouded.
 
-Mentally a sleepy, hazy calm.
+Mentally it brings a sleepy, hazy calm with slowed thoughts, closer to exhaustion than euphoria.
 
-Coordination fades as it builds.
+Coordination fades as it builds, with slurred speech and unsteady walking.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Barbital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -64,9 +64,9 @@ Heavy drowsiness creeps in.
 
 ### Peak (several hours)
 
-At the peak deep sedation and unsteadiness.
+At the peak there is deep sedation, heavy limbs and marked unsteadiness. Most people sleep.
 
-Emotionally dull and drowsy, with memory gaps.
+Emotionally it is dull and drowsy, with memory gaps for the period.
 
 Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
 
@@ -76,17 +76,17 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (many hours)
 
-Its very long action means a long, heavy plateau.
+Its very long action means a long, heavy plateau that can stretch into the next day.
 
-Thinking stays slow.
+Thinking stays slow and reaction time poor.
 
-Accumulation with repeat use is a danger.
+Repeated doses accumulate dangerously, and historically this caused many accidental overdoses.
 
 ### Comedown (1-3 days)
 
-The comedown is a prolonged hangover.
+The comedown is a prolonged hangover with heaviness, headache and grogginess.
 
-Mood low and slowed.
+Mood is low and slowed for a long time.
 
 After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 

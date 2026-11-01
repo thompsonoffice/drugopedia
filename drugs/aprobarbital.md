@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Aprobarbital (Alurate) brings a moderate onset of warm drowsiness and heavy limbs.
+Aprobarbital (Alurate), an older intermediate-acting barbiturate, brings a moderate onset of warm drowsiness, heavy limbs and a gradual, tipsy looseness.
 
-Mentally a loose, calm ease.
+Mentally it produces a calm, unbothered ease with slowed thinking and fading worry.
 
-Speech and balance soften.
+Speech softens and slurs, and balance becomes uncertain.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Aprobarbital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -64,9 +64,9 @@ Calm and drowsiness.
 
 ### Peak (1-3 h)
 
-At the peak strong sleepiness and clumsiness.
+At the peak there is strong sleepiness, clumsiness and a heavy, numb body.
 
-Emotionally foggy contentment.
+Emotionally it is a foggy contentment, sometimes with tearfulness or irritability, and memory becomes patchy.
 
 Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
 
@@ -76,17 +76,17 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (3-6 h)
 
-The plateau is a long drowsy stretch.
+The plateau is a long, drowsy stretch.
 
-Thinking slow.
+Thinking is slow, judgment impaired.
 
-Falls are a risk.
+Falls and accidents are a real risk.
 
 ### Comedown (6-8 h)
 
-The comedown is groggy.
+The comedown is groggy, with headache and heavy limbs.
 
-Mood flat.
+Mood is flat or irritable.
 
 After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 

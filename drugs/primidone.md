@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Primidone (Mysoline) is an epilepsy and tremor medicine that the body converts partly to phenobarbital. The first doses often bring an unexpectedly strong, unpleasant onset: dizziness, nausea, unsteadiness and a heavy, drugged sleepiness.
+Primidone (Mysoline) is used for epilepsy and essential tremor, and the body converts part of it to phenobarbital. The first doses are known for an unexpectedly strong, unpleasant onset: dizziness, nausea, a spinning or swaying feeling, unsteadiness, and a heavy, drugged sleepiness that can make people feel acutely ill.
 
-Mentally there is fogginess and slowed thinking rather than euphoria.
+Mentally there is fogginess, slowed thinking and sometimes a strange, detached feeling rather than any pleasure.
 
-Tolerance to these first-dose effects develops over days to weeks.
+Tolerance to these first-dose effects develops over days to weeks, which is why doctors start low and increase slowly.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Primidone is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -64,11 +64,11 @@ Unsteadiness.
 
 ### Peak (3-4 h)
 
-At the peak, people feel drowsy, unsteady and sometimes nauseated.
+At the peak people feel drowsy, unsteady and sometimes nauseated, with double vision or flickering eye movements in some.
 
-Emotionally flat; some feel low or irritable.
+Emotionally it is flat, and some people feel low, irritable or emotionally blunted.
 
-Overdose resembles phenobarbital overdose with deep sedation and slowed breathing.
+Overdose resembles phenobarbital overdose, with deep sedation, slow breathing and low blood pressure.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -76,19 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (many hours)
 
-The plateau is long, with steady drowsiness.
+The plateau is long, with steady drowsiness on regular use.
 
-Concentration is dulled.
+Concentration and memory are dulled, especially early in treatment.
 
-Driving should wait until effects are known.
+Driving should wait until the person knows how it affects them.
 
 ### Comedown (1-3 days (phenobarbital))
 
-The comedown is gradual.
+The comedown is gradual because of the long-lasting phenobarbital it produces.
 
-Mood mostly steady on regular use.
+Mood mostly steadies on regular use.
 
-Stopping suddenly can trigger seizures.
+Stopping suddenly can trigger seizures, so changes must be made with a doctor.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

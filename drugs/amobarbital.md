@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Amobarbital ('blue heavens', and with secobarbital in Tuinal, 'rainbows') has a moderate onset: a warm heaviness, softening muscles, and a gradual drunken looseness.
+Amobarbital ('blue heavens'; with secobarbital it made Tuinal, the 'rainbows') has a moderate, rolling onset. Warmth and heaviness gather in the chest and limbs, muscles soften, and a gradual, drunken looseness creeps in, as if a few strong drinks were taking hold at once.
 
-Mentally it brings calm, talkative disinhibition. Historically it was used as a so-called 'truth serum' because people became unguarded and drowsily chatty.
+Mentally it brings a calm, unguarded talkativeness. Inhibitions fall away and people become drowsily chatty and open; in the mid-1900s it was used in interviews as a so-called 'truth serum' for this reason, although it does not actually make people truthful.
 
-Speech slurs and balance falters early.
+Speech slurs and balance falters early. The eyes may feel heavy and the head swimmy.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Amobarbital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -64,9 +64,9 @@ Inhibitions fall and words come easily.
 
 ### Peak (1-2 h)
 
-At the peak the body is heavy and uncoordinated, and the mind floats in a sleepy, uninhibited haze.
+At the peak the body is heavy and uncoordinated, the limbs feel distant and rubbery, and the mind floats in a sleepy, uninhibited haze. People may sway when sitting and stumble when walking.
 
-Emotionally people feel carefree but can become confused, tearful or irritable, and memory fades.
+Emotionally the peak is carefree but unstable: people can become confused, tearful, sentimental or irritable, and memory fades in and out.
 
 Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
 
@@ -76,17 +76,17 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (2-4 h)
 
-The plateau is a long, drowsy, intoxicated stretch.
+The plateau is a long, drowsy, intoxicated stretch lasting many hours because amobarbital is intermediate-acting.
 
-Thinking is slow and judgment poor.
+Thinking is slow and judgment poor. People may doze and wake repeatedly, each time foggier.
 
-Its intermediate duration means effects can carry on for many hours.
+Repeat use within this window stacks sedation and greatly raises overdose risk.
 
 ### Comedown (6-8 h)
 
-The comedown brings hangover-like grogginess and headache.
+The comedown brings a heavy hangover with headache, dry mouth, aching body and grogginess that can last well into the next day.
 
-Mood is often low and anxious.
+Mood is often low and anxious, with irritability and a sense of being raw and jumpy.
 
 After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 

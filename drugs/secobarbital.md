@@ -76,19 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (1-3 h)
 
-The plateau is a deep, drunken drowsiness that slides easily into heavy sleep. Those who stay awake are slurred, confused and clumsy.
+The secobarbital plateau is a deep, drunken drowsiness that slides easily into heavy, almost stunned sleep. People who stay awake look and feel very drunk: speech is thick and slurred, the eyes are glassy and drifting, and walking is a lurching stagger. The body feels numb and distant, and the person may not notice bumps, bruises, cold or the need to use the bathroom.
 
-Thinking is foggy and emotional control is poor. People may repeat themselves or act on impulse.
+Mentally the plateau is a fog with emotional weather moving through it. Silliness can flip to weepiness or sudden anger, and people may repeat themselves, argue, or act on impulses they would normally resist. Memory recording is poor, so much of this period is later lost, which is part of why barbiturates were linked to accidents and risky situations in their heyday.
 
-Falls, choking on vomit while sedated, and breathing failure are the main dangers in this stretch.
+This stretch carries the highest risk of harm from falls, burns, choking on vomit while too sedated to protect the airway, and breathing slowing to a dangerous level, especially if more is taken or alcohol is added. Snoring that turns to gurgling, or breathing that becomes very slow or irregular, is an emergency.
 
 ### Comedown (3-4 h main effect)
 
-As secobarbital wears off, a heavy hangover sets in: dull headache, dry mouth, aching body and grogginess.
+As secobarbital wears off, a heavy hangover sets in that many compare to a bad alcohol hangover: a dull, pounding headache, dry mouth, aching muscles, nausea and a slow, shaky body. Coordination may stay off for hours, and the eyes may feel heavy and sore.
 
-Emotionally the comedown is often low, irritable and anxious, with shame or confusion about forgotten events.
+Emotionally the comedown is often low, irritable and anxious. People may feel shame, confusion or dread about forgotten events, and a jittery, raw restlessness can make it hard to settle, which drives some to take more to smooth it out.
 
-After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
+With regular use tolerance builds quickly to the pleasant effects but not to the breathing suppression, so the margin of safety narrows over time. After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

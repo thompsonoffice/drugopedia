@@ -48,11 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV 30-60 sec)
 
-Thiopental (Pentothal), historically the standard anesthesia induction drug, works within seconds: a garlic-like taste, a heavy drop of the eyelids and loss of consciousness.
+Thiopental (Pentothal), for decades the standard drug to start general anesthesia, works within seconds of IV injection. Patients often notice a garlic- or onion-like taste, a warm wave, and their eyelids dropping heavily as they count backward.
 
-Mentally people sometimes recall a brief, warm floating sensation or a feeling of being pulled down.
+Mentally people sometimes recall a brief warm, floating sensation or the feeling of being pulled down into darkness before awareness ends.
 
-It was popularly called a 'truth serum', but it does not make people tell the truth.
+Like amobarbital, it gained a reputation as a 'truth serum', but it does not make people truthful; it only loosens speech in a drowsy, unreliable way.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Thiopental is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -68,7 +68,7 @@ At the peak the person is unconscious, with suppressed breathing and lowered blo
 
 There is no experience to remember.
 
-It requires airway support and monitoring.
+It requires airway support and monitoring; outside medical hands it would be deadly.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -76,19 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (5-10 min)
 
-Consciousness returns within minutes, but sedation lingers.
+Consciousness returns within minutes as the drug moves out of the brain, but it lingers in fat tissue, so sedation continues.
 
-People are drowsy and slow.
+People are drowsy, slow and sometimes confused for hours.
 
-It is no longer made in the US.
+Thiopental is no longer made in the US.
 
 ### Comedown (10-30 min)
 
-The comedown brings grogginess and hangover for hours.
+The comedown brings grogginess and a hangover-like heaviness for many hours.
 
-Mood may be flat.
+Mood may be flat and the person sleepy.
 
-Not used outside medicine.
+It is not used outside medicine.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

@@ -50,11 +50,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Butalbital is found mainly in headache combinations (Fioricet, Fiorinal), alongside acetaminophen or aspirin and caffeine. Its onset is a gentle, warm relaxation of the neck, scalp and shoulders, where tension headaches live, with a light drowsy heaviness.
+Butalbital is found mostly in tension-headache combinations (Fioricet and Esgic with acetaminophen and caffeine, Fiorinal with aspirin and caffeine, some with codeine). The onset is a gentle, warm relaxation that seems to start in the scalp, temples, neck and shoulders, exactly where tension headaches sit. The band of pressure around the head loosens and a light, drowsy heaviness spreads through the body.
 
-Mentally there is a mild, calm ease and sometimes a soft, slightly tipsy feeling. The caffeine in the combination can make this feel more alert and talkative than a pure sedative.
+Mentally there is a mild, calm ease and often a soft, slightly tipsy feeling. Because caffeine is in the mix, the effect can be oddly alert and talkative: relaxed and warm, but not necessarily sleepy, a combination some people find very appealing.
 
-Some feel lightheaded or slightly nauseated.
+Some feel lightheaded, slightly nauseated or flushed. Coordination may already be a little off.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Butalbital has a half-life of about 35 hours and is processed by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -66,11 +66,11 @@ Calm and looseness.
 
 ### Peak (1-2 h)
 
-At the peak the headache recedes, muscles loosen, and a mellow, warm calm settles in, often described as a light alcohol buzz.
+At the peak the headache recedes, muscles loosen and a mellow, warm calm settles in, often described as a light alcohol buzz with a clear head. The body feels pleasantly heavy and comfortable.
 
-Emotionally people feel content and unbothered; with more, slurring and clumsiness appear.
+Emotionally people feel content, sociable and unbothered. With more, the effect turns into slurring, clumsiness and sleepiness, and the caffeine can make the person feel wired and sedated at once.
 
-Large amounts of the combination products also carry acetaminophen liver damage or aspirin toxicity. Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
+Taking extra of the combination products also means taking more acetaminophen, which can severely damage the liver, or more aspirin, which can cause bleeding and aspirin poisoning. Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -78,17 +78,17 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (2-4 h)
 
-The plateau is a steady, relaxed drowsiness.
+The plateau is a steady, relaxed drowsiness lasting several hours.
 
-Concentration dulls.
+Concentration dulls, reaction time slows, and the person may feel slightly detached.
 
-Driving is unsafe.
+Driving is unsafe during this stretch, and alcohol adds both sedation and liver risk.
 
 ### Comedown (4-8 h)
 
-As it fades, the headache can return, sometimes worse: frequent use causes medication-overuse 'rebound' headaches.
+As it fades, the headache can return, sometimes worse than before. Frequent use causes medication-overuse 'rebound' headaches, which can trap people in a cycle of daily use.
 
-Mood may be irritable or anxious.
+Mood may be irritable or anxious, and sleep can be poor because of the caffeine and the rebound.
 
 After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 
