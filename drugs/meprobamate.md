@@ -78,7 +78,7 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 The meprobamate plateau is a long, drowsy calm lasting many hours. Many people nap heavily and wake still feeling slowed. Those awake feel sluggish and slightly drunk, with heavy limbs, slurred speech, a dry mouth and a tendency to sway when standing.
 
-Concentration is poor, reaction time slow, and judgment loosened. Conversation may be repetitive or forgetful, and the person may feel content to sit and do nothing. Anxiety stays muffled throughout.
+Concentration is poor, reaction time slow, and judgment loosened. Conversation may be repetitive or forgetful, and the person may feel content to sit and do nothing. Anxiety stays muffled throughout. Some people find themselves drifting into short, dream-filled naps and waking with no sense of how much time has passed.
 
 Driving or operating machinery is dangerous throughout this stretch, and adding alcohol or another sedative stacks onto sedation that is still present.
 
@@ -86,7 +86,7 @@ Driving or operating machinery is dangerous throughout this stretch, and adding 
 
 The comedown is groggy and slow, with heavy limbs, dry mouth, a dull headache and sometimes nausea, like a mild hangover. Coordination may remain a bit off into the next morning.
 
-Mood may turn flat, irritable or anxious as the calm fades, and that returning anxiety can encourage taking more, which is how dependence builds.
+Mood may turn flat, irritable or anxious as the calm fades, and that returning anxiety can encourage taking more, which is how dependence builds. Many describe the morning after as feeling wrapped in cotton, with slowed thinking and a sense of being one step behind. In the 1950s and 60s, these next-day effects and the dependence they caused were a major reason doctors switched to benzodiazepines.
 
 Dependence develops with regular use, and stopping abruptly can cause tremor, insomnia, vomiting, hallucinations and seizures. Withdrawal should be medically supervised.
 

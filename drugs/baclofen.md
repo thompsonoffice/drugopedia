@@ -86,7 +86,7 @@ Falls, accidents and choking while sedated are real dangers during this phase. W
 
 As baclofen wears off, spasticity and tightness return, and many people feel tired, heavy and a little shaky. Headache, nausea, dry mouth and a lingering wobbliness are common, and sleep may be light or broken.
 
-Emotionally there can be a mild dip in mood, irritability or anxiety. People taking it for alcohol use disorder sometimes notice cravings returning as it fades.
+Emotionally there can be a mild dip in mood, irritability or anxiety. People taking it for alcohol use disorder sometimes notice cravings returning as it fades. Some people describe the hours after baclofen as feeling 'hollow' or drained, with heavy legs and a reluctance to get up.
 
 After regular use, abrupt stopping is dangerous: withdrawal can cause hallucinations, confusion, high fever, rebound muscle rigidity and seizures, and with pump (intrathecal) baclofen it can be life-threatening. Any change should be made with a doctor.
 

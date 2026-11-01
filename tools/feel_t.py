@@ -329,3 +329,22 @@ comedown=["The comedown is groggy and slow, with heavy limbs, dry mouth, a dull 
 "Dependence develops with regular use, and stopping abruptly can cause tremor, insomnia, vomiting, hallucinations and seizures. Withdrawal should be medically supervised."])
 for k,v in F.items():
     if k in D: D[k]["feel"]=v
+
+def X(n,p,t,i=1):
+    F[n][p][i]=F[n][p][i]+" "+t
+X("baclofen","comedown","Some people describe the hours after baclofen as feeling 'hollow' or drained, with heavy legs and a reluctance to get up.")
+X("metaxalone","comedown","Compared with carisoprodol, the end of a metaxalone dose is notably clean, without the lingering drunk feeling or next-day fog that meprobamate brings.")
+X("orphenadrine","plateau","Some people feel their thoughts become slippery, losing the thread mid-sentence.")
+X("orphenadrine","comedown","Eyes may stay dry and sensitive to light, and the urge to drink water is strong as the mouth slowly recovers. Some people notice that their sleep the following night is restless or broken by odd dreams.")
+X("chlorzoxazone","onset","Its relatively quick start makes the relief feel noticeable.")
+X("chlorzoxazone","peak","For most people, though, the peak is simply a comfortable, slightly sleepy hour in which a sore back stops demanding attention.")
+X("chlorzoxazone","plateau","Some people notice a faint lightheadedness when they get up after resting, which passes after a few moments of standing still.")
+X("chlorzoxazone","comedown","People sometimes find the stiffness returns first as a dull ache, then gradually sharpens back into the original spasm, which is often the signal they use to judge when the dose has worn off.")
+X("dantrolene","onset","It is a slow, physical change rather than a mental one.")
+X("dantrolene","peak","The contrast between a clear mind and weak muscles can feel strange and frustrating.")
+X("dantrolene","plateau","People often learn to plan activities around the hours when weakness is strongest, sitting to dress or carrying lighter loads, and some find the trade-off between less spasm and less strength takes weeks to balance.")
+X("dantrolene","comedown","Because the drug clears slowly, missing a dose does not cause a sudden change; strength creeps back gradually, and so does stiffness, giving people time to notice the difference. Doctors usually stop it if no clear benefit appears within several weeks.")
+X("meprobamate","plateau","Some people find themselves drifting into short, dream-filled naps and waking with no sense of how much time has passed.")
+X("meprobamate","comedown","Many describe the morning after as feeling wrapped in cotton, with slowed thinking and a sense of being one step behind. In the 1950s and 60s, these next-day effects and the dependence they caused were a major reason doctors switched to benzodiazepines.")
+for k,v in F.items():
+    if k in D: D[k]["feel"]=v

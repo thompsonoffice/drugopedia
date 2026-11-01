@@ -50,7 +50,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 Dantrolene works directly inside muscle fibers, blocking the release of calcium that makes muscles contract, rather than acting on the brain. Its onset is felt over hours as weakness more than relaxation: the arms and legs feel tired and heavy, grip strength softens, and climbing stairs takes more effort than usual.
 
-Mentally it brings some drowsiness, dizziness and lightheadedness, but no high or calm in the usual sense. Some feel a vague malaise, as if coming down with a cold, and a general reluctance to move.
+Mentally it brings some drowsiness, dizziness and lightheadedness, but no high or calm in the usual sense. Some feel a vague malaise, as if coming down with a cold, and a general reluctance to move. It is a slow, physical change rather than a mental one.
 
 Diarrhea, nausea, loss of appetite and a washed-out feeling are common early effects, and some people develop sensitivity to sunlight.
 
@@ -66,7 +66,7 @@ Gradual weakness.
 
 At the peak muscles can feel weak and floppy, and tasks like holding a heavy cup, rising from a chair, or walking any distance become harder. People with spasticity from spinal cord injury, stroke or cerebral palsy may find stiffness much reduced and movement smoother.
 
-Emotionally the peak is tired, sometimes low or irritable, without euphoria. Some report confusion, trouble concentrating or headache.
+Emotionally the peak is tired, sometimes low or irritable, without euphoria. Some report confusion, trouble concentrating or headache. The contrast between a clear mind and weak muscles can feel strange and frustrating.
 
 Long-term oral use can cause serious and sometimes fatal liver damage, so liver tests are monitored. In hospitals, the IV form is a life-saving treatment for malignant hyperthermia, a dangerous reaction to certain anesthetics.
 
@@ -78,7 +78,7 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 The dantrolene plateau is lasting weakness and fatigue, since the drug stays in the body a long time. Limbs feel heavy and tire quickly, and people may need to rest more often or use support when walking. Diarrhea or stomach upset can continue.
 
-Thinking may feel a little slow, and drowsiness can affect driving and work. Mood is generally flat or tired rather than changed in any dramatic way.
+Thinking may feel a little slow, and drowsiness can affect driving and work. Mood is generally flat or tired rather than changed in any dramatic way. People often learn to plan activities around the hours when weakness is strongest, sitting to dress or carrying lighter loads, and some find the trade-off between less spasm and less strength takes weeks to balance.
 
 Falls are a real risk, especially when standing up quickly or using stairs, because the muscles that catch a stumble respond more weakly.
 
@@ -86,7 +86,7 @@ Falls are a real risk, especially when standing up quickly or using stairs, beca
 
 As levels slowly drop, strength gradually returns over a day or more, and spasticity may come back. Some people notice their muscles feel stiff again before they feel energetic again.
 
-Mood is usually unaffected, though fatigue and a washed-out feeling can linger, particularly in the first weeks of treatment.
+Mood is usually unaffected, though fatigue and a washed-out feeling can linger, particularly in the first weeks of treatment. Because the drug clears slowly, missing a dose does not cause a sudden change; strength creeps back gradually, and so does stiffness, giving people time to notice the difference. Doctors usually stop it if no clear benefit appears within several weeks.
 
 Dantrolene is not used recreationally and does not cause cravings or withdrawal, but anyone taking it long-term should watch for yellowing skin, dark urine or abdominal pain.
 

@@ -86,7 +86,7 @@ Reaction time is reduced enough that drivers should be cautious until they know 
 
 The comedown is gentle. Stiffness gradually returns over a few hours and a light tiredness lingers, sometimes with a mild headache, slight nausea or dry mouth. There is no real hangover, and most people simply notice the medicine wearing off as their pain comes back.
 
-Mood generally stays steady, without a crash, craving or rebound anxiety. Some people feel a little sluggish for the rest of the evening.
+Mood generally stays steady, without a crash, craving or rebound anxiety. Some people feel a little sluggish for the rest of the evening. Compared with carisoprodol, the end of a metaxalone dose is notably clean, without the lingering drunk feeling or next-day fog that meprobamate brings.
 
 Dependence and withdrawal are rare. Very large overdoses, especially combined with other drugs, have caused deaths, so it should still be stored safely away from children and others.
 

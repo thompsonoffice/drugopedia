@@ -50,7 +50,7 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 Chlorzoxazone (Parafon Forte, Lorzone) acts fairly quickly, often within an hour. A light drowsiness gathers behind the eyes, and tight muscles begin to loosen, usually noticed first in the lower back and hips as bending becomes a little easier. Some people feel slightly lightheaded or off-balance when they first stand.
 
-Mentally the effect is mild: a slight calm and sleepiness, with no real euphoria. Thinking stays mostly clear, and many people would not notice much except the easing of pain and a pull toward resting.
+Mentally the effect is mild: a slight calm and sleepiness, with no real euphoria. Thinking stays mostly clear, and many people would not notice much except the easing of pain and a pull toward resting. Its relatively quick start makes the relief feel noticeable.
 
 Some notice nausea, stomach upset or heartburn early on. Urine may turn orange or reddish-purple, which is harmless.
 
@@ -66,7 +66,7 @@ Mild drowsiness.
 
 At the peak the body is a bit looser and sleepier, and moving a stiff back or neck is easier and less painful. Dizziness is usually mild, though some feel a little unsteady or tired in the legs. The sensation is closer to tiredness than intoxication.
 
-Emotionally it is mostly neutral, with mild sedation; a minority feel irritable, overstimulated or headachy instead of calm.
+Emotionally it is mostly neutral, with mild sedation; a minority feel irritable, overstimulated or headachy instead of calm. For most people, though, the peak is simply a comfortable, slightly sleepy hour in which a sore back stops demanding attention.
 
 Rarely chlorzoxazone causes serious liver injury; yellowing skin or eyes, dark urine, pale stools, or pain in the upper right abdomen need prompt attention. Alcohol adds both sedation and liver strain.
 
@@ -78,7 +78,7 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 The plateau is short and mild, usually lasting a few hours. The body stays slightly looser and heavier, and many people take the opportunity to lie down or nap. Those who stay active notice a gentle drowsiness and slightly slower movements but can generally function normally.
 
-Focus is slightly reduced and the person may feel a bit tired or dreamy, but there is no confusion or memory loss at usual amounts. Mood stays neutral.
+Focus is slightly reduced and the person may feel a bit tired or dreamy, but there is no confusion or memory loss at usual amounts. Mood stays neutral. Some people notice a faint lightheadedness when they get up after resting, which passes after a few moments of standing still.
 
 Driving should wait until the person knows how it affects them, and other sedatives or alcohol make drowsiness worse.
 
@@ -86,7 +86,7 @@ Driving should wait until the person knows how it affects them, and other sedati
 
 The comedown is barely noticeable. Over a few hours stiffness returns, and some people feel a little tiredness, a mild headache or a lingering upset stomach. Because the drug is short-acting, people often take it several times a day, and each dose fades quietly.
 
-Mood is unchanged; there is no crash, rebound anxiety or craving.
+Mood is unchanged; there is no crash, rebound anxiety or craving. People sometimes find the stiffness returns first as a dull ache, then gradually sharpens back into the original spasm, which is often the signal they use to judge when the dose has worn off.
 
 Dependence and withdrawal are not typical and it is rarely misused, but any signs of liver trouble during regular use should be checked by a doctor.
 
