@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Swallowed: about 30 to 60 minutes.
+Temazepam (Restoril) is a medium-short benzodiazepine used for sleep. Swallowed, its onset brings a heaviness in the limbs and eyelids, a warm loosening and an urge to lie down.
+
+Mentally the onset is a drowsy calm that dissolves the restless, wired feeling of insomnia; thoughts get slower and softer.
+
+In the 1990s, liquid-filled capsules were misused by injection in the UK, causing severe vein damage, and were withdrawn.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -60,7 +64,11 @@ Heaviness and yawning.
 
 ### Peak (1-2 h)
 
-Peak 1 to 2 hours: deep sleepiness.
+At its peak the body is relaxed and sleepy, coordination poor and speech possibly thick.
+
+Mentally there is a drifting, dreamy calm leading to sleep; people who stay awake can become disinhibited and forgetful.
+
+With alcohol or opioids breathing can be dangerously suppressed.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -68,11 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (2-6 h)
 
-Sleep for several hours.
+The plateau is a few hours of deep sleep or heavy drowsiness.
+
+Mentally foggy, with patchy memory.
+
+Waking in the night may bring confusion and unsteadiness.
 
 ### Comedown (6-10 h total)
 
-Fades over about 6 to 10 hours.
+Next morning some feel a mild hangover: grogginess, slowed thinking and dry mouth.
+
+Emotionally a slightly flat mood or anxiety may follow.
+
+Nightly use leads to tolerance and rebound insomnia when stopped.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

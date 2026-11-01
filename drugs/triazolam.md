@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Swallowed: about 15 to 30 minutes.
+Triazolam (Halcion) is a very short-acting, potent sleep benzodiazepine. It comes on fast: a sudden heaviness, drooping eyelids and slackening muscles.
+
+Mentally the onset can be abrupt, like a dimmer switch: alertness drops and thoughts blur quickly.
+
+Because it acts so fast, people who do not go straight to bed can find themselves doing things they will not remember.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -60,7 +64,11 @@ Fast drowsiness.
 
 ### Peak (1-2 h)
 
-Peak within about 1 to 2 hours, strong amnesia.
+At its peak the body is very sleepy and uncoordinated.
+
+Mentally it causes strong amnesia; unusual behavior, confusion or agitation can occur, especially at higher amounts.
+
+Combined with alcohol it is particularly dangerous.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -68,11 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (2-3 h)
 
-A few hours.
+The plateau is short, a few hours.
+
+Mentally sleep or foggy semi-awareness.
+
+Its brief action means the body clears it before morning.
 
 ### Comedown (4-6 h total)
 
-Fades in about 4 to 6 hours.
+The comedown is quick, but some notice early-morning anxiety or wakefulness as it wears off.
+
+Emotionally next-day anxiety ('rebound') has been reported.
+
+Tolerance and dependence develop; stopping should be tapered.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

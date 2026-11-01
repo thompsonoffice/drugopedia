@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (10-30 min)
 
-IV: 1 to 5 minutes; nasal: about 5 to 10 minutes.
+Midazolam (Versed) is a fast, short benzodiazepine used before procedures and in seizures, by injection, nasal spray or mouth. Onset is very quick: a swift heaviness and relaxation, often within minutes.
+
+Mentally anxiety vanishes almost immediately, replaced by a dreamy, uncaring calm.
+
+Its strong amnesic effect means patients usually remember little of the procedure.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -60,7 +64,11 @@ Very quick heaviness.
 
 ### Peak (30-60 min)
 
-Peak within minutes.
+At its peak deeply relaxed, drowsy and uncoordinated.
+
+Mentally hazy and forgetful; some patients become talkative or disinhibited.
+
+Breathing can be depressed, especially with opioids, so it is used with monitoring.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -68,11 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (under 1 h)
 
-Short: about 1 to 2 hours.
+The plateau is short, under an hour or two.
+
+Mentally drifting and foggy.
+
+Flumazenil can reverse it in emergencies.
 
 ### Comedown (2-4 h total)
 
-Fades fast.
+The comedown is a groggy waking with patchy memory.
+
+Emotionally calm or briefly confused.
+
+Prolonged infusions in intensive care can cause dependence and withdrawal.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

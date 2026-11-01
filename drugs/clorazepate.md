@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Swallowed: about 30 to 60 minutes.
+Clorazepate (Tranxene) is converted in the stomach to nordazepam, a very long-acting benzodiazepine. Onset is moderately fast: muscles loosen and anxiety settles.
+
+Mentally a steady calm.
+
+Drowsiness appears early.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -60,7 +64,11 @@ Muscle and mental relaxation.
 
 ### Peak (1-2 h)
 
-Peak around 1 to 2 hours.
+At its peak relaxed and mildly sedated.
+
+Mentally calm and less reactive.
+
+Combining with depressants is dangerous.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -68,11 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-Long plateau.
+The plateau is very long as nordazepam lingers for days.
+
+Mentally dulled, with reduced memory and focus.
+
+Accumulation causes confusion in older people.
 
 ### Comedown (many hours to days)
 
-Fades over many hours to days.
+The comedown is extremely gradual.
+
+Emotionally slow return of anxiety.
+
+Dependence develops with long use.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

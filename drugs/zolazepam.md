@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (a few min)
 
-Injected, effects begin within a few minutes.
+Zolazepam is a veterinary benzodiazepine sold with tiletamine (Telazol) for animal anesthesia. It comes on gradually: shoulders drop, the jaw unclenches and a mild heaviness settles into the limbs.
+
+Mentally the onset is rapid, deep sedation. Worries recede and the mind becomes slower and quieter.
+
+Unsteadiness, slowed reactions and drowsiness start early, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -60,7 +64,11 @@ Fast heaviness and detachment.
 
 ### Peak (10-30 min)
 
-The peak is deep sedation and dissociation.
+At its peak the body feels loose and heavy, with clumsiness, sometimes slurred speech and a strong pull toward sleep.
+
+Mentally the peak is calm and detached, with weakened memory for events during this time.
+
+With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -68,11 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (1-2 h)
 
-About 1 to 2 hours.
+The plateau lasts several hours of steady sedation. Balance and coordination stay poor.
+
+Mentally people feel muted and dulled, with poor concentration.
+
+Human exposure is accidental and mixed with the dissociative tiletamine.
 
 ### Comedown (several hours)
 
-Fades over several hours.
+The comedown is fairly quick, and some notice rebound anxiety or early waking.
+
+Emotionally anxiety may creep back with irritability or flatness.
+
+Daily use causes tolerance and dependence; stopping suddenly can cause seizures, so tapering is essential.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

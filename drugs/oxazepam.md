@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (45-90 min)
 
-Swallowed: about 45 to 90 minutes.
+Oxazepam (Serax) is a slow-onset, medium-acting benzodiazepine often used for anxiety and alcohol withdrawal. Its onset is gradual and gentle: tension eases over a while without a rush.
+
+Mentally a quiet, even calm builds slowly.
+
+Its slow start makes it less likely to be misused for a 'hit'.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -60,7 +64,11 @@ Slow, soft relaxation.
 
 ### Peak (2-3 h)
 
-Peak around 2 to 3 hours.
+At its peak the body is relaxed and mildly drowsy.
+
+Mentally calm and less worried, with little euphoria.
+
+It is processed without the liver's main enzyme pathway, making it safer for people with liver disease.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -68,11 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (3-6 h)
 
-Several hours of calm.
+The plateau is several hours of steady calm.
+
+Mentally clear-ish but slowed.
+
+Breathing risk rises with alcohol or opioids.
 
 ### Comedown (6-10 h total)
 
-Fades over 6 to 10 hours.
+The comedown is soft.
+
+Emotionally anxiety returns gradually.
+
+Dependence develops with long use.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Swallowed: about 30 to 60 minutes.
+Clobazam (Onfi) is a 1,5-benzodiazepine used mainly for epilepsy. Its onset is gradual, with mild relaxation.
+
+Mentally it tends to cause less sedation than other benzos; people feel calmer with clearer thinking.
+
+Drowsiness can still occur.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -60,7 +64,11 @@ Gentle calm.
 
 ### Peak (1-4 h)
 
-Peak 1 to 4 hours.
+At its peak mild calm and relaxation.
+
+Mentally steady with less euphoria.
+
+Risks rise with alcohol or opioids.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -68,11 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (long)
 
-Long.
+The plateau is long, with a long-acting metabolite.
+
+Mentally mostly clear.
+
+Behavior changes and irritability occur in some.
 
 ### Comedown (many hours)
 
-Fades over many hours.
+The comedown is gradual.
+
+Emotionally steady.
+
+Stopping suddenly can trigger seizures.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

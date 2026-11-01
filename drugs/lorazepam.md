@@ -50,7 +50,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-40 min)
 
-Begins 20 to 40 minutes after swallowing, faster under the tongue.
+Lorazepam (Ativan) is a medium-acting, fairly strong benzodiazepine. Swallowed or dissolved under the tongue, it settles in over a short while: the shoulders drop, the jaw unclenches, a heaviness gathers behind the eyes and the chest loosens as if a tight band has been let out.
+
+Mentally the onset feels like someone turning down the volume on fear. Racing thoughts slow, the 'what if' loop goes quiet, and many people describe a soft, blanketed feeling of safety. It is more sedating and less floaty than alprazolam, and often comes with a pull toward sleep.
+
+Light-headedness and unsteadiness on standing appear early, and reaction time is already slowed even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Lorazepam is glucuronidated in the liver without CYP enzymes, so it is less affected by liver disease and drug interactions; half-life 10 to 20 hours. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -62,7 +66,11 @@ Sleepiness and calm build.
 
 ### Peak (1.5-2.5 h)
 
-Peak at about 2 hours: heavy sedation and relaxation.
+At its peak the body feels heavy, warm and loose; limbs are slow to respond, speech may slur slightly, and coordination is clumsy. Many people simply fall asleep.
+
+Mentally the peak is calm, indifferent and foggy. Worries feel distant and unimportant, but so do details: lorazepam is strongly linked to anterograde amnesia, so people often cannot remember conversations or actions from this window, sometimes while appearing normal to others.
+
+With alcohol, opioids or other sedatives the peak can slide into dangerously slowed breathing and unresponsiveness.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -70,11 +78,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (2-8 h)
 
-Plateau of several hours.
+The plateau lasts several hours of steady, quiet sedation. The body remains slack and drowsy, and balance stays poor, which raises the risk of falls, especially in older people.
+
+Mentally the state is muted and even: little anxiety, little drive and weak short-term memory. Some feel a gentle contentment; others feel blank or dull.
+
+Because it lasts long enough to overlap, repeated doses during the plateau stack up and deepen sedation.
 
 ### Comedown (8-12 h total)
 
-Effects last about 8 to 12 hours in total.
+The comedown is gradual: heaviness thins into tiredness, a foggy head and sometimes a mild headache.
+
+Emotionally anxiety may creep back, sometimes stronger than before ('rebound anxiety'), along with irritability or a flat mood.
+
+Daily use builds tolerance and dependence within weeks. Stopping suddenly can cause severe anxiety, insomnia, tremor, hallucinations and seizures, so tapering with a prescriber is essential.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
