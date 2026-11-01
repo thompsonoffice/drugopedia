@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Methamphetamine's onset brings a strong rush of energy: the heart pounds, the body warms, and a jittery, tingling alertness spreads through the limbs.
+Methamphetamine's onset is strong and fast by smoking or injection and slower by mouth or snorting, but in every case it brings a surge of physical energy. The heart speeds and pounds, warmth floods the chest and head, and a tingling, electric feeling runs through the limbs. Snorting burns sharply in the nose.
 
-Mentally there is surging euphoria and confidence, with a sense of limitless energy and focus. People feel talkative, sexual and invincible.
+Mentally the onset is a wave of euphoria and confidence. People describe feeling awake, powerful, sexual and capable of anything, with a strong urge to talk, move or start projects. Tiredness, hunger and worry vanish.
 
-Pupils widen, the mouth dries, the jaw clenches and appetite disappears.
+Pupils widen, the mouth dries, the jaw clenches and teeth may grind. Blood pressure and body temperature begin to rise, and breathing quickens.
 
 Methamphetamine crosses into the brain more readily than amphetamine and releases dopamine powerfully while also blocking its breakdown.
 
@@ -64,11 +64,11 @@ Intense euphoria and energy.
 
 ### Peak (15-60 min)
 
-The peak is long and intense: the body feels hot, wired and restless, with sweating, fast breathing and a racing heart. Teeth grinding and repetitive movements are common.
+At the peak the body is hot, wired and restless. Sweating, a racing or pounding heart, fast breathing and a tense jaw are typical, and some feel twitching or a need to keep moving. Food and water are forgotten.
 
-The emotional tone is driven, euphoric focus that can become compulsive, such as cleaning or taking things apart for hours. Irritability and suspicion grow with longer use.
+The emotional tone is intense, driven euphoria with sharp focus that can turn compulsive: repetitive cleaning, sorting, taking objects apart, or hours of online activity. Libido rises. Sociability can turn into irritability, and suspicion grows as use continues.
 
-Overheating, heart rhythm problems, stroke and psychosis are serious risks. Street methamphetamine may contain fentanyl.
+Overheating, dangerous heart rhythms, heart attack, stroke and seizures are serious risks at the peak. Mixing with other stimulants, alcohol or opioids adds danger, and street methamphetamine is increasingly contaminated with fentanyl.
 
 At peak, very high dopamine causes euphoria and, in heavy use, paranoia and hallucinations; severe toxicity causes hyperthermia, rhabdomyolysis, stroke and heart attack.
 
@@ -76,19 +76,19 @@ Methamphetamine-related heart failure (cardiomyopathy) and pulmonary hypertensio
 
 ### Plateau (4-8 h)
 
-The plateau lasts many hours, with sustained energy and no sleep. The body stays hot and dehydrated.
+Methamphetamine's plateau lasts many hours, longer than cocaine's. The body stays alert and hot, with persistent dry mouth, jaw tension, sweating and no appetite. Sleep is impossible.
 
-Mentally focus remains strong but judgment worsens; paranoia, hearing things, or feeling bugs on the skin can develop over long binges.
+Mentally the focus remains strong but becomes rigid and repetitive, and judgment worsens. In long binges without sleep, people begin to hear voices, see shadows or feel insects crawling on the skin, and paranoia can become severe.
 
-Skin picking and dental damage are linked to this phase.
+Dehydration, skin picking, teeth grinding and exhaustion build in this phase, and risk-taking, including unsafe sex and injection practices, rises.
 
 ### Comedown (8-12 h)
 
-The comedown is a long crash: exhaustion, ravenous hunger and heavy sleep.
+The comedown is a long crash. The body goes heavy and drained, muscles ache, and people sleep for long stretches, waking ravenous.
 
-Emotionally depression, irritability and anxiety follow, sometimes for days.
+Emotionally the crash brings depression, irritability, anxiety and an inability to feel pleasure, sometimes for days. Strong craving often follows.
 
-Repeated use leads to dependence and lasting psychosis risk.
+Repeated use leads to dependence, lasting psychosis risk, severe dental and skin damage, weight loss, and heart and memory problems. The low mood after heavy use can include suicidal thoughts and should be taken seriously.
 
 Half-life of about 10 to 12 hours keeps effects going long after the high.
 

@@ -50,11 +50,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-60 min)
 
-Clonazepam (Klonopin) builds slowly. The first signs are a gradual loosening of the muscles and a quiet, spreading calm, without the sudden 'switch' of alprazolam.
+Clonazepam (Klonopin) comes on slowly and quietly. There is rarely a moment people can point to; instead, over a while they notice the jaw is no longer clenched, the shoulders have dropped, and the breath has deepened. The limbs take on a mild, even heaviness, and the eyelids feel slightly weighted.
 
-Mentally anxiety recedes slowly. People describe a steady, even, 'blanket' calm and a softening of emotional reactions.
+Mentally the onset is a gradual lowering of the emotional volume. Anxious thoughts are still present but lose their urgency, as if they are happening behind glass. People with panic disorder describe it as a floor being put under them rather than a sudden rescue, and the calm builds without the rush that can make alprazolam feel 'druggy'.
 
-Coordination may become slightly clumsy, and drowsiness creeps in. Its long half-life means effects stack with repeated use.
+Early physical changes include mild clumsiness, slower reaction times and a slight dryness or thickness in speech. Because clonazepam is long-acting and accumulates with repeated use, effects from earlier use can still be present, and combining with alcohol or opioids is dangerous from the start.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Clonazepam is metabolized by CYP3A4; half-life 30 to 40 hours. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -66,11 +66,11 @@ A quiet, gradual calm.
 
 ### Peak (1-4 h)
 
-The peak is a long, stable calm: muscles relaxed, movements slower, and a heavy sleepiness. Balance and reaction time are impaired.
+At the peak, the body feels steady, loose and heavy. Muscles are relaxed, movement is unhurried, and balance can be unreliable, especially on stairs or in the dark. Some people notice blurred or slow-focusing vision and a mild dizziness on standing.
 
-Emotionally clonazepam is often described as blunting, a flat, steady, unbothered state rather than a 'buzz'. Some people feel emotionally numb or detached; memory gaps can occur.
+The emotional tone is better described as blunting than euphoria. People report a flat, even, unbothered state in which neither worry nor excitement rises very far. Some value this deeply; others feel emotionally numb, detached or 'muted', and report that music or relationships feel less vivid. Short-term memory is impaired, and people may repeat questions or forget conversations.
 
-Like other benzodiazepines, clonazepam is dangerous with opioids and alcohol.
+Clonazepam rarely stops breathing on its own in healthy adults, but with opioids, alcohol, gabapentinoids or other sedatives it contributes to fatal overdoses. Counterfeit pills sold as clonazepam can contain designer benzodiazepines or fentanyl. Older adults face high risks of confusion and falls.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -78,19 +78,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (6-12 h)
 
-The plateau lasts many hours. Drowsiness and relaxation stay steady, and next-day sleepiness is common.
+The plateau is long, often lasting much of a day. The body remains relaxed and drowsy, and people may nap without meaning to. Muscle tone stays low and fine coordination remains clumsy.
 
-Mentally there is a steady, muted calm with slow thinking and reduced motivation.
+Mentally the plateau is a quiet, slowed steadiness. Concentration is reduced, thinking feels a step behind, and motivation is often low. Time can pass without much being noticed, and people sometimes describe the day as 'blurred'.
 
-Driving remains impaired well into this phase, often longer than people think.
+Driving and machinery remain impaired well into this phase, often longer than people think, and next-morning drowsiness is common because levels fall slowly.
 
 ### Comedown (12-24 h)
 
-The comedown is slow and gentle, with gradual return of muscle tension.
+Because clonazepam leaves the body slowly, the comedown is gentle and spread out. Muscle tension creeps back, sleep can be lighter, and the body feels ordinary rather than crashing.
 
-Rebound anxiety is milder than with alprazolam because levels fall slowly, but low mood or flatness can linger.
+Emotionally, rebound anxiety is usually milder than after short-acting benzodiazepines, but some people notice irritability, low mood or a return of underlying anxiety as the blunting lifts.
 
-Long-term users develop dependence; stopping suddenly can cause seizures and severe anxiety and needs a medical taper.
+With daily use, dependence develops within weeks. Stopping suddenly can cause severe anxiety, insomnia, tremor, perceptual disturbances and seizures, sometimes days after the last use because of the long half-life, so stopping should follow a slow medical taper.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

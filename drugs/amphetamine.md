@@ -52,11 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Amphetamine (Adderall) comes on gradually by mouth: a slight increase in heart rate, a dry mouth, and a clean feeling of wakefulness.
+Amphetamine (Adderall, Dexedrine) by mouth comes on gradually. People first notice a gentle wakefulness, a slightly faster heartbeat, a dry mouth and a loss of appetite. Some feel a mild jitteriness or a slight churning in the stomach.
 
-Mentally people feel more focused, motivated and confident; tasks feel engaging.
+Mentally, the onset brings clarity and motivation. Tasks that felt dull become absorbing, distractions fade, and confidence rises. People with ADHD often describe feeling calmer and more organized rather than high.
 
-Appetite drops, pupils widen, and some feel a mild jitter.
+Pupils widen slightly, the jaw may tense, and body temperature rises a little. Extended-release forms build more slowly and less noticeably than immediate-release ones.
 
 Amphetamine is well absorbed from the gut; dextroamphetamine is the more potent form centrally, and levoamphetamine adds more peripheral effects.
 
@@ -68,11 +68,11 @@ Focus and energy build; appetite fades.
 
 ### Peak (2-3 h)
 
-The peak brings energy, a faster heart and warmth; some feel jaw tension and sweating.
+At the peak, the body feels energized and warm, with a faster pulse, sometimes sweaty palms, and tension in the jaw and neck. Food is unappealing, and the bladder can feel slow.
 
-The emotional tone is talkative, upbeat and driven. Misused at high amounts, it becomes euphoric and restless.
+When used as prescribed, the emotional tone is focused and steady. Misused at high amounts, it becomes euphoric, chatty, confident and restless, with racing thoughts and a strong urge to keep busy. Anxiety and irritability can surface.
 
-Risks include anxiety, high blood pressure, heart rhythm problems and overheating.
+Misuse raises blood pressure and heart rate and can cause chest pain, heart rhythm problems, overheating and, rarely, psychosis. Counterfeit 'Adderall' pills may contain methamphetamine or fentanyl.
 
 At peak, dopamine in the striatum and prefrontal cortex is high; at therapeutic levels this improves focus, but at high levels it causes euphoria, stereotyped behavior and psychosis.
 
@@ -80,19 +80,19 @@ Cardiovascular risks include high blood pressure, arrhythmias and, rarely, strok
 
 ### Plateau (3-6 h, XR 8-12 h)
 
-The plateau sustains focus and energy for hours, longer for extended-release forms.
+The plateau sustains energy and focus for hours, much longer with extended-release capsules. The mouth stays dry and appetite stays low.
 
-Mentally people feel productive or restless and may fixate on tasks.
+Mentally people feel productive, talkative or fixated; some get stuck on low-value tasks. Time can seem to pass quickly.
 
-Sleep becomes difficult, and meals are skipped.
+Sleep becomes difficult if the plateau extends into the evening.
 
 ### Comedown (6-12 h)
 
-The comedown brings fatigue and heaviness.
+The comedown brings fatigue and heaviness, sometimes a headache and sudden hunger.
 
-Emotionally, irritability and low mood are common.
+Emotionally irritability, flat mood, anxiety or sadness are common, often called the 'Adderall crash'.
 
-Heavy use leads to a crash and dependence.
+Heavy or regular misuse leads to tolerance and dependence, with long crashes, poor sleep and low mood when stopping.
 
 Half-life is about 10 to 12 hours, longer if urine is alkaline.
 

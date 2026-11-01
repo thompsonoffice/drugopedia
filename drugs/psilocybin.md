@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-60 min)
 
-Psilocybin mushrooms begin with stomach discomfort, yawning and a sense of heaviness or chills.
+Psilocybin mushrooms usually begin with body sensations: stomach discomfort or nausea, yawning, chills, and a heavy or tingly feeling in the limbs. Pupils widen.
 
-Mentally people feel giddy or anxious as perception shifts.
+Mentally there is a sense of anticipation or unease as perception begins to change: colors brighten, edges soften, and laughter can come easily.
 
-Pupils widen, and colors brighten.
+Some feel a wave of anxiety, which often eases if the setting is calm.
 
 Psilocybin is converted in the gut and liver to psilocin, which crosses into the brain.
 
@@ -64,11 +64,11 @@ Visuals and emotional shifts build.
 
 ### Peak (1.5-3 h)
 
-The peak brings strong visual changes and emotional depth; the body may feel heavy or tingling.
+At the peak, the body may feel heavy, warm or tingly, and the stomach may still be uneasy. Visuals include breathing surfaces, patterns and color intensification.
 
-The emotional tone is often introspective, emotional, sometimes overwhelming.
+The emotional tone is often introspective and emotional, with feelings of connection, awe, sadness or fear. Time distortion is strong.
 
-Risks include panic and accidents.
+Risks include panic, frightening experiences and accidents. Some species can be confused with poisonous mushrooms.
 
 At the peak, 5-HT2A activation reduces activity in the brain's default mode network, linked to loss of the usual sense of self.
 
@@ -76,19 +76,19 @@ Heart rate and blood pressure rise modestly; the main risks are psychological.
 
 ### Plateau (2-4 h)
 
-The plateau continues visual and emotional effects.
+The plateau continues visual and emotional effects, with a heavier body and slower movement.
 
-People drift in thought, often feeling connected or vulnerable.
+Mentally people drift in thought, often feeling connected, vulnerable or tearful.
 
-Coordination is reduced.
+Coordination is reduced, so walking around unsupervised can be risky.
 
 ### Comedown (4-6 h)
 
-The comedown is gentle, with tiredness.
+The comedown is gentle, with tiredness and relaxation.
 
-People feel reflective and calm.
+Emotionally people feel reflective, calm or emotionally open.
 
-Rarely, lasting anxiety or perception changes occur.
+Rarely, lasting anxiety, low mood or perception changes occur.
 
 Psilocin's half-life is about 2 to 3 hours.
 

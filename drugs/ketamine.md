@@ -48,11 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (5-15 min)
 
-Ketamine's onset depends on route, but people quickly notice a numb, floaty heaviness in the limbs, a slight tingling, and difficulty coordinating movement.
+Ketamine's onset varies with route, from seconds to minutes when snorted or injected to longer by mouth. People first notice a numb, floaty heaviness in the limbs, a tingling or buzzing in the hands and face, and a sense that their body is slightly delayed when they move.
 
-Mentally, the world begins to feel distant or unreal; sounds can seem echoey, and thoughts become detached.
+Mentally the world starts to feel distant and unreal. Sounds can seem echoey or tinny, colors and edges shift, and thoughts slow and drift. Many describe a dreamy, detached euphoria.
 
-Nausea, a faster heart rate and raised blood pressure are common, and walking becomes unsteady.
+Heart rate and blood pressure rise. Nausea is common, and walking becomes unsteady quickly, which is a major cause of injuries.
 
 Snorted ketamine is absorbed through the nasal lining; intravenous ketamine reaches the brain within seconds, which is why anesthesia uses it.
 
@@ -64,11 +64,11 @@ Within minutes the body starts to feel distant; walking becomes unsteady.
 
 ### Peak (15-30 min)
 
-At the peak, the body can feel numb, weightless or separated from the mind; moving is difficult. Vision can blur, and eyes may flick side to side.
+At the peak, the body can feel numb, weightless or disconnected; limbs feel rubbery or absent, and moving is difficult. Vision blurs, and the eyes may flick side to side (nystagmus). Pain sensation is greatly reduced.
 
-The emotional tone varies from dreamy and euphoric to confusing or frightening. At higher levels, people may enter the 'K-hole', a deep dissociation with loss of sense of self and surroundings.
+The emotional tone ranges from dreamy and euphoric to confusing or frightening. At higher levels people may enter the 'K-hole': a deep dissociation in which awareness of the body and surroundings fades, and people may feel they are floating, traveling, or dying.
 
-Risks include accidents, choking on vomit, and dangerous combinations with alcohol or depressants. Long-term use damages the bladder.
+Risks include falls, drowning, choking on vomit, and being unable to respond to danger. Combining with alcohol, GHB, opioids or benzodiazepines can depress breathing. Street ketamine may be mixed with other drugs.
 
 At the peak, NMDA blockade in the thalamus and cortex disconnects sensory input from awareness; protective airway reflexes are partly preserved, but vomiting while unresponsive can still cause choking.
 
@@ -76,19 +76,19 @@ Emergence reactions (vivid dreams, confusion, agitation) are known from anesthes
 
 ### Plateau (30-60 min)
 
-The plateau keeps a heavy, numb, detached body feeling.
+The plateau keeps a heavy, numb, detached body. Movements are clumsy, speech is slow, and people often prefer to lie still.
 
-Mentally people drift in a dreamlike state with slowed time.
+Mentally people drift in a dreamy state with slowed or fragmented time. Thoughts can feel profound or nonsensical, and memory is patchy.
 
-Movement remains clumsy, and falls are common.
+Coordination remains poor, so falls and accidents remain common.
 
 ### Comedown (1-2 h)
 
-The comedown is fairly quick, with heaviness and grogginess.
+The comedown is relatively quick. Numbness fades, leaving heaviness, grogginess and sometimes nausea.
 
-Emotionally, some feel calm or reflective, others confused or low.
+Emotionally some feel calm and reflective, an 'afterglow' linked to ketamine's antidepressant effects; others feel confused, flat or anxious.
 
-Frequent use brings tolerance, cravings and bladder pain.
+Frequent use brings tolerance, cravings, memory problems and ketamine bladder syndrome, with painful, frequent urination and bladder damage.
 
 Ketamine's half-life is about 2 to 3 hours; norketamine is active and extends after-effects.
 

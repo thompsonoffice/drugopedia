@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-MDMA starts with a rush: tingling, warm waves through the body, a clenching jaw and sometimes nausea.
+MDMA begins with a rush: tingling, warm waves through the body, a fluttering stomach and sometimes nausea. The jaw starts to clench, and the pupils widen.
 
-Mentally people feel a growing euphoria and openness.
+Mentally people feel a growing euphoria and openness, often with excitement or nervousness.
 
-Pupils widen, and heart rate rises.
+Heart rate and body temperature rise, and people may feel restless.
 
 MDMA is absorbed from the gut and reverses the serotonin transporter, flooding synapses with serotonin; it also releases dopamine and noradrenaline.
 
@@ -64,11 +64,11 @@ A wave of warmth and energy builds.
 
 ### Peak (1.5-2.5 h)
 
-The peak brings intense warmth, touch sensitivity and energy; the jaw clenches, and the body heats up.
+At the peak, the body feels warm, energized and very sensitive to touch, music and movement. Jaw clenching, sweating and fast heartbeat are common.
 
-The emotional tone is deep empathy, affection and joy.
+The emotional tone is deep empathy, affection and joy, with a strong desire to connect and talk.
 
-Risks include overheating, low blood sodium and serotonin syndrome.
+Risks include overheating, low blood sodium from drinking too much water, and serotonin syndrome with other drugs. Pills sold as MDMA may contain other substances.
 
 At peak, MDMA triggers release of oxytocin and vasopressin (antidiuretic hormone); vasopressin makes the kidneys hold water, so drinking large amounts of water can dangerously dilute blood sodium, causing brain swelling.
 
@@ -76,19 +76,19 @@ Overheating is worsened by hot crowded venues and dancing; serotonin syndrome is
 
 ### Plateau (2-4 h)
 
-The plateau keeps warmth and openness.
+The plateau keeps warmth, energy and touch sensitivity, with continued jaw tension.
 
-People stay sociable and affectionate.
+Mentally people stay sociable, open and affectionate.
 
-Dehydration and overheating risk continue.
+Dehydration, overheating and low blood sodium risks continue.
 
 ### Comedown (4-6 h)
 
-The comedown brings tiredness and jaw soreness.
+The comedown brings tiredness, jaw soreness and sometimes muscle aches.
 
-Emotionally, a low mood can follow for days ('Tuesday blues').
+Emotionally a low mood can follow for days ('Tuesday blues').
 
-Repeated use worsens these effects.
+Repeated use worsens these effects and can cause lasting mood and memory problems.
 
 MDMA's half-life is about 7 to 9 hours; because it inhibits CYP2D6, redosing raises levels more than expected.
 

@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-LSD's onset is slow and subtle. People first notice a restless, slightly anxious energy, yawning, goosebumps or chills, and dilated pupils. Some feel mild nausea or a tight jaw.
+LSD's onset is slow and often subtle. People first feel a restless, slightly anxious energy, yawning, chills or goosebumps, a light tingling in the skin and dilated pupils. Some notice mild nausea or tightness in the jaw.
 
-Mentally, there is a growing sense that something is shifting: colors seem brighter, objects look slightly alive, and thoughts become associative.
+Mentally there is a growing sense that something is shifting: colors seem brighter, light more vivid, and objects slightly animated. Thoughts become associative and jumpy, and ordinary things can seem funny or fascinating.
 
-Heart rate and blood pressure rise modestly, and body temperature may increase.
+Heart rate, blood pressure and body temperature rise modestly. Some people feel unsettled during the onset because they are unsure what is happening.
 
 LSD is absorbed from the mouth and gut; very small amounts are active, which is why blotters can carry it.
 
@@ -64,11 +64,11 @@ Over the next hour colors brighten and patterns appear; emotions intensify.
 
 ### Peak (3-5 h)
 
-At the peak, visual changes are prominent: surfaces breathe, patterns flow, and colors intensify. The body can feel energized, tingly or heavy.
+At the peak, visual changes are prominent: surfaces breathe or ripple, patterns form on walls, colors intensify, and trails follow moving objects. The body can feel energized, tingly, heavy or strangely light, and people may feel temperature shifts.
 
-The emotional tone can be awe, joy and insight, or anxiety and confusion. Time can feel stretched or meaningless, and sense of self may dissolve.
+The emotional tone can be awe, joy and insight, or anxiety and confusion. Time stretches or loses meaning, and the sense of self may soften or dissolve. Emotional memories may surface, and the setting strongly shapes the mood.
 
-Risks include panic, frightening experiences and dangerous behavior. Blotters sold as LSD may contain NBOMes.
+Risks include panic, frightening experiences, disorientation and dangerous behavior such as wandering into traffic. Blotters sold as LSD may contain NBOMes, which can cause seizures and death.
 
 At the peak, 5-HT2A activation in the cortex and thalamus loosens the brain's normal filtering, producing hallucination-like visual effects and altered sense of self.
 
@@ -76,19 +76,19 @@ Physical toxicity is very low, but panic, confusion and accidents are real risks
 
 ### Plateau (5-8 h)
 
-The plateau is long: visuals and energy continue for hours.
+LSD's plateau is long, often many hours. Visual effects and body energy continue, sometimes in waves.
 
-Mentally, people may reflect deeply or feel overwhelmed.
+Mentally people may reflect deeply, laugh, or feel overwhelmed. Thought patterns can loop, and conversation can be difficult.
 
-Sleep is difficult until the effects fade.
+Sleep is difficult until effects fade, and fatigue builds.
 
 ### Comedown (8-12 h)
 
-The comedown brings tiredness while visual effects soften.
+The comedown brings tiredness as visuals soften and the body relaxes.
 
-Emotionally, people feel reflective or drained.
+Emotionally people feel reflective, peaceful or drained; some feel anxious.
 
-Some experience lingering anxiety or, rarely, persistent perception changes (HPPD).
+Some people experience lingering anxiety, low mood or, rarely, persistent perception changes (HPPD). People with a history of psychosis face higher risks.
 
 LSD's half-life is about 3 to 4 hours, but its receptor binding keeps effects going far longer.
 

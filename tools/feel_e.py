@@ -1,0 +1,95 @@
+# Full-standard felt-experience text for the seven previously thin pages.
+from gen import D
+F={}
+F["clonazepam"]={
+"onset":["Clonazepam (Klonopin) comes on slowly and quietly. There is rarely a moment people can point to; instead, over a while they notice the jaw is no longer clenched, the shoulders have dropped, and the breath has deepened. The limbs take on a mild, even heaviness, and the eyelids feel slightly weighted.",
+"Mentally the onset is a gradual lowering of the emotional volume. Anxious thoughts are still present but lose their urgency, as if they are happening behind glass. People with panic disorder describe it as a floor being put under them rather than a sudden rescue, and the calm builds without the rush that can make alprazolam feel 'druggy'.",
+"Early physical changes include mild clumsiness, slower reaction times and a slight dryness or thickness in speech. Because clonazepam is long-acting and accumulates with repeated use, effects from earlier use can still be present, and combining with alcohol or opioids is dangerous from the start."],
+"peak":["At the peak, the body feels steady, loose and heavy. Muscles are relaxed, movement is unhurried, and balance can be unreliable, especially on stairs or in the dark. Some people notice blurred or slow-focusing vision and a mild dizziness on standing.",
+"The emotional tone is better described as blunting than euphoria. People report a flat, even, unbothered state in which neither worry nor excitement rises very far. Some value this deeply; others feel emotionally numb, detached or 'muted', and report that music or relationships feel less vivid. Short-term memory is impaired, and people may repeat questions or forget conversations.",
+"Clonazepam rarely stops breathing on its own in healthy adults, but with opioids, alcohol, gabapentinoids or other sedatives it contributes to fatal overdoses. Counterfeit pills sold as clonazepam can contain designer benzodiazepines or fentanyl. Older adults face high risks of confusion and falls."],
+"plateau":["The plateau is long, often lasting much of a day. The body remains relaxed and drowsy, and people may nap without meaning to. Muscle tone stays low and fine coordination remains clumsy.",
+"Mentally the plateau is a quiet, slowed steadiness. Concentration is reduced, thinking feels a step behind, and motivation is often low. Time can pass without much being noticed, and people sometimes describe the day as 'blurred'.",
+"Driving and machinery remain impaired well into this phase, often longer than people think, and next-morning drowsiness is common because levels fall slowly."],
+"comedown":["Because clonazepam leaves the body slowly, the comedown is gentle and spread out. Muscle tension creeps back, sleep can be lighter, and the body feels ordinary rather than crashing.",
+"Emotionally, rebound anxiety is usually milder than after short-acting benzodiazepines, but some people notice irritability, low mood or a return of underlying anxiety as the blunting lifts.",
+"With daily use, dependence develops within weeks. Stopping suddenly can cause severe anxiety, insomnia, tremor, perceptual disturbances and seizures, sometimes days after the last use because of the long half-life, so stopping should follow a slow medical taper."]}
+F["methamphetamine"]={
+"onset":["Methamphetamine's onset is strong and fast by smoking or injection and slower by mouth or snorting, but in every case it brings a surge of physical energy. The heart speeds and pounds, warmth floods the chest and head, and a tingling, electric feeling runs through the limbs. Snorting burns sharply in the nose.",
+"Mentally the onset is a wave of euphoria and confidence. People describe feeling awake, powerful, sexual and capable of anything, with a strong urge to talk, move or start projects. Tiredness, hunger and worry vanish.",
+"Pupils widen, the mouth dries, the jaw clenches and teeth may grind. Blood pressure and body temperature begin to rise, and breathing quickens."],
+"peak":["At the peak the body is hot, wired and restless. Sweating, a racing or pounding heart, fast breathing and a tense jaw are typical, and some feel twitching or a need to keep moving. Food and water are forgotten.",
+"The emotional tone is intense, driven euphoria with sharp focus that can turn compulsive: repetitive cleaning, sorting, taking objects apart, or hours of online activity. Libido rises. Sociability can turn into irritability, and suspicion grows as use continues.",
+"Overheating, dangerous heart rhythms, heart attack, stroke and seizures are serious risks at the peak. Mixing with other stimulants, alcohol or opioids adds danger, and street methamphetamine is increasingly contaminated with fentanyl."],
+"plateau":["Methamphetamine's plateau lasts many hours, longer than cocaine's. The body stays alert and hot, with persistent dry mouth, jaw tension, sweating and no appetite. Sleep is impossible.",
+"Mentally the focus remains strong but becomes rigid and repetitive, and judgment worsens. In long binges without sleep, people begin to hear voices, see shadows or feel insects crawling on the skin, and paranoia can become severe.",
+"Dehydration, skin picking, teeth grinding and exhaustion build in this phase, and risk-taking, including unsafe sex and injection practices, rises."],
+"comedown":["The comedown is a long crash. The body goes heavy and drained, muscles ache, and people sleep for long stretches, waking ravenous.",
+"Emotionally the crash brings depression, irritability, anxiety and an inability to feel pleasure, sometimes for days. Strong craving often follows.",
+"Repeated use leads to dependence, lasting psychosis risk, severe dental and skin damage, weight loss, and heart and memory problems. The low mood after heavy use can include suicidal thoughts and should be taken seriously."]}
+F["amphetamine"]={
+"onset":["Amphetamine (Adderall, Dexedrine) by mouth comes on gradually. People first notice a gentle wakefulness, a slightly faster heartbeat, a dry mouth and a loss of appetite. Some feel a mild jitteriness or a slight churning in the stomach.",
+"Mentally, the onset brings clarity and motivation. Tasks that felt dull become absorbing, distractions fade, and confidence rises. People with ADHD often describe feeling calmer and more organized rather than high.",
+"Pupils widen slightly, the jaw may tense, and body temperature rises a little. Extended-release forms build more slowly and less noticeably than immediate-release ones."],
+"peak":["At the peak, the body feels energized and warm, with a faster pulse, sometimes sweaty palms, and tension in the jaw and neck. Food is unappealing, and the bladder can feel slow.",
+"When used as prescribed, the emotional tone is focused and steady. Misused at high amounts, it becomes euphoric, chatty, confident and restless, with racing thoughts and a strong urge to keep busy. Anxiety and irritability can surface.",
+"Misuse raises blood pressure and heart rate and can cause chest pain, heart rhythm problems, overheating and, rarely, psychosis. Counterfeit 'Adderall' pills may contain methamphetamine or fentanyl."],
+"plateau":["The plateau sustains energy and focus for hours, much longer with extended-release capsules. The mouth stays dry and appetite stays low.",
+"Mentally people feel productive, talkative or fixated; some get stuck on low-value tasks. Time can seem to pass quickly.",
+"Sleep becomes difficult if the plateau extends into the evening."],
+"comedown":["The comedown brings fatigue and heaviness, sometimes a headache and sudden hunger.",
+"Emotionally irritability, flat mood, anxiety or sadness are common, often called the 'Adderall crash'.",
+"Heavy or regular misuse leads to tolerance and dependence, with long crashes, poor sleep and low mood when stopping."]}
+F["ketamine"]={
+"onset":["Ketamine's onset varies with route, from seconds to minutes when snorted or injected to longer by mouth. People first notice a numb, floaty heaviness in the limbs, a tingling or buzzing in the hands and face, and a sense that their body is slightly delayed when they move.",
+"Mentally the world starts to feel distant and unreal. Sounds can seem echoey or tinny, colors and edges shift, and thoughts slow and drift. Many describe a dreamy, detached euphoria.",
+"Heart rate and blood pressure rise. Nausea is common, and walking becomes unsteady quickly, which is a major cause of injuries."],
+"peak":["At the peak, the body can feel numb, weightless or disconnected; limbs feel rubbery or absent, and moving is difficult. Vision blurs, and the eyes may flick side to side (nystagmus). Pain sensation is greatly reduced.",
+"The emotional tone ranges from dreamy and euphoric to confusing or frightening. At higher levels people may enter the 'K-hole': a deep dissociation in which awareness of the body and surroundings fades, and people may feel they are floating, traveling, or dying.",
+"Risks include falls, drowning, choking on vomit, and being unable to respond to danger. Combining with alcohol, GHB, opioids or benzodiazepines can depress breathing. Street ketamine may be mixed with other drugs."],
+"plateau":["The plateau keeps a heavy, numb, detached body. Movements are clumsy, speech is slow, and people often prefer to lie still.",
+"Mentally people drift in a dreamy state with slowed or fragmented time. Thoughts can feel profound or nonsensical, and memory is patchy.",
+"Coordination remains poor, so falls and accidents remain common."],
+"comedown":["The comedown is relatively quick. Numbness fades, leaving heaviness, grogginess and sometimes nausea.",
+"Emotionally some feel calm and reflective, an 'afterglow' linked to ketamine's antidepressant effects; others feel confused, flat or anxious.",
+"Frequent use brings tolerance, cravings, memory problems and ketamine bladder syndrome, with painful, frequent urination and bladder damage."]}
+F["lsd"]={
+"onset":["LSD's onset is slow and often subtle. People first feel a restless, slightly anxious energy, yawning, chills or goosebumps, a light tingling in the skin and dilated pupils. Some notice mild nausea or tightness in the jaw.",
+"Mentally there is a growing sense that something is shifting: colors seem brighter, light more vivid, and objects slightly animated. Thoughts become associative and jumpy, and ordinary things can seem funny or fascinating.",
+"Heart rate, blood pressure and body temperature rise modestly. Some people feel unsettled during the onset because they are unsure what is happening."],
+"peak":["At the peak, visual changes are prominent: surfaces breathe or ripple, patterns form on walls, colors intensify, and trails follow moving objects. The body can feel energized, tingly, heavy or strangely light, and people may feel temperature shifts.",
+"The emotional tone can be awe, joy and insight, or anxiety and confusion. Time stretches or loses meaning, and the sense of self may soften or dissolve. Emotional memories may surface, and the setting strongly shapes the mood.",
+"Risks include panic, frightening experiences, disorientation and dangerous behavior such as wandering into traffic. Blotters sold as LSD may contain NBOMes, which can cause seizures and death."],
+"plateau":["LSD's plateau is long, often many hours. Visual effects and body energy continue, sometimes in waves.",
+"Mentally people may reflect deeply, laugh, or feel overwhelmed. Thought patterns can loop, and conversation can be difficult.",
+"Sleep is difficult until effects fade, and fatigue builds."],
+"comedown":["The comedown brings tiredness as visuals soften and the body relaxes.",
+"Emotionally people feel reflective, peaceful or drained; some feel anxious.",
+"Some people experience lingering anxiety, low mood or, rarely, persistent perception changes (HPPD). People with a history of psychosis face higher risks."]}
+F["psilocybin"]={
+"onset":["Psilocybin mushrooms usually begin with body sensations: stomach discomfort or nausea, yawning, chills, and a heavy or tingly feeling in the limbs. Pupils widen.",
+"Mentally there is a sense of anticipation or unease as perception begins to change: colors brighten, edges soften, and laughter can come easily.",
+"Some feel a wave of anxiety, which often eases if the setting is calm."],
+"peak":["At the peak, the body may feel heavy, warm or tingly, and the stomach may still be uneasy. Visuals include breathing surfaces, patterns and color intensification.",
+"The emotional tone is often introspective and emotional, with feelings of connection, awe, sadness or fear. Time distortion is strong.",
+"Risks include panic, frightening experiences and accidents. Some species can be confused with poisonous mushrooms."],
+"plateau":["The plateau continues visual and emotional effects, with a heavier body and slower movement.",
+"Mentally people drift in thought, often feeling connected, vulnerable or tearful.",
+"Coordination is reduced, so walking around unsupervised can be risky."],
+"comedown":["The comedown is gentle, with tiredness and relaxation.",
+"Emotionally people feel reflective, calm or emotionally open.",
+"Rarely, lasting anxiety, low mood or perception changes occur."]}
+F["mdma"]={
+"onset":["MDMA begins with a rush: tingling, warm waves through the body, a fluttering stomach and sometimes nausea. The jaw starts to clench, and the pupils widen.",
+"Mentally people feel a growing euphoria and openness, often with excitement or nervousness.",
+"Heart rate and body temperature rise, and people may feel restless."],
+"peak":["At the peak, the body feels warm, energized and very sensitive to touch, music and movement. Jaw clenching, sweating and fast heartbeat are common.",
+"The emotional tone is deep empathy, affection and joy, with a strong desire to connect and talk.",
+"Risks include overheating, low blood sodium from drinking too much water, and serotonin syndrome with other drugs. Pills sold as MDMA may contain other substances."],
+"plateau":["The plateau keeps warmth, energy and touch sensitivity, with continued jaw tension.",
+"Mentally people stay sociable, open and affectionate.",
+"Dehydration, overheating and low blood sodium risks continue."],
+"comedown":["The comedown brings tiredness, jaw soreness and sometimes muscle aches.",
+"Emotionally a low mood can follow for days ('Tuesday blues').",
+"Repeated use worsens these effects and can cause lasting mood and memory problems."]}
+for k,v in F.items(): D[k]["feel"]=v
