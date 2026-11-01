@@ -287,6 +287,30 @@
 - [Eutylone (bk-EBDB)](drugs/eutylone.md)
 - [3-MMC (3-methylmethcathinone)](drugs/3-mmc.md)
 
+## Psychedelics: general pages
+
+- [LSD (lysergic acid diethylamide)](drugs/lsd.md)
+- [LSD analogs (1P-LSD, ALD-52, AL-LAD, 1cP-LSD, ETH-LAD)](drugs/lsd-analogs.md)
+- [Psilocybin mushrooms](drugs/psilocybin.md)
+- [DMT (N,N-dimethyltryptamine)](drugs/dmt.md)
+- [Ayahuasca](drugs/ayahuasca.md)
+- [5-MeO-DMT](drugs/5-meo-dmt.md)
+- [Mescaline (peyote, San Pedro)](drugs/mescaline-peyote.md)
+- [2C-B](drugs/2c-b.md)
+- [Other 2C drugs (2C-I, 2C-E, 2C-T-7, 2C-P and others)](drugs/2c-x.md)
+- [NBOMe drugs (25I-NBOMe, 25C-NBOMe, 25B-NBOMe)](drugs/nbome.md)
+- [DOx amphetamines (DOM, DOB, DOC, DOI)](drugs/dox.md)
+- [Ibogaine (iboga)](drugs/ibogaine.md)
+- [Research-chemical tryptamines (4-AcO-DMT, 4-HO-MET, AMT, 5-MeO-MiPT, DPT)](drugs/rc-tryptamines.md)
+
+## Empathogens (MDMA and relatives): general pages
+
+- [MDMA (ecstasy, molly)](drugs/mdma.md)
+- [MDA (sass, sally)](drugs/mda.md)
+- [6-APB, 5-APB, 5-MAPB and other benzofurans](drugs/benzofurans.md)
+- [PMA and PMMA ('Dr. Death')](drugs/pma-pmma.md)
+- [4-FA (4-fluoroamphetamine)](drugs/4-fa.md)
+
 ## Route: Oral (swallowed)
 
 - [Morphine](routes/oral/morphine.md)
@@ -473,6 +497,21 @@
 - [HHC (hexahydrocannabinol)](routes/oral/hhc.md)
 - [Diethylpropion (amfepramone)](routes/oral/diethylpropion.md)
 - [Phendimetrazine (Bontril)](routes/oral/phendimetrazine.md)
+- [LSD (lysergic acid diethylamide)](routes/oral/lsd.md)
+- [LSD analogs (1P-LSD, ALD-52, AL-LAD, 1cP-LSD, ETH-LAD)](routes/oral/lsd-analogs.md)
+- [Psilocybin mushrooms](routes/oral/psilocybin.md)
+- [Ayahuasca](routes/oral/ayahuasca.md)
+- [Mescaline (peyote, San Pedro)](routes/oral/mescaline-peyote.md)
+- [2C-B](routes/oral/2c-b.md)
+- [Other 2C drugs (2C-I, 2C-E, 2C-T-7, 2C-P and others)](routes/oral/2c-x.md)
+- [DOx amphetamines (DOM, DOB, DOC, DOI)](routes/oral/dox.md)
+- [Ibogaine (iboga)](routes/oral/ibogaine.md)
+- [Research-chemical tryptamines (4-AcO-DMT, 4-HO-MET, AMT, 5-MeO-MiPT, DPT)](routes/oral/rc-tryptamines.md)
+- [MDMA (ecstasy, molly)](routes/oral/mdma.md)
+- [MDA (sass, sally)](routes/oral/mda.md)
+- [6-APB, 5-APB, 5-MAPB and other benzofurans](routes/oral/benzofurans.md)
+- [PMA and PMMA ('Dr. Death')](routes/oral/pma-pmma.md)
+- [4-FA (4-fluoroamphetamine)](routes/oral/4-fa.md)
 
 ## Route: Sublingual and buccal (under the tongue or in the cheek)
 
@@ -488,6 +527,7 @@
 - [Midazolam (Versed)](routes/sublingual-buccal/midazolam.md)
 - [Zolpidem (Ambien)](routes/sublingual-buccal/zolpidem.md)
 - [Dihydroetorphine](routes/sublingual-buccal/dihydroetorphine.md)
+- [NBOMe drugs (25I-NBOMe, 25C-NBOMe, 25B-NBOMe)](routes/sublingual-buccal/nbome.md)
 
 ## Route: Intranasal (nasal sprays and snorting)
 
@@ -630,6 +670,8 @@
 - [Alpha-PVP (flakka)](routes/inhaled-smoked/alpha-pvp.md)
 - [THC-O acetate](routes/inhaled-smoked/thc-o.md)
 - [HHC (hexahydrocannabinol)](routes/inhaled-smoked/hhc.md)
+- [DMT (N,N-dimethyltryptamine)](routes/inhaled-smoked/dmt.md)
+- [5-MeO-DMT](routes/inhaled-smoked/5-meo-dmt.md)
 
 ## Brand and combination products
 
