@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (30-60 s)
 
-IV etomidate causes unconsciousness within about a minute; vaped, effects come within seconds to minutes.
+Etomidate, an anesthetic, works within seconds with vein pain and brief muscle jerks.
+
+Mentally a fast drop into unconsciousness.
+
+It is used for emergency intubation.
 
 Etomidate reaches the brain within a minute; it keeps blood pressure stable, unlike propofol.
 
@@ -60,7 +64,11 @@ Sedation and muscle jerks.
 
 ### Peak (1-5 min)
 
-The peak lasts minutes.
+At the peak patients are unconscious.
+
+No experience is remembered.
+
+Vaping etomidate ('space oil') has become a public health concern in parts of Asia, causing tremors, collapse and adrenal suppression.
 
 At the peak, sedation is deep and breathing can stop.
 
@@ -68,11 +76,19 @@ Etomidate blocks 11-beta-hydroxylase, the adrenal enzyme that makes cortisol; re
 
 ### Plateau (3-10 min)
 
-Short plateau.
+Consciousness returns in minutes.
+
+Grogginess lingers.
+
+Repeated misuse is dangerous.
 
 ### Comedown (under 1 h)
 
-Recovery within minutes to an hour.
+The comedown brings nausea.
+
+Mood flat.
+
+Addiction reported with vaping.
 
 Its effect ends within minutes after a single dose.
 

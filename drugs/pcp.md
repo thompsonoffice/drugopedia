@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (2-5 min)
 
-Smoked, effects begin within minutes: numbness, unsteadiness and staring.
+PCP ('angel dust') comes on as a numb, rubbery, floating detachment. The limbs feel far away or made of foam, walking is like moving on a trampoline, and touch and pain fade.
+
+Mentally the onset brings a strange, dreamy euphoria and a sense of being separated from the body and surroundings.
+
+Eyes may flick side to side, and speech becomes slow and blank.
 
 PCP is fat-soluble and long-lasting, with a half-life that can be about 1 to 2 days, and it is stored in fat and recirculated.
 
@@ -60,7 +64,11 @@ Detachment and blunted pain build.
 
 ### Peak (15-60 min)
 
-The peak brings intense distortion and possible agitation or catatonia.
+At the peak, people may feel invulnerable, enormous or unreal. Body numbness can be profound; injuries go unfelt.
+
+Emotionally unpredictable: blissful, blank, terrified, paranoid or agitated. Hallucinations, delusions and violent or self-injuring behavior can occur.
+
+Very high blood pressure, overheating, seizures and coma are possible. Dissociatives cause numbness, confusion and loss of coordination, so falls, drowning, burns and traffic injuries are major dangers. Combined with alcohol, opioids or other depressants they can suppress breathing and cause vomiting while unconscious.
 
 At the peak, NMDA blockade plus effects on dopamine and sigma receptors produce agitation, psychosis, catatonia, and insensitivity to pain.
 
@@ -68,11 +76,19 @@ Severe toxicity includes very high temperature, muscle breakdown, kidney failure
 
 ### Plateau (4-6 h)
 
-Effects commonly persist for 4 to 6 hours.
+The plateau is long and confused.
+
+Thinking disorganized.
+
+Psychosis can persist after the drug.
 
 ### Comedown (6-24 h)
 
-Comedown is long and uneven, sometimes over a day or more.
+The comedown is foggy, with memory gaps.
+
+Mood low, anxious.
+
+Repeated use is linked to lasting psychosis and memory problems.
 
 Because PCP lingers and recirculates, symptoms can fluctuate for days.
 

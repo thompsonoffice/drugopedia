@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (30-60 s)
 
-Given intravenously, unconsciousness occurs within about 30 to 60 seconds.
+Propofol, given by IV only in medical settings, works within seconds. Patients often feel a cool or burning sensation in the vein, then a warm, heavy sinking.
+
+Mentally many feel a sudden peaceful, euphoric drift before losing consciousness.
+
+Some later recall pleasant dreams.
 
 Propofol is extremely fat-soluble, crossing into the brain within one arm-to-brain circulation time (about 30 seconds).
 
@@ -60,7 +64,11 @@ Breathing slows and blood pressure falls.
 
 ### Peak (1-5 min)
 
-Deep sedation lasts minutes.
+At the peak, patients are unconscious, and breathing often needs support.
+
+There is no remembered experience.
+
+Outside monitored settings propofol is deadly because it can stop breathing within moments, as in Michael Jackson's death.
 
 At the peak, propofol suppresses breathing and airway reflexes; apnea is common at induction, which is why airway equipment and trained staff are required.
 
@@ -68,11 +76,19 @@ Long infusions can cause propofol infusion syndrome (acid build-up, heart failur
 
 ### Plateau (as long as infused)
 
-Effects last only as long as it is given.
+Consciousness returns within minutes.
+
+Patients may feel euphoric, chatty or giggly.
+
+Misuse by healthcare workers has caused many deaths.
 
 ### Comedown (5-10 min)
 
-People wake within minutes of stopping.
+The comedown is quick and fairly clear.
+
+Mood often pleasant.
+
+Dependence has been reported among workers with access.
 
 Rapid redistribution to fat ends its effect within minutes.
 

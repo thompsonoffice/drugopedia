@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Effects begin 30 minutes to 1 hour after swallowing, often with nausea and warmth.
+Dextromethorphan (DXM), found in cough syrups and pills, comes on slowly with itching, nausea and a warm, wobbly body. Movements feel robotic and laggy ('robo-walking').
+
+Mentally a dreamy, music-enhanced euphoria and detachment develops.
+
+Many products also contain acetaminophen, guaifenesin or antihistamines, which add serious danger.
 
 DXM is absorbed from the gut and converted by CYP2D6 into dextrorphan, the main dissociative compound.
 
@@ -60,7 +64,11 @@ A drunk, giddy feeling and heavy limbs build.
 
 ### Peak (2-4 h)
 
-The peak, 2 to 4 hours in, brings the strongest dissociation and altered thinking.
+At the peak, people describe 'plateaus' from mild drunken euphoria to complete dissociation with hallucinations and loss of body awareness.
+
+Emotionally dreamlike, sometimes blissful, sometimes frightening.
+
+Serotonin syndrome with SSRIs or MAOIs, overheating, seizures and liver failure from combination products are major risks. Dissociatives cause numbness, confusion and loss of coordination, so falls, drowning, burns and traffic injuries are major dangers. Combined with alcohol, opioids or other depressants they can suppress breathing and cause vomiting while unconscious.
 
 At peak, NMDA blockade by dextrorphan causes dissociation, while DXM's serotonin effects add risk of serotonin syndrome with antidepressants.
 
@@ -68,11 +76,19 @@ Coricidin products add chlorpheniramine, an antihistamine that causes delirium, 
 
 ### Plateau (3-6 h)
 
-The plateau lasts several hours.
+The plateau is long and fuzzy.
+
+Thinking disconnected.
+
+Coordination very poor.
 
 ### Comedown (6-12 h)
 
-Comedown is long, over 6 hours or more.
+The comedown is a slow, foggy hangover.
+
+Mood flat or low.
+
+Heavy repeated use can cause dependence and memory problems.
 
 DXM's long half-life means effects linger many hours.
 

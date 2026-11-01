@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Onset in about 30 minutes to 1 hour.
+Dronabinol (Marinol) and nabilone (Cesamet) are prescription cannabinoids. Onset is slow, with a mild body heaviness and dry mouth.
+
+Mentally a mild, sleepy high or dizziness.
+
+Appetite rises.
 
 Dronabinol capsules are absorbed slowly, with only about 10 to 20 percent reaching the bloodstream after first-pass metabolism.
 
@@ -60,7 +64,11 @@ Gradual relaxation and appetite.
 
 ### Peak (2-4 h)
 
-Peak around 2 to 4 hours.
+At the peak, relaxation and possible euphoria or anxiety.
+
+Emotionally mellow.
+
+Too much cannabis rarely threatens life but can bring panic, racing heart, vomiting, confusion and paranoia, and in rare cases psychosis. Children who eat edibles can become seriously ill and need emergency care.
 
 At peak, patients may feel 'high', anxious or sleepy, which is the main reason doses are adjusted.
 
@@ -68,11 +76,19 @@ Nabilone is longer-acting, with active metabolites lasting much longer than THC.
 
 ### Plateau (4-6 h)
 
-Plateau several hours.
+The plateau lasts hours.
+
+Thinking slowed.
+
+Dizziness common.
 
 ### Comedown (6-12 h)
 
-Fades over 4 to 6 hours or longer.
+The comedown is gentle.
+
+Mood steady.
+
+Abuse potential is low.
 
 Effects fade over several hours.
 

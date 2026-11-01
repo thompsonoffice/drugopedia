@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Effects start within seconds of inhaling.
+Poppers (alkyl nitrites) hit within seconds: a rush of heat to the face, a pounding headache, a racing heart and a head rush.
+
+Mentally a brief euphoric, dizzy wave.
+
+Muscles relax.
 
 Alkyl nitrites are absorbed through the lungs within seconds and release nitric oxide, which relaxes smooth muscle in blood vessels.
 
@@ -60,7 +64,11 @@ A rush of warmth and flushing.
 
 ### Peak (30-90 s)
 
-The peak lasts about a minute.
+The peak lasts a minute or two.
+
+Emotionally giddy.
+
+Combined with erectile dysfunction drugs, blood pressure can fall dangerously. Swallowing them can be fatal, and some cause eye damage.
 
 At peak, low blood pressure can cause fainting; combined with PDE5 inhibitors (Viagra, Cialis) it can cause collapse, heart attack or stroke.
 
@@ -68,11 +76,19 @@ Nitrites oxidize hemoglobin to methemoglobin, which cannot carry oxygen; swallow
 
 ### Plateau (1-2 min)
 
-Short plateau.
+Effects fade quickly.
+
+Headache lingers.
+
+Re-use common.
 
 ### Comedown (2-5 min)
 
-Fades over 2 to 5 minutes.
+The comedown is headache.
+
+Mood steady.
+
+Skin burns around the nose can occur.
 
 Effects end within minutes.
 

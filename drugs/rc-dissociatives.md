@@ -48,7 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (5-30 min)
 
-Onset varies by drug, from minutes to an hour.
+Research dissociatives (3-MeO-PCP, deschloroketamine, 2F-DCK and others) vary in potency and length. The onset brings numbness and floaty detachment.
+
+Mentally dreamy and disconnected.
+
+Some are very potent.
 
 Each analog has a different potency and duration; 3-MeO-PCP is active at much smaller amounts than ketamine.
 
@@ -60,7 +64,11 @@ Detachment and stimulation build.
 
 ### Peak (1-3 h)
 
-Peaks may last several hours.
+At the peak, dissociation, confusion, and possible hallucinations; 3-MeO-PCP is linked to mania and agitation.
+
+Emotionally unpredictable.
+
+Dissociatives cause numbness, confusion and loss of coordination, so falls, drowning, burns and traffic injuries are major dangers. Combined with alcohol, opioids or other depressants they can suppress breathing and cause vomiting while unconscious.
 
 Peak effects range from ketamine-like dissociation to PCP-like agitation and psychosis.
 
@@ -68,11 +76,19 @@ Peak effects range from ketamine-like dissociation to PCP-like agitation and psy
 
 ### Plateau (2-4 h)
 
-Long plateau with PCP analogs.
+The plateau can be very long.
+
+Thinking confused.
+
+Mislabeling is common.
 
 ### Comedown (4-12 h)
 
-Comedown can last into the next day.
+The comedown is foggy.
+
+Mood low.
+
+Dependence possible.
 
 Long-acting analogs prolong confusion for many hours.
 

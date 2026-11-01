@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Effects start within seconds.
+Aerosols (computer dusters, spray cans) hit instantly: a cold, numb rush and buzzing ears.
+
+Mentally a brief drunken euphoria.
+
+Frostbite of the mouth and throat can occur.
 
 Propellants such as difluoroethane enter the brain within seconds.
 
@@ -60,7 +64,11 @@ A rush of dizziness.
 
 ### Peak (under 1 min)
 
-The peak lasts seconds to a minute.
+The peak is seconds long.
+
+Emotionally dreamy.
+
+Inhalants can stop the heart suddenly ('sudden sniffing death'), even on a first use, and can cause suffocation, choking on vomit, and permanent brain, nerve, liver and kidney damage.
 
 At peak, fluorocarbons sensitize the heart to adrenaline, causing sudden fatal arrhythmias.
 
@@ -68,11 +76,19 @@ The rapid expansion of gas can freeze the airway, causing swelling and choking.
 
 ### Plateau (1-2 min)
 
-Very brief plateau.
+Effects fade quickly.
+
+Re-use common.
+
+Dizziness.
 
 ### Comedown (2-10 min)
 
-Fades within minutes.
+The comedown is headache.
+
+Mood flat.
+
+Brain damage risk.
 
 Effects end within minutes.
 

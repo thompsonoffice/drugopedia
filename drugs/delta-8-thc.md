@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (minutes)
 
-Inhaled effects begin within minutes; edibles take 30 minutes to 2 hours.
+Delta-8 THC has a milder onset than regular THC: a relaxed body and light head buzz.
+
+Mentally a clearer, less anxious high for many.
+
+Dry mouth and red eyes.
 
 Delta-8-THC is a partial CB1 agonist with roughly half to two-thirds the potency of delta-9-THC in older studies.
 
@@ -60,7 +64,11 @@ A gradual relaxation and lightness.
 
 ### Peak (15-45 min)
 
-The peak brings typical cannabis effects: time distortion, appetite and sleepiness, with possible anxiety.
+At the peak, relaxed euphoria.
+
+Emotionally calm.
+
+Products are poorly regulated and may contain impurities. Too much cannabis rarely threatens life but can bring panic, racing heart, vomiting, confusion and paranoia, and in rare cases psychosis. Children who eat edibles can become seriously ill and need emergency care.
 
 Peak effects include sedation and time distortion; poison center reports show confusion, vomiting and loss of consciousness, especially in children.
 
@@ -68,11 +76,19 @@ Contaminants from the conversion process, not just delta-8 itself, may contribut
 
 ### Plateau (1 h)
 
-Plateau of an hour (vapes) to several hours (edibles).
+The plateau is a few hours.
+
+Mood mellow.
+
+Hunger common.
 
 ### Comedown (2-3 h)
 
-Gradual fade.
+The comedown is mild.
+
+Mood steady.
+
+Dependence possible with heavy use.
 
 Effects fade over a few hours (vapes) or many hours (edibles).
 

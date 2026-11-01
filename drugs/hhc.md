@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (minutes)
 
-Inhaled, effects begin within minutes; edibles take 30 minutes to 2 hours.
+HHC has an onset similar to THC but slightly milder.
+
+Mentally relaxed euphoria.
+
+Dry mouth.
 
 HHC is made by adding hydrogen to THC-like molecules; one form (9R) binds CB1 strongly, the other (9S) weakly.
 
@@ -60,7 +64,11 @@ Relaxation builds.
 
 ### Peak (15-45 min)
 
-Peak with typical cannabis effects.
+At the peak, mellow high.
+
+Emotionally calm.
+
+Too much cannabis rarely threatens life but can bring panic, racing heart, vomiting, confusion and paranoia, and in rare cases psychosis. Children who eat edibles can become seriously ill and need emergency care.
 
 Peak effects depend on the 9R-to-9S ratio, which varies by batch.
 
@@ -68,11 +76,19 @@ Newer variants like HHC-P are far more potent and have caused emergency visits i
 
 ### Plateau (about 1 h)
 
-Plateau about an hour (vape) or several hours (edible).
+The plateau is a few hours.
+
+Mood mellow.
+
+Hunger.
 
 ### Comedown (2-3 h)
 
-Gradual fade.
+The comedown is mild.
+
+Mood steady.
+
+Unregulated.
 
 Effects fade like THC.
 

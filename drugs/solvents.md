@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Effects begin within seconds.
+Solvents (glue, gasoline, paint thinner) hit within seconds: dizziness, a ringing head, and a drunken, numb body.
+
+Mentally euphoric, disinhibited and dreamlike.
+
+Speech slurs.
 
 Solvents are highly fat-soluble and enter the brain within seconds, acting on GABA-A, NMDA and glycine receptors like anesthetics.
 
@@ -60,7 +64,11 @@ Dizziness and giddiness rise quickly.
 
 ### Peak (1-5 min)
 
-The peak lasts minutes.
+The peak is brief: staggering, hallucinations and confusion.
+
+Emotionally giddy or confused.
+
+Inhalants can stop the heart suddenly ('sudden sniffing death'), even on a first use, and can cause suffocation, choking on vomit, and permanent brain, nerve, liver and kidney damage.
 
 At peak, solvents sensitize the heart muscle to adrenaline, so a surge from fright or exertion can trigger ventricular fibrillation (sudden sniffing death).
 
@@ -68,11 +76,19 @@ Hypoxia from bags, choking on vomit, and burns from flammable vapors are other m
 
 ### Plateau (minutes)
 
-Users often repeat to keep effects going.
+Effects fade within minutes.
+
+Re-use drives repetition.
+
+Headache follows.
 
 ### Comedown (15-45 min)
 
-Fades within minutes to an hour.
+The comedown is headache and nausea.
+
+Mood low.
+
+Long-term damage is common.
 
 Effects fade within minutes to an hour as vapors are exhaled.
 

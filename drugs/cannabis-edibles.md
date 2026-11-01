@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30 min-2 h)
 
-Effects usually begin 30 minutes to 2 hours after eating, slower on a full stomach.
+Edibles are slow, often taking an hour or more, which leads people to eat more before feeling anything. The onset creeps in as a warm heaviness and tingling in the body.
+
+Mentally a gradual, then sudden, deep high that feels more bodily and psychedelic than smoking, because the liver converts THC to a stronger form.
+
+Dry mouth and red eyes appear.
 
 Swallowed THC is absorbed slowly and unevenly from the gut, and only a fraction survives first-pass liver metabolism; much is converted to 11-hydroxy-THC, which crosses into the brain readily.
 
@@ -60,7 +64,11 @@ The rise is gradual: body heaviness, warmth and giddiness.
 
 ### Peak (2-4 h)
 
-The peak, around 2 to 4 hours, is the strongest and longest-feeling high, sometimes with time loss and confusion.
+At the peak, heavy body, strong time distortion, and sometimes visual effects.
+
+Emotionally euphoric or very anxious, with possible paranoia.
+
+Too much cannabis rarely threatens life but can bring panic, racing heart, vomiting, confusion and paranoia, and in rare cases psychosis. Children who eat edibles can become seriously ill and need emergency care.
 
 At the peak, 11-hydroxy-THC levels can be high relative to THC, giving a heavier, more sedating and more disorienting effect than smoked cannabis.
 
@@ -68,11 +76,19 @@ Emergency departments see edible cases with vomiting, fast heart rate, panic and
 
 ### Plateau (4-6 h)
 
-The plateau can last for hours.
+The plateau lasts many hours.
+
+Thinking slow.
+
+Sleepiness grows.
 
 ### Comedown (6-12 h)
 
-It fades slowly over 6 to 8 hours or more.
+The comedown may last into the next day.
+
+Mood groggy.
+
+Store edibles safely away from children and pets.
 
 Effects persist for many hours as the gut keeps absorbing THC and the liver keeps producing 11-hydroxy-THC.
 

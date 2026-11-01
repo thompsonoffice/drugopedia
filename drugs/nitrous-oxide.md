@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Effects start within seconds of inhaling.
+Nitrous oxide hits within seconds: a rush of tingling and warmth, a pulsing 'wah-wah' sound in the ears, and a dreamy heaviness.
+
+Mentally sudden euphoria, giggling and detachment.
+
+Vision can blur or pulse.
 
 Nitrous oxide is poorly soluble in blood, so it reaches equilibrium in the brain within seconds and leaves just as fast.
 
@@ -60,7 +64,11 @@ A rush of tingling and sound distortion follows.
 
 ### Peak (20-60 s)
 
-The peak lasts seconds to a minute.
+The peak is very brief: floating, laughing, sometimes brief dreams or a sense of profound insight.
+
+Emotionally giddy and euphoric.
+
+Breathing it without enough oxygen can cause fainting, falls and suffocation. Heavy repeated use causes vitamin B12 deficiency and nerve damage with numbness and weakness.
 
 At the peak, NMDA blockade and endorphin release give dissociation and pain relief; falls and fainting are the main acute risks.
 
@@ -68,11 +76,19 @@ Using bags, masks, or enclosed spaces has caused deaths by asphyxiation.
 
 ### Plateau (1-2 min)
 
-Brief plateau.
+The effect fades within a minute or two.
+
+Mood returns to normal quickly.
+
+Re-use drives repeated cycles.
 
 ### Comedown (2-5 min)
 
-Effects fade within 2 to 5 minutes.
+The comedown is mild: dizziness, headache.
+
+Mood steady.
+
+Nerve damage from heavy use can be permanent.
 
 Effects end within minutes as the gas is breathed out.
 

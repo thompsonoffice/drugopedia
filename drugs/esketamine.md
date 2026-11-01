@@ -48,7 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (minutes)
 
-Effects start within minutes of the spray.
+Esketamine (Spravato), given as a nasal spray in clinics for depression, brings a quick onset of floaty dissociation, tingling and numbness.
+
+Mentally a dreamy detachment, sometimes with altered perception of time and space.
+
+Blood pressure rises.
 
 Esketamine is absorbed through the nasal lining, with peak levels within about 20 to 40 minutes.
 
@@ -60,7 +64,11 @@ Dissociation builds over 15 to 30 minutes.
 
 ### Peak (30-40 min)
 
-The peak is about 30 to 40 minutes.
+At the peak, patients feel disconnected from the body and surroundings.
+
+Emotionally strange, sometimes pleasant, sometimes anxious.
+
+Patients are monitored for at least two hours and cannot drive that day.
 
 At peak, dissociation, dizziness and nausea are common; sedation is monitored.
 
@@ -68,11 +76,19 @@ Antidepressant effects are thought to come from glutamate surges and new synapti
 
 ### Plateau (40-60 min)
 
-Effects ease within about an hour.
+The plateau is short.
+
+Mind slowly returns.
+
+Nausea is common.
 
 ### Comedown (1-2 h)
 
-Most effects resolve within two hours.
+The comedown is mild tiredness.
+
+Mood may improve over following days.
+
+Misuse risk exists.
 
 Most acute effects resolve within two hours.
 

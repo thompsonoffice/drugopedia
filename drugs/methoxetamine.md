@@ -48,7 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (10-30 min)
 
-Onset is slower than ketamine, often 10 to 30 minutes snorted.
+Methoxetamine (MXE), a ketamine analog, has a slower onset than ketamine, with numbness and a floaty body.
+
+Mentally a warm, euphoric dissociation, sometimes more mood-lifting than ketamine.
+
+Coordination fades.
 
 MXE was designed as a ketamine analog with a longer half-life and slower onset.
 
@@ -60,7 +64,11 @@ Gradual detachment.
 
 ### Peak (1-2 h)
 
-Peak 1 to 2 hours.
+At the peak, deep dissociation with body loss.
+
+Emotionally euphoric or confusing.
+
+Dissociatives cause numbness, confusion and loss of coordination, so falls, drowning, burns and traffic injuries are major dangers. Combined with alcohol, opioids or other depressants they can suppress breathing and cause vomiting while unconscious.
 
 At peak, deep dissociation, agitation, cerebellar signs (staggering, poor coordination) and catatonia were reported.
 
@@ -68,11 +76,19 @@ Deaths usually involved other drugs.
 
 ### Plateau (2-3 h)
 
-Long plateau.
+The plateau is long.
+
+Thinking disconnected.
+
+Re-dosing raises risk.
 
 ### Comedown (3-5 h)
 
-Fades over several hours.
+The comedown brings fog and low mood.
+
+Mood flat.
+
+Bladder damage, like ketamine, is possible with heavy use.
 
 MXE effects last several hours, longer than ketamine.
 

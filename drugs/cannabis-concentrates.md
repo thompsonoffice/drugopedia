@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Inhaled concentrates take effect within seconds: a strong head rush and pounding heart.
+Concentrates (wax, shatter, oils) hit within seconds and harder than flower: a heavy head rush, a pounding heart, and a strong body tingle.
+
+Mentally a surge of intense euphoria or anxiety, with time slowing dramatically.
+
+Coughing and red eyes are common.
 
 Concentrates deliver a large amount of THC through the lungs at once, so blood levels spike higher and faster than with flower.
 
@@ -60,7 +64,11 @@ Within minutes the high rises steeply; coughing is common.
 
 ### Peak (10-30 min)
 
-The peak is intense and early: disorientation, heavy body, and for some, panic.
+At the peak, heavy, deep intoxication, couch-lock, and strong distortions of time and thought.
+
+Emotionally euphoric, giggly or overwhelmed and paranoid.
+
+Too much cannabis rarely threatens life but can bring panic, racing heart, vomiting, confusion and paranoia, and in rare cases psychosis. Children who eat edibles can become seriously ill and need emergency care.
 
 The peak is dominated by very high CB1 activation with little CBD to balance it; studies link daily high-potency use to roughly several-fold higher odds of psychosis.
 
@@ -68,11 +76,19 @@ Very high exposure is associated with cannabinoid hyperemesis syndrome in heavy 
 
 ### Plateau (30-60 min)
 
-The plateau lasts about an hour.
+The plateau is a heavy, sedated high.
+
+Memory short.
+
+Hunger strong.
 
 ### Comedown (1-3 h)
 
-Fades over 1 to 3 hours.
+The comedown is groggy.
+
+Mood flat.
+
+Daily heavy use is linked to dependence and cannabis hyperemesis syndrome (cyclic vomiting).
 
 Because the dose is concentrated, the fall from peak is steeper and fatigue can be heavy.
 

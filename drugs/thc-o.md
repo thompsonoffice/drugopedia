@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (20-60 min)
 
-Effects begin slowly: 20 to 60 minutes vaped, 1 to 2 hours eaten.
+THC-O acetate has a slow onset and is described as stronger and more psychedelic than THC.
+
+Mentally a heavy, dreamy high.
+
+Body feels heavy.
 
 THC-O itself is thought to be inactive until liver and blood enzymes remove the acetate group to release delta-8 or delta-9 THC, which explains the delay.
 
@@ -60,7 +64,11 @@ A gradual, heavy relaxation.
 
 ### Peak (1-2 h)
 
-Peak: strong body heaviness and time distortion.
+At the peak, strong intoxication.
+
+Emotionally euphoric or anxious.
+
+Heating acetate compounds may produce harmful byproducts. Too much cannabis rarely threatens life but can bring panic, racing heart, vomiting, confusion and paranoia, and in rare cases psychosis. Children who eat edibles can become seriously ill and need emergency care.
 
 At the peak, effects are those of the released THC, which can be strong because acetylated products are often concentrated.
 
@@ -68,11 +76,19 @@ When vaped, acetate compounds can break down into ketene, a gas toxic to the lun
 
 ### Plateau (2-3 h)
 
-A long plateau.
+The plateau is long.
+
+Thinking slow.
+
+Hunger strong.
 
 ### Comedown (3-5 h)
 
-Slow fade.
+The comedown is groggy.
+
+Mood flat.
+
+Unregulated.
 
 Effects last longer than ordinary THC because conversion continues over time.
 

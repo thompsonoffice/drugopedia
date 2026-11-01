@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds-minutes)
 
-Effects begin within seconds to minutes of smoking.
+Synthetic cannabinoids (K2, Spice) hit fast and hard: a rush of heat, a racing heart and heavy numbness.
+
+Mentally an intense, disorienting high, often more frightening than cannabis.
+
+Strength varies hugely between batches.
 
 Synthetic cannabinoids are full CB1 agonists, many 10 to 100 times more potent than THC at the receptor, and reach the brain within seconds when smoked.
 
@@ -60,7 +64,11 @@ The rise is fast and heavy, with a racing heart.
 
 ### Peak (10-30 min)
 
-The peak can include confusion, paranoia, vomiting, or unresponsiveness.
+At the peak, heavy sedation, confusion, and sometimes a 'zombie' state.
+
+Emotionally anxious, paranoid or psychotic.
+
+Seizures, heart attacks, kidney damage, severe vomiting and deaths have occurred.
 
 At the peak, seizures, severe agitation, psychosis, catatonia and unresponsiveness occur; some compounds also affect heart rhythm and kidneys.
 
@@ -68,11 +76,19 @@ Some batches have been contaminated with brodifacoum, a long-acting rat poison c
 
 ### Plateau (30-90 min)
 
-Effects are relatively short, often 1 to 2 hours.
+The plateau is unpredictable.
+
+Thinking confused.
+
+Medical help may be needed.
 
 ### Comedown (1-3 h)
 
-Comedown brings anxiety and craving.
+The comedown brings anxiety and exhaustion.
+
+Mood low.
+
+Dependence and harsh withdrawal are common.
 
 Effects are short, but active metabolites can prolong toxicity.
 
