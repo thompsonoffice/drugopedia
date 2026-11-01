@@ -76,19 +76,19 @@ Coricidin products add chlorpheniramine, an antihistamine that causes delirium, 
 
 ### Plateau (3-6 h)
 
-The plateau is long and fuzzy, often many hours, with heavy, uncoordinated movement and continued detachment.
+DXM's plateau is long, several hours, and its character depends heavily on amount. The body often feels heavy, robotic and uncoordinated, with a stiff, mechanical walk ('robo-walk'), itching, sweating, a fast heart and nausea that comes and goes. Many products also contain other drugs, such as acetaminophen or antihistamines, which add their own dangers.
 
-Thinking is disconnected and slow, and speaking can be hard.
+Mentally the plateau ranges from a mild, music-enhancing dreaminess at lower amounts to deep dissociation at higher amounts: a sense of being separated from the body, slowed or looping thoughts, closed-eye dreamscapes and losing track of where one is. Some feel content and reflective; others feel confused or trapped.
 
-Vomiting, itching and a racing heart may continue.
+Danger rises with serotonin-affecting antidepressants (serotonin syndrome), alcohol, and products containing acetaminophen, which can silently destroy the liver. Overheating, seizures and vomiting while sedated are emergencies.
 
 ### Comedown (6-12 h)
 
-The comedown is a slow, foggy hangover, sometimes lasting into the next day, with heavy limbs, nausea and poor coordination.
+The comedown is slow and often unpleasant: a groggy, flat, hungover feeling with headache, fatigue, dizziness and lingering clumsiness, sometimes into the next day. Sleep can be poor. Itching and stomach upset may linger, and the sense of balance can take a while to return.
 
-Mood is often flat, low or anxious, with a lingering unreal feeling.
+Emotionally people may feel detached, low, anxious or mentally slowed for a day or more, with a sense that the world is slightly unreal ('afterglow' for some, gloom for others).
 
-Heavy repeated use can cause dependence, memory problems and psychosis.
+Frequent use can lead to dependence, memory problems and depression. Anyone who used a combination cold product should get medical advice about acetaminophen exposure even if they feel fine. Long-term heavy use has been linked to lasting problems with concentration and mood.
 
 DXM's long half-life means effects linger many hours.
 

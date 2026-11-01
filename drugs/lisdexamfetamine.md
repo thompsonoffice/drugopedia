@@ -52,11 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Lisdexamfetamine (Vyvanse) is a prodrug: it has to be converted to dextroamphetamine by enzymes in the blood, so the onset is slow and smooth. Over an hour or more, energy and alertness creep in gently, with a light warmth, a dry mouth and a slightly faster pulse.
+Lisdexamfetamine (Vyvanse, Elvanse) is a prodrug: it is inactive until enzymes in the blood slowly cut it into dextroamphetamine. Swallowed, it comes on gradually, with no sharp rush. Over the first hour or two the body warms slightly, the heart picks up a little, the mouth dries and appetite quietly fades.
 
-Mentally focus sharpens and motivation rises without a strong rush. Tasks that felt impossible start to feel doable, and chatter in the head quiets. Many describe it as the 'cleanest' and least euphoric amphetamine.
+Mentally the onset feels like a fog lifting: background restlessness settles for people with ADHD, tasks look more manageable and the mind locks onto what is in front of it. People without ADHD may feel a smooth lift in mood, energy and talkativeness.
 
-Appetite fades and the heart beats a little faster; some feel a slight jaw tension.
+Its slow conversion was designed to make other routes no faster and to reduce misuse, though it is still an amphetamine with the same risks at high amounts.
 
 Lisdexamfetamine is absorbed intact and cleaved in red blood cells to release dextroamphetamine, so the rate is limited by enzyme activity.
 
@@ -68,11 +68,11 @@ A gradual lift in focus.
 
 ### Peak (3-4 h)
 
-At the peak there is steady energy, concentration and a calm drive. The body feels light and slightly tense, and people may forget to eat or drink.
+At its peak the body is alert and slightly tense: faster pulse, raised blood pressure, dry mouth, clenched jaw for some, and little interest in food. Sweating and a mild tremor can appear. Some notice a gentle warmth in the face and an urge to keep moving, pacing or tidying.
 
-Emotionally upbeat and confident; at higher amounts, jittery, overly talkative and anxious, with irritability.
+Mentally the peak is steady focus, motivation and confidence. Tasks feel rewarding, and people may work for hours without noticing time. At higher amounts this becomes edgy, overly talkative and anxious, with racing thoughts. Conversation can become fast and one-sided, and people may hyperfocus on small details while losing track of bigger priorities.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids. Because conversion is gradual, taking more does not bring a bigger rush, only a longer and harsher stimulation.
+Risks include high blood pressure, heart rhythm problems, anxiety, and, rarely, psychosis or mania, especially with high amounts or sleep loss.
 
 At peak, effects are those of dextroamphetamine: alertness, raised heart rate and blood pressure.
 
@@ -80,19 +80,19 @@ The FDA label includes a boxed warning for misuse and dependence.
 
 ### Plateau (10-14 h)
 
-The plateau is long and even, lasting much of the day.
+The plateau is long, often most of the day, which is part of why it is popular for ADHD. Physically people stay mildly wired, with low appetite, dry mouth and sometimes headaches or a tight jaw. Hands may feel slightly shaky, and people often forget to drink water or eat until the afternoon.
 
-Mood is steady and productive, sometimes rigid or overly focused.
+Mentally attention stays steady, though some feel flat, overly serious or emotionally muted ('zombie' feeling), and irritability can build late in the day. Late in the plateau the sense of drive often thins into a tense, wired tiredness, especially after a poor night's sleep.
 
-Sleep can be hard if taken late in the day.
+Taking it late or in extra amounts causes insomnia, and skipping meals adds to crash and mood problems.
 
 ### Comedown (12-14 h)
 
-The comedown is gradual, with tiredness, hunger and sometimes headache as it wears off in the evening.
+As it wears off, often in the evening, people feel tired, hungry, headachy and sometimes achy. Hunger can arrive suddenly and intensely, and some people feel a heavy, sleepy drag in the early evening.
 
-Some people feel irritable, teary or low as it fades (a 'rebound').
+Emotionally a 'rebound' of irritability, low mood, tearfulness or returning ADHD restlessness is common, usually milder than with short-acting amphetamine. Small frustrations can feel bigger than usual, and family members often notice the change before the person does.
 
-Misuse can lead to dependence, and heart problems are possible in susceptible people.
+Misuse or high amounts can lead to dependence and a heavier crash with depression and sleepiness; any change in use should be discussed with the prescriber. Never stop suddenly after long high use without advice, because the low can be severe.
 
 Dextroamphetamine's half-life extends effects into the evening.
 

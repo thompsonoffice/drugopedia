@@ -52,11 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-60 min)
 
-Methylphenidate (Ritalin, Concerta, Focalin) has an onset of crisp alertness within an hour for immediate-release forms: a slight body tension, faster heartbeat, and a cool, clear sharpening of attention. Extended-release forms come on more gradually.
+Methylphenidate (Ritalin, Concerta, Medikinet) blocks the reuptake of dopamine and noradrenaline. Immediate-release tablets come on within a short while; extended-release forms like Concerta rise in stages over the day. The body perks up gently: a slightly faster heart, a dry mouth, a sense of tension in the shoulders or jaw and fading hunger.
 
-Mentally there is sharpened focus and less distractibility; for people with ADHD it can feel calming. At higher amounts, people describe a jittery, cocaine-like edge, because it acts on the same transporters.
+Mentally the onset is a sharpening: the noise of distraction quiets, the urge to fidget fades in people with ADHD, and focus narrows onto the task. People without ADHD may feel a clean, mildly euphoric alertness, often described as 'cleaner' or 'drier' than amphetamine.
 
-Appetite drops, the mouth dries and some notice headache or stomach ache.
+Stomachaches and headaches are common early, especially in children.
 
 Methylphenidate blocks dopamine and noradrenaline reuptake rather than releasing them, so its effect depends on ongoing nerve activity.
 
@@ -68,11 +68,11 @@ Alertness rises.
 
 ### Peak (1-2 h)
 
-At the peak, there is strong focus and energy, sometimes with anxiety, teeth clenching and a racing mind.
+At its peak the body feels alert and wired, with raised pulse and blood pressure, sweating, and sometimes a tremor or tense muscles. Fingers may feel cold, the stomach unsettled, and some people pick at skin or clench teeth without noticing.
 
-Emotionally driven, sometimes edgy, irritable or obsessive about small tasks.
+Mentally there is focus and drive; at higher amounts it becomes jittery, anxious, irritable and obsessive, with racing thoughts and less euphoria than amphetamine. People can become absorbed in one thing for hours, struggle to switch tasks, and feel short-tempered when interrupted.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
+Risks include heart rhythm problems, high blood pressure and, rarely, psychosis. Misusing crushed tablets in other ways causes serious harm because of the fillers.
 
 At peak, high doses can cause anxiety, tremor and psychosis; injected tablets cause talc granulomas in the lungs and eyes.
 
@@ -80,19 +80,19 @@ With alcohol, the liver forms ethylphenidate, raising levels and heart effects.
 
 ### Plateau (3-4 h, ER up to 12 h)
 
-Immediate-release forms are short, a few hours; extended-release forms last most of the day.
+Immediate-release tablets give a plateau of a few hours; extended-release keeps a steady level for much of the day. The body stays mildly tense, with low appetite and dry mouth. Some notice a dull headache or tight neck, and they may go hours without eating or drinking.
 
-Mood steady or wired.
+Mentally attention holds steady, though some feel emotionally flat, rigid or irritable. Children may seem quieter or less playful; adults sometimes describe feeling 'over-focused' or socially stiff.
 
-Sleep is disrupted if taken late.
+Doses late in the day disrupt sleep. Blood pressure and pulse stay modestly raised throughout, which matters for anyone with heart problems. Some people also notice a tic or twitch worsen.
 
 ### Comedown (4-12 h)
 
-The comedown brings tiredness, irritability and sometimes a sharp mood dip, especially with immediate-release forms.
+As it fades, people may feel tired, hungry and headachy, sometimes with a sudden drop in energy. Short-acting tablets can wear off abruptly, leaving a heavy, slowed feeling and sometimes a mild headache.
 
-Mood can feel flat or tearful.
+Emotionally a rebound of irritability, tearfulness or restlessness is common, especially in children in the late afternoon. Teenagers and adults may feel anxious, flat or teary, and ADHD symptoms often return all at once.
 
-Misuse carries addiction risk.
+Misuse at high amounts can lead to dependence and a crash with low mood and exhaustion. Sleep may be delayed, which carries tiredness into the next day. Extended-release forms usually give a gentler landing.
 
 Short half-life (about 2 to 3 hours) explains the IR rebound.
 

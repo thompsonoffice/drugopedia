@@ -48,11 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (10-20 min)
 
-Mephedrone (4-MMC, 'meow meow', 'M-cat'), the cathinone that swept UK clubs around 2009, comes on quickly with a rush of warmth that rises from the chest into the head. The heart speeds up, the skin flushes and prickles, the jaw tightens, and a faint, oddly 'electric' tingle runs down the arms. Many people notice cold or bluish fingers and toes, because mephedrone constricts small blood vessels, and a distinctive stale-sweat body odor.
+Mephedrone (4-MMC, 'meow meow') is a synthetic cathinone that was legally sold in the UK until 2010. Swallowed it builds over a short while; snorted it hits within minutes. The body warms, the heart speeds up, pupils widen and a tingling rush runs up the spine and scalp, often with jaw tension and teeth grinding.
 
-Mentally the onset is a bright, sociable euphoria often described as somewhere between MDMA and cocaine: affectionate, chatty and confident, with music feeling very good. Unlike MDMA it rises and falls fast, so the first wave feels like the best part.
+Mentally the onset is a surging euphoria that people compare to a blend of MDMA and cocaine: an upwelling of affection, talkativeness and confidence, music sounding richer and touch feeling good.
 
-Pupils widen, the mouth dries, and some people feel brief nausea, a pounding head, or a racing, fluttery heartbeat.
+The rush fades fast, and the urge to redose arrives early and strongly, which is the defining trap of mephedrone. Cold or bluish fingers and toes can appear because it tightens blood vessels.
 
 Mephedrone is absorbed fast and releases both serotonin and dopamine, like a mix of MDMA and cocaine.
 
@@ -64,11 +64,11 @@ A fast rise of euphoria.
 
 ### Peak (30-60 min)
 
-At the peak, mephedrone produces intense, warm euphoria, a strong urge to talk and touch, and restless energy. Many feel emotionally open and close to others. The body is hot, sweaty and buzzing, with clenched teeth and a tight jaw.
+At its peak the body feels energetic and hot, with sweating, a pounding pulse, clenched jaw, restlessness and loss of appetite. Some notice a distinctive body odor and blotchy skin. Fingers and toes may feel cold or look bluish, and the heartbeat can be felt in the throat.
 
-Within a short time the euphoria starts to slide, and a very strong urge to take more appears — mephedrone is known for compulsive re-dosing that turns a night into a binge. As this happens the mood becomes edgier: restless, impatient and anxious.
+Mentally the peak is warm and sociable: people feel open, close to others and deeply interested in conversation, with a stimulating clarity. It is shallower and shorter than MDMA, and there is often a background nervousness.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
+Overheating, a racing or irregular heartbeat, agitation and seizures are the main dangers, and they rise with redosing and with alcohol or other stimulants.
 
 At peak, overheating, agitation and arrhythmias are the main dangers.
 
@@ -76,19 +76,19 @@ Rapid redosing raises toxicity.
 
 ### Plateau (1-2 h)
 
-The plateau is short and choppy rather than smooth. Each re-dose brings a smaller lift and more jitteriness, sweating and heart pounding.
+The plateau is short and choppy, usually an hour or less per dose, so a session becomes a cycle of redosing. The body stays wired, dehydrated and tense, with tightened blood vessels, nosebleeds if snorted and difficulty urinating. Many describe a 'wired but empty' body: buzzing nerves, a dry, sore nose and tight muscles in the neck and back.
 
-Mentally the warmth gives way to a jangly, chatty restlessness and craving, sometimes with paranoia or irritability as the night goes on and sleep is skipped.
+Mentally each wave brings less euphoria and more anxiety, restlessness and fixation on taking more. Some people become paranoid, agitated or confused, especially after a long night. Conversation that felt profound an hour ago starts to loop, and people may stay up long past the point of enjoying it.
 
-Binges lead to sleeplessness, dehydration, chest pain, and in some cases psychosis or hallucinations.
+Large or repeated amounts have caused deaths from overheating and heart problems; anyone hot, confused or with chest pain needs emergency care.
 
 ### Comedown (2-4 h)
 
-The comedown is notoriously harsh: exhaustion, aching body, sore jaw, headache and a racing mind that will not let sleep come.
+The comedown brings exhaustion, aching muscles, a sore jaw, poor sleep and sometimes chest tightness or a racing heart that keeps people awake. Appetite returns slowly, and the nose and throat may be raw for days if it was snorted.
 
-Emotionally it brings low mood, anxiety, guilt and strong craving, sometimes for days. Memory and concentration feel scrambled.
+Emotionally it is often harsh: low mood, anxiety, irritability and intense craving, sometimes for days. Memory and concentration feel fuzzy. People often describe feeling emotionally hollowed out, as if the warmth of the night has been repaid with interest.
 
-Mephedrone can cause dependence quickly, and heavy use has been linked to heart problems, psychosis and deaths, often with other drugs or alcohol.
+Frequent use produces strong compulsive use and dependence; support services and talking therapies can help, and people should avoid mixing it with other stimulants or alcohol.
 
 Half-life is short (about 2 hours).
 

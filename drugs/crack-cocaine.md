@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Smoked crack cocaine hits within seconds of inhaling. A rush of heat and pressure surges up from the chest into the head, the heart pounds hard and fast, the ears may ring or buzz, and the whole body feels electrified and tingling, like a jolt running through every nerve. Many describe the first seconds as the most intense pleasure they have ever felt, and some sweat, flush or feel briefly faint.
+Crack is cocaine in a smokable base form, and smoking delivers it to the brain within seconds. The body reacts almost instantly: the heart pounds hard and fast, the chest tightens, skin flushes or goes clammy, pupils widen and a ringing or rushing sound may fill the ears.
 
-Mentally the rush is an explosion of euphoria, confidence and power. Every worry vanishes, the mind feels supercharged, clear and invincible, and the person may feel an overwhelming sense of wellbeing.
+Mentally the onset is an explosive rush of intense euphoria, confidence and power, often described as the most intense pleasure a person has ever felt, compressed into a minute or two. Every thought feels urgent and brilliant, and the craving to repeat it starts almost immediately.
 
-Pupils widen sharply, the mouth and throat feel numb and dry, the jaw clenches and breathing quickens. The chemical smell and taste linger.
+That speed is what makes crack so much more compulsive than snorted powder. Chest pain, a sense of the heart racing out of control or sudden severe headache in this window can signal heart attack or stroke and need emergency help.
 
 Smoked cocaine reaches the brain in seconds, faster than snorting, producing a sharp dopamine spike.
 
@@ -64,11 +64,11 @@ An intense rush.
 
 ### Peak (1-5 min)
 
-The peak is short and intense: a buzzing, hyper-alert body, clenched jaw, racing heart, sweating and an inability to sit still. Senses feel sharpened, especially hearing.
+The peak is brief, usually only several minutes. The body is wired and tense: jaw clenched, muscles twitchy, breathing quick, heart rate and blood pressure high, appetite gone and the mouth bone-dry.
 
-Emotionally euphoric, talkative and grandiose at first, but within minutes an edge of anxiety, paranoia and urgent craving creeps in. People may listen intently for sounds, peek out windows, search the floor for dropped crumbs ('ghosting' or 'tweaking'), and feel watched.
+Mentally the high is sharp, electric and self-assured, but it already carries an edge of watchfulness. Many people grow hyper-alert to sounds and movement, check windows and doors, or feel that others are watching them, an early taste of stimulant paranoia.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
+Because the peak is so short, people typically use again and again in binges. Each round raises heart strain and body temperature, and mixing with alcohol forms cocaethylene, which is more toxic to the heart.
 
 At peak, the same heart and stroke risks as cocaine apply, plus lung injury (crack lung) from hot smoke.
 
@@ -76,19 +76,19 @@ Binge use can cause seizures and severe agitation.
 
 ### Plateau (5-15 min)
 
-There is almost no plateau; the high drops off sharply within minutes, which is why people use repeatedly in binges that can last hours or days.
+There is barely a true plateau. Within ten to twenty minutes the body is left jittery and depleted: sweating, restless legs, shaky hands, a racing pulse that does not match the fading pleasure, and sometimes a burning throat or cough from the smoke.
 
-Each hit brings a smaller rush and more anxiety, paranoia and craving, while the crash pulls harder between hits.
+Mentally what remains is a buzzing anxiety and a fierce, consuming craving for more. Thinking narrows to getting the next hit; time, money, food, sleep and other people fall out of view. With continued use, paranoia, hearing things and suspicious searching ('ghost-chasing') can take over.
 
-Binges cause sleeplessness, dehydration, chest pain, burned lips and fingers, and sometimes hallucinations such as bugs crawling under the skin.
+Binges can last hours or days. Overheating, seizures, irregular heartbeat and lung injury ('crack lung') are the main dangers, and street supplies may contain fentanyl, so naloxone and not using alone matter.
 
 ### Comedown (15-30 min)
 
-The comedown is a hard crash: deep exhaustion, a heavy, aching body, hunger and an overwhelming need for sleep, often for many hours.
+The crash is fast and heavy. The body feels drained, achy and shaky, the heart may still flutter, and extreme exhaustion sets in, often followed by long sleep and ravenous hunger once the drug clears.
 
-Emotionally it brings depression, irritability, anxiety, shame and intense craving, sometimes with suicidal thoughts.
+Emotionally the comedown is notoriously bleak: a hollow, irritable, anxious despair, sometimes with guilt and hopelessness or thoughts of suicide. Pleasure in ordinary things can feel absent for days.
 
-Crack carries a very high addiction risk. Lung damage ('crack lung'), heart attacks, strokes and seizures are documented, and street supplies may contain fentanyl.
+Repeated use causes strong psychological dependence with intense cravings triggered by cues. There is no approved medicine for cocaine dependence yet, but counseling approaches such as contingency management work, and help lines can connect people to treatment.
 
 The rapid fall in dopamine drives intense craving within minutes.
 

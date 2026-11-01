@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (2-5 min)
 
-PCP ('angel dust', 'wet' when on cigarettes dipped in liquid) comes on as a numb, rubbery, floating detachment. The limbs feel far away or made of foam, the floor seems spongy or tilted, and walking feels like moving on a trampoline or the deck of a ship. Touch and pain fade, and the face can feel numb and stiff. Many notice a metallic or chemical taste.
+PCP (phencyclidine, 'angel dust') was developed as an anesthetic in the 1950s and dropped because patients woke agitated and delirious. Smoked, it comes on within minutes; swallowed, over a longer while. The body feels numb and distant, especially in the hands and feet, movements become stiff and clumsy, and eyes may flick rapidly side to side (nystagmus).
 
-Mentally the onset brings a strange, dreamy euphoria and a sense of being separated from the body and surroundings, as if watching life through glass. Some feel powerful, detached and calm; others feel uneasy and suspicious almost immediately.
+Mentally the onset is a growing sense of detachment: the body feels rubbery or not one's own, sounds become echoey and distant, and thoughts begin to fragment. Some feel euphoric or powerful; others feel confused and threatened.
 
-The eyes may flick side to side or up and down (nystagmus), speech becomes slow, blank or repetitive, and the person may stare without blinking.
+PCP's effect is unpredictable even for experienced users, and its numbing means people can be badly hurt without feeling it.
 
 PCP is fat-soluble and long-lasting, with a half-life that can be about 1 to 2 days, and it is stored in fat and recirculated.
 
@@ -64,11 +64,11 @@ Detachment and blunted pain build.
 
 ### Peak (15-60 min)
 
-At the peak, people may feel invulnerable, enormous, weightless or unreal. Body numbness can be profound, so serious injuries go unfelt. Muscles can stiffen, movements become jerky or robotic, and the person may sweat heavily and drool.
+At its peak the body may be rigid or floppy, with high blood pressure, a fast heart, sweating, drooling and a blank stare. Pain is blocked, and people can show startling strength because they do not register strain.
 
-Emotionally the peak is unpredictable: blissful, blank, terrified, paranoid or agitated, sometimes switching within minutes. Hallucinations, delusions and violent or self-injuring behavior can occur, and the person may not respond to reason or recognize friends.
+Mentally the peak ranges from dreamy dissociation to frank psychosis: distorted body image, hallucinations, paranoia, grandiosity and loss of contact with reality. Some become withdrawn and catatonic; others become agitated, terrified or violent.
 
-Very high blood pressure, overheating, muscle breakdown, seizures and coma are possible. Dissociatives cause numbness, confusion and loss of coordination, so falls, drowning, burns and traffic injuries are major dangers. Combined with alcohol, opioids or other depressants they can suppress breathing and cause vomiting while unconscious.
+Dangers include severe injuries, drowning, seizures, very high body temperature and blood pressure, muscle breakdown that harms the kidneys, and coma. Emergency care is needed for agitation, overheating or unresponsiveness.
 
 At the peak, NMDA blockade plus effects on dopamine and sigma receptors produce agitation, psychosis, catatonia, and insensitivity to pain.
 
@@ -76,19 +76,19 @@ Severe toxicity includes very high temperature, muscle breakdown, kidney failure
 
 ### Plateau (4-6 h)
 
-The plateau is long and confused, often many hours. People drift in and out of a blank, staring state, sometimes with sudden bursts of agitation or strange behavior.
+The plateau is long and uneven, lasting hours, with waves of clarity and confusion. The body stays numb and uncoordinated, blood pressure high, and speech slurred or halting. Breathing may be irregular, and muscles can stay tense or jerky; a calm, dim room helps more than physical restraint.
 
-Thinking is disorganized, with odd ideas, poor memory and difficulty speaking clearly.
+Mentally people may drift between dreamlike calm and sudden fear or anger, often without remembering what triggered it. Time, place and identity can feel scrambled. Speaking can be difficult, and people may answer slowly, repeat themselves, or stare silently, unable to put thoughts into words.
 
-Psychosis can persist after the drug, and people should be kept in a calm, low-stimulation setting with medical help available.
+Because PCP is stored in body fat, effects can resurface or linger for a day or more, and staying in a quiet, low-stimulation place with sober help reduces danger.
 
 ### Comedown (6-24 h)
 
-The comedown is foggy and slow, with memory gaps, headache, muscle soreness and exhaustion. Coordination may stay off for a day.
+The comedown is slow and blurry: fatigue, muscle soreness, headache and poor coordination may last into the next day. Blood pressure may stay high, and some people feel achy all over from muscle strain they did not notice at the time.
 
-Mood is often low, anxious or irritable, and some people feel unreal or detached for days.
+Emotionally people often feel confused, anxious, depressed or ashamed, with patchy memory; some experience lingering paranoia or psychosis for days. Mood can swing between flatness and agitation, and sleep is often broken by vivid or disturbing dreams.
 
-Repeated use is linked to lasting psychosis, memory and speech problems, and depression.
+Regular use can cause memory problems, speech difficulties, depression and lasting psychotic symptoms; mental-health care is important if symptoms persist. Family and friends may notice personality changes; support and follow-up are worth seeking even after one frightening episode.
 
 Because PCP lingers and recirculates, symptoms can fluctuate for days.
 
