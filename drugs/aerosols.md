@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Aerosols (computer dusters, spray cans) hit instantly: a cold, numb rush and buzzing ears.
+Aerosols such as spray deodorant, air freshener, computer 'air duster' cans and spray paint contain propellant gases like butane, propane or difluoroethane. Inhaled, they act within seconds: a sudden rush of light-headedness, numbness and cold around the mouth, a tingle through the body and ringing or buzzing in the ears.
 
-Mentally a brief drunken euphoria.
+Mentally the onset is a quick, drunk-like giddiness and disorientation, sometimes with brief euphoria or a dreamlike sense of the room being far away.
 
-Frostbite of the mouth and throat can occur.
+Propellant gases can stop the heart suddenly (sudden sniffing death), even on the first try. Spraying directly into the mouth can freeze the throat and lungs, and the gases are highly flammable.
 
 Propellants such as difluoroethane enter the brain within seconds.
 
@@ -64,11 +64,11 @@ A rush of dizziness.
 
 ### Peak (under 1 min)
 
-The peak is seconds long.
+At the peak, which passes within a minute or two, the body is limp and uncoordinated, with slurred speech, blurred vision and sometimes fainting. Breathing can be irregular and the lips may feel frozen. The face may go pale or flushed, and some people feel their heart skip or flutter.
 
-Emotionally dreamy.
+Mentally the peak is confused and dreamy, with distorted sounds and sometimes brief hallucinations. Many people have little memory of it. Some feel as if time skipped forward.
 
-Inhalants can stop the heart suddenly ('sudden sniffing death'), even on a first use, and can cause suffocation, choking on vomit, and permanent brain, nerve, liver and kidney damage.
+Heart rhythm problems, suffocation, frostbite of the airway and burns are the main dangers. Air-duster misuse has caused car crashes and deaths in teenagers. Calm, fresh air and emergency help if the person collapses can save lives.
 
 At peak, fluorocarbons sensitize the heart to adrenaline, causing sudden fatal arrhythmias.
 
@@ -76,19 +76,19 @@ The rapid expansion of gas can freeze the airway, causing swelling and choking.
 
 ### Plateau (1-2 min)
 
-Effects fade quickly.
+Repeated inhalation keeps a person dizzy, numb and sick, with headaches, nausea and a cold, raw throat. Coordination keeps falling away, and some lose consciousness. Hands may be cold and numb, and the lips and nose may become chapped or frostbitten. Breath smells sweet or chemical.
 
-Re-use common.
+Mentally people stay foggy and disconnected, sometimes irritable, with memory gaps. Some describe feeling dull and blank between hits, with irritability rising as each high fades quickly.
 
-Dizziness.
+Long-term use can damage the heart, nerves, brain, liver and kidneys. Strong chemical smells on breath or clothes, or empty cans, may be warning signs. Parents and teachers can lock away air-duster cans and watch for missing aerosols.
 
 ### Comedown (2-10 min)
 
-The comedown is headache.
+As the gas clears, people often feel dizzy, sick and headachy, with a sore throat and chest. Tiredness and weakness can follow. Some feel weak and wobbly for hours, with chest discomfort and a lingering bad taste. Sleep may be heavy. Some notice frostbitten lips or a hoarse voice.
 
-Mood flat.
+Mentally there may be confusion, poor concentration, irritability and low mood. Some feel embarrassed, low or anxious, and memory for the session may be patchy.
 
-Brain damage risk.
+Dependence can develop, with craving and irritability on stopping. Calm support and medical review are important. Young people especially benefit from nonjudgmental conversations and support. Families can ask doctors for advice.
 
 Effects end within minutes.
 

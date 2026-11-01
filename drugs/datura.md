@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Datura (jimsonweed, devil's trumpet, angel's trumpet in its Brugmansia relatives) has a slow, unpredictable onset, sometimes hours, with extreme dry mouth, burning hot red skin, wide pupils and blurred vision.
+Datura (jimsonweed, angel's trumpet, thorn-apple) is a plant whose seeds, flowers and leaves contain powerful anticholinergic chemicals, scopolamine and atropine. The amount in a plant varies enormously. Effects come on over an hour or more: a very dry mouth, flushed hot skin, dilated pupils, blurred vision and a racing heart.
 
-Mentally it brings a confusing, dreamlike slide into delirium, with the person not realizing it is happening.
+Mentally the onset is a creeping confusion and restlessness, sometimes mistaken for a 'trip'. There is little euphoria; most people feel disoriented and uneasy.
 
-Potency varies wildly between plants, seeds and even leaves.
+Datura poisoning is a serious emergency, with high risk of heart rhythm problems, seizures, very high temperature, coma and death. The old medical saying 'hot as a hare, blind as a bat, dry as a bone, red as a beet, mad as a hatter' describes it.
 
 Tropane alkaloids are absorbed from the gut over hours.
 
@@ -64,11 +64,11 @@ Dry mouth, wide pupils, confusion.
 
 ### Peak (3-12 h)
 
-At the peak, total delirium sets in, with vivid, real-seeming hallucinations and no awareness of being intoxicated; people converse with absent friends or see insects and figures.
+At the peak the body is hot, red and dry, with wide pupils that won't focus, a pounding heart, urinary retention and unsteady, jerky movements. Speech may be slurred and nonsensical. Breathing may quicken, muscles may twitch, and the person may be unable to stand.
 
-Emotionally terrifying for many, with confusion and agitation.
+Mentally there is deep delirium: vivid, realistic hallucinations, conversations with people who aren't there, complete loss of awareness of surroundings, and often terror. People may wander, undress or injure themselves. People often pick at invisible threads or insects.
 
-Deliriants cause true delirium: people lose track of what is real, cannot recognize that they are intoxicated, and may wander into traffic or water. Very fast heart rate, high temperature, seizures and dangerous heart rhythms can occur; it is a medical emergency.
+Emergency care is needed. Medical teams may use physostigmine, cooling and sedatives, and support breathing and heart rhythm.
 
 At peak, delirium with realistic hallucinations; overheating, arrhythmias and seizures can be fatal.
 
@@ -76,19 +76,19 @@ Physostigmine, given in hospitals, can reverse severe anticholinergic delirium.
 
 ### Plateau (12-48 h)
 
-The plateau can last a day or more.
+The plateau lasts many hours and sometimes days. The body stays hot, dry and racing, with blurred vision. Muscles may jerk, urine may be retained painfully, and the skin stays dry and burning. Breathing may become rapid.
 
-Thinking disorganized.
+Mentally delirium, confusion and frightening hallucinations persist. People may pick at invisible objects, talk to unseen figures or lose all sense of time and place. Fear and agitation often return in waves. Some talk nonstop in mumbles.
 
-Hospital care is often needed.
+Accidents and deaths from wandering, falls and drowning are common in datura poisonings. Someone should stay with the person and call emergency services; restraint should only be done by medical teams.
 
 ### Comedown (1-3 days)
 
-The comedown lasts days, with blurred vision and dry mouth.
+The comedown can last days, with exhaustion, blurred vision, dry mouth and constipation. Pupils may stay wide for days, making reading and bright light difficult, and constipation and urinary problems may persist. Muscles may ache and sleep may be broken by vivid dreams.
 
-Mood shaken and anxious.
+Mentally confusion, memory gaps and fear are common, and most people never want to repeat it. Some feel deeply shaken or traumatized, and nightmares or flashbacks of hallucinations may occur. Memory gaps are often permanent.
 
-Deaths from accidents and overheating occur.
+Lingering vision problems and psychiatric symptoms can last weeks. Mental-health follow-up helps people process the experience. Poison centers can advise on plants found in gardens.
 
 Delirium can last days.
 

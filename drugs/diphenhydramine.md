@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Diphenhydramine (Benadryl) at ordinary amounts causes drowsiness. Misused in large amounts, the onset is a heavy, sluggish body, bone-dry mouth and throat, hot, flushed and dry skin, and blurred vision that makes reading impossible. Many describe restless legs and an unpleasant, crawling inner restlessness.
+Diphenhydramine (Benadryl and many sleep aids) is a common antihistamine that, in large amounts, acts as a deliriant by blocking the brain's acetylcholine signaling. Taken in large amounts, effects build over an hour or so: a heavy drowsiness, very dry mouth and eyes, flushed, warm skin, blurred vision, and a heart that starts racing. Some people feel restless legs or a creeping unease.
 
-Mentally there is a confused, uneasy fog rather than euphoria; many describe a creeping dread or the feeling that something is wrong.
+Mentally the onset is foggy and unpleasant for most: confusion, difficulty focusing and a growing dreamlike disorientation, with none of the euphoria people often expect. Some notice shadows moving at the edge of vision.
 
-The heart races, urination becomes difficult, and the pupils widen.
+Large amounts can cause dangerous heart rhythm problems, seizures, very high temperature and death. Social media challenges encouraging diphenhydramine misuse have led to teenage hospitalizations and deaths.
 
 Diphenhydramine is absorbed well and crosses easily into the brain, unlike newer antihistamines.
 
@@ -64,11 +64,11 @@ Dry mouth, fast heartbeat, and confusion at higher amounts.
 
 ### Peak (2-4 h)
 
-At the peak, diphenhydramine causes realistic hallucinations: talking to people who are not there, seeing spiders or shadow figures, holding phantom cigarettes or phones, and believing these are real.
+At the peak the body is hot, flushed and dry, unable to sweat properly, with a very fast heart, wide pupils, blurred vision and trouble urinating. Muscles may twitch or jerk, and walking is unsteady. Speech may be mumbled and hard to understand.
 
-Emotionally frightening and confused; people often cannot tell what is real and may wander, pick at the air or undress.
+Mentally there is true delirium: people lose track of where they are, talk to people who aren't there, see realistic hallucinations such as insects, spiders, shadow figures or phantom cigarettes, and often believe they are real. Many have no memory of it afterward.
 
-Deliriants cause true delirium: people lose track of what is real, cannot recognize that they are intoxicated, and may wander into traffic or water. Very fast heart rate, high temperature, seizures and dangerous heart rhythms can occur; it is a medical emergency.
+Seizures, heart rhythm problems, very high temperature and agitated behavior can be life-threatening. Poison control or emergency services should be called immediately.
 
 At high levels, muscarinic blockade in the brain causes delirium, and sodium channel blockade in the heart widens the QRS complex, risking fatal arrhythmias.
 
@@ -76,19 +76,19 @@ Seizures are common in severe poisoning; overheating occurs because sweating sto
 
 ### Plateau (4-8 h)
 
-The plateau is long and disoriented, often lasting through the night.
+The plateau is long, many hours, with the body staying hot, dry and racing, the bladder full but hard to empty, and the eyes blurred and sensitive to light. Muscles may jerk, and some people pick at the air or their clothes. Constipation and a racing pulse persist, and the person may be unable to sleep despite drowsiness.
 
-Memory of it is patchy and dreamlike.
+Mentally confusion and hallucinations continue, often frightening and repetitive, such as searching for objects or talking on imaginary phones. Fear and paranoia are common. People may not recognize friends or family, and some act out ordinary tasks that aren't happening.
 
-Restless pacing and picking at things are common.
+Supportive hospital care, monitoring of the heart and sometimes medicines that reverse anticholinergic effects are needed.
 
 ### Comedown (8-12 h)
 
-The comedown brings a heavy, confused hangover with dry mouth, headache and exhaustion.
+The comedown can last into the next day or longer, with exhaustion, dry mouth, blurred vision, headache and constipation. Vision may stay blurry for a day or two, and light can feel harsh. Urination may still be difficult. Some feel their heart still racing at rest, and muscles may ache from twitching.
 
-Mood low and anxious, sometimes for days.
+Mentally there is confusion, poor memory, low mood and often a deeply unsettled feeling about what happened. Some feel anxious, scared or shaken for days, and fragments of hallucinations may return as confused memories.
 
-Repeated heavy use is linked to lasting memory problems.
+Repeated misuse can lead to dependence and lasting memory problems. Mental-health support is important, especially when misuse is linked to self-harm.
 
 Delirium can outlast the drowsiness by many hours.
 

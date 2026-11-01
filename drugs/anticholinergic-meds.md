@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Anticholinergic medicines (like benztropine and trihexyphenidyl) at ordinary amounts causes drowsiness. When misused, the onset is a heavy, sluggish body, bone-dry mouth, flushed hot skin and blurred vision.
+Many prescription medicines with anticholinergic effects, such as benztropine, trihexyphenidyl (used in Parkinson's and for antipsychotic side effects), oxybutynin and some older antihistamines, can be misused or cause poisoning. Effects build over an hour or so: dry mouth, blurred vision, flushed skin and a faster heart. Some feel restless and notice a lightness in the head.
 
-Mentally a confused, uneasy fog rather than euphoria; many describe a creeping dread.
+Mentally some people feel a mild buzz or energy at lower amounts with trihexyphenidyl, but higher amounts cause confusion and dreamlike disorientation. Concentration drifts.
 
-The heart races and urination becomes difficult.
+Misuse is seen among people prescribed these medicines alongside antipsychotics. Large amounts are dangerous.
 
 Both are absorbed well.
 
@@ -64,11 +64,11 @@ Dry mouth.
 
 ### Peak (2-4 h)
 
-At the peak, realistic hallucinations: talking to people who are not there, seeing insects or shadow figures, phantom cigarettes or phones in hand.
+At the peak of poisoning the body is hot, dry and flushed, with a racing heart, wide pupils and urinary retention. Muscles may twitch, speech may slur and walking may be unsteady. The skin feels hot because sweating stops, and urination is difficult. The heart may pound and the person may collapse.
 
-Emotionally frightening and confused; people often cannot tell what is real.
+Mentally there can be delirium, hallucinations and agitation. People may see insects or shadow figures, talk to people who aren't there, and lose track of where they are. Agitation and fear are common. Memory is often lost.
 
-Deliriants cause true delirium: people lose track of what is real, cannot recognize that they are intoxicated, and may wander into traffic or water. Very fast heart rate, high temperature, seizures and dangerous heart rhythms can occur; it is a medical emergency.
+Emergency care is needed for seizures, heart problems or overheating. Medical teams may use physostigmine under monitoring.
 
 Delirium at high levels.
 
@@ -76,19 +76,19 @@ Overheating is a danger.
 
 ### Plateau (4-12 h)
 
-The plateau is long and disoriented.
+The plateau lasts hours. The body stays dry and racing. Pupils stay wide, vision is blurry and light uncomfortable, the mouth and skin dry, and the heart keeps racing. Constipation and urinary retention may become painful. Breathing may quicken.
 
-Memory of it is patchy.
+Mentally confusion persists. Confusion and hallucinations may continue, and the person may wander or act out tasks that aren't happening. Memory for this time is often lost. Some talk in mumbles and pick at the air or their clothing, and mood can swing between fear and blankness.
 
-Restless pacing and picking at things are common.
+Older adults are especially vulnerable. Someone should stay with them and call poison control or emergency services. Hospital monitoring may be needed.
 
 ### Comedown (12-24 h)
 
-The comedown brings a heavy, confused hangover.
+The comedown brings tiredness, dry mouth and blurred vision. Blurred vision, dry mouth, constipation and exhaustion may linger for a day or more, and the person may feel weak and shaky. Muscles may ache from twitching.
 
-Mood low and anxious.
+Mentally confusion may linger. Memory gaps, anxiety and low mood are common, and some people feel frightened by what they remember. Sleep may be broken by vivid dreams.
 
-Repeated heavy use is linked to lasting memory problems.
+Doctors can adjust medicines to reduce misuse risk. People prescribed these medicines who notice cravings or misuse should talk to their doctor. Never stop a prescribed medicine suddenly without advice. A doctor can check the heart and bladder.
 
 Long half-life for benztropine.
 

@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Poppers (alkyl nitrites) hit within seconds: a rush of heat to the face, a pounding headache, a racing heart and a head rush.
+Poppers are small bottles of liquid alkyl nitrites (amyl, butyl, isopropyl) whose fumes are sniffed. They act within seconds: blood vessels widen suddenly, causing a hot rush to the head and face, a pounding heart, flushing, a throbbing headache and a warm, loose feeling in the body.
 
-Mentally a brief euphoric, dizzy wave.
+Mentally the onset is a short, intense head-rush with giddiness and a feeling of dizziness or disorientation. Some feel a brief euphoria and heightened sensuality, which is why poppers are often used during sex and on dancefloors.
 
-Muscles relax.
+Blood pressure drops sharply, which can cause fainting. Combined with erection medicines like sildenafil (Viagra) or tadalafil, the drop can be dangerous or fatal.
 
 Alkyl nitrites are absorbed through the lungs within seconds and release nitric oxide, which relaxes smooth muscle in blood vessels.
 
@@ -64,11 +64,11 @@ A rush of warmth and flushing.
 
 ### Peak (30-90 s)
 
-The peak lasts a minute or two.
+At the peak, which lasts only a minute or two, the body feels flushed and hot, with a racing pulse, throbbing head, relaxed smooth muscles and sometimes a fluttering in the chest or dizziness on standing. Some feel a brief pressure in the eyes and ears.
 
-Emotionally giddy.
+Mentally the peak is a brief, heady blur, with time seeming to slow and a sense of release or abandon. Thinking is hazy and judgment loosens. Many describe the head-rush as a short wave of warmth flooding through.
 
-Combined with erectile dysfunction drugs, blood pressure can fall dangerously. Swallowing them can be fatal, and some cause eye damage.
+Swallowing poppers liquid is a medical emergency and has caused deaths. Spilling it on skin causes burns. Poppers can trigger methemoglobinemia, where blood carries less oxygen, giving the lips and skin a blue-grey color.
 
 At peak, low blood pressure can cause fainting; combined with PDE5 inhibitors (Viagra, Cialis) it can cause collapse, heart attack or stroke.
 
@@ -76,19 +76,19 @@ Nitrites oxidize hemoglobin to methemoglobin, which cannot carry oxygen; swallow
 
 ### Plateau (1-2 min)
 
-Effects fade quickly.
+Effects fade fast, so people often sniff repeatedly. Repeated use brings ongoing headache, flushing, dizziness, and sometimes a crusty rash around the nose and lips. The face may stay red and the heart keep racing, and some feel briefly faint when standing.
 
-Headache lingers.
+Mentally repeated sniffing keeps a person in short bursts of giddiness and sensuality, but the novelty fades quickly and headache grows. Some people find the headache spoils the experience and stop.
 
-Re-use common.
+Some poppers, especially isopropyl nitrite, have been linked to 'poppers maculopathy', damage to the center of the retina that causes blurred vision or blind spots. This is very important for people with existing sight problems. Keeping the bottle away from children and never swallowing it are key safety rules.
 
 ### Comedown (2-5 min)
 
-The comedown is headache.
+As the effect fades, people may feel tired, headachy and lightheaded, sometimes with a dull ache behind the eyes or a sore nose. Headaches can linger for hours, and some people feel queasy or slightly short of breath. A crusty yellow rash may develop around the nose.
 
-Mood steady.
+Mentally there may be mild fogginess or flatness. Some feel slightly dull or irritable as the headaches persist, and sleep may be lighter.
 
-Skin burns around the nose can occur.
+People with heart problems, glaucoma, anemia or low blood pressure face higher risks. Any vision changes after use need an eye check. Blue lips, breathlessness or confusion after use need emergency care, as these can signal methemoglobinemia. Store bottles upright and cool.
 
 Effects end within minutes.
 

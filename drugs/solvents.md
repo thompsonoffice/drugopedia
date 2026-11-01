@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Solvents (glue, gasoline, paint thinner) hit within seconds: dizziness, a ringing head, and a drunken, numb body.
+Volatile solvents, such as glue, paint thinner, petrol (gasoline), correction fluid and nail-polish remover, give off fumes that reach the brain within seconds of being breathed in. The first sensations are a rush of light-headedness, a buzzing or ringing in the ears, a numb, tingly face and hands, and a strong chemical smell and taste that can sting the nose, eyes and throat.
 
-Mentally euphoric, disinhibited and dreamlike.
+Mentally the onset feels like being suddenly and heavily drunk: giddy, silly, disinhibited and confused, with the world seeming to spin or shimmer. Some feel a brief euphoria or dreamlike detachment, and sounds may echo or distort.
 
-Speech slurs.
+Solvents can trigger 'sudden sniffing death', where the heart goes into a fatal rhythm, even on the first use, especially if the person is startled or runs. Inhaling with a bag over the head can cause suffocation, and the fumes are often flammable.
 
 Solvents are highly fat-soluble and enter the brain within seconds, acting on GABA-A, NMDA and glycine receptors like anesthetics.
 
@@ -64,11 +64,11 @@ Dizziness and giddiness rise quickly.
 
 ### Peak (1-5 min)
 
-The peak is brief: staggering, hallucinations and confusion.
+At the peak, which lasts only minutes, the body is clumsy and unsteady, speech slurs, vision may double or blur, and nausea or vomiting can occur. Muscles feel weak and the head heavy, and some people collapse.
 
-Emotionally giddy or confused.
+Mentally the peak is confused and dreamlike, sometimes with hallucinations: patterns, distorted shapes, voices or a feeling of floating. Judgment is badly impaired, and some become aggressive or reckless. Time may seem to jump, and people often cannot say afterward how long they were out of it.
 
-Inhalants can stop the heart suddenly ('sudden sniffing death'), even on a first use, and can cause suffocation, choking on vomit, and permanent brain, nerve, liver and kidney damage.
+The biggest dangers are heart rhythm problems, choking on vomit while dazed, suffocation, burns and accidents. Startling or chasing someone who is intoxicated can raise the risk of cardiac arrest, so calm, gentle care matters.
 
 At peak, solvents sensitize the heart muscle to adrenaline, so a surge from fright or exertion can trigger ventricular fibrillation (sudden sniffing death).
 
@@ -76,19 +76,19 @@ Hypoxia from bags, choking on vomit, and burns from flammable vapors are other m
 
 ### Plateau (minutes)
 
-Effects fade within minutes.
+Because the effect is so brief, people often keep inhaling to stay intoxicated, sometimes for hours. The body becomes increasingly drowsy, nauseated, headachy and uncoordinated, and a rash may form around the nose and mouth. Eyes may water and redden, and the person may cough and sneeze.
 
-Re-use drives repetition.
+Mentally repeated inhaling keeps a person in a confused, numbed state, with memory gaps and swings between giddiness and irritation. Some drift into stupor.
 
-Headache follows.
+Long-term use can damage the brain, nerves, liver, kidneys and heart, causing problems with memory, thinking, coordination, walking and hearing. Petrol containing lead and solvents like toluene are especially harmful.
 
 ### Comedown (15-45 min)
 
-The comedown is headache and nausea.
+As the fumes clear, people often feel drowsy, dizzy and sick, with a pounding headache that can last hours. The nose and throat may be sore and the breath smells of chemicals. Appetite is often poor, and some feel shaky or weak for the rest of the day.
 
-Mood low.
+Mentally there may be confusion, poor concentration, irritability and low mood. Some barely remember what happened. Shame or secrecy can make it hard to talk about.
 
-Long-term damage is common.
+Regular use can lead to dependence, with craving, irritability and poor sleep on stopping. Support from youth and community services helps, and in many communities solvent use is linked to poverty and trauma. Some areas use low-aromatic fuel to reduce petrol sniffing.
 
 Effects fade within minutes to an hour as vapors are exhaled.
 

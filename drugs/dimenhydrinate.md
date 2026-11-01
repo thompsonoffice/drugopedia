@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Dimenhydrinate (Dramamine) at ordinary amounts causes drowsiness. When misused, the onset is a heavy, sluggish body, bone-dry mouth, flushed hot skin and blurred vision.
+Dimenhydrinate (Dramamine, Gravol) is a motion-sickness medicine made of diphenhydramine combined with a mild stimulant. In large amounts it causes deliriant effects much like diphenhydramine. Effects build over an hour: heavy drowsiness, dry mouth and eyes, flushing, blurred vision and a racing heart. Some feel restless legs and a creeping unease. Some notice a brief jittery feeling from the added stimulant.
 
-Mentally a confused, uneasy fog rather than euphoria; many describe a creeping dread.
+Mentally the onset is foggy and confused, with growing restlessness and unease rather than euphoria. Some see shadows moving at the edge of vision.
 
-The heart races and urination becomes difficult.
+Large amounts can cause seizures, heart rhythm problems, high temperature and death. It is easy to buy, which makes misuse by teenagers a particular concern.
 
 Dimenhydrinate is split in the body into diphenhydramine and 8-chlorotheophylline.
 
@@ -64,11 +64,11 @@ Confusion builds.
 
 ### Peak (2-4 h)
 
-At the peak, realistic hallucinations: talking to people who are not there, seeing insects or shadow figures, phantom cigarettes or phones in hand.
+At the peak the body is hot, dry and flushed, with a fast heart, wide pupils, urinary retention and twitching or unsteady movements. Speech may slur and walking becomes clumsy and staggering. The skin feels hot because sweating stops. Pupils widen and vision blurs.
 
-Emotionally frightening and confused; people often cannot tell what is real.
+Mentally there is delirium, with realistic hallucinations, confusion and fear. Memory for the episode is often lost. People often talk to imaginary figures, see insects or shapes, or try to do tasks that aren't there. Many feel terrified.
 
-Deliriants cause true delirium: people lose track of what is real, cannot recognize that they are intoxicated, and may wander into traffic or water. Very fast heart rate, high temperature, seizures and dangerous heart rhythms can occur; it is a medical emergency.
+Poison control or emergency services should be called. Seizures and dangerous heart rhythms are possible. Medical teams monitor the heart, temperature and breathing.
 
 At high levels, delirium and seizures.
 
@@ -76,19 +76,19 @@ Heart rhythm toxicity matches diphenhydramine.
 
 ### Plateau (4-8 h)
 
-The plateau is long and disoriented.
+The plateau lasts many hours with the body staying hot, dry and racing. Pupils stay wide and vision blurry, the mouth parched and urination difficult. Muscles may twitch, and the person may be unable to sleep despite being exhausted. Breathing may quicken and the skin stays hot and flushed.
 
-Memory of it is patchy.
+Mentally confusion and hallucinations continue. Confusion and hallucinations continue, often frightening, and the person may not recognize familiar people or places. Many talk in mumbles or pick at the air.
 
-Restless pacing and picking at things are common.
+Hospital monitoring is often needed. Someone should stay with them and call poison control or emergency services. Activated charcoal may be given early.
 
 ### Comedown (8-12 h)
 
-The comedown brings a heavy, confused hangover.
+The comedown brings exhaustion, dry mouth and blurred vision. Vision may stay blurred and light uncomfortable for a day or two, with headache, constipation and deep tiredness. Muscles may ache from twitching, and appetite is poor.
 
-Mood low and anxious.
+Mentally confusion and low mood may linger. Memory gaps, anxiety and an unsettled feeling about what happened are common for days. Sleep may be broken by vivid, unsettling dreams.
 
-Repeated heavy use is linked to lasting memory problems.
+Repeated misuse can harm memory and lead to dependence. Mental-health support helps, especially if misuse is linked to self-harm or distress. Regular misuse can harm memory and lead to dependence. Counseling helps.
 
 Effects last many hours.
 

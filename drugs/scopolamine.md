@@ -48,11 +48,11 @@ Times below are typical for the transdermal (skin patches) route and vary a lot 
 
 ### Onset (4-6 h)
 
-Scopolamine, used medically for motion sickness, causes dry mouth and drowsiness. Misused, it brings a confused, sedated delirium.
+Scopolamine (hyoscine) is an anticholinergic medicine used in patches for motion sickness and nausea; it is also found in datura and related plants. At medical doses, people may notice a dry mouth, mild drowsiness and slightly blurred vision. In large amounts, it builds into a deliriant state with flushed skin, racing heart and wide pupils.
 
-Mentally a fog, with loss of will and memory.
+Mentally medical use usually brings only mild sleepiness. In poisoning, confusion, restlessness and loss of memory set in, and the person may seem strangely compliant or dreamy.
 
-It has been used in crimes ('burundanga') to make victims compliant.
+Scopolamine ('burundanga') has been reported in crimes in which victims were drugged and robbed; it causes confusion and memory loss.
 
 Scopolamine from patches is absorbed slowly through the skin behind the ear.
 
@@ -64,11 +64,11 @@ Dry mouth and drowsiness.
 
 ### Peak (8-24 h)
 
-At the peak, delirium and amnesia.
+At the peak of poisoning the body is hot, dry and flushed with a very fast heart, wide pupils, urinary retention and unsteady movements. Speech may be slurred and walking very unsteady; the person may seem to follow instructions without understanding. Muscles may twitch and breathing quicken, and some people collapse.
 
-Emotionally confused.
+Mentally there can be delirium, hallucinations, agitation and complete loss of memory for the period. People may not recognize friends or know where they are, and fear and agitation can come in waves.
 
-Deliriants cause true delirium: people lose track of what is real, cannot recognize that they are intoxicated, and may wander into traffic or water. Very fast heart rate, high temperature, seizures and dangerous heart rhythms can occur; it is a medical emergency.
+Emergency care is needed; physostigmine can sometimes reverse severe effects under monitoring. Monitoring of heart rhythm and temperature is essential.
 
 At high levels, delirium, amnesia and hallucinations.
 
@@ -76,19 +76,19 @@ Older adults are especially vulnerable to confusion.
 
 ### Plateau (up to 72 h)
 
-The plateau is long.
+Effects last many hours. The body stays dry, flushed and racing. Pupils stay wide and vision blurred, the mouth and throat parched, and urination difficult or painful. The skin may feel hot to touch, and twitching or jerking movements can continue. Breathing may be fast.
 
-Memory absent.
+Mentally delirium and confusion persist. Confusion and hallucinations persist, and the person may wander, talk to unseen people or repeat actions. They usually cannot remember what is happening.
 
-Hospital care needed.
+Older adults are especially vulnerable to confusion even at medical doses. Someone should stay with them and call emergency services; victims of drugging should be helped to seek medical and police support.
 
 ### Comedown (after removal)
 
-The comedown is foggy.
+The comedown brings tiredness, dry mouth and blurred vision. Vision may stay blurred and light painful for a day or two, and the mouth dry and stomach sluggish. Exhaustion can be heavy. Muscles may ache, and sleep may be broken by vivid dreams.
 
-Mood anxious.
+Mentally confusion and memory gaps may last a day or more. Some feel frightened, ashamed or confused about missing time, especially if they were drugged without knowing. Memory gaps are often permanent.
 
-Memory of events often never returns.
+Stopping a patch after long use can cause nausea, dizziness and headache. Medical follow-up and support services can help people who were drugged. Reporting a suspected drugging quickly helps testing, since scopolamine clears the body fast.
 
 Effects persist after patch removal.
 
