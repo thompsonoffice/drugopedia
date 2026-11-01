@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Modafinil (Provigil) has a slow, subtle onset: tiredness simply lifts and alertness sharpens without a rush.
+Modafinil (Provigil) and its relative armodafinil (Nuvigil) are wakefulness drugs for narcolepsy, sleep apnea and shift-work sleep disorder. Swallowed, they come on slowly over an hour or more. There is no rush: the body simply stops feeling heavy, the eyelids lose their droop and the dragging fatigue of sleepiness lifts.
 
-Mentally a clear wakefulness and steady focus; little euphoria.
+Mentally the onset is a quiet clearing, like the moment after a good night's sleep and a strong coffee, without the jittery spike. Thoughts feel organized and it becomes easier to start and stay on tasks; many people say they barely notice it beyond not feeling tired.
 
-Some feel a mild headache or tension.
+A dull headache, mild nausea or a slightly 'wired' feeling behind the eyes are the most common early side effects, and drinking less water than usual can make the headache worse.
 
 Modafinil is absorbed slowly, peaking in 2 to 4 hours, and has a half-life of about 15 hours.
 
@@ -64,11 +64,11 @@ Alertness builds.
 
 ### Peak (2-4 h)
 
-At the peak, wide awake and focused.
+At its peak the body feels awake and steady, with a slightly faster pulse, a dry mouth and sometimes reduced appetite. Unlike amphetamines it rarely causes a strong heart-pounding or teeth grinding, though some notice tense muscles or a tight jaw.
 
-Emotionally neutral to slightly upbeat; some feel anxious.
+Mentally there is calm alertness and stamina: long reading, studying or driving sessions feel manageable. Some feel a mild mood lift; others feel flat, a little detached or emotionally muted, as if running on willpower rather than enjoyment.
 
-Rare but serious skin reactions can occur. Large amounts raise heart rate and anxiety.
+Higher amounts bring anxiety, irritability, insomnia and a racing mind. Rare but serious skin reactions (Stevens-Johnson syndrome) and psychiatric effects have been reported, and it can make hormonal birth control less effective.
 
 At peak, effects are wakefulness and modest focus; high amounts cause anxiety, tachycardia and insomnia.
 
@@ -76,19 +76,19 @@ Rare but serious rashes (Stevens-Johnson syndrome, DRESS) need immediate medical
 
 ### Plateau (10-15 h)
 
-The plateau lasts most of a day.
+The plateau is very long, often twelve hours or more, which is why it is taken in the morning. The body stays awake and fairly comfortable, though headaches, dehydration and a dry, metallic taste can build through the day. Some people notice a faint, persistent tension at the temples and a need to urinate more often.
 
-Mood steady.
+Mentally focus and wakefulness persist, sometimes with a tunnel-vision quality where people forget to eat, drink or take breaks. Late in the plateau some feel tense, restless or 'tired but wired.'
 
-Sleep is often impossible if taken late.
+Taking it after midday commonly ruins the night's sleep, and sleep loss stacks up into poorer judgment over days. Because it feels subtle, people sometimes underestimate how impaired their sleep and judgment become after several days.
 
 ### Comedown (12-16 h)
 
-The comedown is gentle tiredness.
+As it fades the body feels gradually tired rather than crashing; muscles may ache slightly and hunger returns, sometimes with a lingering headache. Sleep that night may be lighter than usual, and the next morning can feel slow and heavy.
 
-Mood usually unchanged.
+Emotionally the comedown is usually mild, though some notice irritability, low mood or anxiety, especially after several days of short sleep. A few people describe a short-tempered, frayed feeling in the evening, as though they ran out of patience along with the drug.
 
-Dependence risk is low but present.
+Its misuse potential is lower than amphetamines but not zero; using it to skip sleep repeatedly leads to exhaustion and mood problems, and any rash means stopping and seeing a doctor.
 
 Its long half-life means sleep may be disrupted the following night.
 

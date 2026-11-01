@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Phentermine (Adipex) has a moderate onset of energy, dry mouth and a strong drop in appetite.
+Phentermine (Adipex-P, Lomaira, and part of Qsymia) is an amphetamine relative prescribed for short-term weight loss. Swallowed, it comes on gradually over an hour or so: the mouth dries, the heart beats a little faster and hunger quietly switches off.
 
-Mentally alert, motivated and slightly wired.
+Mentally the onset is an energetic, slightly restless lift. People feel more driven and talkative, with a busy mind; it is less euphoric than amphetamine for most. Some people feel a pleasant sense of control over eating that can be motivating at first.
 
-Heart rate rises.
+Some notice a jittery, buzzing feeling in the chest or a bitter, metallic taste early on, and trouble sitting still. People often notice they are tapping, pacing or cleaning more than usual within the first hour.
 
 Phentermine is absorbed well and releases noradrenaline more than dopamine.
 
@@ -64,11 +64,11 @@ Energy rises and appetite drops.
 
 ### Peak (3-4 h)
 
-At the peak, energetic and talkative.
+At its peak the body is wired: raised pulse and blood pressure, dry mouth, sweating, constipation and sometimes a tremor or tight jaw. Food feels unnecessary or unappealing. Some feel their heart thumping in their ears, and urination may become difficult.
 
-Emotionally upbeat, sometimes anxious.
+Mentally there is energy and motivation that can tip into irritability, anxiety and an edgy, short-tempered mood. Some feel mildly euphoric; others just feel tense. Conversation can speed up, and small delays or frustrations may feel unusually irritating.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
+Risks include high blood pressure, heart rhythm problems and, rarely, lung hypertension or psychosis; it is not for people with heart disease or hyperthyroidism.
 
 At high levels, agitation, psychosis and arrhythmias can occur.
 
@@ -76,19 +76,19 @@ Combined with serotonergic drugs (as with fenfluramine in fen-phen), heart valve
 
 ### Plateau (8-12 h)
 
-The plateau lasts most of a day.
+The plateau lasts much of the day, which is why it is taken in the morning. The body stays mildly revved, with restless energy and very little appetite. The mouth may feel sticky and dry, and some people chew gum or sip water constantly; headaches and constipation can build.
 
-Mood stable or edgy.
+Mentally people feel driven and busy, sometimes scattered or obsessive about tasks, and may become easily annoyed in the afternoon. Some feel productive and upbeat, while others feel trapped in a restless, can't-switch-off state that wears on them by evening.
 
-Sleep difficult.
+Late doses cause insomnia, and poor sleep worsens the edginess the following day. Blood pressure and pulse stay elevated for hours, which is why regular checks are part of treatment.
 
 ### Comedown (12-16 h)
 
-The comedown brings tiredness and returning hunger.
+As it wears off, tiredness, headache and returning hunger arrive, sometimes with an intense craving for carbohydrates. Some people feel a heavy, sluggish drag in the evening and a strong urge to eat everything they skipped.
 
-Mood may dip.
+Emotionally people may feel low, irritable or anxious. The contrast between daytime drive and evening fatigue can feel discouraging. Some people feel guilty about evening eating, which can make the cycle harder.
 
-Dependence possible.
+Tolerance to its appetite effect develops within weeks; stopping after long or high use can bring fatigue and low mood for some days. Combining it with other stimulants or certain antidepressants raises serious risks, so all medicines should be reviewed with the prescriber.
 
 Half-life is about 20 hours, explaining day-long effects.
 

@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Smoked or vaped nicotine hits within seconds: a light head rush, a tingling buzz and a slight drop of tension.
+Nicotine from cigarettes, vapes, pouches, gum or patches acts on acetylcholine receptors. Inhaled, it reaches the brain within seconds; pouches and gum take minutes; patches over hours. The first sensation is a 'throat hit' or tingle, then a quick lift: the heart speeds, blood vessels tighten, hands may feel cooler and a light-headed buzz rises in the head.
 
-Mentally a brief, calming focus. For new users, dizziness and nausea dominate.
+Mentally the onset brings a paradoxical mix of alertness and calm. For regular users it mostly relieves the restless, irritable craving of withdrawal, which feels like relaxation; for new users it can bring dizziness, nausea and a 'head rush.'
 
-Heart rate rises.
+People new to nicotine may get pale, sweaty and sick, especially with strong pouches or high-strength vapes, which is mild nicotine poisoning.
 
 Inhaled nicotine reaches the brain within about 10 to 20 seconds.
 
@@ -64,11 +64,11 @@ A brief buzz.
 
 ### Peak (1-5 min)
 
-The peak is brief: a relaxed alertness.
+The peak from inhaling is short, a few minutes. The body feels lightly stimulated, with raised pulse and blood pressure, relaxed muscles in some and a looser bowel in others. Fingers and toes may cool as blood vessels narrow, and some notice a slight tremor or a looseness in the stomach.
 
-Emotionally calming relief of craving.
+Mentally there is a small boost in focus and mood, and a sense of reward and settling. Much of the pleasure is the brief end of craving, which sets up the next one. Users often describe a 'click' of satisfaction as the first inhale lands, followed by a few minutes of easier concentration.
 
-Liquid nicotine is highly toxic if swallowed, especially by children.
+Liquid nicotine for vapes is highly toxic if swallowed or spilled on skin, especially for children and pets; vomiting, drooling, seizures and collapse need emergency care.
 
 At high exposure, nicotine causes nausea, vomiting, sweating and, in poisoning, seizures and breathing muscle paralysis.
 
@@ -76,19 +76,19 @@ Children who swallow e-liquid or pouches are at greatest risk.
 
 ### Plateau (15-60 min)
 
-The effect fades within minutes.
+Nicotine levels fall within an hour or two after smoking or vaping, so the plateau is short and the body begins to feel restless again. Patches keep a steadier level all day. Hands may want something to do, and the mouth and throat can feel dry or irritated from smoke or vapor.
 
-Craving returns.
+Mentally the calm thins into fidgeting and distraction, and attention turns to the next dose. Many users unconsciously pace their nicotine to stay in this narrow comfortable range. Stress, coffee, alcohol or meals often trigger the next craving, because they have become linked to it.
 
-Addiction develops quickly.
+Smoking adds tar and carbon monoxide that cause cancer, heart disease and lung disease; nicotine itself raises heart rate and blood pressure.
 
 ### Comedown (1-2 h)
 
-The comedown is irritability and craving.
+As nicotine falls, the body feels tense and slightly heavy, with increased appetite. Sleep can be restless, and some people wake at night craving.
 
-Mood edgy.
+Emotionally irritability, anxiety, low mood and difficulty concentrating build quickly, the hallmarks of withdrawal. Small annoyances can feel overwhelming, and some people feel a mild, foggy sadness.
 
-Withdrawal brings anxiety, irritability and hunger.
+Nicotine is one of the most addictive substances; withdrawal peaks within days and craving can last weeks. Replacement therapy, varenicline, bupropion and quit lines greatly improve the chance of stopping. Many people need several attempts; each attempt makes the next more likely to succeed, and craving episodes usually pass within minutes.
 
 Half-life is about 2 hours, which drives frequent use.
 

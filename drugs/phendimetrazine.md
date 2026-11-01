@@ -52,11 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Phendimetrazine has a moderate onset of energy and reduced hunger.
+Phendimetrazine (Bontril) is an appetite suppressant that the body converts into phenmetrazine, the former diet drug Preludin, which was widely misused in the 1950s and 60s. Swallowed, it builds slowly with a dry mouth, faster pulse and a fading appetite. People may notice a light, buzzing energy in the limbs and a quicker pace of walking and talking.
 
-Mentally alert, slightly wired.
+Mentally the onset is an energetic, mildly euphoric lift, with talkativeness and drive. Its conversion into phenmetrazine means effects keep building for a while after the first signs.
 
-Heart rate rises.
+Restlessness, a jittery chest and sweating can appear early. Taking more before it has fully arrived is a common mistake.
 
 Phendimetrazine is converted to phenmetrazine, which releases dopamine and noradrenaline.
 
@@ -68,11 +68,11 @@ Appetite falls and alertness rises.
 
 ### Peak (1-2 h)
 
-At the peak, steady stimulation.
+At its peak the body is stimulated: raised blood pressure and pulse, dry mouth, sweating, constipation and little desire for food. Some feel hot and flushed, and the heartbeat may feel strong in the chest or throat. Pupils widen and the mouth feels parched, with sweating on the palms and forehead.
 
-Emotionally upbeat or edgy.
+Mentally there is energy, confidence and focus, sometimes with mild euphoria; higher amounts bring anxiety, irritability and racing thoughts. People may become chatty and confident, then edgy and impatient as the day goes on.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
+Risks include heart rhythm problems, high blood pressure, and rarely psychosis or lung hypertension. It should not be combined with MAO-inhibitor antidepressants.
 
 At high levels, euphoria, agitation and psychosis can occur.
 
@@ -80,19 +80,19 @@ Phenmetrazine itself was withdrawn because of misuse.
 
 ### Plateau (4-12 h)
 
-The plateau lasts hours.
+The plateau lasts several hours, longer with extended-release capsules. The body stays wired and not hungry. The mouth stays dry, headaches and constipation build, and meals are often forgotten entirely. Some notice a slight tremor and a raised pulse even while resting.
 
-Mood stable.
+Mentally people feel driven and busy, sometimes tense or irritable. Some feel focused and upbeat; others feel tense, wound-up and unable to sit still. Irritability often builds toward evening.
 
-Sleep difficult.
+Late doses cause insomnia. Blood pressure and pulse remain raised, and combining with caffeine or other stimulants adds strain on the heart. Regular blood pressure checks are part of safe use.
 
 ### Comedown (6-14 h)
 
-The comedown is tired.
+As it fades, tiredness, headache and hunger return. A heavy, washed-out fatigue can arrive in the evening along with strong hunger. Muscles may feel tired and achy from hours of restless energy.
 
-Mood low.
+Emotionally low mood or irritability may follow. Some feel anxious or teary, and sleep may be poor. Motivation can drop sharply.
 
-Dependence possible.
+Because its active form is phenmetrazine, misuse potential is significant and tolerance develops. Stopping after long or high use can bring days of exhaustion and low mood, so it should be done with a doctor's guidance. Its misuse history is why it is tightly controlled, and taking more than prescribed to restore the lift is a warning sign of dependence.
 
 Effects fade over several hours.
 

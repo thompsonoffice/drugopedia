@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Ephedrine has an onset of jittery energy, a faster heart and opened airways.
+Ephedrine, from the ephedra (ma huang) plant and used in some decongestants and to raise blood pressure during anesthesia, acts on adrenaline receptors. Swallowed, it comes on over a short while with a warm flush, a faster, harder heartbeat, opening airways and a tingling restlessness in the limbs.
 
-Mentally alert and slightly anxious.
+Mentally the onset is a jittery alertness, like a strong dose of adrenaline: more awake, a little excited, sometimes anxious. Euphoria is mild compared with amphetamine. Some people describe their heart 'kicking' and a nervous, butterflies-in-the-stomach feeling.
 
-Hands may tremble.
+Ephedra supplements were banned in the US in 2004 after strokes, heart attacks and deaths, particularly when combined with caffeine in diet and sports products. Its effects on blood pressure are why it is still used carefully during surgery.
 
 Ephedrine acts both directly on adrenergic receptors and by releasing noradrenaline.
 
@@ -64,11 +64,11 @@ Energy and jitteriness.
 
 ### Peak (1-2 h)
 
-At the peak, energized and sweaty.
+At its peak the body is tense and stimulated: pounding pulse, raised blood pressure, sweating, tremor, dry mouth and trouble urinating for some men. Breathing feels open. Hands may tremble visibly, and some people feel hot and flushed even in a cool room.
 
-Emotionally edgy.
+Mentally there is energy and focus mixed with nervousness, irritability and racing thoughts at higher amounts; some feel a sense of impending doom. Small worries can swell into anxiety, and some people feel a pressure in the head.
 
-It has been linked to strokes, heart attacks and deaths.
+Danger signs include chest pain, severe headache, palpitations, confusion or weakness on one side, which can signal heart attack or stroke. It also raises body temperature, adding risk during exercise or heat.
 
 At high levels, especially with caffeine, ephedrine can cause stroke, heart attack, arrhythmia and seizures; these led to the 2004 ephedra ban.
 
@@ -76,19 +76,19 @@ Pseudoephedrine has weaker effects but can still raise blood pressure.
 
 ### Plateau (3-6 h)
 
-The plateau is a few hours.
+The plateau lasts a few hours. The body stays revved, hot and restless, with reduced appetite and sometimes nausea. Urination may be difficult, the heart may skip or flutter, and sleep feels impossible until it wears off.
 
-Mood wired.
+Mentally people feel wired and edgy, finding it hard to settle, with an underlying anxiousness. Conversation may feel rushed and focus scattered, with a constant urge to move or do something. Thoughts may jump from one thing to another, and it can be hard to finish what was started.
 
-Sleep difficult.
+Combining with caffeine or other stimulants multiplies heart risk. People with high blood pressure, thyroid disease, glaucoma or heart problems are at particular risk.
 
 ### Comedown (6-8 h)
 
-The comedown is tired.
+As it fades, tiredness, headache and a heavy, washed-out feeling follow. Muscles may ache from tension, and the heart may still feel jumpy for a while. Appetite returns and a dull headache is common.
 
-Mood flat.
+Emotionally mild low mood or irritability. Sleep may be broken the night after, and the next day can feel foggy and flat. Some people feel a mild, gloomy flatness or nervous exhaustion as the adrenaline-like push fades away.
 
-Combining with caffeine raises risk.
+Regular use can cause tolerance and some dependence; it is a controlled precursor because it can be turned into methamphetamine. Anyone who has had chest pain or palpitations on it should stop and see a doctor. Its sale is restricted in many countries.
 
 Half-life is about 6 hours.
 

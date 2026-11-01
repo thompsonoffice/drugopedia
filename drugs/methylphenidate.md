@@ -88,7 +88,7 @@ Doses late in the day disrupt sleep. Blood pressure and pulse stay modestly rais
 
 ### Comedown (4-12 h)
 
-As it fades, people may feel tired, hungry and headachy, sometimes with a sudden drop in energy. Short-acting tablets can wear off abruptly, leaving a heavy, slowed feeling and sometimes a mild headache.
+As it fades, people may feel tired, hungry and headachy, sometimes with a sudden drop in energy. Short-acting tablets can wear off abruptly, leaving a heavy, slowed feeling and sometimes a mild headache. Some people also feel a brief dip in blood sugar-like shakiness until they eat.
 
 Emotionally a rebound of irritability, tearfulness or restlessness is common, especially in children in the late afternoon. Teenagers and adults may feel anxious, flat or teary, and ADHD symptoms often return all at once.
 

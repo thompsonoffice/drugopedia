@@ -52,11 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Diethylpropion has a mild onset of energy and appetite loss.
+Diethylpropion (amfepramone, Tenuate) is a cathinone-related appetite suppressant prescribed for short-term weight loss. Swallowed, it builds over an hour with a dry mouth, a slightly quicker heart and a fading interest in food. Some notice a faint warmth in the face and a lighter, more energetic step.
 
-Mentally alert.
+Mentally the onset is a mild, alert lift, gentler than amphetamine, with a busier mind and more motivation. Tasks that felt like chores may feel easier to start, and people become more talkative.
 
-Heart rate rises.
+Some feel restless, with a jittery chest or difficulty sitting still, and sleeping can become difficult if taken late. Its effect builds gradually rather than as a rush.
 
 Diethylpropion is absorbed quickly and converted to active metabolites.
 
@@ -68,11 +68,11 @@ Appetite falls and alertness rises.
 
 ### Peak (1-2 h)
 
-At the peak, steady stimulation.
+At its peak the body feels moderately stimulated: raised pulse, dry mouth, sweating and constipation, with appetite strongly reduced. Some feel a pounding heartbeat when lying down and have trouble passing urine.
 
-Emotionally upbeat.
+Mentally there is energy and focus, sometimes mild euphoria; at higher amounts nervousness, irritability and a sense of being wound up. Patience can wear thin, and some people describe feeling 'over-caffeinated' without any coffee.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
+Risks include raised blood pressure, heart rhythm problems and, rarely, psychosis or lung hypertension; it should not be combined with other stimulants. It has also been linked to seizures in people with epilepsy.
 
 At high levels, it causes agitation and can trigger seizures in susceptible people.
 
@@ -80,19 +80,19 @@ Long-term use is rarely linked to pulmonary hypertension.
 
 ### Plateau (4-12 h)
 
-The plateau lasts hours.
+The plateau lasts several hours, longer with the extended-release form. The body remains mildly revved and not hungry. Dry mouth, constipation and mild headache build through the day, and meals are easily skipped. Some people find their hands slightly shaky and their heart rate noticeable.
 
-Mood stable.
+Mentally people feel busy and driven, sometimes tense or short-tempered. Some people feel productive; others feel jittery and unable to relax, especially in the afternoon. Small irritations may build into a short temper by late afternoon.
 
-Sleep difficult.
+Taking it later in the day disrupts sleep. Blood pressure and pulse remain raised, so regular checks are part of safe use.
 
 ### Comedown (6-14 h)
 
-The comedown is tired.
+As it fades, tiredness and hunger return, sometimes with headache. Some feel a heavy, sluggish tiredness in the evening and strong cravings for sweet or starchy food. The body may feel heavy and sluggish, and a mild headache is common.
 
-Mood dips.
+Emotionally a mild dip in mood or irritability. Mood can feel flat or teary, especially after several weeks of use. Some people notice low motivation or sadness that lifts after a night's sleep.
 
-Dependence possible.
+Tolerance to the appetite effect develops within weeks, and misuse can cause dependence. It is intended only for short courses alongside diet and exercise, and stopping after long use can bring several days of fatigue. Follow-up visits help.
 
 Effects fade over several hours.
 
