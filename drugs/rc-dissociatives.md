@@ -48,11 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (5-30 min)
 
-Research dissociatives (3-MeO-PCP, deschloroketamine, 2F-DCK and others) vary in potency and length. The onset brings numbness and floaty detachment.
+'Research chemical' dissociatives include compounds like 3-MeO-PCP, 3-HO-PCP, O-PCE, deschloroketamine (DCK), 2F-DCK and diphenidine. Their onsets vary widely, from fast to slow; typically there is a light, floating tingle, numbness and loss of coordination as the drug builds.
 
-Mentally dreamy and disconnected.
+Mentally most create detachment, with a sense of watching oneself from a distance and changed perception of time and space. Some, like 3-MeO-PCP, are notably stimulating and mood-lifting; others are more sedating.
 
-Some are very potent.
+Because many are much stronger than ketamine and poorly studied, tiny differences in amount can cause unexpectedly intense effects. Slow onsets lead to dangerous redosing.
 
 Each analog has a different potency and duration; 3-MeO-PCP is active at much smaller amounts than ketamine.
 
@@ -64,11 +64,11 @@ Detachment and stimulation build.
 
 ### Peak (1-3 h)
 
-At the peak, dissociation, confusion, and possible hallucinations; 3-MeO-PCP is linked to mania and agitation.
+At their peak the body may be numb, heavy and hard to move, with a raised heart rate and blood pressure. Some people become agitated, others nearly unconscious. Speech may slur, eyes may flick side to side, and some sweat heavily.
 
-Emotionally unpredictable.
+Mentally there may be deep dissociation, confusion, vivid inner imagery and loss of sense of self. With PCP-like compounds, mania, aggression and psychosis are possible. Time can seem to stop, and people may not recognize where they are or who is with them.
 
-Dissociatives cause numbness, confusion and loss of coordination, so falls, drowning, burns and traffic injuries are major dangers. Combined with alcohol, opioids or other depressants they can suppress breathing and cause vomiting while unconscious.
+Overheating, seizures, high blood pressure and dangerous behavior have been reported. Mixing with alcohol or depressants adds risk of choking and stopped breathing.
 
 Peak effects range from ketamine-like dissociation to PCP-like agitation and psychosis.
 
@@ -76,19 +76,19 @@ Peak effects range from ketamine-like dissociation to PCP-like agitation and psy
 
 ### Plateau (2-4 h)
 
-The plateau can be very long.
+Plateaus can last many hours with some compounds. The body stays clumsy and unsteady, and nausea may come and go. Some feel numbness in the limbs and skin, tingling, and a racing heart that does not settle. Muscles may feel stiff.
 
-Thinking confused.
+Mentally people can be stuck in a confused, detached state for a long time, which can be frightening. Some develop sleeplessness and manic energy that builds over days of use. Thinking may stay slow and fragmented, and some people talk nonstop or act out of character, while others withdraw and stare.
 
-Mislabeling is common.
+Psychosis and mania after repeated use have been reported, especially with 3-MeO-PCP. Someone sober should stay with the person and get help if they overheat or become violent.
 
 ### Comedown (4-12 h)
 
-The comedown is foggy.
+The comedown can be slow and uneven, with tiredness, headache and lingering unsteadiness. Muscles may ache, sleep may be broken, and some feel cold and shaky. Appetite can be low for a day or more.
 
-Mood low.
+Mentally low mood, anxiety and confusion are common, and some people feel strange or unreal for days. Some people feel disconnected from their emotions or surroundings and find it hard to concentrate or remember things. Others feel briefly brighter, then low.
 
-Dependence possible.
+Bladder damage and dependence have been linked to frequent use of ketamine-like analogues. Seek help for bladder pain, blood in urine or lasting psychosis. Avoid driving until fully clear.
 
 Long-acting analogs prolong confusion for many hours.
 

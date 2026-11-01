@@ -48,11 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Nitrous oxide ('laughing gas', 'whippets', 'hippy crack') hits within seconds of inhaling. A rush of tingling warmth floods the body from the chest outward, the limbs feel heavy and numb, and a deep, pulsing 'wah-wah-wah' sound fills the ears as if the world is echoing.
+Nitrous oxide ('laughing gas', 'whippets', 'nos') is a gas that acts within seconds of being breathed in. The first sensation is a rising, buzzing tingle in the lips, fingers and toes, a warm heaviness in the limbs and a rhythmic, pulsing 'wah-wah' sound as hearing distorts and echoes.
 
-Mentally there is a sudden wave of euphoria, giggling and detachment, sometimes with a feeling that something profound is about to be understood.
+Mentally the onset is giddy and dreamlike: laughter bubbles up easily, the world feels distant and funny, and thoughts begin to drift and loop. Some feel a sudden sense of profound insight that evaporates moments later, a hallmark of the gas.
 
-Vision can blur, pulse or tunnel, and balance disappears — people sitting may slump, and standing can lead to falls.
+Breathing it straight from a pressurized canister or tank can freeze the lips and throat and damage the lungs, and breathing it with no fresh air can starve the brain of oxygen. Standing up while inhaling leads to falls and head injuries when the legs give way.
 
 Nitrous oxide is poorly soluble in blood, so it reaches equilibrium in the brain within seconds and leaves just as fast.
 
@@ -64,11 +64,11 @@ A rush of tingling and sound distortion follows.
 
 ### Peak (20-60 s)
 
-The peak is very brief: floating, laughing, sometimes brief dreams or a sense of profound, unrememberable insight. The body feels distant and buzzing.
+At its peak, which lasts only a minute or so, the body can feel weightless or very heavy, sound becomes a deep pulsing drone, vision may blur or tunnel, and coordination is lost. Some people go briefly numb and slump.
 
-Emotionally giddy and euphoric, occasionally confusing or briefly frightening.
+Mentally the peak is a short dissociative dream: the sense of self loosens, the room seems far away, and some people experience vivid fleeting visions or a feeling of touching a great truth. Laughter, confusion and a sense of being unable to finish a thought are common.
 
-Breathing it without enough oxygen can cause fainting, falls and suffocation, especially from bags or masks. Heavy repeated use causes vitamin B12 deficiency and nerve damage with numbness, tingling, weakness and trouble walking.
+Fainting, falls, vomiting while dazed and oxygen deprivation are the main immediate dangers. Using it in cars, near water or with balloons over the face has led to deaths.
 
 At the peak, NMDA blockade and endorphin release give dissociation and pain relief; falls and fainting are the main acute risks.
 
@@ -76,19 +76,19 @@ Using bags, masks, or enclosed spaces has caused deaths by asphyxiation.
 
 ### Plateau (1-2 min)
 
-The effect fades within a minute or two, leaving a lingering buzz and slight dizziness.
+Nitrous oxide has almost no plateau unless it is inhaled repeatedly. With repeated breaths, the body stays tingly, numb and unsteady, the lips may feel cold, and dizziness and headache build. Repeated use keeps oxygen lower and raises the risk of fainting.
 
-Mood returns to normal quickly, which drives repeated cycles.
+Mentally repeated breaths keep a person in a looping, giggly, disconnected state. Some feel the novelty fade and chase the first rush, taking more in quick succession, which mostly adds confusion rather than pleasure.
 
-Repeated use in one session builds headache and nausea and greatly increases nerve-damage risk over time.
+Heavy repeated use inactivates vitamin B12, and over weeks this can damage the spinal cord and nerves, causing numbness, tingling, weak legs and difficulty walking. Hospitals in several countries have reported rising numbers of young people with this nerve damage.
 
 ### Comedown (2-5 min)
 
-The comedown is mild: dizziness, headache and sometimes nausea.
+The effect clears within a few minutes, leaving a light-headed, slightly dazed feeling, sometimes a headache or nausea. After a long session, people may feel tired, cold and wobbly. Some notice a metallic taste.
 
-Mood steady, perhaps a little flat.
+Mentally there is a quick return to normal, sometimes with a vague sense of having forgotten something important or embarrassment about laughing. Insights during the peak rarely survive.
 
-Nerve damage from heavy use can be permanent and is increasingly seen in young people.
+Anyone who notices tingling, numbness, balance problems or weakness after regular use should stop and see a doctor, because B12-related nerve damage can be treated if caught early. Mixing nitrous with alcohol or other depressants adds risk of passing out and vomiting.
 
 Effects end within minutes as the gas is breathed out.
 

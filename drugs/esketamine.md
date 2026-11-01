@@ -48,11 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (minutes)
 
-Esketamine (Spravato), given as a nasal spray in clinics for depression, brings a quick onset of floaty dissociation, tingling and numbness.
+Esketamine (Spravato) is a nasal spray made of one mirror-image half of ketamine, approved for treatment-resistant depression and depression with suicidal thoughts. It is given only in a certified clinic, under observation. Within minutes, many people feel a light, floating tingle, numbness in the mouth and a mild heaviness in the arms and legs.
 
-Mentally a dreamy detachment, sometimes with altered perception of time and space.
+Mentally the onset can feel dreamy and detached: sounds may seem distant or echoing, time stretches, and some people feel slightly unreal or separated from their body. For others it is barely noticeable beyond drowsiness.
 
-Blood pressure rises.
+Blood pressure often rises for an hour or two, which is checked in the clinic. Nausea, dizziness and an odd taste are common.
 
 Esketamine is absorbed through the nasal lining, with peak levels within about 20 to 40 minutes.
 
@@ -64,11 +64,11 @@ Dissociation builds over 15 to 30 minutes.
 
 ### Peak (30-40 min)
 
-At the peak, patients feel disconnected from the body and surroundings.
+At its peak, roughly within the first hour, the body may feel heavy or floaty, coordination is impaired, and some people feel numb, sleepy or nauseated. Patients are kept seated or reclining and are not allowed to drive afterward. Some feel their speech slow and their mouth or tongue go numb.
 
-Emotionally strange, sometimes pleasant, sometimes anxious.
+Mentally there can be marked dissociation: feeling outside one's body, vivid daydreams, distorted sense of time or space, and sometimes anxiety. Many people find it strange but tolerable; some find it pleasant or emotionally meaningful.
 
-Patients are monitored for at least two hours and cannot drive that day.
+Sedation, raised blood pressure and dissociation are why it is restricted. Misuse potential exists, which is why take-home use is not allowed.
 
 At peak, dissociation, dizziness and nausea are common; sedation is monitored.
 
@@ -76,19 +76,19 @@ Antidepressant effects are thought to come from glutamate surges and new synapti
 
 ### Plateau (40-60 min)
 
-The plateau is short.
+The effects wind down over an hour or two in the clinic. Dizziness, drowsiness and mild nausea may linger, and the body slowly regains steadiness. Some still feel slightly drunk or wobbly when standing, and nausea or a mild headache may appear as the dissociation lifts.
 
-Mind slowly returns.
+Mentally the dissociation fades into a quiet, tired calm. Some people notice mood relief within hours to days, part of what makes esketamine valuable in severe depression. Thoughts may feel softer and less heavy, and some patients describe emotional memories surfacing gently. Others simply feel sleepy.
 
-Nausea is common.
+Staff check blood pressure and alertness before release. A ride home is required. Patients usually rest, listen to music or sit quietly while staff monitor them.
 
 ### Comedown (1-2 h)
 
-The comedown is mild tiredness.
+Afterward many people feel tired and may want to sleep, with occasional headache. Some feel slightly foggy or tired into the evening, and a good night's sleep usually clears it.
 
-Mood may improve over following days.
+Mentally there may be a lifting of depression over the following days, though benefits usually need repeated sessions and continuing other treatment. Some feel more hopeful or less weighed down by thoughts; others notice little at first. Suicidal thoughts should always be reported to the care team.
 
-Misuse risk exists.
+Bladder problems and dependence, seen in heavy recreational ketamine use, are a concern but appear uncommon with supervised medical dosing. Doctors also monitor for misuse and for rises in blood pressure over a treatment course.
 
 Most acute effects resolve within two hours.
 

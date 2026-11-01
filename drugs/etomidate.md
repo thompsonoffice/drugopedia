@@ -48,11 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (30-60 s)
 
-Etomidate, an anesthetic, works within seconds with vein pain and brief muscle jerks.
+Etomidate is an intravenous anesthetic used in emergency rooms to put people to sleep quickly without lowering blood pressure much. In recent years, etomidate added to vape liquids ('space oil', 'zombie' vapes) has spread in parts of East and Southeast Asia. Given into a vein, it acts within seconds, often with a brief burning in the arm and twitching of the muscles.
 
-Mentally a fast drop into unconsciousness.
+Mentally the onset is a sudden drop toward sleep. Vaped, people describe a fast, heavy, dreamy dissociation, dizziness, and a feeling of the body becoming far away, followed by confusion.
 
-It is used for emergency intubation.
+Muscle jerks (myoclonus) are a known effect and can look like a seizure. In vapes the amount and purity are unknown, and reports describe people collapsing, losing control of movement or behaving like 'zombies.'
 
 Etomidate reaches the brain within a minute; it keeps blood pressure stable, unlike propofol.
 
@@ -64,11 +64,11 @@ Sedation and muscle jerks.
 
 ### Peak (1-5 min)
 
-At the peak patients are unconscious.
+At its peak in medical use, the person is unconscious with relaxed muscles and fairly stable blood pressure. In vape misuse, people may sway, stagger, twitch and fall, with slurred speech and blank, slow responses. Breathing can slow and the eyes may roll or stare blankly.
 
-No experience is remembered.
+Mentally there is little memory of the peak. Those misusing it report a detached, numbing trance with confusion and loss of time. Some describe a heavy, sinking blackness and later remember little but the first rush.
 
-Vaping etomidate ('space oil') has become a public health concern in parts of Asia, causing tremors, collapse and adrenal suppression.
+Etomidate suppresses the adrenal glands' ability to make cortisol, the body's stress hormone. With repeated use, this can lead to low blood pressure, low sodium, weakness and even life-threatening adrenal crisis.
 
 At the peak, sedation is deep and breathing can stop.
 
@@ -76,19 +76,19 @@ Etomidate blocks 11-beta-hydroxylase, the adrenal enzyme that makes cortisol; re
 
 ### Plateau (3-10 min)
 
-Consciousness returns in minutes.
+Medically the effect is brief, and it is usually given once. Repeated vaping keeps people dizzy, unsteady, twitchy and drowsy, with nausea and vomiting and a risk of falling. Hands may tremble and twitches can continue.
 
-Grogginess lingers.
+Mentally repeated use keeps a person in a foggy, disconnected state, with poor memory and slowed thinking, and craving can drive frequent use throughout the day. Concentration and school or work performance often suffer.
 
-Repeated misuse is dangerous.
+Long-term misuse has been linked to adrenal failure, involuntary movements, psychiatric symptoms and dependence. Medical teams need to know about etomidate use because it changes how they treat low blood pressure.
 
 ### Comedown (under 1 h)
 
-The comedown brings nausea.
+Waking from medical etomidate is fairly quick, sometimes with nausea, vomiting and muscle aches. After vape misuse people may feel weak, faint, nauseated and shaky. Some feel lightheaded on standing, a possible sign of low cortisol, and appetite may be poor.
 
-Mood flat.
+Mentally there can be confusion, low mood, anxiety and strong cravings, especially after frequent use. Sleep can be disrupted and irritability common.
 
-Addiction reported with vaping.
+People who stop after long misuse may need doctors to check and support adrenal function, because sudden adrenal failure can be dangerous. Counseling and addiction services help with the craving. Families can help by watching for fainting, vomiting or extreme weakness.
 
 Its effect ends within minutes after a single dose.
 

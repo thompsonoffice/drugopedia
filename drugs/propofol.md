@@ -48,11 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (30-60 s)
 
-Propofol, a milky-white liquid given by IV only in medical settings, works within seconds. Patients often feel a cool, stinging or burning sensation spreading up the arm from the IV, then a warm, heavy sinking, as if falling backwards into a soft bed.
+Propofol is a milky-white intravenous anesthetic used to put people to sleep for surgery and procedures. Given into a vein, it acts within about the length of a few breaths: there can be a brief sting in the arm, then a warm, heavy, pleasant drowsiness rushing over the body as the room seems to recede.
 
-Mentally many feel a sudden peaceful, euphoric drift before losing consciousness; some find themselves smiling or talking nonsense in the moment before they go under.
+Mentally the onset is a smooth slide toward unconsciousness. Some people feel a brief, intense euphoria or a sense of calm release, and many report pleasant dreams or a feeling of having had a deep, restful sleep. That pleasantness is part of why some healthcare workers have misused it.
 
-Some later recall pleasant, vivid dreams, sometimes of a sexual nature, from light sedation.
+Propofol is used only in monitored settings because breathing can slow or stop within moments and blood pressure can fall. Outside a hospital there is no safe way to use it; the death of Michael Jackson in 2009 is a widely known example of propofol given without proper monitoring.
 
 Propofol is extremely fat-soluble, crossing into the brain within one arm-to-brain circulation time (about 30 seconds).
 
@@ -64,11 +64,11 @@ Breathing slows and blood pressure falls.
 
 ### Peak (1-5 min)
 
-At the peak, patients are unconscious, breathing often slows or stops and needs support, and blood pressure drops.
+At its peak a person is unconscious and unresponsive, with relaxed muscles, slow shallow breathing and lowered blood pressure. Anesthetists support breathing and watch oxygen and heart rhythm continuously.
 
-There is no remembered experience.
+There is no conscious experience at the peak for most people. A few remember dreams, often pleasant, sometimes sexual or vivid. Lighter sedation can leave people dreamy, disinhibited and talkative without later memory. Some describe waking with no sense that any time passed.
 
-Outside monitored settings propofol is deadly because it can stop breathing within moments, as in Michael Jackson's death.
+The main dangers are stopped breathing, airway blockage, low blood pressure and heart rhythm problems. Propofol infusion syndrome, with muscle breakdown and heart failure, can occur with long, high infusions in intensive care.
 
 At the peak, propofol suppresses breathing and airway reflexes; apnea is common at induction, which is why airway equipment and trained staff are required.
 
@@ -76,19 +76,19 @@ Long infusions can cause propofol infusion syndrome (acid build-up, heart failur
 
 ### Plateau (as long as infused)
 
-When the infusion stops, consciousness returns within minutes, faster than with most anesthetics.
+During a procedure, propofol is given continuously to keep a person asleep. The body stays limp and still, breathing is supported or watched closely, and the person feels nothing of the surgery. Body temperature can drift down, so patients are kept warm.
 
-Patients may feel euphoric, chatty, giggly or unusually relaxed as they wake.
+Mentally there is nothing remembered, or perhaps a sense of a pleasant, timeless gap. Those misusing it in short bursts describe chasing the quick dreamy release again and again.
 
-Misuse by healthcare workers has caused many deaths.
+In misuse, the fine line between sedation and stopped breathing is easily crossed, and many healthcare workers who misused it have been found dead with the infusion still running. Treatment programs exist for clinicians with this problem.
 
 ### Comedown (5-10 min)
 
-The comedown is quick and fairly clear, with little hangover compared with older anesthetics.
+Waking from propofol is usually quick and clear, within minutes of stopping. People often feel refreshed, sometimes cold or shivery, with a dry mouth, and occasionally sore at the site where it was given. Nausea is less common than with many other anesthetics.
 
-Mood is often pleasant, sometimes with mild confusion.
+Mentally many people wake feeling calm, sometimes giggly or briefly euphoric, with little hangover compared with older anesthetics. Some feel briefly confused or emotional, especially older adults.
 
-Dependence has been reported among workers with access, often ending in death.
+Because waking is pleasant and quick, compulsive misuse can develop fast among people with access. Any misuse is extremely dangerous and needs confidential professional help. Hospitals now track propofol stocks closely for this reason.
 
 Rapid redistribution to fat ends its effect within minutes.
 
