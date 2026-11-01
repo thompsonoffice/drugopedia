@@ -3,6 +3,7 @@ sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 os.chdir(os.path.dirname(os.path.abspath(__file__))+"/..")
 from gen import *
 from med import expand,VARY
+from touch import touch
 for m in ["data","ph_core","data_rx","data_atyp","data_nso","data_benzo","data_rcbenzo"]:
     try: importlib.import_module(m)
     except ModuleNotFoundError as e:
@@ -39,6 +40,7 @@ for slug,d in D.items():
     s+=f"## History and origins\n\n{d['history']}\n\n## Medical use, then and now\n\n{d['medical']}\n\n"
     if d.get("treatment"): s+=f"## Role in addiction treatment\n\n{d['treatment']}\n\n"
     s+=f"## How it entered recreational use\n\n{d['recreational']}\n\n## Legal status\n\n{d['legal']}\n\n"
+    s+=touch(slug)
     s+=f"## What it feels like\n\n### The character of its effects\n\n"+"\n\n".join(d["flavor"])+f"\n\n{d.get('tol',TOL[b])}\n\n"
     s+=f"### Timeline\n\nTimes below are typical for the {ROUTES[main][0].lower()} route and vary a lot between people. Other routes change the timing; see the route pages.\n\n"
     E=expand(slug,d,b); ph2=list(ph)
@@ -60,7 +62,7 @@ for slug,d in D.items():
         rs=f"# {d['name']}: {ROUTES[r][0]}\n\n{d.get('dis',DIS)}\n\n## About this route\n\n{ROUTES[r][1]} For {d['name']}: {note}\n\n## How this route feels different\n\n{rf+' ' if rf else ''}{ROUTE_FEEL[r] if b=='opioid' else BROUTE.get(r,'')}\n\n## Timeline for this route\n\n"
         rs+=phases("",list(zip(t,short)))
         rs+=f"For the full, detailed description of each phase, see the [general {d['name']} page](../../drugs/{slug}.md).\n\n"
-        rs+=f"## Risks of this route\n\n{RISK[r]}\n\n## Overdose note\n\n{d['od']}\n\n{OD if b=='opioid' else BOD}\nRead more: [{st}](../../safety/{sf})."+(" See also [naloxone (Narcan)](../../narcan/naloxone.md)." if b=='opioid' else '')+f"\n\n## Getting help\n\n{SAMHSA}\n\n"+srcs(d)
+        rs+=f"## Risks of this route\n\n{RISK[r] if b=='opioid' else BRISK[r]}\n\n## Overdose note\n\n{d['od']}\n\n{OD if b=='opioid' else BOD}\nRead more: [{st}](../../safety/{sf})."+(" See also [naloxone (Narcan)](../../narcan/naloxone.md)." if b=='opioid' else '')+f"\n\n## Getting help\n\n{SAMHSA}\n\n"+srcs(d)
         w(f"routes/{r}/{slug}.md",rs)
 print(len(D),"drugs",counts,"route entries")
 ix="# Drugopedia index\n\n## Safety\n\n- [Opioid overdose: what it feels like, looks like, and what to do](safety/opioid-overdose.md)\n- [Xylazine (tranq) safety](safety/xylazine.md)\n\n## Overdose reversal medicines\n\n- [Naloxone (Narcan)](narcan/naloxone.md)\n- [Nalmefene (Opvee)](narcan/nalmefene.md)\n"

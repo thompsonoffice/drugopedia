@@ -24,6 +24,12 @@ Vicodin became a pop-culture name in the 1990s and 2000s (for example in TV's Ho
 
 US Schedule II (all forms since 2014). Not marketed in most of Europe.
 
+## What the pills feel like
+
+Hydrocodone-acetaminophen tablets (Norco and generics) are usually oblong (capsule-shaped) tablets, fairly large because of the acetaminophen, typically with a score line down the middle and a debossed imprint. Hysingla ER is an oblong, film-coated tablet; Zohydro ER is a capsule.
+
+**Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
+
 ## What it feels like
 
 ### The character of its effects

@@ -90,3 +90,9 @@ BROUTE={
 "injected":"Injection is a hospital route for sedation, anesthesia, alcohol withdrawal, and status epilepticus. Effects can begin within a minute, and breathing must be monitored.",
 "inhaled-smoked":"Not a medical route.",
 "transdermal":"Not a medical route."}
+BRISK={"oral":"Slow onset tempts people to take more before the first amount peaks. Long-acting drugs and their metabolites build up over days, especially in older adults, causing falls, confusion, and impaired driving. Counterfeit pills may contain fentanyl or designer benzodiazepines.",
+"sublingual-buccal":"Faster onset than swallowing for some drugs, with a sharper drop in alertness and memory.",
+"intranasal":"Medical sprays are designed for seizures and are safe when used as directed. Snorting pills causes nasal damage, faster sedation, and more blackouts.",
+"rectal":"Used by caregivers for seizures; sedation and slowed breathing must be watched afterward.",
+"injected":"A hospital route. IV benzodiazepines can stop breathing, especially with opioids, so they are given with monitoring. Injecting pills or powders causes vein damage, infections, and gangrene (temazepam gel capsules in the UK caused amputations).",
+"inhaled-smoked":"Not a typical route.","transdermal":"Not a medical route."}

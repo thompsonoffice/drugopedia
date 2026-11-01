@@ -24,6 +24,12 @@ Sold as a 'research chemical' or found in counterfeit pills and powders.
 
 US Schedule II (veterinary).
 
+## What the pills feel like
+
+Forms vary by country and manufacturer; see the brand list above. Ask a pharmacist to describe the product you have.
+
+**Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
+
 ## What it feels like
 
 ### The character of its effects

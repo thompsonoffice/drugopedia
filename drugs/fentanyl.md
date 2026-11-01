@@ -24,6 +24,12 @@ Pharmaceutical fentanyl patches have been diverted and misused since the 1990s. 
 
 US Schedule II. Most analogs are Schedule I, and since 2018 fentanyl-related substances are controlled as a class.
 
+## What the pills feel like
+
+Fentanyl patches are thin, flexible, rectangular or rounded-rectangle adhesive patches sealed in individual pouches; larger patches deliver more drug. Actiq is a solid lozenge on a plastic handle, like a lollipop. Fentora is a flat, round buccal tablet.
+
+**Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
+
 ## What it feels like
 
 ### The character of its effects

@@ -28,6 +28,12 @@ Diverted buprenorphine is mostly used to self-treat withdrawal rather than to ge
 
 US Schedule III. UK Class C.
 
+## What the pills feel like
+
+Suboxone film is a thin, flexible rectangle, about the size of a postage stamp, that sticks to the mouth lining as it dissolves; each film comes in its own child-resistant foil pouch you tear open. Generic buprenorphine and buprenorphine-naloxone tablets are small, flat, and either round or oval, dissolving under the tongue with a gritty, bitter feel. Zubsolv tablets are small with a menthol taste. Butrans is a square-ish skin patch.
+
+**Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
+
 ## What it feels like
 
 ### The character of its effects

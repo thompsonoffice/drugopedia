@@ -24,6 +24,12 @@ Codeine cough syrup mixed with soda, called "lean", "purple drank", or "sizzurp"
 
 US: Schedule II alone; Schedule III in combination tablets; Schedule V in low-strength cough syrups. UK Class B. Available behind the pharmacy counter in some countries.
 
+## What the pills feel like
+
+Acetaminophen-codeine tablets (Tylenol #3 and generics) are usually round, white, fairly large tablets with a debossed imprint. Codeine cough syrups are liquids.
+
+**Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
+
 ## What it feels like
 
 ### The character of its effects

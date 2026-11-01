@@ -24,6 +24,12 @@ OxyContin, nicknamed "hillbilly heroin", spread quickly in Appalachia and rural 
 
 US Schedule II. UK Class A. Controlled internationally.
 
+## What the pills feel like
+
+Immediate-release oxycodone tablets from US generic makers are mostly small, round, flat tablets with a smooth surface, often with a score line across one side and a debossed (pressed-in) imprint you can sometimes feel. OxyContin extended-release tablets are small, round, and film-coated, so they feel slick and harder than ordinary tablets, with no score line. Percocet and its generics are larger, round or oblong tablets, often scored. Oxycodone oral solution is a liquid.
+
+**Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
+
 ## What it feels like
 
 ### The character of its effects
