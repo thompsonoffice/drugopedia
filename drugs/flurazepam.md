@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Flurazepam (Dalmane) is an older sleep benzodiazepine with a very long-acting metabolite. It comes on gradually: shoulders drop, the jaw unclenches and a mild heaviness settles into the limbs.
+Flurazepam (Dalmane) was one of the first benzodiazepines sold purely for sleep, in 1970. Swallowed at bedtime, it comes on over a while as a dense, spreading tiredness: the eyelids feel weighted, the arms grow heavy on the blanket and the body seems to sink into the mattress.
 
-Mentally the onset is heavy and sleepy, less calm-focused than sleep-inducing. Worries recede and the mind becomes slower and quieter.
+Mentally the onset is less about calm than about shutting down. The mind stops chasing the day's thoughts, and people describe a pull toward sleep so strong that staying awake takes effort.
 
-Unsteadiness, slowed reactions and drowsiness start early, even when the person feels only relaxed.
+Its main active product, desalkylflurazepam, lingers for days, so the first night is the lightest it will ever feel; each following night adds to what is already there.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Sleepiness.
 
 ### Peak (1-2 h)
 
-At its peak the body feels loose and heavy, with clumsiness, sometimes slurred speech and a strong pull toward sleep.
+At its peak most people are asleep. Those who stay up feel clumsy, slow-tongued and woozy, with poor balance on the way to the bathroom.
 
-Mentally the peak is calm and detached, with weakened memory for events during this time.
+Mentally the peak is a thick fog; memories of this stretch are faint or absent.
 
-With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
+Alcohol or opioids taken on top can depress breathing dangerously during sleep.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (sleep)
 
-The plateau is very long because the drug and its breakdown products linger for days; with repeated use it builds up. Balance and coordination stay poor.
+The plateau is unusually long: the leftover drug carries into the next day as a low drowsiness, slower reflexes and a heavy, cotton-wool head. Over a week of nightly use this daytime sedation thickens.
 
-Mentally people feel muted and dulled, with poor concentration.
+Mentally people may feel dull, forgetful and less sharp without realizing why; older adults can become confused or unsteady.
 
-Next-day sedation and confusion are common, especially in older adults.
+Falls, hip fractures and car crashes are linked to this hidden carry-over, which is why shorter drugs largely replaced it.
 
 ### Comedown (metabolite lasts days)
 
-The comedown is very gradual, and next-day grogginess is common.
+The comedown after stopping is slow and blurred, because the drug takes days to leave.
 
-Emotionally anxiety may creep back with irritability or flatness.
+Emotionally sleep may become shallow and anxiety may creep in over the following week.
 
-Daily use causes tolerance and dependence; stopping suddenly can cause seizures, so tapering is essential.
+Long nightly use creates dependence; tapering avoids rebound insomnia and, rarely, seizures.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

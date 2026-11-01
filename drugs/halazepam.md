@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-3 h)
 
-Halazepam (Paxipam) was a long-acting anxiety benzodiazepine, now discontinued in the US. It comes on gradually: shoulders drop, the jaw unclenches and a mild heaviness settles into the limbs.
+Halazepam (Paxipam) was a long-acting anxiety benzodiazepine sold in the US until the 2000s. It came on gently as tension slowly drained out of the body.
 
-Mentally the onset is a gradual, gentle calm. Worries recede and the mind becomes slower and quieter.
+Mentally it brought a mild, unhurried calm.
 
-Unsteadiness, slowed reactions and drowsiness start early, even when the person feels only relaxed.
+Like prazepam, it worked mostly through nordazepam.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, a mild starts to appear.
 
 ### Peak (2-4 h)
 
-At its peak the body feels loose and heavy, with clumsiness, sometimes slurred speech and a strong pull toward sleep.
+At its peak mild relaxation and drowsiness.
 
-Mentally the peak is calm and detached, with weakened memory for events during this time.
+Mentally calm with little euphoria.
 
-With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
+Risks rose with alcohol.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau is very long because the drug and its breakdown products linger for days; with repeated use it builds up. Balance and coordination stay poor.
+The plateau stretched over days.
 
-Mentally people feel muted and dulled, with poor concentration.
+Mentally dulled concentration.
 
-It was converted mostly to nordazepam.
+Accumulated in older people.
 
 ### Comedown (1-3 days)
 
-The comedown is very gradual, and next-day grogginess is common.
+The comedown was slow.
 
-Emotionally anxiety may creep back with irritability or flatness.
+Emotionally gradual return of worry.
 
-Daily use causes tolerance and dependence; stopping suddenly can cause seizures, so tapering is essential.
+Dependence possible with long use.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

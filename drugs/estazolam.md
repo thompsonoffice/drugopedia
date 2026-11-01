@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Estazolam (ProSom) is a medium-acting triazolo sleep benzodiazepine. It comes on gradually: shoulders drop, the jaw unclenches and a mild heaviness settles into the limbs.
+Estazolam (ProSom) is a triazolo sleep benzodiazepine, related to alprazolam but used at night. It comes on fairly quickly: a soft warmth behind the eyes, slackening shoulders and a yawning heaviness.
 
-Mentally the onset is a drowsy, drifting calm that eases into sleep. Worries recede and the mind becomes slower and quieter.
+Mentally the onset feels like the edges of thought rounding off; the racing, wired feeling of insomnia smooths into drowsy calm.
 
-Unsteadiness, slowed reactions and drowsiness start early, even when the person feels only relaxed.
+People who stay up after taking it may notice clumsiness and poor judgment early.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Drowsiness.
 
 ### Peak (1-2 h)
 
-At its peak the body feels loose and heavy, with clumsiness, sometimes slurred speech and a strong pull toward sleep.
+At its peak sleep usually takes over. If awake, people feel unsteady and slurred, with a dreamy indifference.
 
-Mentally the peak is calm and detached, with weakened memory for events during this time.
+Mentally there is amnesia for this window; some people have done things like eating or making calls with no memory.
 
-With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
+With alcohol or opioids breathing risk rises sharply.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (sleep)
 
-The plateau lasts several hours of steady sedation. Balance and coordination stay poor.
+The plateau carries through most of the night with deep, unbroken sleep and a relaxed, heavy body.
 
-Mentally people feel muted and dulled, with poor concentration.
+Mentally sleep can feel dreamless; waking at night brings confusion and unsteadiness.
 
-Waking during the night can bring confusion.
+Morning grogginess is mild for most but noticeable in older people.
 
 ### Comedown (8-12 h total)
 
-The comedown is fairly quick, and some notice rebound anxiety or early waking.
+The comedown in the morning is a slightly foggy head and dry mouth that clears over a few hours.
 
-Emotionally anxiety may creep back with irritability or flatness.
+Emotionally some notice mild irritability or anxiety on mornings it wears off fast.
 
-Daily use causes tolerance and dependence; stopping suddenly can cause seizures, so tapering is essential.
+Nightly use builds tolerance; stopping suddenly causes rebound insomnia, so a taper is safer.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

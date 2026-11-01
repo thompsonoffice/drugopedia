@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Bromazepam (Lexotan) is a medium-acting anxiety benzodiazepine popular in Europe. It comes on gradually: shoulders drop, the jaw unclenches and a mild heaviness settles into the limbs.
+Bromazepam (Lexotan, Lexomil) is a medium-acting benzodiazepine popular in Europe for anxiety. It comes on over a short while with a loosening in the neck and stomach and a clear, light relaxation.
 
-Mentally the onset is a clear, relaxed calm with lessened tension. Worries recede and the mind becomes slower and quieter.
+Mentally the onset is often described as tidy: worry shrinks, the chest stops fluttering, but the head stays clearer than with diazepam at lower amounts.
 
-Unsteadiness, slowed reactions and drowsiness start early, even when the person feels only relaxed.
+At higher amounts sleepiness and clumsiness take over.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Calm.
 
 ### Peak (1-2 h)
 
-At its peak the body feels loose and heavy, with clumsiness, sometimes slurred speech and a strong pull toward sleep.
+At its peak muscles are relaxed and the body feels calm and slightly slowed.
 
-Mentally the peak is calm and detached, with weakened memory for events during this time.
+Mentally there is a mild, almost cheerful ease; social anxiety drops. Higher up, disinhibition and memory gaps appear.
 
-With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
+Combining with alcohol is dangerous and common.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau lasts several hours of steady sedation. Balance and coordination stay poor.
+The plateau lasts several hours of steady calm.
 
-Mentally people feel muted and dulled, with poor concentration.
+Mentally people function but are slower and more forgetful.
 
-It can feel less sleepy than diazepam at lower amounts.
+Driving is impaired even when people feel fine.
 
 ### Comedown (8-12 h total)
 
-The comedown is fairly quick, and some notice rebound anxiety or early waking.
+The comedown brings tiredness and sometimes a return of tension.
 
-Emotionally anxiety may creep back with irritability or flatness.
+Emotionally rebound anxiety in the evening is common with regular use.
 
-Daily use causes tolerance and dependence; stopping suddenly can cause seizures, so tapering is essential.
+Dependence develops; stopping should be tapered.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

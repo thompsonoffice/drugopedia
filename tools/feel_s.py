@@ -36,3 +36,57 @@ X["pentazocine"]=(["The plateau lasts a few hours: sleepy, dizzy and heavy, with
 for k,(pl,c) in X.items():
     if k in D and D[k].get("feel"):
         D[k]["feel"]["plateau"]=pl; D[k]["feel"]["comedown"]=c
+
+# ---- Hand-written replacements for rarer prescription benzodiazepines ----
+def H(k,o,p,pl,c):
+    if k in D: D[k]["feel"]={"onset":o,"peak":p,"plateau":pl,"comedown":c}
+H("flurazepam",
+["Flurazepam (Dalmane) was one of the first benzodiazepines sold purely for sleep, in 1970. Swallowed at bedtime, it comes on over a while as a dense, spreading tiredness: the eyelids feel weighted, the arms grow heavy on the blanket and the body seems to sink into the mattress.","Mentally the onset is less about calm than about shutting down. The mind stops chasing the day's thoughts, and people describe a pull toward sleep so strong that staying awake takes effort.","Its main active product, desalkylflurazepam, lingers for days, so the first night is the lightest it will ever feel; each following night adds to what is already there."],
+["At its peak most people are asleep. Those who stay up feel clumsy, slow-tongued and woozy, with poor balance on the way to the bathroom.","Mentally the peak is a thick fog; memories of this stretch are faint or absent.","Alcohol or opioids taken on top can depress breathing dangerously during sleep."],
+["The plateau is unusually long: the leftover drug carries into the next day as a low drowsiness, slower reflexes and a heavy, cotton-wool head. Over a week of nightly use this daytime sedation thickens.","Mentally people may feel dull, forgetful and less sharp without realizing why; older adults can become confused or unsteady.","Falls, hip fractures and car crashes are linked to this hidden carry-over, which is why shorter drugs largely replaced it."],
+["The comedown after stopping is slow and blurred, because the drug takes days to leave.","Emotionally sleep may become shallow and anxiety may creep in over the following week.","Long nightly use creates dependence; tapering avoids rebound insomnia and, rarely, seizures."])
+H("estazolam",
+["Estazolam (ProSom) is a triazolo sleep benzodiazepine, related to alprazolam but used at night. It comes on fairly quickly: a soft warmth behind the eyes, slackening shoulders and a yawning heaviness.","Mentally the onset feels like the edges of thought rounding off; the racing, wired feeling of insomnia smooths into drowsy calm.","People who stay up after taking it may notice clumsiness and poor judgment early."],
+["At its peak sleep usually takes over. If awake, people feel unsteady and slurred, with a dreamy indifference.","Mentally there is amnesia for this window; some people have done things like eating or making calls with no memory.","With alcohol or opioids breathing risk rises sharply."],
+["The plateau carries through most of the night with deep, unbroken sleep and a relaxed, heavy body.","Mentally sleep can feel dreamless; waking at night brings confusion and unsteadiness.","Morning grogginess is mild for most but noticeable in older people."],
+["The comedown in the morning is a slightly foggy head and dry mouth that clears over a few hours.","Emotionally some notice mild irritability or anxiety on mornings it wears off fast.","Nightly use builds tolerance; stopping suddenly causes rebound insomnia, so a taper is safer."])
+H("quazepam",
+["Quazepam (Doral) is a long-acting sleep benzodiazepine that acts most on the receptor subtype linked to sleep. It builds gently: a slow, heavy drowsiness without much of a calm 'buzz'.","Mentally the onset is quiet and sleepy rather than euphoric; thoughts simply grow slow.","Its long-lasting products mean next-day effects are likely."],
+["At its peak deep sleep; if awake, heavy limbs and slurred speech.","Mentally foggy and forgetful.","Breathing risk rises with other depressants."],
+["The plateau extends into the next day as low, steady sleepiness and slowed reactions, building over nights of use.","Mentally people feel dull and less motivated, sometimes without noticing.","Driving the next morning is risky."],
+["The comedown after stopping is slow and soft over days.","Emotionally anxiety and poor sleep may gradually return.","Dependence develops with long use; tapering is advised."])
+H("remimazolam",
+["Remimazolam (Byfavo) is a new intravenous benzodiazepine for procedures like colonoscopy. Because enzymes in the blood break it down quickly, it acts like a light switch. Within a minute or two of the injection, a warm loosening spreads from the chest outward and the eyelids fall.","Mentally fear of the procedure simply evaporates. Patients describe a hazy, peaceful indifference, then nothing.","It is given only with oxygen and monitoring, often alongside an opioid that adds to breathing suppression."],
+["At its peak the patient is sedated, breathing slower, muscles slack, sometimes still responsive to voice.","Mentally there is little awareness and almost no memory.","Flumazenil can reverse it if needed."],
+["The plateau lasts only as long as doses continue; it does not build up much.","Mentally patients hover in a calm twilight.","Blood pressure and breathing are watched throughout."],
+["Recovery is fast: within minutes patients wake, often clearer than with midazolam.","Emotionally they may feel relaxed, a little groggy or puzzled about lost time.","There is essentially no outpatient or recreational use."])
+H("nitrazepam",
+["Nitrazepam (Mogadon) is a long-acting sleep benzodiazepine used in the UK, Europe and Australia, and also for some childhood epilepsies. It comes on gradually: a drawing heaviness in the limbs, a slow blink and an urge to lie down.","Mentally it is sleepy more than soothing; the mind slows and drifts.","Its long half-life sets up next-day hangover."],
+["At its peak sleep is heavy; awake, people stagger and slur.","Mentally foggy with strong amnesia.","Dangerous with alcohol and opioids."],
+["The plateau carries into the next day as a sluggish, heavy feeling, dulled thinking and poor coordination, especially in older people.","Mentally people may feel blunted and low.","Falls and confusion are a known risk in the elderly."],
+["The comedown after stopping is long and fuzzy.","Emotionally sleep and mood can wobble for weeks.","Nightly users should taper with a doctor."])
+H("bromazepam",
+["Bromazepam (Lexotan, Lexomil) is a medium-acting benzodiazepine popular in Europe for anxiety. It comes on over a short while with a loosening in the neck and stomach and a clear, light relaxation.","Mentally the onset is often described as tidy: worry shrinks, the chest stops fluttering, but the head stays clearer than with diazepam at lower amounts.","At higher amounts sleepiness and clumsiness take over."],
+["At its peak muscles are relaxed and the body feels calm and slightly slowed.","Mentally there is a mild, almost cheerful ease; social anxiety drops. Higher up, disinhibition and memory gaps appear.","Combining with alcohol is dangerous and common."],
+["The plateau lasts several hours of steady calm.","Mentally people function but are slower and more forgetful.","Driving is impaired even when people feel fine."],
+["The comedown brings tiredness and sometimes a return of tension.","Emotionally rebound anxiety in the evening is common with regular use.","Dependence develops; stopping should be tapered."])
+H("lormetazepam",
+["Lormetazepam (Noctamid) is a short-to-medium sleep benzodiazepine in Europe, also given by injection before anesthesia in Germany. It comes on quickly with a soft heaviness and sleepy calm.","Mentally thoughts soften and slow, drifting toward sleep.","Its moderate length means less hangover than older sleep benzos."],
+["At its peak sleep; awake, unsteady and dreamy.","Mentally hazy with amnesia.","Risky with alcohol."],
+["The plateau lasts through much of the night.","Mentally sleep or fog.","Morning effects are usually mild."],
+["The comedown is light: a slightly cloudy morning.","Emotionally some notice early-waking anxiety.","Tolerance builds with nightly use."])
+H("prazepam",
+["Prazepam (Centrax) is a prodrug: the liver slowly turns it into nordazepam. So its onset is the slowest of the common benzos, a calm that arrives quietly over hours rather than a drop.","Mentally there is almost no 'hit'; people notice later that they have stopped worrying.","This slow start made it less attractive for misuse."],
+["The peak is broad and gentle: relaxed muscles, mild sleepiness.","Mentally even and calm.","Still dangerous with other depressants."],
+["The plateau lasts days as nordazepam lingers.","Mentally a steady dullness and weaker memory.","Builds up in older adults."],
+["The comedown is very gradual.","Emotionally anxiety returns slowly.","Dependence with long use."])
+H("halazepam",
+["Halazepam (Paxipam) was a long-acting anxiety benzodiazepine sold in the US until the 2000s. It came on gently as tension slowly drained out of the body.","Mentally it brought a mild, unhurried calm.","Like prazepam, it worked mostly through nordazepam."],
+["At its peak mild relaxation and drowsiness.","Mentally calm with little euphoria.","Risks rose with alcohol."],
+["The plateau stretched over days.","Mentally dulled concentration.","Accumulated in older people."],
+["The comedown was slow.","Emotionally gradual return of worry.","Dependence possible with long use."])
+H("camazepam",
+["Camazepam is a benzodiazepine used in Italy and a few other countries, related to temazepam. It comes on over a while with gentle relaxation and less heaviness than most.","Mentally people describe a clear-headed easing of anxiety; studies found less impairment of memory and attention than diazepam.","Sleepiness still appears at higher amounts."],
+["At its peak calm and relaxed with light drowsiness.","Mentally steady and focused.","Combining with depressants remains dangerous."],
+["The plateau lasts several hours as it converts partly to temazepam.","Mentally mild slowing.","Driving is still impaired."],
+["The comedown is soft.","Emotionally mild rebound tension.","Dependence possible."])

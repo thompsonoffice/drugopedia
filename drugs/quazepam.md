@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Quazepam (Doral) is a long-acting sleep benzodiazepine. It comes on gradually: shoulders drop, the jaw unclenches and a mild heaviness settles into the limbs.
+Quazepam (Doral) is a long-acting sleep benzodiazepine that acts most on the receptor subtype linked to sleep. It builds gently: a slow, heavy drowsiness without much of a calm 'buzz'.
 
-Mentally the onset is a slow, heavy drowsiness. Worries recede and the mind becomes slower and quieter.
+Mentally the onset is quiet and sleepy rather than euphoric; thoughts simply grow slow.
 
-Unsteadiness, slowed reactions and drowsiness start early, even when the person feels only relaxed.
+Its long-lasting products mean next-day effects are likely.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Drowsiness.
 
 ### Peak (about 2 h)
 
-At its peak the body feels loose and heavy, with clumsiness, sometimes slurred speech and a strong pull toward sleep.
+At its peak deep sleep; if awake, heavy limbs and slurred speech.
 
-Mentally the peak is calm and detached, with weakened memory for events during this time.
+Mentally foggy and forgetful.
 
-With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
+Breathing risk rises with other depressants.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (sleep)
 
-The plateau is very long because the drug and its breakdown products linger for days; with repeated use it builds up. Balance and coordination stay poor.
+The plateau extends into the next day as low, steady sleepiness and slowed reactions, building over nights of use.
 
-Mentally people feel muted and dulled, with poor concentration.
+Mentally people feel dull and less motivated, sometimes without noticing.
 
-Accumulation can cause daytime sleepiness.
+Driving the next morning is risky.
 
 ### Comedown (very long)
 
-The comedown is very gradual, and next-day grogginess is common.
+The comedown after stopping is slow and soft over days.
 
-Emotionally anxiety may creep back with irritability or flatness.
+Emotionally anxiety and poor sleep may gradually return.
 
-Daily use causes tolerance and dependence; stopping suddenly can cause seizures, so tapering is essential.
+Dependence develops with long use; tapering is advised.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

@@ -48,11 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (1-2 min)
 
-Remimazolam (Byfavo) is a new ultra-short intravenous benzodiazepine used for procedural sedation, broken down rapidly in the blood. It comes on quickly: muscles loosen, eyelids grow heavy and a warm drowsiness spreads.
+Remimazolam (Byfavo) is a new intravenous benzodiazepine for procedures like colonoscopy. Because enzymes in the blood break it down quickly, it acts like a light switch. Within a minute or two of the injection, a warm loosening spreads from the chest outward and the eyelids fall.
 
-Mentally the onset is a quick, hazy calm that slides into sedation within minutes. Worries recede and the mind becomes slower and quieter.
+Mentally fear of the procedure simply evaporates. Patients describe a hazy, peaceful indifference, then nothing.
 
-Unsteadiness, slowed reactions and drowsiness start early, even when the person feels only relaxed.
+It is given only with oxygen and monitoring, often alongside an opioid that adds to breathing suppression.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Immediate.
 
 ### Peak (within minutes)
 
-At its peak the body feels loose and heavy, with clumsiness, sometimes slurred speech and a strong pull toward sleep.
+At its peak the patient is sedated, breathing slower, muscles slack, sometimes still responsive to voice.
 
-Mentally the peak is calm and detached, with weakened memory for events during this time.
+Mentally there is little awareness and almost no memory.
 
-With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
+Flumazenil can reverse it if needed.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (only while given)
 
-The plateau is short, a few hours, ending before morning when used for sleep. Balance and coordination stay poor.
+The plateau lasts only as long as doses continue; it does not build up much.
 
-Mentally people feel muted and dulled, with poor concentration.
+Mentally patients hover in a calm twilight.
 
-It is used only with monitoring, and patients usually recover quickly.
+Blood pressure and breathing are watched throughout.
 
 ### Comedown (10-20 min after stopping)
 
-The comedown is fairly quick, and some notice rebound anxiety or early waking.
+Recovery is fast: within minutes patients wake, often clearer than with midazolam.
 
-Emotionally anxiety may creep back with irritability or flatness.
+Emotionally they may feel relaxed, a little groggy or puzzled about lost time.
 
-Daily use causes tolerance and dependence; stopping suddenly can cause seizures, so tapering is essential.
+There is essentially no outpatient or recreational use.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

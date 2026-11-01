@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Nitrazepam (Mogadon) is a long-acting sleep benzodiazepine used in the UK and elsewhere. It comes on gradually: shoulders drop, the jaw unclenches and a mild heaviness settles into the limbs.
+Nitrazepam (Mogadon) is a long-acting sleep benzodiazepine used in the UK, Europe and Australia, and also for some childhood epilepsies. It comes on gradually: a drawing heaviness in the limbs, a slow blink and an urge to lie down.
 
-Mentally the onset is a heavy, sleepy calm. Worries recede and the mind becomes slower and quieter.
+Mentally it is sleepy more than soothing; the mind slows and drifts.
 
-Unsteadiness, slowed reactions and drowsiness start early, even when the person feels only relaxed.
+Its long half-life sets up next-day hangover.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Drowsiness.
 
 ### Peak (about 2 h)
 
-At its peak the body feels loose and heavy, with clumsiness, sometimes slurred speech and a strong pull toward sleep.
+At its peak sleep is heavy; awake, people stagger and slur.
 
-Mentally the peak is calm and detached, with weakened memory for events during this time.
+Mentally foggy with strong amnesia.
 
-With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
+Dangerous with alcohol and opioids.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (sleep)
 
-The plateau is very long because the drug and its breakdown products linger for days; with repeated use it builds up. Balance and coordination stay poor.
+The plateau carries into the next day as a sluggish, heavy feeling, dulled thinking and poor coordination, especially in older people.
 
-Mentally people feel muted and dulled, with poor concentration.
+Mentally people may feel blunted and low.
 
-Hangover sedation the next day is common.
+Falls and confusion are a known risk in the elderly.
 
 ### Comedown (long)
 
-The comedown is very gradual, and next-day grogginess is common.
+The comedown after stopping is long and fuzzy.
 
-Emotionally anxiety may creep back with irritability or flatness.
+Emotionally sleep and mood can wobble for weeks.
 
-Daily use causes tolerance and dependence; stopping suddenly can cause seizures, so tapering is essential.
+Nightly users should taper with a doctor.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

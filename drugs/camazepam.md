@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-Camazepam is a medium-acting benzodiazepine used in some European countries. It comes on gradually: shoulders drop, the jaw unclenches and a mild heaviness settles into the limbs.
+Camazepam is a benzodiazepine used in Italy and a few other countries, related to temazepam. It comes on over a while with gentle relaxation and less heaviness than most.
 
-Mentally the onset is a mild, clear calm with less sleepiness. Worries recede and the mind becomes slower and quieter.
+Mentally people describe a clear-headed easing of anxiety; studies found less impairment of memory and attention than diazepam.
 
-Unsteadiness, slowed reactions and drowsiness start early, even when the person feels only relaxed.
+Sleepiness still appears at higher amounts.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, a light starts to appear.
 
 ### Peak (1-3 h)
 
-At its peak the body feels loose and heavy, with clumsiness, sometimes slurred speech and a strong pull toward sleep.
+At its peak calm and relaxed with light drowsiness.
 
-Mentally the peak is calm and detached, with weakened memory for events during this time.
+Mentally steady and focused.
 
-With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
+Combining with depressants remains dangerous.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau lasts several hours of steady sedation. Balance and coordination stay poor.
+The plateau lasts several hours as it converts partly to temazepam.
 
-Mentally people feel muted and dulled, with poor concentration.
+Mentally mild slowing.
 
-It is reported to cause less impairment than many benzos.
+Driving is still impaired.
 
 ### Comedown (10-20 h)
 
-The comedown is fairly quick, and some notice rebound anxiety or early waking.
+The comedown is soft.
 
-Emotionally anxiety may creep back with irritability or flatness.
+Emotionally mild rebound tension.
 
-Daily use causes tolerance and dependence; stopping suddenly can cause seizures, so tapering is essential.
+Dependence possible.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
