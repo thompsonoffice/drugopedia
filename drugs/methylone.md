@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-Methylone (bk-MDMA), often sold as 'Molly' in the 2010s, is the cathinone closest to MDMA in feel. It comes on over half an hour or so with a gentle, warm rush, light nausea, mild jaw tension and a growing sense of energy. The body warms and pupils widen, but the physical push is usually less intense than mephedrone.
+Methylone (bk-MDMA, sold as 'M1' or passed off as 'molly') is a cathinone built like MDMA with one extra oxygen. Swallowed, it comes on faster than MDMA, often in under an hour: a warm, rising tingle through the body, a quickening heart, widening pupils and a slight clench in the jaw.
 
-Mentally the onset brings a soft, upbeat, sociable lift — friendly and open, but often described as a 'lighter' or more stimulant-flavored MDMA with less depth of emotional warmth.
+Mentally the onset is an upwelling of happiness and sociability that people compare to a lighter, shorter, more stimulating MDMA. Music feels appealing, conversation comes easily and anxiety drops.
 
-Some feel slight restlessness, sweating and a faster heartbeat.
+Because it is often sold as MDMA, people may not know what they took, and the shorter, shallower effect tempts redosing, which raises the risk of overheating and heart strain.
 
 Methylone releases serotonin, dopamine and noradrenaline, but less potently than MDMA.
 
@@ -64,11 +64,11 @@ A quick rise of energy and mild euphoria.
 
 ### Peak (1-1.5 h)
 
-At the peak, methylone produces clear-headed euphoria, energy, talkativeness and a mild empathic warmth. Music feels good and dancing comes easily, but the deep 'loved-up' feeling of MDMA is usually weaker.
+At its peak the body is energized and warm, with sweating, a fast pulse, jaw tension and teeth grinding, and sometimes nausea. Touch feels pleasant, but there is less of the melting body-high of MDMA. Body temperature rises, especially when dancing in hot rooms, and some feel flushed.
 
-Emotionally it is cheerful and sociable. Because it is shorter than MDMA, people often re-dose to stretch it, which pushes it toward a more stimulant, jittery feel.
+Mentally there is euphoria, warmth toward others and talkativeness, mixed with a more clear-headed, stimulant buzz. Some feel a background nervousness rather than full openness. Many describe it as more 'talky' than 'huggy'.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids. People who believe they took MDMA may combine it unknowingly with other drugs.
+Overheating, very low blood sodium from drinking too much water, high blood pressure and serotonin toxicity (especially with antidepressants or other drugs) are the main dangers.
 
 At peak, overheating and low sodium are the main dangers.
 
@@ -76,19 +76,19 @@ Redosing increases risk.
 
 ### Plateau (2-3 h)
 
-The plateau is moderate, a few hours of steady, upbeat energy.
+The plateau is fairly short, an hour or two, and the body stays wired, hot and thirsty. Repeated redosing keeps the heart racing and the jaw sore. Nausea may return, and the jaw and tongue can become sore from clenching and chewing. Sweat may soak clothing, and some people shiver despite feeling hot.
 
-Mood stays friendly, with fading warmth and creeping restlessness.
+Mentally the warmth thins into restless energy and an urge to keep the night going, with less emotional depth each time. Conversations can loop, and some feel let down that the warmth was not deeper.
 
-Overheating and dehydration are real risks during long dancing sessions.
+Signs like confusion, very high temperature, muscle rigidity or seizures need emergency care. Drinking small amounts of water steadily, resting and cooling off reduce risk.
 
 ### Comedown (3-5 h)
 
-The comedown is milder than mephedrone's for many people, but brings tiredness, jaw soreness and trouble sleeping.
+The comedown brings tiredness, aching jaw and muscles, poor sleep and dehydration. Some feel achy and drained the next day, with poor appetite and a sore jaw. Some notice tender muscles from hours of dancing and clenching.
 
-Mood may dip the next day, with flatness or irritability.
+Emotionally people may feel low, anxious and irritable for a day or two, though often less severely than after heavy MDMA use. Concentration can feel fuzzy and sleep may be shallow. A short-lived sadness, sometimes called a 'Tuesday blues,' can appear midweek.
 
-Repeated use can cause dependence and next-day depression, and deaths have occurred, especially in hot clubs.
+Frequent use can lead to compulsive redosing and low mood between uses; spacing and avoiding mixing with other stimulants or alcohol reduce harm. Taking it with antidepressants, tramadol or other serotonin drugs is especially risky.
 
 Half-life is short.
 

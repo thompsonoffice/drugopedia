@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Eutylone (bk-EBDB) became one of the most common substances found in fake 'Molly' and ecstasy around 2019–2021. Its onset is often deceptively mild: a slow rise of energy, a slight tingle and warmth, which leads people to think the drug is weak and take more.
+Eutylone (bk-EBDB) is a cathinone that, from around 2019 to 2021, was one of the most common substances found in pills and powders sold as MDMA in the US. Swallowed, it comes on over a short while with a stimulating rush, faster heart, wide pupils and a clenched jaw. Some feel nauseated early and notice cold hands and feet. Some feel their pulse in their temples.
 
-Mentally the onset brings stimulation more than empathy: alertness, talkativeness and restlessness, with only a faint version of MDMA's warmth.
+Mentally the onset is an energetic, talkative euphoria with some warmth, but less of MDMA's emotional openness; many describe it as 'speedy' and less satisfying.
 
-Heart rate climbs and the jaw tightens as it builds.
+Because buyers usually expected MDMA, the weaker emotional effect often led to redosing, which drives insomnia, overheating and anxiety.
 
 Eutylone blocks dopamine and noradrenaline reuptake and releases some serotonin.
 
@@ -64,11 +64,11 @@ Stimulation rises faster than euphoria.
 
 ### Peak (1-2 h)
 
-At the peak eutylone produces stimulant euphoria and drive, with racing thoughts and a strong urge to keep going. Some feel a mild loving glow; many feel wired, sweaty and edgy.
+At its peak the body is wired and hot, with sweating, teeth grinding, a pounding pulse and restlessness that makes it hard to sit still. Body temperature climbs, and dancing in hot rooms adds to overheating; muscles may twitch. The jaw may ache from clenching, and the mouth becomes very dry.
 
-Emotionally it can turn anxious or agitated, and insomnia is very common. People who expected MDMA are often disappointed and confused by the experience.
+Mentally there is stimulation and some euphoria mixed with jittery nervousness; long-lasting wakefulness is typical. Many people feel unsettled that it does not feel like they expected, and anxiety grows. Some people pace or fidget constantly and can't finish a conversation.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids. Re-dosing because it 'didn't work' is a key danger.
+Agitation, paranoia, seizures, overheating and heart problems have been reported, especially at higher amounts or with redosing.
 
 At peak, agitation, overheating and seizures are reported in emergency cases.
 
@@ -76,19 +76,19 @@ Toxicity often followed redosing.
 
 ### Plateau (3-6 h)
 
-The plateau is long and wired, lasting much of the night.
+The plateau is long and stimulating, with wakefulness that lasts well past the pleasant effects. The body stays tense, dehydrated and unable to rest. Jaw clenching continues, the mouth stays dry and heart rate remains high hours later. Some feel cold and shaky despite the sweating.
 
-Mood becomes restless, anxious and sometimes paranoid.
+Mentally the warmth fades into anxious alertness, racing thoughts and irritability; some people become paranoid or confused after many hours awake. Some people hear things or feel watched late in the night. Thoughts may race from topic to topic without settling.
 
-Sleep can be impossible for many hours.
+Sleep may be impossible for many hours, which greatly worsens the next day. Alcohol or other stimulants taken to 'boost' it add danger.
 
 ### Comedown (6-12 h)
 
-The comedown brings exhaustion, insomnia and jitters that can last into the next day.
+The comedown brings exhaustion, soreness, headache and broken sleep. Some feel achy, headachy and feverish-seeming the next day, with poor appetite. Muscles may feel tight and sore and the jaw tender, and eating may feel like a chore.
 
-Mood low, irritable and anxious.
+Emotionally low mood, anxiety and irritability can last days. Concentration and memory can feel foggy for a day or two. Some feel teary, irritable or anxious without clear reason.
 
-Repeated heavy use is linked to psychosis, seizures and deaths.
+Drug-checking services and test kits can help people identify eutylone in supposed MDMA and avoid unwanted effects. Avoid redosing and mixing with other drugs, and rest and rehydrate afterward. Drug-checking services can confirm what a pill contains.
 
 Effects last longer than methylone.
 

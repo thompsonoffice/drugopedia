@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-45 min)
 
-3-MMC (3-methylmethcathinone), sold widely in Europe and especially the Netherlands as a mephedrone replacement, comes on smoothly with warmth, a light body tingle and a gentle surge of energy. The jaw tightens less than with mephedrone, and the physical rush is softer.
+3-MMC (3-methylmethcathinone) is a cathinone closely related to mephedrone that became popular in parts of Europe, especially the Netherlands and in chemsex settings, after mephedrone was banned. Swallowed or snorted, it comes on fairly quickly with a warm rush, a racing heart, widened pupils and a tingle across the scalp and arms.
 
-Mentally the onset feels social and flirtatious: confident, talkative and affectionate, with a stimulating, slightly sexy edge. Many describe it as less euphoric but more functional than mephedrone, and it is widely used in 'chemsex' contexts.
+Mentally the onset is a bright, social euphoria: people feel talkative, affectionate and confident, with a desire for touch and closeness, somewhere between mephedrone and a mild MDMA.
 
-Pupils widen and the heart rate rises; some feel an urge to keep moving.
+As with mephedrone, the high fades quickly and the urge to take more appears early; cold fingers and a tight chest can come from narrowed blood vessels.
 
 3-MMC releases dopamine and noradrenaline more than serotonin.
 
@@ -64,11 +64,11 @@ Sociability and energy rise.
 
 ### Peak (about 1 h)
 
-At the peak 3-MMC brings steady stimulation, mild euphoria and heightened sociability and sexual interest. The body feels light and energetic, with sweating and restlessness.
+At its peak the body feels hot, energized and restless, with sweating, jaw clenching, a pounding pulse and little appetite or thirst awareness. Arousal is often increased, which links it to sexual settings. Some feel a warm flush in the face and a fluttering in the chest. Some notice a blotchy rash or red skin on the chest and neck.
 
-Emotionally upbeat, open and confident. As the peak fades, the urge to re-dose builds, and repeated doses through the night are common.
+Mentally the peak is warm, uninhibited and chatty, with a stimulant clarity. Judgment about safety, consent and safer sex can slip. Touch and closeness can feel very appealing.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids. Combining with GHB, a common pairing, adds unpredictable sedation on top.
+Repeated doses raise risks of overheating, heart rhythm problems, high blood pressure and agitation; combining with GHB, alcohol or other stimulants adds danger.
 
 At peak, agitation and overheating are possible.
 
@@ -76,19 +76,19 @@ Repeated use is linked to compulsive redosing.
 
 ### Plateau (2-3 h)
 
-The plateau is short-to-moderate, often stretched by re-dosing.
+The plateau is short per dose, so sessions often become long chains of redosing that run through the night. The body becomes increasingly dehydrated, tense and exhausted. The nose may become sore and blocked if snorted, and fingers can feel cold. Blood pressure stays high and the heart may skip.
 
-Mood shifts from warm to wired, with anxiety and craving growing as sleep is lost.
+Mentally the euphoria wears thin and is replaced by restlessness, anxiety and compulsive focus on the next dose; paranoia can develop after long sessions without sleep. Anxiety and irritability can surface between redoses.
 
-Long sessions risk dehydration, heart strain, and sexual-health harms.
+Anyone with chest pain, very high temperature, confusion or a seizure needs emergency help. Going many hours without water, food or sleep compounds risks.
 
 ### Comedown (3-5 h)
 
-The comedown brings tiredness, insomnia, irritability and low mood.
+The comedown brings deep fatigue, aching muscles, a sore jaw, insomnia and sometimes heart palpitations. Some people also feel chest tightness, headache and a sore, raw nose. Sleep may be impossible for many hours even when exhausted, and the next day feels broken.
 
-Emotionally people may feel empty or anxious for a day or two.
+Emotionally it can be bleak, with low mood, anxiety and strong cravings lasting days. Feelings of shame, loneliness or emptiness can be strong after long sessions. Some people feel isolated and craving at the same time.
 
-Regular use can build dependence, and deaths have been reported, usually in combination with other substances.
+Regular use quickly leads to compulsive patterns; sexual health and drug services that understand chemsex can offer nonjudgmental help. Testing for sexually transmitted infections afterward is wise if sex happened.
 
 Half-life is short.
 

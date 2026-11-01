@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Khat leaves, chewed traditionally in East Africa and Yemen, bring a slow, mild lift of energy and talkativeness.
+Khat is a leafy shrub chewed for hours in East Africa and Yemen, and its main stimulant, cathinone, is released slowly as the fresh leaves are chewed and held in the cheek. The onset is gradual and social: over the first stretch of a chewing session a warmth spreads through the chest, the heart picks up, the mouth dries and the jaw works steadily as a bitter, green taste fills the mouth.
 
-Mentally sociable, alert and euphoric.
+Mentally the onset is a talkative, upbeat alertness. Conversation flows, ideas seem interesting and people feel friendly and confident; many describe it as a milder, slower relative of amphetamine shaped by the group setting of the chew.
 
-Appetite drops.
+Cathinone breaks down quickly once leaves wilt, which is why fresh khat matters to users. Constipation, a dry mouth and a slightly racing heart are common early physical effects, and the long chewing can irritate the gums.
 
 Cathinone is absorbed through the mouth lining during chewing.
 
@@ -64,11 +64,11 @@ Gradual alertness.
 
 ### Peak (1-2 h)
 
-At the peak, chatty and energized.
+At its peak the body feels energized and warm, with a faster pulse, higher blood pressure, wide pupils, reduced appetite and sometimes sweating and a slight tremor. Sitting for hours while chewing can cause stiffness and dehydration.
 
-Emotionally euphoric; at the end, sometimes irritable.
+Mentally there is euphoria, sociability and a sense of clarity, with lively discussion and a feeling of connection. Some people grow introspective and dreamy toward the end of the peak, a phase often described as quiet contemplation after the chatty stretch.
 
-Long-term heavy use is linked to mouth disease, heart problems and psychosis.
+Heavy chewing raises the risk of high blood pressure, heart attack and, in vulnerable people, mania or psychosis. Long-term use is linked to mouth cancers, liver injury and constipation.
 
 At peak, mild euphoria and talkativeness; heavy use can trigger psychosis.
 
@@ -76,19 +76,19 @@ Long-term use is linked to heart attack, liver injury and oral cancers.
 
 ### Plateau (3-4 h)
 
-The plateau is a long social session.
+The plateau stretches as long as chewing continues, often several hours. The body stays mildly wired, with a dry mouth, sleepiness held at bay and appetite suppressed, and sessions often run late into the evening. Legs may feel restless after long sitting, and the cheek holding the leaves can feel numb or sore.
 
-Mood upbeat.
+Mentally the mood slowly turns from talkative to reflective; some feel calm and thoughtful, others restless, irritable or anxious, especially if they keep chewing past the pleasant phase. Conversation may slow into long silences, and some chewers feel a gentle melancholy settle in.
 
-Sleep difficult.
+Insomnia is common because effects continue after the session ends, and the following day can be lost to tiredness. Heavy users may chew daily, losing evenings and sleep on a regular basis.
 
 ### Comedown (4-6 h)
 
-The comedown brings lethargy and low mood.
+As the stimulant fades, the body feels heavy, tired and sometimes achy, and sleep is hard to reach despite fatigue. Constipation can persist. Some describe a 'khat hangover' with headache, sluggishness and difficulty getting up the next morning.
 
-Mood irritable.
+Emotionally the comedown often brings a low, flat or irritable mood, sometimes with guilt about lost time or money, and a pull toward the next session. Sleep may come late and be shallow, leaving people irritable.
 
-Dependence possible.
+Daily use can cause psychological dependence, with lethargy, low mood and craving on stopping. Family strain and financial costs are common concerns in communities where it is widespread. Cutting down gradually and replacing the social ritual with other gatherings helps many people.
 
 Cathinone is quickly converted to cathine and norephedrine, which are weaker.
 

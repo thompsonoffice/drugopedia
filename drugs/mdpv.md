@@ -48,11 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (5-15 min)
 
-MDPV (a classic 'bath salt') hits quickly with intense energy, a pounding heart and tension.
+MDPV (methylenedioxypyrovalerone) was one of the main ingredients in 'bath salts' around 2010 to 2012. It is a powerful dopamine and noradrenaline reuptake blocker, much stronger than cocaine in lab studies. Snorted or swallowed, it comes on quickly with a surge of heat, a racing heart, widened pupils and tense, twitchy muscles. Skin may flush and feel hot to the touch. Some feel an immediate tightness in the chest and jaw.
 
-Mentally euphoric and hyper-focused, quickly turning compulsive.
+Mentally the onset is an intense, focused euphoria and arousal, with racing thoughts and a strong compulsion to keep using.
 
-Body temperature climbs.
+Even small differences in amount make a big difference, and the urge to redose is extreme; overheating and agitation can come on fast.
 
 MDPV is very lipophilic and strongly blocks dopamine and noradrenaline reuptake.
 
@@ -64,11 +64,11 @@ A steep rise in energy.
 
 ### Peak (1-2 h)
 
-At the peak, extreme stimulation, sometimes with strong sexual arousal and compulsive behavior.
+At its peak the body is extremely stimulated: very fast heart, high blood pressure, sweating, clenched jaw, tremor and sometimes muscle spasms. Sleep and food become irrelevant. Some feel their heart thumping painfully and notice their jaw locking tightly.
 
-Emotionally the edge can tip into paranoia, hallucinations and violent agitation ('excited delirium').
+Mentally there can be euphoria, hypersexuality and intense focus, but this often turns into agitation, paranoia, panic and hallucinations, especially with repeated dosing or sleep loss. Strangers can seem threatening and people may feel hunted.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
+Severe cases include 'excited delirium', with extreme agitation, very high body temperature, muscle breakdown, kidney failure and death. Emergency care is urgent.
 
 At peak, MDPV is linked to excited delirium, hyperthermia, rhabdomyolysis and death.
 
@@ -76,19 +76,19 @@ Animal studies show MDPV is more reinforcing than cocaine.
 
 ### Plateau (2-4 h)
 
-The plateau is long and wired.
+The plateau is long, several hours, and binges can last days. The body stays overheated, dehydrated and exhausted, yet unable to rest. Muscles may ache and cramp, and urination can become dark and scanty, a sign of muscle breakdown. Body heat may stay dangerously high for hours.
 
-Craving intense.
+Mentally paranoia, suspicion, hearing voices and violent or self-harming behavior can emerge, sometimes persisting after the drug fades. Long binges can cause frightening delusions such as being followed or that bugs are under the skin.
 
-Days without sleep can cause psychosis.
+Calm, cool surroundings and prompt medical help are critical. Never leave someone in this state alone. Cooling the body and getting emergency care can save a life.
 
 ### Comedown (4-8 h)
 
-The comedown is a deep crash with depression.
+The comedown is severe: deep exhaustion, aches, broken sleep and sometimes lingering palpitations. Sleep may come in long, heavy stretches, followed by days of tiredness and low appetite. Some notice tremors and headaches for days. Appetite returns slowly, and weakness lingers.
 
-Mood very low, sometimes suicidal.
+Emotionally intense depression, anxiety and cravings, sometimes with suicidal thoughts or persistent psychosis. Memory gaps and confusion about what happened are common. Anger or tearfulness can come on suddenly.
 
-Addiction is severe.
+Dependence develops rapidly; treatment and mental-health support are important. Relapse is common without ongoing support. Family support helps recovery. Specialist stimulant programs can help.
 
 Half-life of several hours.
 

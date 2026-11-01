@@ -48,11 +48,11 @@ Times below are typical for the intranasal (nasal sprays and snorting) route and
 
 ### Onset (5-20 min)
 
-Other cathinones (like N-ethylpentylone, 4-MEC, pentedrone) vary, but most bring a quick rise of energy and euphoria.
+'Other cathinones' covers dozens of related stimulants sold as bath salts, plant food, research chemicals or fake MDMA, such as pentedrone, 4-MEC, N-ethylpentylone, 4-CMC and hexen. Their onsets range from a mild, mephedrone-like warmth to a sharp, MDPV-like rush, with a racing heart, wide pupils and jaw tension. Some feel cold hands and nausea early. Some feel jittery, flushed or slightly dizzy from the start.
 
-Mentally sociable and stimulated.
+Mentally most bring stimulation and some euphoria, with sociability or focus; some lean empathic, others purely speedy and anxious.
 
-Heart rate climbs.
+Because the specific chemical is usually unknown, people cannot predict strength or duration, and compulsive redosing is common across the group.
 
 These compounds vary in potency and mechanism.
 
@@ -64,11 +64,11 @@ Stimulation rises.
 
 ### Peak (30-90 min)
 
-At the peak strong stimulation.
+At their peak the body is hot and wired, with sweating, a pounding heart, raised blood pressure and restlessness. Jaw clenching, tremor and widened pupils are typical, and some people feel short of breath or flushed. Some feel their heart thumping hard.
 
-Emotionally euphoric, then anxious.
+Mentally euphoria often mixes with nervousness; at higher amounts paranoia, agitation and hallucinations appear. Some feel affectionate and chatty, others tense and suspicious; the same powder can feel different from batch to batch.
 
-Stimulants strain the heart: chest pain, a racing or irregular heartbeat, severe headache, very high body temperature, seizures or extreme agitation and paranoia are emergencies. Street stimulants are increasingly contaminated with fentanyl, so naloxone and test strips matter even for people who do not use opioids.
+Overheating, seizures, heart rhythm problems and excited delirium have all been reported. Mixing with alcohol, other stimulants or serotonin drugs raises danger considerably.
 
 At peak, overheating, agitation and seizures.
 
@@ -76,19 +76,19 @@ Deaths have followed N-ethylpentylone and others.
 
 ### Plateau (1-3 h)
 
-The plateau is usually short.
+The plateau varies from an hour to many hours depending on the compound. The body stays tense and dehydrated. Fingers may stay cold, the jaw sore and the nose irritated if snorted; urination can be difficult and heart rate remains raised for hours. Some feel chest tightness and headache.
 
-Craving builds.
+Mentally restlessness and craving dominate as the pleasant effects fade. Many people take more again and again even when it no longer feels good, and paranoia can develop after a sleepless night. Conversations may become repetitive. Some feel trapped and frightened.
 
-Products are often mislabeled.
+Sleep is often impossible. Long binges cause dehydration, overheating and exhaustion. Cooling down and resting matter.
 
 ### Comedown (3-6 h)
 
-The comedown is a crash.
+The comedown brings exhaustion, aches and insomnia. Muscles ache, the jaw is sore, headaches and palpitations are common, and appetite is poor for a day or more. Sleep may be broken and unrefreshing. Some feel shaky and cold.
 
-Mood low.
+Emotionally low mood, anxiety and craving. Depression, irritability and anxiety can last several days, and some people feel shame or regret after a long session. Craving may return in waves. Mood dips can be steep.
 
-Dependence possible.
+Drug-checking services can identify unknown cathinones before use. Help lines and stimulant-use services can support people who want to cut down or stop. Not using alone and carrying naloxone in case of opioid contamination are wise.
 
 Durations vary.
 
