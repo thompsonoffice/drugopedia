@@ -16,7 +16,7 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 Swallowed: about 15 to 30 minutes.
 
-### Come-up (30 min)
+### Come-up (30-60 min)
 
 Fast drowsiness.
 
@@ -24,19 +24,19 @@ Fast drowsiness.
 
 Peak within about 1 to 2 hours, strong amnesia.
 
-### Plateau (1-3 h)
+### Plateau (2-3 h)
 
 A few hours.
 
-### Comedown (2-4 h)
+### Comedown (4-6 h total)
 
 Fades in about 4 to 6 hours.
 
-### After-effects (4-12 h)
+### After-effects (6-12 h)
 
 Early-morning wakening, anxiety.
 
-### Next day
+### Next day (rebound anxiety)
 
 Rebound anxiety.
 

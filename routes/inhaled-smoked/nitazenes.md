@@ -16,27 +16,27 @@ Almost as fast as injecting, but in shorter, smaller waves with each breath. Peo
 
 Smoked or injected: seconds; swallowed: about 15 to 45 minutes.
 
-### Come-up (under 1 min)
+### Come-up (seconds)
 
 Very fast, overwhelming heaviness.
 
-### Peak (1-5 min)
+### Peak (minutes)
 
 Peak deep sedation and nodding; breathing can slow sharply.
 
-### Plateau (10-30 min)
+### Plateau (unpredictable)
 
 Plateau varies; some last longer than fentanyl.
 
-### Comedown (30 min-2 h)
+### Comedown (hours)
 
 Fade is unpredictable and overdose can return after naloxone wears off.
 
-### After-effects (2-6 h)
+### After-effects (hours)
 
 Exhaustion, nausea.
 
-### Next day
+### Next day (withdrawal may start)
 
 Withdrawal may begin.
 

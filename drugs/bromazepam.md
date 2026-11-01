@@ -54,11 +54,11 @@ From a medical point of view, the onset reflects how quickly the drug is absorbe
 
 Clinicians notice early signs such as slower speech, drooping eyelids, and reduced coordination. People often underestimate how impaired they already are at this stage, which is why driving is dangerous.
 
-### Come-up (1-2 h)
+### Come-up (1 h)
 
 Calm.
 
-### Peak (1-4 h)
+### Peak (1-2 h)
 
 Peak 1 to 2 hours.
 
@@ -66,11 +66,11 @@ Medically, the peak is when sedation, muscle relaxation, and memory impairment a
 
 On their own, benzodiazepines rarely stop breathing in healthy adults, but combined with opioids or alcohol they greatly deepen respiratory depression. The FDA added its strongest boxed warning about this combination in 2016.
 
-### Plateau (4-8 h)
+### Plateau (several hours)
 
 Several hours.
 
-### Comedown (8-20 h)
+### Comedown (8-12 h total)
 
 Fades over 8 to 12 hours.
 
@@ -78,11 +78,11 @@ As levels fall, the calming effect wears off. With short-acting benzodiazepines,
 
 In people who take them daily, falling levels can trigger withdrawal, which in severe cases includes seizures and delirium. This is why stopping should be a slow medical taper, not a sudden stop.
 
-### After-effects (1-2 days)
+### After-effects (12-24 h)
 
 Drowsiness.
 
-### Next day
+### Next day (mild fog)
 
 Mild fog.
 

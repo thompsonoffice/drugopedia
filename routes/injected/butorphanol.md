@@ -12,23 +12,23 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ## Timeline for this route
 
-### Onset (IV seconds; IM/SC 5-15 min)
+### Onset (IV 1-5 min; IM 10-15 min)
 
 Nasal spray: within about 15 minutes; injection: a few minutes.
 
-### Come-up (IV under 1 min; IM/SC 10-20 min)
+### Come-up (under 15 min)
 
 Drowsiness and lightheadedness rise fast.
 
-### Peak (IV 2-10 min; IM/SC 20-60 min)
+### Peak (30-60 min)
 
 Peak around 30 to 60 minutes: heavy sleepiness, dizziness, sometimes a dreamy unreality.
 
-### Plateau (30 min-2 h)
+### Plateau (1-3 h)
 
 Sedation for a few hours.
 
-### Comedown (2-4 h)
+### Comedown (3-4 h total)
 
 Fades over about 3 to 5 hours.
 
@@ -36,7 +36,7 @@ Fades over about 3 to 5 hours.
 
 Headache, nausea, lingering fog.
 
-### Next day
+### Next day (sometimes washed-out)
 
 Some feel washed-out next day.
 

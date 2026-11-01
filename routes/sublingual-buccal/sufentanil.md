@@ -12,7 +12,7 @@ Slower and steadier than injecting or snorting, faster than swallowing for some 
 
 ## Timeline for this route
 
-### Onset (10-30 min)
+### Onset (15-30 min)
 
 IV: about one minute; sublingual: around 15 to 30 minutes.
 
@@ -20,7 +20,7 @@ IV: about one minute; sublingual: around 15 to 30 minutes.
 
 Almost no come-up: drowsiness falls quickly.
 
-### Peak (30-60 min)
+### Peak (about 1 h)
 
 Deep sedation; chest-wall stiffness can occur with fast IV use.
 
@@ -36,7 +36,7 @@ Wears off quickly once stopped, though it builds up in fat with long infusions.
 
 Grogginess, nausea, itching.
 
-### Next day
+### Next day (usually none)
 
 Usually little lingering effect next day.
 

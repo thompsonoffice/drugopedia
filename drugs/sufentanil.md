@@ -46,7 +46,7 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the injected (intravenous, intramuscular, subcutaneous) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (under 1 min)
+### Onset (IV about 1 min)
 
 IV: about one minute; sublingual: around 15 to 30 minutes.
 
@@ -54,11 +54,11 @@ From a medical point of view, the onset reflects how quickly the drug reaches th
 
 Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
 
-### Come-up (seconds)
+### Come-up (under 1 min)
 
 Almost no come-up: drowsiness falls quickly.
 
-### Peak (1-5 min)
+### Peak (IV 2-5 min)
 
 Deep sedation; chest-wall stiffness can occur with fast IV use.
 
@@ -66,11 +66,11 @@ Medically, the peak corresponds to the highest drug levels at the receptors. The
 
 Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
-### Plateau (5-30 min (remifentanil ends within minutes of stopping))
+### Plateau (30-60 min (single dose))
 
 Sedation for under an hour after a single IV bolus; longer with infusions.
 
-### Comedown (under 1 h)
+### Comedown (1-2 h)
 
 Wears off quickly once stopped, though it builds up in fat with long infusions.
 
@@ -78,11 +78,11 @@ The comedown reflects falling blood levels as the liver and kidneys clear the dr
 
 For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
 
-### After-effects (1-4 h)
+### After-effects (2-6 h)
 
 Grogginess, nausea, itching.
 
-### Next day
+### Next day (usually none)
 
 Usually little lingering effect next day.
 

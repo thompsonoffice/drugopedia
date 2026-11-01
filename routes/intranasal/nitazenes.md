@@ -12,31 +12,31 @@ A noticeably quicker and sharper onset than swallowing, with a mild rush or 'dro
 
 ## Timeline for this route
 
-### Onset (5-15 min)
+### Onset (1-5 min)
 
 Smoked or injected: seconds; swallowed: about 15 to 45 minutes.
 
-### Come-up (10-20 min)
+### Come-up (minutes)
 
 Very fast, overwhelming heaviness.
 
-### Peak (15-45 min)
+### Peak (5-30 min)
 
 Peak deep sedation and nodding; breathing can slow sharply.
 
-### Plateau (1-2 h)
+### Plateau (unpredictable)
 
 Plateau varies; some last longer than fentanyl.
 
-### Comedown (2-4 h)
+### Comedown (hours)
 
 Fade is unpredictable and overdose can return after naloxone wears off.
 
-### After-effects (4-12 h)
+### After-effects (hours)
 
 Exhaustion, nausea.
 
-### Next day
+### Next day (withdrawal may start)
 
 Withdrawal may begin.
 

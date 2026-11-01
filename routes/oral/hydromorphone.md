@@ -12,27 +12,27 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (15-30 min)
 
 Swallowed hydromorphone starts within 15 to 30 minutes with a quick, clean warmth, with less stomach upset and itch than morphine.
 
-### Come-up (30-60 min)
+### Come-up (20-40 min)
 
 The come-up is fast and strong for a pill: a surge of comfort, heaviness, and calm. Some describe a mild 'rush' even when swallowed.
 
-### Peak (1-2 h)
+### Peak (30-60 min)
 
 The peak, around 30 to 90 minutes, is intense and warm, closer to heroin than to oxycodone, with heavy sedation close behind the euphoria. It is several times stronger than morphine by weight, and breathing suppression is strong.
 
-### Plateau (2-4 h)
+### Plateau (1-3 h)
 
 The plateau is shorter than with morphine or oxycodone. Nodding is common, with a peaceful, dreamy stillness.
 
-### Comedown (4-6 h)
+### Comedown (3-4 h total)
 
 The comedown begins after 2 to 4 hours and feels relatively quick, which is why hydromorphone is linked to frequent redosing.
 
-### After-effects (6-24 h)
+### After-effects (4-12 h)
 
 After-effects include constipation, dry mouth, and sleepiness. Some feel nauseous as it wears off.
 

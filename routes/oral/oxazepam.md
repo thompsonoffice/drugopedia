@@ -28,15 +28,15 @@ Peak around 2 to 3 hours.
 
 Several hours of calm.
 
-### Comedown (6-12 h)
+### Comedown (6-10 h total)
 
 Fades over 6 to 10 hours.
 
-### After-effects (12-24 h)
+### After-effects (10-24 h)
 
 Mild sleepiness.
 
-### Next day
+### Next day (little)
 
 Little next-day effect.
 

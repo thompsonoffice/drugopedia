@@ -12,31 +12,31 @@ Medical nasal sprays (midazolam, diazepam) are used to stop seizures quickly. Sn
 
 ## Timeline for this route
 
-### Onset (5-15 min)
+### Onset (5-10 min)
 
 IV: 1 to 5 minutes; nasal: about 5 to 10 minutes.
 
-### Come-up (10-20 min)
+### Come-up (immediate)
 
 Very quick heaviness.
 
-### Peak (15-45 min)
+### Peak (10-20 min)
 
 Peak within minutes.
 
-### Plateau (1-2 h)
+### Plateau (under 1 h)
 
 Short: about 1 to 2 hours.
 
-### Comedown (2-4 h)
+### Comedown (1-2 h total)
 
 Fades fast.
 
-### After-effects (4-12 h)
+### After-effects (2-6 h)
 
 Amnesia, grogginess.
 
-### Next day
+### Next day (usually none)
 
 Usually no next-day effect.
 

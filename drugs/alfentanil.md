@@ -54,11 +54,11 @@ From a medical point of view, the onset reflects how quickly the drug reaches th
 
 Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
 
-### Come-up (seconds)
+### Come-up (immediate)
 
 Essentially immediate.
 
-### Peak (1-5 min)
+### Peak (1-2 min)
 
 Peaks within about 1 to 2 minutes.
 
@@ -66,11 +66,11 @@ Medically, the peak corresponds to the highest drug levels at the receptors. The
 
 Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
-### Plateau (5-30 min (remifentanil ends within minutes of stopping))
+### Plateau (5-10 min)
 
 Lasts only about 5 to 10 minutes after one dose.
 
-### Comedown (under 1 h)
+### Comedown (10-20 min)
 
 Fades fast.
 
@@ -78,11 +78,11 @@ The comedown reflects falling blood levels as the liver and kidneys clear the dr
 
 For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
 
-### After-effects (1-4 h)
+### After-effects (under 1 h)
 
 Brief nausea or dizziness.
 
-### Next day
+### Next day (none)
 
 No next-day effect from the drug itself.
 

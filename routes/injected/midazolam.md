@@ -16,19 +16,19 @@ Injection is a hospital route for sedation, anesthesia, alcohol withdrawal, and 
 
 IV: 1 to 5 minutes; nasal: about 5 to 10 minutes.
 
-### Come-up (under 5 min)
+### Come-up (immediate)
 
 Very quick heaviness.
 
-### Peak (IV 3-5 min)
+### Peak (within minutes)
 
 Peak within minutes.
 
-### Plateau (15-60 min)
+### Plateau (under 1 h)
 
 Short: about 1 to 2 hours.
 
-### Comedown (1-2 h)
+### Comedown (1-2 h total)
 
 Fades fast.
 
@@ -36,7 +36,7 @@ Fades fast.
 
 Amnesia, grogginess.
 
-### Next day
+### Next day (usually none)
 
 Usually no next-day effect.
 

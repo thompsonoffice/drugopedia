@@ -46,9 +46,9 @@ Tolerance to the calming and sleep effects of benzodiazepines builds within week
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-45 min)
+### Onset (10-30 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Swallowed, flualprazolam usually begins within about 10 to 30 minutes, faster and more abruptly than alprazolam.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -56,35 +56,35 @@ Clinicians notice early signs such as slower speech, drooping eyelids, and reduc
 
 ### Come-up (30-60 min)
 
-Relaxation builds.
+A wave of heaviness and loosened inhibition follows quickly.
 
-### Peak (1-2 h)
+### Peak (1-3 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak brings heavy sedation and memory loss; many people do not remember the peak at all.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
 On their own, benzodiazepines rarely stop breathing in healthy adults, but combined with opioids or alcohol they greatly deepen respiratory depression. The FDA added its strongest boxed warning about this combination in 2016.
 
-### Plateau (2-4 h)
+### Plateau (3-8 h)
 
-Plateau can be long.
+A long plateau of drowsiness, often longer than alprazolam.
 
-### Comedown (4-6 h)
+### Comedown (6-14 h total)
 
-Fades slowly for long-acting ones.
+Effects fade over roughly 6 to 14 hours.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
 In people who take them daily, falling levels can trigger withdrawal, which in severe cases includes seizures and delirium. This is why stopping should be a slow medical taper, not a sudden stop.
 
-### After-effects (6-24 h)
+### After-effects (14-24 h)
 
-Next-day sedation and memory gaps.
+Grogginess, confusion and patchy memory.
 
 ### Next day
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Next-day sedation and rebound anxiety are common.
 
 ### Lower vs higher doses (described without amounts)
 

@@ -16,27 +16,27 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 IV: under one minute.
 
-### Come-up (seconds)
+### Come-up (immediate)
 
 Essentially immediate.
 
-### Peak (1-5 min)
+### Peak (1-2 min)
 
 Peaks within about 1 to 2 minutes.
 
-### Plateau (5-30 min (remifentanil ends within minutes of stopping))
+### Plateau (5-10 min)
 
 Lasts only about 5 to 10 minutes after one dose.
 
-### Comedown (under 1 h)
+### Comedown (10-20 min)
 
 Fades fast.
 
-### After-effects (1-4 h)
+### After-effects (under 1 h)
 
 Brief nausea or dizziness.
 
-### Next day
+### Next day (none)
 
 No next-day effect from the drug itself.
 

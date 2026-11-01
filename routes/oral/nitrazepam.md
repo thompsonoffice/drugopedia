@@ -20,15 +20,15 @@ Swallowed: about 30 to 60 minutes.
 
 Drowsiness.
 
-### Peak (2 h)
+### Peak (about 2 h)
 
 Peak about 2 hours.
 
-### Plateau (2-8 h)
+### Plateau (sleep)
 
 Sleep.
 
-### Comedown (8-12 h)
+### Comedown (long)
 
 Long fade.
 
@@ -36,7 +36,7 @@ Long fade.
 
 Grogginess.
 
-### Next day (still active)
+### Next day (hangover)
 
 Hangover.
 

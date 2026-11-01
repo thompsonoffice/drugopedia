@@ -46,7 +46,7 @@ Tolerance to the calming and sleep effects of benzodiazepines builds within week
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (20-60 min)
+### Onset (15-30 min)
 
 Swallowed: about 15 to 30 minutes.
 
@@ -66,11 +66,11 @@ Medically, the peak is when sedation, muscle relaxation, and memory impairment a
 
 On their own, benzodiazepines rarely stop breathing in healthy adults, but combined with opioids or alcohol they greatly deepen respiratory depression. The FDA added its strongest boxed warning about this combination in 2016.
 
-### Plateau (2-6 h)
+### Plateau (2-4 h)
 
 A few hours.
 
-### Comedown (6-8 h)
+### Comedown (6-8 h total)
 
 Fades over 6 to 8 hours.
 
@@ -82,7 +82,7 @@ In people who take them daily, falling levels can trigger withdrawal, which in s
 
 Drowsiness.
 
-### Next day
+### Next day (mild fog)
 
 Mild fog.
 

@@ -12,31 +12,31 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ## Timeline for this route
 
-### Onset (under 1 min)
+### Onset (IV about 1 min)
 
 IV: about one minute; sublingual: around 15 to 30 minutes.
 
-### Come-up (seconds)
+### Come-up (under 1 min)
 
 Almost no come-up: drowsiness falls quickly.
 
-### Peak (1-5 min)
+### Peak (IV 2-5 min)
 
 Deep sedation; chest-wall stiffness can occur with fast IV use.
 
-### Plateau (5-30 min (remifentanil ends within minutes of stopping))
+### Plateau (30-60 min (single dose))
 
 Sedation for under an hour after a single IV bolus; longer with infusions.
 
-### Comedown (under 1 h)
+### Comedown (1-2 h)
 
 Wears off quickly once stopped, though it builds up in fat with long infusions.
 
-### After-effects (1-4 h)
+### After-effects (2-6 h)
 
 Grogginess, nausea, itching.
 
-### Next day
+### Next day (usually none)
 
 Usually little lingering effect next day.
 

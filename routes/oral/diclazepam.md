@@ -12,33 +12,33 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (30-90 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Diclazepam starts slowly, about 30 to 90 minutes after swallowing.
 
-### Come-up (30-60 min)
+### Come-up (1-2 h)
 
-Relaxation builds.
+A diazepam-like muscle heaviness builds.
 
-### Peak (1-2 h)
+### Peak (2-4 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak is a relaxed, sedated state with mild memory loss.
 
-### Plateau (2-4 h)
+### Plateau (many hours)
 
-Plateau can be long.
+Long plateau.
 
-### Comedown (4-6 h)
+### Comedown (1-3 days)
 
-Fades slowly for long-acting ones.
+It fades over many hours, and its metabolites (delorazepam, lorazepam, lormetazepam) linger for days.
 
-### After-effects (6-24 h)
+### After-effects (days)
 
-Next-day sedation and memory gaps.
+Sleepiness.
 
-### Next day
+### Next day (still active)
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Still active for days.
 
 For the full, detailed description of each phase, see the [general Diclazepam (designer benzodiazepine) page](../../drugs/diclazepam.md).
 

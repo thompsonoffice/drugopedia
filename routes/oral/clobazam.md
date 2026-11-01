@@ -16,7 +16,7 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 Swallowed: about 30 to 60 minutes.
 
-### Come-up (1 h)
+### Come-up (1-2 h)
 
 Gentle calm.
 
@@ -24,11 +24,11 @@ Gentle calm.
 
 Peak 1 to 4 hours.
 
-### Plateau (4-12 h)
+### Plateau (long)
 
 Long.
 
-### Comedown (12-36 h)
+### Comedown (many hours)
 
 Fades over many hours.
 

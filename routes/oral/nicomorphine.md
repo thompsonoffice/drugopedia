@@ -12,7 +12,7 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (about 30 min)
 
 Injection: a few minutes.
 
@@ -24,19 +24,19 @@ Warm rush and heaviness.
 
 Peak within 30 minutes.
 
-### Plateau (2-4 h)
+### Plateau (2-3 h)
 
 Lasts a few hours.
 
-### Comedown (4-6 h)
+### Comedown (4-5 h total)
 
 Fades over 3 to 5 hours.
 
-### After-effects (6-24 h)
+### After-effects (5-12 h)
 
 Nausea, itch.
 
-### Next day
+### Next day (grogginess)
 
 Grogginess.
 

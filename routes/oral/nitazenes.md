@@ -16,27 +16,27 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 Smoked or injected: seconds; swallowed: about 15 to 45 minutes.
 
-### Come-up (30-60 min)
+### Come-up (fast once it starts)
 
 Very fast, overwhelming heaviness.
 
-### Peak (1-2 h)
+### Peak (30 min-2 h)
 
 Peak deep sedation and nodding; breathing can slow sharply.
 
-### Plateau (2-4 h)
+### Plateau (unpredictable)
 
 Plateau varies; some last longer than fentanyl.
 
-### Comedown (4-6 h)
+### Comedown (often longer than fentanyl)
 
 Fade is unpredictable and overdose can return after naloxone wears off.
 
-### After-effects (6-24 h)
+### After-effects (hours)
 
 Exhaustion, nausea.
 
-### Next day
+### Next day (withdrawal may start)
 
 Withdrawal may begin.
 

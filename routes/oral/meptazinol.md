@@ -12,7 +12,7 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (about 30 min)
 
 Oral: about 30 minutes; injection: faster.
 
@@ -24,19 +24,19 @@ Mild drowsiness.
 
 Peak around 1 to 2 hours.
 
-### Plateau (2-4 h)
+### Plateau (2-3 h)
 
 A few hours.
 
-### Comedown (4-6 h)
+### Comedown (3-5 h total)
 
 Fades over 3 to 5 hours.
 
-### After-effects (6-24 h)
+### After-effects (5-12 h)
 
 Nausea, dizziness.
 
-### Next day
+### Next day (little)
 
 Little next-day effect.
 

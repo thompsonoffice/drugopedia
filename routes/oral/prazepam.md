@@ -20,19 +20,19 @@ Swallowed: about 1 to 2 hours.
 
 Slow relaxation.
 
-### Peak (2-6 h)
+### Peak (several hours)
 
 Peak several hours later.
 
-### Plateau (6-24 h)
+### Plateau (long)
 
 Long.
 
-### Comedown (1-3 days)
+### Comedown (days)
 
 Days.
 
-### After-effects (2-4 days)
+### After-effects (days)
 
 Drowsiness.
 

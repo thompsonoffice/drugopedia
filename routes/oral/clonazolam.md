@@ -12,33 +12,33 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (10-30 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Clonazolam acts within about 10 to 30 minutes, often suddenly.
 
-### Come-up (30-60 min)
+### Come-up (15-30 min)
 
-Relaxation builds.
+There is little warning before heavy sedation.
 
 ### Peak (1-2 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak combines deep sedation, confusion and blackouts, sometimes with odd behavior the person never remembers.
 
-### Plateau (2-4 h)
+### Plateau (2-6 h)
 
-Plateau can be long.
+A plateau of several hours.
 
-### Comedown (4-6 h)
+### Comedown (6-10 h total)
 
-Fades slowly for long-acting ones.
+It fades over about 6 to 10 hours.
 
-### After-effects (6-24 h)
+### After-effects (10-24 h)
 
-Next-day sedation and memory gaps.
+Memory gaps and confusion.
 
 ### Next day
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Next-day fog.
 
 For the full, detailed description of each phase, see the [general Clonazolam (designer benzodiazepine) page](../../drugs/clonazolam.md).
 

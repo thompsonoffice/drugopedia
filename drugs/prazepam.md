@@ -58,7 +58,7 @@ Clinicians notice early signs such as slower speech, drooping eyelids, and reduc
 
 Slow relaxation.
 
-### Peak (2-6 h)
+### Peak (several hours)
 
 Peak several hours later.
 
@@ -66,11 +66,11 @@ Medically, the peak is when sedation, muscle relaxation, and memory impairment a
 
 On their own, benzodiazepines rarely stop breathing in healthy adults, but combined with opioids or alcohol they greatly deepen respiratory depression. The FDA added its strongest boxed warning about this combination in 2016.
 
-### Plateau (6-24 h)
+### Plateau (long)
 
 Long.
 
-### Comedown (1-3 days)
+### Comedown (days)
 
 Days.
 
@@ -78,7 +78,7 @@ As levels fall, the calming effect wears off. With short-acting benzodiazepines,
 
 In people who take them daily, falling levels can trigger withdrawal, which in severe cases includes seizures and delirium. This is why stopping should be a slow medical taper, not a sudden stop.
 
-### After-effects (2-4 days)
+### After-effects (days)
 
 Drowsiness.
 

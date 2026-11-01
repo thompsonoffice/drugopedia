@@ -12,33 +12,33 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (30-60 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Meclonazepam starts within about 30 to 60 minutes.
 
-### Come-up (30-60 min)
+### Come-up (1-2 h)
 
-Relaxation builds.
+Calm builds gradually.
 
-### Peak (1-2 h)
+### Peak (2-4 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak is calm and drowsiness similar to clonazepam.
 
-### Plateau (2-4 h)
+### Plateau (4-10 h)
 
-Plateau can be long.
+A long plateau.
 
-### Comedown (4-6 h)
+### Comedown (12+ h total)
 
-Fades slowly for long-acting ones.
+It fades over 12 hours or more.
 
-### After-effects (6-24 h)
+### After-effects (1-2 days)
 
-Next-day sedation and memory gaps.
+Sleepiness.
 
-### Next day
+### Next day (still active)
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Still active.
 
 For the full, detailed description of each phase, see the [general Meclonazepam (designer benzodiazepine) page](../../drugs/meclonazepam.md).
 

@@ -70,7 +70,7 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 Several hours of calm.
 
-### Comedown (6-12 h)
+### Comedown (6-10 h total)
 
 Fades over 6 to 10 hours.
 
@@ -78,11 +78,11 @@ As levels fall, the calming effect wears off. With short-acting benzodiazepines,
 
 In people who take them daily, falling levels can trigger withdrawal, which in severe cases includes seizures and delirium. This is why stopping should be a slow medical taper, not a sudden stop.
 
-### After-effects (12-24 h)
+### After-effects (10-24 h)
 
 Mild sleepiness.
 
-### Next day
+### Next day (little)
 
 Little next-day effect.
 

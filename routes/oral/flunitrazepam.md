@@ -24,11 +24,11 @@ Heavy drowsiness.
 
 Peak 1 to 2 hours.
 
-### Plateau (2-8 h)
+### Plateau (many hours)
 
 Many hours of sedation.
 
-### Comedown (8-12 h)
+### Comedown (8-12 h total)
 
 Fades over 8 to 12 hours.
 
@@ -36,7 +36,7 @@ Fades over 8 to 12 hours.
 
 Amnesia.
 
-### Next day
+### Next day (grogginess)
 
 Grogginess.
 

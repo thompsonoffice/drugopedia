@@ -16,27 +16,27 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 Swallowed: about 30 to 60 minutes.
 
-### Come-up (1-2 h)
+### Come-up (1 h)
 
 Calm.
 
-### Peak (1-4 h)
+### Peak (1-2 h)
 
 Peak 1 to 2 hours.
 
-### Plateau (4-8 h)
+### Plateau (several hours)
 
 Several hours.
 
-### Comedown (8-20 h)
+### Comedown (8-12 h total)
 
 Fades over 8 to 12 hours.
 
-### After-effects (1-2 days)
+### After-effects (12-24 h)
 
 Drowsiness.
 
-### Next day
+### Next day (mild fog)
 
 Mild fog.
 

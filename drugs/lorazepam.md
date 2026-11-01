@@ -30,7 +30,7 @@ Lorazepam is mostly immediate-release; Loreev XR is a once-daily extended-releas
 
 ## What the pills feel like
 
-Ativan tablets are small, five-sided (pentagonal) tablets; generics are small and round or five-sided, often scored.
+Per the DailyMed Ativan label, the tablets are small, white, and five-sided (one strength shield-shaped, another a regular pentagon), with a raised 'A' on one side and a score line on the other; generics are small and round or five-sided, often scored.
 
 **Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 

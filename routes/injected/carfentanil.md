@@ -12,31 +12,31 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ## Timeline for this route
 
-### Onset (IV seconds; IM/SC 5-15 min)
+### Onset (seconds)
 
 Seconds to minutes by any route.
 
-### Come-up (IV under 1 min; IM/SC 10-20 min)
+### Come-up (none)
 
 None to speak of: collapse can come first.
 
-### Peak (IV 2-10 min; IM/SC 20-60 min)
+### Peak (collapse possible)
 
 Profound sedation and breathing failure.
 
-### Plateau (30 min-2 h)
+### Plateau (long)
 
 Long-acting; can outlast naloxone.
 
-### Comedown (2-4 h)
+### Comedown (can outlast naloxone)
 
 Overdose can return after naloxone wears off.
 
-### After-effects (4-12 h)
+### After-effects (hours)
 
 Severe exhaustion, possible brain injury from low oxygen.
 
-### Next day
+### Next day (medical follow-up)
 
 Medical follow-up needed.
 

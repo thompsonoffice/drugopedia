@@ -46,7 +46,7 @@ Tolerance to the calming and sleep effects of benzodiazepines builds within week
 
 Times below are typical for the injected (intravenous, intramuscular, subcutaneous) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (IV 1-3 min)
+### Onset (1-2 min)
 
 IV: about 1 to 2 minutes.
 
@@ -54,11 +54,11 @@ From a medical point of view, the onset reflects how quickly the drug is absorbe
 
 Clinicians notice early signs such as slower speech, drooping eyelids, and reduced coordination. People often underestimate how impaired they already are at this stage, which is why driving is dangerous.
 
-### Come-up (1-2 min)
+### Come-up (immediate)
 
 Immediate.
 
-### Peak (2-5 min)
+### Peak (within minutes)
 
 Peak within minutes.
 
@@ -66,11 +66,11 @@ Medically, the peak is when sedation, muscle relaxation, and memory impairment a
 
 On their own, benzodiazepines rarely stop breathing in healthy adults, but combined with opioids or alcohol they greatly deepen respiratory depression. The FDA added its strongest boxed warning about this combination in 2016.
 
-### Plateau (10-20 min)
+### Plateau (only while given)
 
 Only while given.
 
-### Comedown (under 30 min)
+### Comedown (10-20 min after stopping)
 
 Wears off in about 10 to 20 minutes.
 
@@ -78,11 +78,11 @@ As levels fall, the calming effect wears off. With short-acting benzodiazepines,
 
 In people who take them daily, falling levels can trigger withdrawal, which in severe cases includes seizures and delirium. This is why stopping should be a slow medical taper, not a sudden stop.
 
-### After-effects (1-2 h)
+### After-effects (under 1 h)
 
 Brief grogginess.
 
-### Next day
+### Next day (none)
 
 None.
 

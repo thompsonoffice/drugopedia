@@ -12,33 +12,33 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (10-30 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Flunitrazolam acts within about 10 to 30 minutes.
 
-### Come-up (30-60 min)
+### Come-up (15-30 min)
 
-Relaxation builds.
+Sedation comes on very quickly.
 
 ### Peak (1-2 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak is deep sleep and amnesia similar to flunitrazepam but stronger.
 
-### Plateau (2-4 h)
+### Plateau (2-6 h)
 
-Plateau can be long.
+Plateau of several hours.
 
-### Comedown (4-6 h)
+### Comedown (6-12 h total)
 
-Fades slowly for long-acting ones.
+It fades over about 6 to 12 hours.
 
-### After-effects (6-24 h)
+### After-effects (12-24 h)
 
-Next-day sedation and memory gaps.
+Amnesia, grogginess.
 
 ### Next day
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Next-day fog.
 
 For the full, detailed description of each phase, see the [general Flunitrazolam (designer benzodiazepine) page](../../drugs/flunitrazolam.md).
 

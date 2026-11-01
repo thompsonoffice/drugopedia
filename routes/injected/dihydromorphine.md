@@ -12,23 +12,23 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ## Timeline for this route
 
-### Onset (IV seconds; IM/SC 5-15 min)
+### Onset (a few min)
 
 Injection: a few minutes; oral: about 30 minutes.
 
-### Come-up (IV under 1 min; IM/SC 10-20 min)
+### Come-up (under 10 min)
 
 Warmth and heaviness.
 
-### Peak (IV 2-10 min; IM/SC 20-60 min)
+### Peak (30-60 min)
 
 Peak about 30 to 60 minutes.
 
-### Plateau (30 min-2 h)
+### Plateau (1-3 h)
 
 A few hours.
 
-### Comedown (2-4 h)
+### Comedown (about 4 h total)
 
 Fades over about 4 hours.
 
@@ -36,7 +36,7 @@ Fades over about 4 hours.
 
 Itch, nausea.
 
-### Next day
+### Next day (grogginess)
 
 Grogginess.
 

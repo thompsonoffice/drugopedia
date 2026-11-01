@@ -85,3 +85,69 @@ for k,c in RC.items():
     if k in D:
         n=D[k]["name"].split(" (")[0]
         D[k]["flavor"]=[f"{n} is {c}. Because it was never studied properly in humans, reports from users and poison centers are the main source of information.",f"Online stores sold {n} as a powder, pellets, or blotters; it has also appeared in fake 'Xanax' tablets. The real content of street products can be very different.",f"Like other designer benzodiazepines, {n} combined with opioids, alcohol, or other sedatives can stop breathing, and long blackouts are common."]
+
+# Route times that match the drug-specific phase text above
+def t(*a): return list(a)
+TT={
+"sufentanil":{"injected":t("IV about 1 min","under 1 min","IV 2-5 min","30-60 min (single dose)","1-2 h","2-6 h","usually none"),"sublingual-buccal":t("15-30 min","15-30 min","about 1 h","1-3 h","3-4 h","4-8 h","usually none")},
+"alfentanil":{"injected":t("under 1 min","immediate","1-2 min","5-10 min","10-20 min","under 1 h","none")},
+"remifentanil":{"injected":t("about 1 min","immediate","within minutes","only during infusion","5-10 min after stopping","under 1 h","none")},
+"butorphanol":{"intranasal":t("about 15 min","15-30 min","30-60 min","1-3 h","3-5 h total","5-12 h","sometimes washed-out"),"injected":t("IV 1-5 min; IM 10-15 min","under 15 min","30-60 min","1-3 h","3-4 h total","4-12 h","sometimes washed-out")},
+"nalbuphine":{"injected":t("2-15 min","under 15 min","about 30 min","1-4 h","3-6 h total","6-12 h","little")},
+"pentazocine":{"oral":t("15-30 min","30-60 min","1-2 h","2-3 h","3-4 h total","4-12 h","may feel unsettled"),"injected":t("IV 2-3 min; IM 15-20 min","under 20 min","15-60 min","1-2 h","2-3 h total","3-12 h","may feel unsettled")},
+"dextromoramide":{"oral":t("10-20 min","20-40 min","about 1 h","1-2 h","2-3 h total","3-12 h","low mood"),"sublingual-buccal":t("about 10 min","10-30 min","under 1 h","1-2 h","2-3 h total","3-12 h","low mood"),"rectal":t("15-30 min","30 min","about 1 h","1-2 h","2-4 h total","4-12 h","low mood")},
+"dipipanone":{"oral":t("about 30 min","30-60 min","1-2 h","2-4 h","4-6 h total","6-24 h","grogginess")},
+"piritramide":{"injected":t("IV a few min; IM about 15 min","under 15 min","15-30 min","1-4 h","4-6 h total","6-12 h","little")},
+"ethylmorphine":{"oral":t("30-60 min","45-90 min","1-2 h","2-4 h","4-6 h total","6-12 h","little")},
+"nicomorphine":{"injected":t("a few min","under 10 min","within 30 min","1-3 h","3-5 h total","5-12 h","grogginess"),"rectal":t("15-30 min","30 min","about 1 h","1-3 h","3-5 h total","5-12 h","grogginess"),"oral":t("about 30 min","30-60 min","1-2 h","2-3 h","4-5 h total","5-12 h","grogginess")},
+"dihydromorphine":{"injected":t("a few min","under 10 min","30-60 min","1-3 h","about 4 h total","4-12 h","grogginess"),"oral":t("about 30 min","30-60 min","about 1 h","1-3 h","about 4 h total","4-12 h","grogginess")},
+"anileridine":{"oral":t("about 15 min","15-30 min","within 1 h","1-2 h","2-3 h total","3-8 h","little"),"injected":t("a few min","under 15 min","15-30 min","1-2 h","2-3 h total","3-8 h","little")},
+"alphaprodine":{"injected":t("1-2 min","immediate","under 10 min","30-60 min","1-2 h total","2-6 h","none")},
+"benzhydrocodone":{"oral":t("30-60 min","45-90 min","1-2 h","2-4 h","4-6 h total","6-12 h","little")},
+"meptazinol":{"oral":t("about 30 min","30-60 min","1-2 h","2-3 h","3-5 h total","5-12 h","little"),"injected":t("IV minutes; IM 15 min","under 15 min","30-60 min","1-3 h","2-4 h total","4-12 h","little")},
+"dezocine":{"injected":t("about 15 min","15-30 min","30-60 min","1-4 h","3-6 h total","6-12 h","little")},
+"nitazenes":{"oral":t("15-45 min","fast once it starts","30 min-2 h","unpredictable","often longer than fentanyl","hours","withdrawal may start"),"intranasal":t("1-5 min","minutes","5-30 min","unpredictable","hours","hours","withdrawal may start"),"inhaled-smoked":t("seconds","seconds","minutes","unpredictable","hours","hours","withdrawal may start"),"injected":t("seconds","seconds","minutes","unpredictable","hours","hours","withdrawal may start")},
+"u-47700":{"oral":t("15-30 min","30 min","about 1 h","1-2 h","3-4 h total","4-12 h","low, craving"),"intranasal":t("5-10 min","10-15 min","under 1 h","1 h","2-4 h total","4-12 h","low, craving"),"injected":t("seconds to minutes","immediate","minutes","under 1 h","2-3 h total","3-12 h","low, craving")},
+"ah-7921":{"oral":t("about 30 min","30-60 min","1-2 h","2-3 h","4-6 h total","6-12 h","grogginess"),"intranasal":t("5-15 min","15-30 min","about 1 h","1-3 h","3-5 h total","5-12 h","grogginess"),"injected":t("minutes","immediate","minutes","1-2 h","3-4 h total","4-12 h","grogginess")},
+"mt-45":{"oral":t("15-45 min","30-60 min","1-2 h","2-3 h","4-6 h total","6-12 h","tiredness"),"intranasal":t("5-15 min","15-30 min","about 1 h","1-3 h","3-5 h total","5-12 h","tiredness"),"injected":t("minutes","immediate","minutes","1-2 h","3-4 h total","4-12 h","tiredness")},
+"carfentanil":{"oral":t("minutes","none","collapse possible","long","can outlast naloxone","hours","medical follow-up"),"intranasal":t("seconds to minutes","none","collapse possible","long","can outlast naloxone","hours","medical follow-up"),"injected":t("seconds","none","collapse possible","long","can outlast naloxone","hours","medical follow-up")},
+"temazepam":{"oral":t("30-60 min","45-90 min","1-2 h","2-6 h","6-10 h total","10-24 h","morning fog")},
+"triazolam":{"oral":t("15-30 min","30-60 min","1-2 h","2-3 h","4-6 h total","6-12 h","rebound anxiety")},
+"oxazepam":{"oral":t("45-90 min","1-2 h","2-3 h","3-6 h","6-10 h total","10-24 h","little")},
+"clorazepate":{"oral":t("30-60 min","1 h","1-2 h","several hours","many hours to days","1-3 days","still active")},
+"flurazepam":{"oral":t("15-45 min","30-60 min","1-2 h","sleep","metabolite lasts days","1-3 days","hangover")},
+"estazolam":{"oral":t("30-60 min","1 h","1-2 h","sleep","8-12 h total","12-24 h","mild fog")},
+"quazepam":{"oral":t("30-60 min","1-2 h","about 2 h","sleep","very long","1-3 days","still active")},
+"midazolam":{"injected":t("IV 1-5 min","immediate","within minutes","under 1 h","1-2 h total","2-6 h","usually none"),"intranasal":t("5-10 min","immediate","10-20 min","under 1 h","1-2 h total","2-6 h","usually none"),"oral":t("10-30 min","15-30 min","30-60 min","under 1 h","2-4 h total","4-8 h","usually none"),"sublingual-buccal":t("5-15 min","immediate","15-30 min","under 1 h","1-3 h total","3-8 h","usually none")},
+"remimazolam":{"injected":t("1-2 min","immediate","within minutes","only while given","10-20 min after stopping","under 1 h","none")},
+"flunitrazepam":{"oral":t("15-30 min","30-60 min","1-2 h","many hours","8-12 h total","12-24 h","grogginess")},
+"nitrazepam":{"oral":t("30-60 min","1 h","about 2 h","sleep","long","1-2 days","hangover")},
+"bromazepam":{"oral":t("30-60 min","1 h","1-2 h","several hours","8-12 h total","12-24 h","mild fog")},
+"clobazam":{"oral":t("30-60 min","1-2 h","1-4 h","long","many hours","1-3 days","still active")},
+"lormetazepam":{"oral":t("about 30 min","30-60 min","1-2 h","sleep","8-10 h total","10-24 h","mild fog")},
+"prazepam":{"oral":t("1-2 h","2-4 h","several hours","long","days","days","still active")},
+"etizolam":{"oral":t("15-30 min","30-60 min","1-2 h","2-4 h","6-8 h total","8-24 h","mild fog")},
+}
+# Designer benzodiazepines: drug-specific phases (from user reports compiled by PsychonautWiki, EMCDDA and poison-center case reports; approximate)
+RCP={
+"flualprazolam":(["Swallowed, flualprazolam usually begins within about 10 to 30 minutes, faster and more abruptly than alprazolam.","A wave of heaviness and loosened inhibition follows quickly.","The peak brings heavy sedation and memory loss; many people do not remember the peak at all.","A long plateau of drowsiness, often longer than alprazolam.","Effects fade over roughly 6 to 14 hours.","Grogginess, confusion and patchy memory.","Next-day sedation and rebound anxiety are common."],t("10-30 min","30-60 min","1-3 h","3-8 h","6-14 h total","14-24 h","next day")),
+"flubromazolam":(["Flubromazolam starts within about 15 to 45 minutes and can creep up unexpectedly.","Sedation deepens steadily over the next hour.","The peak is profound: deep sleep or a blackout lasting many hours.","An unusually long plateau, often half a day or more.","The fade can take 12 to 18 hours or longer.","Prolonged amnesia, unsteadiness.","Grogginess often lasts into the next day or two."],t("15-45 min","45-90 min","2-4 h","4-12 h","12-18 h total","1-2 days","still active")),
+"clonazolam":(["Clonazolam acts within about 10 to 30 minutes, often suddenly.","There is little warning before heavy sedation.","The peak combines deep sedation, confusion and blackouts, sometimes with odd behavior the person never remembers.","A plateau of several hours.","It fades over about 6 to 10 hours.","Memory gaps and confusion.","Next-day fog."],t("10-30 min","15-30 min","1-2 h","2-6 h","6-10 h total","10-24 h","next day")),
+"bromazolam":(["Bromazolam begins within about 15 to 30 minutes and feels similar to alprazolam at first.","Calm and heaviness rise fast.","The peak is heavy sedation and amnesia; when fentanyl is also present, as often happens in street supplies, breathing can stop.","Plateau of a few hours.","It fades over about 5 to 8 hours.","Grogginess; people may wake up in hospital without memory.","Rebound anxiety."],t("15-30 min","30-60 min","1-2 h","2-4 h","5-8 h total","8-24 h","next day")),
+"diclazepam":(["Diclazepam starts slowly, about 30 to 90 minutes after swallowing.","A diazepam-like muscle heaviness builds.","The peak is a relaxed, sedated state with mild memory loss.","Long plateau.","It fades over many hours, and its metabolites (delorazepam, lorazepam, lormetazepam) linger for days.","Sleepiness.","Still active for days."],t("30-90 min","1-2 h","2-4 h","many hours","1-3 days","days","still active")),
+"deschloroetizolam":(["Deschloroetizolam begins within about 20 to 60 minutes.","A mild calm builds slowly.","The peak is weaker than etizolam, with relaxation and drowsiness.","A long, flat plateau.","It fades over roughly 8 to 12 hours.","Drowsiness.","Mild next-day fog."],t("20-60 min","1 h","1-3 h","3-8 h","8-12 h total","12-24 h","next day")),
+"pyrazolam":(["Pyrazolam begins within about 15 to 45 minutes.","Users describe calm with surprisingly little sleepiness at first.","The peak is anxiety relief with modest sedation; memory loss still occurs at higher amounts.","Plateau of several hours.","It fades over about 6 to 12 hours.","Mild grogginess.","Little next-day effect at low amounts."],t("15-45 min","45-90 min","1-3 h","3-6 h","6-12 h total","12-24 h","next day")),
+"nifoxipam":(["Nifoxipam starts within about 20 to 40 minutes.","Sedation arrives quickly.","The peak is strongly hypnotic: sleep or heavy drowsiness.","A short to medium plateau.","It fades over about 6 to 8 hours.","Grogginess.","Mild fog."],t("20-40 min","30-60 min","1-2 h","2-4 h","6-8 h total","8-24 h","next day")),
+"meclonazepam":(["Meclonazepam starts within about 30 to 60 minutes.","Calm builds gradually.","The peak is calm and drowsiness similar to clonazepam.","A long plateau.","It fades over 12 hours or more.","Sleepiness.","Still active."],t("30-60 min","1-2 h","2-4 h","4-10 h","12+ h total","1-2 days","still active")),
+"phenazepam":(["Phenazepam is notoriously slow: it may take 1 to 3 hours to be felt, which leads people to take more.","A heavy, creeping sedation builds over hours.","The peak can arrive many hours later and last long, with deep sedation and multi-day blackouts.","An extremely long plateau.","Effects can persist for one to three days.","Confusion, clumsiness, memory loss.","Still active for days."],t("1-3 h","2-4 h","2-6 h","many hours","1-3 days","days","still active")),
+"flubromazepam":(["Flubromazepam begins slowly, around 30 to 90 minutes.","Gradual heaviness.","The peak is moderate sedation and calm.","The plateau is very long.","It lingers for days because of its very long half-life.","Fatigue, memory problems.","Still active for days."],t("30-90 min","1-2 h","2-6 h","12+ h","2-4 days","days","still active")),
+"metizolam":(["Metizolam begins within about 30 to 60 minutes.","Gentle calm.","The peak is milder than etizolam, with relaxation and drowsiness.","A long plateau.","It fades over about 8 to 12 hours.","Mild drowsiness.","Mild fog."],t("30-60 min","1 h","1-3 h","3-8 h","8-12 h total","12-24 h","next day")),
+"adinazolam":(["Adinazolam begins within about 20 to 40 minutes.","Calm with some mood lift.","The peak is relatively mild sedation.","Short plateau.","It fades over about 4 to 6 hours.","Mild grogginess.","Little next-day effect."],t("20-40 min","30-60 min","1-2 h","1-3 h","4-6 h total","6-12 h","little")),
+"desalkylgidazepam":(["Desalkylgidazepam (bromonordiazepam) starts slowly, about 45 to 90 minutes.","Diazepam-like heaviness.","The peak is moderate sedation.","Very long plateau.","It fades over one to three days.","Sleepiness.","Still active."],t("45-90 min","1-2 h","2-6 h","many hours","1-3 days","days","still active")),
+"flunitrazolam":(["Flunitrazolam acts within about 10 to 30 minutes.","Sedation comes on very quickly.","The peak is deep sleep and amnesia similar to flunitrazepam but stronger.","Plateau of several hours.","It fades over about 6 to 12 hours.","Amnesia, grogginess.","Next-day fog."],t("10-30 min","15-30 min","1-2 h","2-6 h","6-12 h total","12-24 h","next day")),
+"norfludiazepam":(["Norfludiazepam begins slowly, about 1 to 2 hours after swallowing.","Gradual calm.","The peak is mild to moderate sedation.","Very long plateau.","It lingers for days.","Fatigue.","Still active for days."],t("1-2 h","2-4 h","3-8 h","many hours","2-5 days","days","still active")),
+}
+for k,v in TT.items():
+    if k in D: D[k]["times"]=v
+for k,(p,tm) in RCP.items():
+    if k in D: D[k]["ph"]=p; D[k]["times"]={"oral":tm}

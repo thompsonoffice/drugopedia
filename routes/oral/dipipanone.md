@@ -12,7 +12,7 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (about 30 min)
 
 Oral: about 30 minutes.
 
@@ -28,7 +28,7 @@ Peak 1 to 2 hours with sedation and haze.
 
 A few hours of sedation.
 
-### Comedown (4-6 h)
+### Comedown (4-6 h total)
 
 Fades over 4 to 6 hours.
 
@@ -36,7 +36,7 @@ Fades over 4 to 6 hours.
 
 Dry mouth, confusion, constipation.
 
-### Next day
+### Next day (grogginess)
 
 Grogginess next day.
 

@@ -12,31 +12,31 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (minutes)
 
 Seconds to minutes by any route.
 
-### Come-up (30-60 min)
+### Come-up (none)
 
 None to speak of: collapse can come first.
 
-### Peak (1-2 h)
+### Peak (collapse possible)
 
 Profound sedation and breathing failure.
 
-### Plateau (2-4 h)
+### Plateau (long)
 
 Long-acting; can outlast naloxone.
 
-### Comedown (4-6 h)
+### Comedown (can outlast naloxone)
 
 Overdose can return after naloxone wears off.
 
-### After-effects (6-24 h)
+### After-effects (hours)
 
 Severe exhaustion, possible brain injury from low oxygen.
 
-### Next day
+### Next day (medical follow-up)
 
 Medical follow-up needed.
 

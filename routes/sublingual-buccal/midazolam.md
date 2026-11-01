@@ -12,31 +12,31 @@ Under the tongue, some benzodiazepines start a little faster than when swallowed
 
 ## Timeline for this route
 
-### Onset (10-30 min)
+### Onset (5-15 min)
 
 IV: 1 to 5 minutes; nasal: about 5 to 10 minutes.
 
-### Come-up (30-60 min)
+### Come-up (immediate)
 
 Very quick heaviness.
 
-### Peak (1-3 h)
+### Peak (15-30 min)
 
 Peak within minutes.
 
-### Plateau (2-4 h)
+### Plateau (under 1 h)
 
 Short: about 1 to 2 hours.
 
-### Comedown (4-8 h)
+### Comedown (1-3 h total)
 
 Fades fast.
 
-### After-effects (8-24 h)
+### After-effects (3-8 h)
 
 Amnesia, grogginess.
 
-### Next day
+### Next day (usually none)
 
 Usually no next-day effect.
 

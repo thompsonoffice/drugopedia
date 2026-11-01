@@ -12,31 +12,31 @@ Injection is a hospital route for sedation, anesthesia, alcohol withdrawal, and 
 
 ## Timeline for this route
 
-### Onset (IV 1-3 min)
+### Onset (1-2 min)
 
 IV: about 1 to 2 minutes.
 
-### Come-up (1-2 min)
+### Come-up (immediate)
 
 Immediate.
 
-### Peak (2-5 min)
+### Peak (within minutes)
 
 Peak within minutes.
 
-### Plateau (10-20 min)
+### Plateau (only while given)
 
 Only while given.
 
-### Comedown (under 30 min)
+### Comedown (10-20 min after stopping)
 
 Wears off in about 10 to 20 minutes.
 
-### After-effects (1-2 h)
+### After-effects (under 1 h)
 
 Brief grogginess.
 
-### Next day
+### Next day (none)
 
 None.
 

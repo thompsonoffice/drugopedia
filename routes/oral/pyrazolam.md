@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (15-45 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Pyrazolam begins within about 15 to 45 minutes.
 
-### Come-up (30-60 min)
+### Come-up (45-90 min)
 
-Relaxation builds.
+Users describe calm with surprisingly little sleepiness at first.
 
-### Peak (1-2 h)
+### Peak (1-3 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak is anxiety relief with modest sedation; memory loss still occurs at higher amounts.
 
-### Plateau (2-4 h)
+### Plateau (3-6 h)
 
-Plateau can be long.
+Plateau of several hours.
 
-### Comedown (4-6 h)
+### Comedown (6-12 h total)
 
-Fades slowly for long-acting ones.
+It fades over about 6 to 12 hours.
 
-### After-effects (6-24 h)
+### After-effects (12-24 h)
 
-Next-day sedation and memory gaps.
+Mild grogginess.
 
 ### Next day
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Little next-day effect at low amounts.
 
 For the full, detailed description of each phase, see the [general Pyrazolam (designer benzodiazepine) page](../../drugs/pyrazolam.md).
 

@@ -12,31 +12,31 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ## Timeline for this route
 
-### Onset (IV seconds; IM/SC 5-15 min)
+### Onset (seconds)
 
 Smoked or injected: seconds; swallowed: about 15 to 45 minutes.
 
-### Come-up (IV under 1 min; IM/SC 10-20 min)
+### Come-up (seconds)
 
 Very fast, overwhelming heaviness.
 
-### Peak (IV 2-10 min; IM/SC 20-60 min)
+### Peak (minutes)
 
 Peak deep sedation and nodding; breathing can slow sharply.
 
-### Plateau (30 min-2 h)
+### Plateau (unpredictable)
 
 Plateau varies; some last longer than fentanyl.
 
-### Comedown (2-4 h)
+### Comedown (hours)
 
 Fade is unpredictable and overdose can return after naloxone wears off.
 
-### After-effects (4-12 h)
+### After-effects (hours)
 
 Exhaustion, nausea.
 
-### Next day
+### Next day (withdrawal may start)
 
 Withdrawal may begin.
 

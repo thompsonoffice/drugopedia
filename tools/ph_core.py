@@ -114,3 +114,4 @@ D["tramadol"]["times"]={"oral":["15-60 min","30-60 min","2-3 h","2-6 h","6-10 h"
 D["tapentadol"]["times"]={"oral":["15-30 min","30-45 min","1-2 h","2-3 h","4-6 h","6-12 h","next day"]}
 D["oxymorphone"]["times"]={"oral":["20-45 min","45-90 min","1-2 h","2-4 h","4-6 h","6-24 h","next day"]}
 D["heroin"]["times"]={"injected":["IV 0-5 sec; IM/SC 5-15 min","IV seconds","IV 1-5 min","1-4 h","4-5 h total","5-12 h","next day"],"inhaled-smoked":["5-10 sec","seconds","1-15 min","15-30 min","3-5 h total","5-12 h","next day"],"intranasal":["10-60 sec to a few min","1-5 min","5-30 min","1-1.5 h","3-7 h total","7-12 h","next day"],"oral":["20-45 min","30-60 min","1-2 h","2-4 h","4-6 h","6-24 h","next day"]}
+D["hydromorphone"].setdefault("times",{})["oral"]=["15-30 min","20-40 min","30-60 min","1-3 h","3-4 h total","4-12 h","next day"]

@@ -32,7 +32,7 @@ Immediate-release hydromorphone (Dilaudid tablets and liquid) works quickly, oft
 
 ## What the pills feel like
 
-Dilaudid and generic hydromorphone tablets are small, triangular or round tablets, often scored. Extended-release tablets are film-coated.
+Per the DailyMed Dilaudid label, the lower-strength tablets are small, round, and flat-faced with beveled edges and a debossed 'P', while the highest-strength tablet is triangular with a score line between two debossed 'P' letters. Generics vary. Extended-release tablets are film-coated.
 
 **Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 
@@ -50,7 +50,7 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-45 min)
+### Onset (15-30 min)
 
 Swallowed hydromorphone starts within 15 to 30 minutes with a quick, clean warmth, with less stomach upset and itch than morphine.
 
@@ -58,11 +58,11 @@ From a medical point of view, the onset reflects how quickly the drug reaches th
 
 Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
 
-### Come-up (30-60 min)
+### Come-up (20-40 min)
 
 The come-up is fast and strong for a pill: a surge of comfort, heaviness, and calm. Some describe a mild 'rush' even when swallowed.
 
-### Peak (1-2 h)
+### Peak (30-60 min)
 
 The peak, around 30 to 90 minutes, is intense and warm, closer to heroin than to oxycodone, with heavy sedation close behind the euphoria. It is several times stronger than morphine by weight, and breathing suppression is strong.
 
@@ -70,11 +70,11 @@ Medically, the peak corresponds to the highest drug levels at the receptors. The
 
 Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
-### Plateau (2-4 h)
+### Plateau (1-3 h)
 
 The plateau is shorter than with morphine or oxycodone. Nodding is common, with a peaceful, dreamy stillness.
 
-### Comedown (4-6 h)
+### Comedown (3-4 h total)
 
 The comedown begins after 2 to 4 hours and feels relatively quick, which is why hydromorphone is linked to frequent redosing.
 
@@ -82,7 +82,7 @@ The comedown reflects falling blood levels as the liver and kidneys clear the dr
 
 For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
 
-### After-effects (6-24 h)
+### After-effects (4-12 h)
 
 After-effects include constipation, dry mouth, and sleepiness. Some feel nauseous as it wears off.
 

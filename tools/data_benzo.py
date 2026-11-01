@@ -49,7 +49,7 @@ B("clonazepam","Clonazepam (Klonopin)","Long-acting, high-potency benzodiazepine
 "Long half-life means accumulation; dangerous with opioids and alcohol. Withdrawal seizures if stopped suddenly.",
 ["FDA label, Klonopin (DailyMed)"],
 times={"oral":["20-60 min","1-2 h","1-4 h","6-12 h","12-24 h","1-2 days","still active"]},
-touch="Klonopin tablets are small and round with a 'K'-shaped cut-out through the center on the brand; generics are small, round, and scored. Orally disintegrating tablets are round and dissolve quickly.",
+touch="Per the DailyMed Klonopin label, the brand tablets have a K-shaped perforation (a cut-out you can feel), with the lowest strength also scored; one generic maker's label lists a round, flat-faced tablet with beveled edges and a score line; generics are small, round, and scored. Orally disintegrating tablets are round and dissolve quickly.",
 met="Clonazepam is metabolized by CYP3A4; half-life 30 to 40 hours.")
 
 B("lorazepam","Lorazepam (Ativan)","Intermediate-acting benzodiazepine processed without CYP enzymes.",
@@ -62,7 +62,7 @@ B("lorazepam","Lorazepam (Ativan)","Intermediate-acting benzodiazepine processed
 "Strong amnesia and sedation; dangerous with opioids and alcohol. IV use requires breathing monitoring.",
 ["FDA label, Ativan (DailyMed)"],
 times={"oral":["20-40 min","30-60 min","1.5-2.5 h","2-8 h","8-12 h total","12-24 h","next day"],"injected":["IV 1-5 min","5-10 min","10-20 min","1-6 h","6-8 h","8-24 h","next day"],"sublingual-buccal":["10-20 min","20-40 min","1 h","2-6 h","6-8 h","8-24 h","next day"]},
-touch="Ativan tablets are small, five-sided (pentagonal) tablets; generics are small and round or five-sided, often scored.",
+touch="Per the DailyMed Ativan label, the tablets are small, white, and five-sided (one strength shield-shaped, another a regular pentagon), with a raised 'A' on one side and a score line on the other; generics are small and round or five-sided, often scored.",
 met="Lorazepam is glucuronidated in the liver without CYP enzymes, so it is less affected by liver disease and drug interactions; half-life 10 to 20 hours.")
 
 B("chlordiazepoxide","Chlordiazepoxide (Librium)","The first benzodiazepine; long-acting with active metabolites.",

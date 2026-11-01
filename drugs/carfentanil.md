@@ -46,7 +46,7 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-45 min)
+### Onset (minutes)
 
 Seconds to minutes by any route.
 
@@ -54,11 +54,11 @@ From a medical point of view, the onset reflects how quickly the drug reaches th
 
 Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
 
-### Come-up (30-60 min)
+### Come-up (none)
 
 None to speak of: collapse can come first.
 
-### Peak (1-2 h)
+### Peak (collapse possible)
 
 Profound sedation and breathing failure.
 
@@ -66,11 +66,11 @@ Medically, the peak corresponds to the highest drug levels at the receptors. The
 
 Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
-### Plateau (2-4 h)
+### Plateau (long)
 
 Long-acting; can outlast naloxone.
 
-### Comedown (4-6 h)
+### Comedown (can outlast naloxone)
 
 Overdose can return after naloxone wears off.
 
@@ -78,11 +78,11 @@ The comedown reflects falling blood levels as the liver and kidneys clear the dr
 
 For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
 
-### After-effects (6-24 h)
+### After-effects (hours)
 
 Severe exhaustion, possible brain injury from low oxygen.
 
-### Next day
+### Next day (medical follow-up)
 
 Medical follow-up needed.
 

@@ -46,7 +46,7 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-45 min)
+### Onset (30-60 min)
 
 Oral: about 30 to 60 minutes (slightly slower than plain hydrocodone).
 
@@ -54,7 +54,7 @@ From a medical point of view, the onset reflects how quickly the drug reaches th
 
 Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
 
-### Come-up (30-60 min)
+### Come-up (45-90 min)
 
 Gentle warmth.
 
@@ -70,7 +70,7 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 A few hours of relief.
 
-### Comedown (4-6 h)
+### Comedown (4-6 h total)
 
 Fades over 4 to 6 hours.
 
@@ -78,11 +78,11 @@ The comedown reflects falling blood levels as the liver and kidneys clear the dr
 
 For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
 
-### After-effects (6-24 h)
+### After-effects (6-12 h)
 
 Constipation, itch, nausea.
 
-### Next day
+### Next day (little)
 
 Little next-day effect.
 

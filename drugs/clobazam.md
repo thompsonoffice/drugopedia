@@ -54,7 +54,7 @@ From a medical point of view, the onset reflects how quickly the drug is absorbe
 
 Clinicians notice early signs such as slower speech, drooping eyelids, and reduced coordination. People often underestimate how impaired they already are at this stage, which is why driving is dangerous.
 
-### Come-up (1 h)
+### Come-up (1-2 h)
 
 Gentle calm.
 
@@ -66,11 +66,11 @@ Medically, the peak is when sedation, muscle relaxation, and memory impairment a
 
 On their own, benzodiazepines rarely stop breathing in healthy adults, but combined with opioids or alcohol they greatly deepen respiratory depression. The FDA added its strongest boxed warning about this combination in 2016.
 
-### Plateau (4-12 h)
+### Plateau (long)
 
 Long.
 
-### Comedown (12-36 h)
+### Comedown (many hours)
 
 Fades over many hours.
 

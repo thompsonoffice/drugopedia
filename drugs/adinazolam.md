@@ -46,9 +46,9 @@ Tolerance to the calming and sleep effects of benzodiazepines builds within week
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-45 min)
+### Onset (20-40 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Adinazolam begins within about 20 to 40 minutes.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -56,35 +56,35 @@ Clinicians notice early signs such as slower speech, drooping eyelids, and reduc
 
 ### Come-up (30-60 min)
 
-Relaxation builds.
+Calm with some mood lift.
 
 ### Peak (1-2 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak is relatively mild sedation.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
 On their own, benzodiazepines rarely stop breathing in healthy adults, but combined with opioids or alcohol they greatly deepen respiratory depression. The FDA added its strongest boxed warning about this combination in 2016.
 
-### Plateau (2-4 h)
+### Plateau (1-3 h)
 
-Plateau can be long.
+Short plateau.
 
-### Comedown (4-6 h)
+### Comedown (4-6 h total)
 
-Fades slowly for long-acting ones.
+It fades over about 4 to 6 hours.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
 In people who take them daily, falling levels can trigger withdrawal, which in severe cases includes seizures and delirium. This is why stopping should be a slow medical taper, not a sudden stop.
 
-### After-effects (6-24 h)
+### After-effects (6-12 h)
 
-Next-day sedation and memory gaps.
+Mild grogginess.
 
-### Next day
+### Next day (little)
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Little next-day effect.
 
 ### Lower vs higher doses (described without amounts)
 

@@ -46,7 +46,7 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the injected (intravenous, intramuscular, subcutaneous) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (IV seconds; IM/SC 5-15 min)
+### Onset (about 15 min)
 
 Injection: about 15 minutes.
 
@@ -54,11 +54,11 @@ From a medical point of view, the onset reflects how quickly the drug reaches th
 
 Clinicians watch for early signs at this stage: the pupils begin to narrow, breathing rate drops slightly, the face may flush from histamine release, and the gut slows. Patients often report relief of tension or pain before any pleasure, and some feel lightheaded when standing because blood vessels relax.
 
-### Come-up (IV under 1 min; IM/SC 10-20 min)
+### Come-up (15-30 min)
 
 Drowsiness.
 
-### Peak (IV 2-10 min; IM/SC 20-60 min)
+### Peak (30-60 min)
 
 Peak 30 to 60 minutes.
 
@@ -66,11 +66,11 @@ Medically, the peak corresponds to the highest drug levels at the receptors. The
 
 Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
-### Plateau (30 min-2 h)
+### Plateau (1-4 h)
 
 A few hours.
 
-### Comedown (2-4 h)
+### Comedown (3-6 h total)
 
 Fades over 3 to 6 hours.
 
@@ -78,11 +78,11 @@ The comedown reflects falling blood levels as the liver and kidneys clear the dr
 
 For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
 
-### After-effects (4-12 h)
+### After-effects (6-12 h)
 
 Dizziness, nausea.
 
-### Next day
+### Next day (little)
 
 Little next-day effect.
 

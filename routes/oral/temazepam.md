@@ -12,11 +12,11 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (20-60 min)
+### Onset (30-60 min)
 
 Swallowed: about 30 to 60 minutes.
 
-### Come-up (30-60 min)
+### Come-up (45-90 min)
 
 Heaviness and yawning.
 
@@ -28,15 +28,15 @@ Peak 1 to 2 hours: deep sleepiness.
 
 Sleep for several hours.
 
-### Comedown (6-8 h)
+### Comedown (6-10 h total)
 
 Fades over about 6 to 10 hours.
 
-### After-effects (8-24 h)
+### After-effects (10-24 h)
 
 Grogginess.
 
-### Next day
+### Next day (morning fog)
 
 Morning fog.
 

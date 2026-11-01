@@ -12,31 +12,31 @@ A noticeably quicker and sharper onset than swallowing, with a mild rush or 'dro
 
 ## Timeline for this route
 
-### Onset (5-15 min)
+### Onset (about 15 min)
 
 Nasal spray: within about 15 minutes; injection: a few minutes.
 
-### Come-up (10-20 min)
+### Come-up (15-30 min)
 
 Drowsiness and lightheadedness rise fast.
 
-### Peak (15-45 min)
+### Peak (30-60 min)
 
 Peak around 30 to 60 minutes: heavy sleepiness, dizziness, sometimes a dreamy unreality.
 
-### Plateau (1-2 h)
+### Plateau (1-3 h)
 
 Sedation for a few hours.
 
-### Comedown (2-4 h)
+### Comedown (3-5 h total)
 
 Fades over about 3 to 5 hours.
 
-### After-effects (4-12 h)
+### After-effects (5-12 h)
 
 Headache, nausea, lingering fog.
 
-### Next day
+### Next day (sometimes washed-out)
 
 Some feel washed-out next day.
 

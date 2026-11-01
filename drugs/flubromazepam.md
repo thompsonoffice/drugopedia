@@ -46,45 +46,45 @@ Tolerance to the calming and sleep effects of benzodiazepines builds within week
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-45 min)
+### Onset (30-90 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Flubromazepam begins slowly, around 30 to 90 minutes.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
 Clinicians notice early signs such as slower speech, drooping eyelids, and reduced coordination. People often underestimate how impaired they already are at this stage, which is why driving is dangerous.
 
-### Come-up (30-60 min)
+### Come-up (1-2 h)
 
-Relaxation builds.
+Gradual heaviness.
 
-### Peak (1-2 h)
+### Peak (2-6 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak is moderate sedation and calm.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
 On their own, benzodiazepines rarely stop breathing in healthy adults, but combined with opioids or alcohol they greatly deepen respiratory depression. The FDA added its strongest boxed warning about this combination in 2016.
 
-### Plateau (2-4 h)
+### Plateau (12+ h)
 
-Plateau can be long.
+The plateau is very long.
 
-### Comedown (4-6 h)
+### Comedown (2-4 days)
 
-Fades slowly for long-acting ones.
+It lingers for days because of its very long half-life.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
 In people who take them daily, falling levels can trigger withdrawal, which in severe cases includes seizures and delirium. This is why stopping should be a slow medical taper, not a sudden stop.
 
-### After-effects (6-24 h)
+### After-effects (days)
 
-Next-day sedation and memory gaps.
+Fatigue, memory problems.
 
-### Next day
+### Next day (still active)
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Still active for days.
 
 ### Lower vs higher doses (described without amounts)
 

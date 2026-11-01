@@ -14,31 +14,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ### Onset (15-45 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Flubromazolam starts within about 15 to 45 minutes and can creep up unexpectedly.
 
-### Come-up (30-60 min)
+### Come-up (45-90 min)
 
-Relaxation builds.
+Sedation deepens steadily over the next hour.
 
-### Peak (1-2 h)
+### Peak (2-4 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak is profound: deep sleep or a blackout lasting many hours.
 
-### Plateau (2-4 h)
+### Plateau (4-12 h)
 
-Plateau can be long.
+An unusually long plateau, often half a day or more.
 
-### Comedown (4-6 h)
+### Comedown (12-18 h total)
 
-Fades slowly for long-acting ones.
+The fade can take 12 to 18 hours or longer.
 
-### After-effects (6-24 h)
+### After-effects (1-2 days)
 
-Next-day sedation and memory gaps.
+Prolonged amnesia, unsteadiness.
 
-### Next day
+### Next day (still active)
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Grogginess often lasts into the next day or two.
 
 For the full, detailed description of each phase, see the [general Flubromazolam (designer benzodiazepine) page](../../drugs/flubromazolam.md).
 

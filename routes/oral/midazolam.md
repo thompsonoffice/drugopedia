@@ -12,31 +12,31 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (10-30 min)
 
 IV: 1 to 5 minutes; nasal: about 5 to 10 minutes.
 
-### Come-up (30-60 min)
+### Come-up (15-30 min)
 
 Very quick heaviness.
 
-### Peak (1-2 h)
+### Peak (30-60 min)
 
 Peak within minutes.
 
-### Plateau (2-4 h)
+### Plateau (under 1 h)
 
 Short: about 1 to 2 hours.
 
-### Comedown (4-6 h)
+### Comedown (2-4 h total)
 
 Fades fast.
 
-### After-effects (6-24 h)
+### After-effects (4-8 h)
 
 Amnesia, grogginess.
 
-### Next day
+### Next day (usually none)
 
 Usually no next-day effect.
 

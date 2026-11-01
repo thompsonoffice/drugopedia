@@ -12,33 +12,33 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (30-60 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Metizolam begins within about 30 to 60 minutes.
 
-### Come-up (30-60 min)
+### Come-up (1 h)
 
-Relaxation builds.
+Gentle calm.
 
-### Peak (1-2 h)
+### Peak (1-3 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak is milder than etizolam, with relaxation and drowsiness.
 
-### Plateau (2-4 h)
+### Plateau (3-8 h)
 
-Plateau can be long.
+A long plateau.
 
-### Comedown (4-6 h)
+### Comedown (8-12 h total)
 
-Fades slowly for long-acting ones.
+It fades over about 8 to 12 hours.
 
-### After-effects (6-24 h)
+### After-effects (12-24 h)
 
-Next-day sedation and memory gaps.
+Mild drowsiness.
 
 ### Next day
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Mild fog.
 
 For the full, detailed description of each phase, see the [general Metizolam (designer benzodiazepine) page](../../drugs/metizolam.md).
 

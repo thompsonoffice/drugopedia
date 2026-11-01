@@ -66,11 +66,11 @@ Medically, the peak is when sedation, muscle relaxation, and memory impairment a
 
 On their own, benzodiazepines rarely stop breathing in healthy adults, but combined with opioids or alcohol they greatly deepen respiratory depression. The FDA added its strongest boxed warning about this combination in 2016.
 
-### Plateau (2-8 h)
+### Plateau (several hours)
 
 Long plateau.
 
-### Comedown (8-24 h)
+### Comedown (many hours to days)
 
 Fades over many hours to days.
 

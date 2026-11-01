@@ -12,33 +12,33 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (20-40 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Nifoxipam starts within about 20 to 40 minutes.
 
 ### Come-up (30-60 min)
 
-Relaxation builds.
+Sedation arrives quickly.
 
 ### Peak (1-2 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak is strongly hypnotic: sleep or heavy drowsiness.
 
 ### Plateau (2-4 h)
 
-Plateau can be long.
+A short to medium plateau.
 
-### Comedown (4-6 h)
+### Comedown (6-8 h total)
 
-Fades slowly for long-acting ones.
+It fades over about 6 to 8 hours.
 
-### After-effects (6-24 h)
+### After-effects (8-24 h)
 
-Next-day sedation and memory gaps.
+Grogginess.
 
 ### Next day
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Mild fog.
 
 For the full, detailed description of each phase, see the [general Nifoxipam (designer benzodiazepine) page](../../drugs/nifoxipam.md).
 

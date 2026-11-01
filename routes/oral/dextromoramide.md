@@ -12,31 +12,31 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (10-20 min)
 
 Oral or sublingual: about 10 to 20 minutes.
 
-### Come-up (30-60 min)
+### Come-up (20-40 min)
 
 Rapid warmth and drowsiness.
 
-### Peak (1-2 h)
+### Peak (about 1 h)
 
 Peak within about an hour, quite strong.
 
-### Plateau (2-4 h)
+### Plateau (1-2 h)
 
 Short plateau.
 
-### Comedown (4-6 h)
+### Comedown (2-3 h total)
 
 Fades over 2 to 3 hours.
 
-### After-effects (6-24 h)
+### After-effects (3-12 h)
 
 Craving and restlessness as it wears off.
 
-### Next day
+### Next day (low mood)
 
 Next-day low mood if used heavily.
 

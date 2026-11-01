@@ -12,15 +12,15 @@ Onset sits between swallowing and snorting. It is mostly used medically; experie
 
 ## Timeline for this route
 
-### Onset (10-30 min)
+### Onset (15-30 min)
 
 Injection: a few minutes.
 
-### Come-up (20-40 min)
+### Come-up (30 min)
 
 Warm rush and heaviness.
 
-### Peak (45-90 min)
+### Peak (about 1 h)
 
 Peak within 30 minutes.
 
@@ -28,15 +28,15 @@ Peak within 30 minutes.
 
 Lasts a few hours.
 
-### Comedown (3-6 h)
+### Comedown (3-5 h total)
 
 Fades over 3 to 5 hours.
 
-### After-effects (6-24 h)
+### After-effects (5-12 h)
 
 Nausea, itch.
 
-### Next day
+### Next day (grogginess)
 
 Grogginess.
 

@@ -12,7 +12,7 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (20-60 min)
+### Onset (15-30 min)
 
 Swallowed: about 15 to 30 minutes.
 
@@ -24,11 +24,11 @@ Calm.
 
 Peak 1 to 2 hours.
 
-### Plateau (2-6 h)
+### Plateau (2-4 h)
 
 A few hours.
 
-### Comedown (6-8 h)
+### Comedown (6-8 h total)
 
 Fades over 6 to 8 hours.
 
@@ -36,7 +36,7 @@ Fades over 6 to 8 hours.
 
 Drowsiness.
 
-### Next day
+### Next day (mild fog)
 
 Mild fog.
 

@@ -24,11 +24,11 @@ Sleepiness.
 
 Peak 1 to 2 hours.
 
-### Plateau (2-8 h)
+### Plateau (sleep)
 
 Sleep.
 
-### Comedown (8-12 h)
+### Comedown (metabolite lasts days)
 
 Metabolite lasts for days.
 
@@ -36,7 +36,7 @@ Metabolite lasts for days.
 
 Morning grogginess.
 
-### Next day (still active)
+### Next day (hangover)
 
 Hangover that accumulates.
 

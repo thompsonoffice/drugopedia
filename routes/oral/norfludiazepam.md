@@ -12,33 +12,33 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (1-2 h)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Norfludiazepam begins slowly, about 1 to 2 hours after swallowing.
 
-### Come-up (30-60 min)
+### Come-up (2-4 h)
 
-Relaxation builds.
+Gradual calm.
 
-### Peak (1-2 h)
+### Peak (3-8 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak is mild to moderate sedation.
 
-### Plateau (2-4 h)
+### Plateau (many hours)
 
-Plateau can be long.
+Very long plateau.
 
-### Comedown (4-6 h)
+### Comedown (2-5 days)
 
-Fades slowly for long-acting ones.
+It lingers for days.
 
-### After-effects (6-24 h)
+### After-effects (days)
 
-Next-day sedation and memory gaps.
+Fatigue.
 
-### Next day
+### Next day (still active)
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Still active for days.
 
 For the full, detailed description of each phase, see the [general Norfludiazepam (designer benzodiazepine) page](../../drugs/norfludiazepam.md).
 

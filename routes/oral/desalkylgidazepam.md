@@ -12,33 +12,33 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (45-90 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Desalkylgidazepam (bromonordiazepam) starts slowly, about 45 to 90 minutes.
 
-### Come-up (30-60 min)
+### Come-up (1-2 h)
 
-Relaxation builds.
+Diazepam-like heaviness.
 
-### Peak (1-2 h)
+### Peak (2-6 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak is moderate sedation.
 
-### Plateau (2-4 h)
+### Plateau (many hours)
 
-Plateau can be long.
+Very long plateau.
 
-### Comedown (4-6 h)
+### Comedown (1-3 days)
 
-Fades slowly for long-acting ones.
+It fades over one to three days.
 
-### After-effects (6-24 h)
+### After-effects (days)
 
-Next-day sedation and memory gaps.
+Sleepiness.
 
-### Next day
+### Next day (still active)
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Still active.
 
 For the full, detailed description of each phase, see the [general Desalkylgidazepam (bromonordiazepam) (designer benzodiazepine) page](../../drugs/desalkylgidazepam.md).
 

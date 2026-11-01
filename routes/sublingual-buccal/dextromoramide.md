@@ -12,31 +12,31 @@ Slower and steadier than injecting or snorting, faster than swallowing for some 
 
 ## Timeline for this route
 
-### Onset (10-30 min)
+### Onset (about 10 min)
 
 Oral or sublingual: about 10 to 20 minutes.
 
-### Come-up (30-60 min)
+### Come-up (10-30 min)
 
 Rapid warmth and drowsiness.
 
-### Peak (1-3 h)
+### Peak (under 1 h)
 
 Peak within about an hour, quite strong.
 
-### Plateau (2-4 h)
+### Plateau (1-2 h)
 
 Short plateau.
 
-### Comedown (4-8 h)
+### Comedown (2-3 h total)
 
 Fades over 2 to 3 hours.
 
-### After-effects (8-24 h)
+### After-effects (3-12 h)
 
 Craving and restlessness as it wears off.
 
-### Next day
+### Next day (low mood)
 
 Next-day low mood if used heavily.
 

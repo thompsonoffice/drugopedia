@@ -12,33 +12,33 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (15-30 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Bromazolam begins within about 15 to 30 minutes and feels similar to alprazolam at first.
 
 ### Come-up (30-60 min)
 
-Relaxation builds.
+Calm and heaviness rise fast.
 
 ### Peak (1-2 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak is heavy sedation and amnesia; when fentanyl is also present, as often happens in street supplies, breathing can stop.
 
 ### Plateau (2-4 h)
 
-Plateau can be long.
+Plateau of a few hours.
 
-### Comedown (4-6 h)
+### Comedown (5-8 h total)
 
-Fades slowly for long-acting ones.
+It fades over about 5 to 8 hours.
 
-### After-effects (6-24 h)
+### After-effects (8-24 h)
 
-Next-day sedation and memory gaps.
+Grogginess; people may wake up in hospital without memory.
 
 ### Next day
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Rebound anxiety.
 
 For the full, detailed description of each phase, see the [general Bromazolam (designer benzodiazepine) page](../../drugs/bromazolam.md).
 

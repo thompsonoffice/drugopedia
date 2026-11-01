@@ -12,33 +12,33 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (20-40 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Adinazolam begins within about 20 to 40 minutes.
 
 ### Come-up (30-60 min)
 
-Relaxation builds.
+Calm with some mood lift.
 
 ### Peak (1-2 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak is relatively mild sedation.
 
-### Plateau (2-4 h)
+### Plateau (1-3 h)
 
-Plateau can be long.
+Short plateau.
 
-### Comedown (4-6 h)
+### Comedown (4-6 h total)
 
-Fades slowly for long-acting ones.
+It fades over about 4 to 6 hours.
 
-### After-effects (6-24 h)
+### After-effects (6-12 h)
 
-Next-day sedation and memory gaps.
+Mild grogginess.
 
-### Next day
+### Next day (little)
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Little next-day effect.
 
 For the full, detailed description of each phase, see the [general Adinazolam (designer benzodiazepine) page](../../drugs/adinazolam.md).
 

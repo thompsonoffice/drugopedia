@@ -46,7 +46,7 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-45 min)
+### Onset (about 30 min)
 
 Oral: about 30 minutes.
 
@@ -70,7 +70,7 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 A few hours of sedation.
 
-### Comedown (4-6 h)
+### Comedown (4-6 h total)
 
 Fades over 4 to 6 hours.
 
@@ -82,7 +82,7 @@ For long-acting or extended-release forms, the comedown can be very drawn out, a
 
 Dry mouth, confusion, constipation.
 
-### Next day
+### Next day (grogginess)
 
 Grogginess next day.
 

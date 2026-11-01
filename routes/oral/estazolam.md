@@ -20,23 +20,23 @@ Swallowed: about 30 to 60 minutes.
 
 Drowsiness.
 
-### Peak (2 h)
+### Peak (1-2 h)
 
 Peak about 1 to 2 hours.
 
-### Plateau (2-6 h)
+### Plateau (sleep)
 
 Sleep.
 
-### Comedown (6-10 h)
+### Comedown (8-12 h total)
 
 Fades over 8 to 12 hours.
 
-### After-effects (10-24 h)
+### After-effects (12-24 h)
 
 Grogginess.
 
-### Next day
+### Next day (mild fog)
 
 Mild morning fog.
 

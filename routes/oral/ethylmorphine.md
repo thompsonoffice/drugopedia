@@ -12,11 +12,11 @@ Swallowing gives the slowest, smoothest, longest experience of the fast routes. 
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (30-60 min)
 
 Oral: about 30 to 60 minutes.
 
-### Come-up (30-60 min)
+### Come-up (45-90 min)
 
 Mild warmth.
 
@@ -28,15 +28,15 @@ Peak 1 to 2 hours, mild.
 
 A few hours of calm.
 
-### Comedown (4-6 h)
+### Comedown (4-6 h total)
 
 Fades over 4 to 6 hours.
 
-### After-effects (6-24 h)
+### After-effects (6-12 h)
 
 Constipation, itch.
 
-### Next day
+### Next day (little)
 
 Little next-day effect.
 

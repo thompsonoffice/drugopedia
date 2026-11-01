@@ -30,7 +30,7 @@ Clonazepam has no extended-release form; it is naturally long-acting.
 
 ## What the pills feel like
 
-Klonopin tablets are small and round with a 'K'-shaped cut-out through the center on the brand; generics are small, round, and scored. Orally disintegrating tablets are round and dissolve quickly.
+Per the DailyMed Klonopin label, the brand tablets have a K-shaped perforation (a cut-out you can feel), with the lowest strength also scored; one generic maker's label lists a round, flat-faced tablet with beveled edges and a score line; generics are small, round, and scored. Orally disintegrating tablets are round and dissolve quickly.
 
 **Touch cannot confirm what a pill is.** Different manufacturers make the same medicine in different shapes and sizes, and counterfeit pills, such as fake 'M30' oxycodone 'blues' or fake Xanax 'bars', are pressed to imitate real ones and often contain fentanyl or designer benzodiazepines. Safer ways to check: ask a pharmacist (they can identify a pill from its imprint), use a pill-identifier app or a screen-reader-friendly service such as Be My Eyes or Seeing AI to read the imprint aloud and look it up on DailyMed or Drugs.com, keep medicines in labeled pharmacy bottles, and use fentanyl test strips on anything not from a pharmacy.
 

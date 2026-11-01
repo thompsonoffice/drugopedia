@@ -24,11 +24,11 @@ Muscle and mental relaxation.
 
 Peak around 1 to 2 hours.
 
-### Plateau (2-8 h)
+### Plateau (several hours)
 
 Long plateau.
 
-### Comedown (8-24 h)
+### Comedown (many hours to days)
 
 Fades over many hours to days.
 

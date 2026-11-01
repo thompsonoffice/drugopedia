@@ -46,7 +46,7 @@ Tolerance changes everything here. Someone who has never used opioids feels far 
 
 Times below are typical for the oral (swallowed) route and vary a lot between people. Other routes change the timing; see the route pages.
 
-### Onset (15-45 min)
+### Onset (15-30 min)
 
 Oral: about 15 to 30 minutes; injection: a few minutes.
 
@@ -66,11 +66,11 @@ Medically, the peak corresponds to the highest drug levels at the receptors. The
 
 Hospital staff monitor sedation and breathing most closely at this point. Signs that the effect is turning dangerous include deepening sleepiness, snoring or gurgling, breathing slower than about one breath every five seconds, and difficulty waking. Mixing with alcohol, benzodiazepines, gabapentinoids, or other sedatives makes this phase far more dangerous.
 
-### Plateau (2-4 h)
+### Plateau (2-3 h)
 
 Sedation for a few hours.
 
-### Comedown (4-6 h)
+### Comedown (3-4 h total)
 
 Fades over about 3 to 4 hours.
 
@@ -78,11 +78,11 @@ The comedown reflects falling blood levels as the liver and kidneys clear the dr
 
 For long-acting or extended-release forms, the comedown can be very drawn out, and drug can remain active well after the person feels 'normal'. That is one reason taking more during the comedown is a common cause of overdose: the new amount stacks on drug that is still present.
 
-### After-effects (6-24 h)
+### After-effects (4-12 h)
 
 Possible nightmares, sweating, dizziness.
 
-### Next day
+### Next day (may feel unsettled)
 
 Some feel unsettled next day.
 

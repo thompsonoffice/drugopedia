@@ -12,31 +12,31 @@ Intravenous use produces the classic 'rush': within seconds a hot, intense wave 
 
 ## Timeline for this route
 
-### Onset (under 1 min)
+### Onset (about 1 min)
 
 IV: about one minute.
 
-### Come-up (seconds)
+### Come-up (immediate)
 
 Immediate.
 
-### Peak (1-5 min)
+### Peak (within minutes)
 
 Peak within minutes of starting or changing an infusion.
 
-### Plateau (5-30 min (remifentanil ends within minutes of stopping))
+### Plateau (only during infusion)
 
 Steady only while the infusion runs.
 
-### Comedown (under 1 h)
+### Comedown (5-10 min after stopping)
 
 Gone within about 5 to 10 minutes of stopping.
 
-### After-effects (1-4 h)
+### After-effects (under 1 h)
 
 Rebound pain, shivering, nausea.
 
-### Next day
+### Next day (none)
 
 No drug left by next day.
 

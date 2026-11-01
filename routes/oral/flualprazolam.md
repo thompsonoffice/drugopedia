@@ -12,33 +12,33 @@ Swallowing is the standard medical route. Effects build gradually, with no rush;
 
 ## Timeline for this route
 
-### Onset (15-45 min)
+### Onset (10-30 min)
 
-Onset reports vary; many begin within 15 to 60 minutes when swallowed.
+Swallowed, flualprazolam usually begins within about 10 to 30 minutes, faster and more abruptly than alprazolam.
 
 ### Come-up (30-60 min)
 
-Relaxation builds.
+A wave of heaviness and loosened inhibition follows quickly.
 
-### Peak (1-2 h)
+### Peak (1-3 h)
 
-Peak: sedation, calm, and memory loss; blackouts are common.
+The peak brings heavy sedation and memory loss; many people do not remember the peak at all.
 
-### Plateau (2-4 h)
+### Plateau (3-8 h)
 
-Plateau can be long.
+A long plateau of drowsiness, often longer than alprazolam.
 
-### Comedown (4-6 h)
+### Comedown (6-14 h total)
 
-Fades slowly for long-acting ones.
+Effects fade over roughly 6 to 14 hours.
 
-### After-effects (6-24 h)
+### After-effects (14-24 h)
 
-Next-day sedation and memory gaps.
+Grogginess, confusion and patchy memory.
 
 ### Next day
 
-Daily use leads to dependence; withdrawal can cause seizures and may need hospital care.
+Next-day sedation and rebound anxiety are common.
 
 For the full, detailed description of each phase, see the [general Flualprazolam (designer benzodiazepine) page](../../drugs/flualprazolam.md).
 

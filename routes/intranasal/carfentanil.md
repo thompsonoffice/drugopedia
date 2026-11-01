@@ -12,31 +12,31 @@ A noticeably quicker and sharper onset than swallowing, with a mild rush or 'dro
 
 ## Timeline for this route
 
-### Onset (5-15 min)
+### Onset (seconds to minutes)
 
 Seconds to minutes by any route.
 
-### Come-up (10-20 min)
+### Come-up (none)
 
 None to speak of: collapse can come first.
 
-### Peak (15-45 min)
+### Peak (collapse possible)
 
 Profound sedation and breathing failure.
 
-### Plateau (1-2 h)
+### Plateau (long)
 
 Long-acting; can outlast naloxone.
 
-### Comedown (2-4 h)
+### Comedown (can outlast naloxone)
 
 Overdose can return after naloxone wears off.
 
-### After-effects (4-12 h)
+### After-effects (hours)
 
 Severe exhaustion, possible brain injury from low oxygen.
 
-### Next day
+### Next day (medical follow-up)
 
 Medical follow-up needed.
 
