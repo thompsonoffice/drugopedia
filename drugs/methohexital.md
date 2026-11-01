@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV under 1 min)
 
-Given IV, methohexital causes unconsciousness within about 30 to 60 seconds.
+Methohexital (Brevital) is an ultra-short-acting anesthetic given only by clinicians in procedures. The onset is extremely fast: a brief taste or tingle, a sense of the room receding, and unconsciousness within moments.
+
+Mentally there is barely time to notice anything beyond a sudden heavy drop, sometimes with a fleeting dreamy or floating sensation.
+
+Some patients have hiccups or small muscle twitches as it takes hold.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Methohexital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -60,7 +64,11 @@ Immediate.
 
 ### Peak (within 1 min)
 
-Deep unconsciousness for a few minutes; muscle twitches and hiccups can occur.
+During its peak the patient is unconscious and breathing may need support.
+
+There is no remembered experience of this phase.
+
+It is only safe with airway equipment and monitoring.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (5-10 min)
 
-Five to ten minutes.
+Effects pass within minutes.
+
+Patients wake fairly clear-headed.
+
+It is not a drug encountered outside medical settings.
 
 ### Comedown (10-20 min)
 
-Wakes within 10 to 20 minutes.
+Waking can bring grogginess and mild nausea.
+
+Some feel briefly confused or emotional.
+
+Single medical use does not cause dependence.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

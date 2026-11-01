@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Swallowed amobarbital begins within about 15 to 30 minutes with a loosening of speech; this is why it was used in 'Amytal interviews'.
+Amobarbital ('blue heavens', and with secobarbital in Tuinal, 'rainbows') has a moderate onset: a warm heaviness, softening muscles, and a gradual drunken looseness.
+
+Mentally it brings calm, talkative disinhibition. Historically it was used as a so-called 'truth serum' because people became unguarded and drowsily chatty.
+
+Speech slurs and balance falters early.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Amobarbital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -60,7 +64,11 @@ Inhibitions fall and words come easily.
 
 ### Peak (1-2 h)
 
-The peak is a drunk-like sedation, slurred and unsteady.
+At the peak the body is heavy and uncoordinated, and the mind floats in a sleepy, uninhibited haze.
+
+Emotionally people feel carefree but can become confused, tearful or irritable, and memory fades.
+
+Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (2-4 h)
 
-A few hours.
+The plateau is a long, drowsy, intoxicated stretch.
+
+Thinking is slow and judgment poor.
+
+Its intermediate duration means effects can carry on for many hours.
 
 ### Comedown (6-8 h)
 
-Fades over 6 to 8 hours.
+The comedown brings hangover-like grogginess and headache.
+
+Mood is often low and anxious.
+
+After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

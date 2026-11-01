@@ -50,7 +50,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Swallowed, it begins within about 15 to 30 minutes.
+Butalbital is found mainly in headache combinations (Fioricet, Fiorinal), alongside acetaminophen or aspirin and caffeine. Its onset is a gentle, warm relaxation of the neck, scalp and shoulders, where tension headaches live, with a light drowsy heaviness.
+
+Mentally there is a mild, calm ease and sometimes a soft, slightly tipsy feeling. The caffeine in the combination can make this feel more alert and talkative than a pure sedative.
+
+Some feel lightheaded or slightly nauseated.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Butalbital has a half-life of about 35 hours and is processed by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -62,7 +66,11 @@ Calm and looseness.
 
 ### Peak (1-2 h)
 
-Peak around 1 to 2 hours.
+At the peak the headache recedes, muscles loosen, and a mellow, warm calm settles in, often described as a light alcohol buzz.
+
+Emotionally people feel content and unbothered; with more, slurring and clumsiness appear.
+
+Large amounts of the combination products also carry acetaminophen liver damage or aspirin toxicity. Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -70,11 +78,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (2-4 h)
 
-Several hours.
+The plateau is a steady, relaxed drowsiness.
+
+Concentration dulls.
+
+Driving is unsafe.
 
 ### Comedown (4-8 h)
 
-Fades over about 4 to 8 hours (long half-life).
+As it fades, the headache can return, sometimes worse: frequent use causes medication-overuse 'rebound' headaches.
+
+Mood may be irritable or anxious.
+
+After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

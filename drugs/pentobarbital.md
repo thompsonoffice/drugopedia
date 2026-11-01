@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV about 1 min)
 
-IV: within about 1 minute; swallowed: about 15 minutes.
+Pentobarbital (Nembutal, 'yellow jackets') produces a fast, smooth slide into sedation. A warm, heavy wave moves through the body, the eyelids drop, and limbs feel weighted and slow.
+
+Mentally the onset is a soft, carefree detachment. Anxiety dissolves and a drunk-like looseness takes over, with slurred speech and slowed thought.
+
+Medically it is now used mostly in hospitals for brain swelling, uncontrolled seizures and anesthesia, and in veterinary euthanasia, which reflects how powerfully it suppresses the brain.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Pentobarbital is processed by the liver with a half-life of about 15 to 50 hours. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -60,7 +64,11 @@ Rapid heaviness.
 
 ### Peak (within minutes)
 
-Peak within minutes IV.
+At the peak the body is heavy, numb and uncoordinated, and the pull toward sleep is strong. Breathing slows and deepens.
+
+Emotionally the peak is a hazy, dreamlike calm, with fading memory and little awareness of time.
+
+Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (15 min-several h)
 
-A few hours.
+The plateau is deep sleep for most people, sometimes so deep they are hard to wake.
+
+Those awake are confused and disoriented.
+
+Breathing and blood pressure remain low throughout.
 
 ### Comedown (3-4 h)
 
-Fades over 3 to 4 hours of main effect.
+The comedown is a groggy, heavy-headed hangover.
+
+Mood is flat, slowed or irritable.
+
+After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

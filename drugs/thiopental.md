@@ -48,7 +48,11 @@ Times below are typical for the injected (intravenous, intramuscular, subcutaneo
 
 ### Onset (IV 30-60 sec)
 
-Given IV, thiopental causes unconsciousness within about 30 to 60 seconds, often with a garlic or onion taste.
+Thiopental (Pentothal), historically the standard anesthesia induction drug, works within seconds: a garlic-like taste, a heavy drop of the eyelids and loss of consciousness.
+
+Mentally people sometimes recall a brief, warm floating sensation or a feeling of being pulled down.
+
+It was popularly called a 'truth serum', but it does not make people tell the truth.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Thiopental is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -60,7 +64,11 @@ Immediate.
 
 ### Peak (within 1 min)
 
-Deep anesthesia.
+At the peak the person is unconscious, with suppressed breathing and lowered blood pressure.
+
+There is no experience to remember.
+
+It requires airway support and monitoring.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (5-10 min)
 
-Five to ten minutes after a single dose.
+Consciousness returns within minutes, but sedation lingers.
+
+People are drowsy and slow.
+
+It is no longer made in the US.
 
 ### Comedown (10-30 min)
 
-Waking within 10 to 30 minutes, but it builds up in fat with repeated doses.
+The comedown brings grogginess and hangover for hours.
+
+Mood may be flat.
+
+Not used outside medicine.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

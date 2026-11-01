@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Swallowed, it starts slowly, over about 1 hour.
+Phenobarbital is long-acting and slow: rather than a rush, it brings a gradual, deepening drowsiness and heaviness over hours.
+
+Mentally the onset is a dull, sleepy calm with slowed thinking. For people taking it daily for epilepsy, it often feels like little more than tiredness and mental slowness.
+
+Clumsiness and slurred speech appear as levels rise.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Phenobarbital is partly cleared by the kidneys and partly by the liver, with a half-life of about 2 to 5 days; it speeds up the breakdown of many other medicines. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -60,7 +64,11 @@ A heavy, creeping drowsiness.
 
 ### Peak (4-12 h)
 
-The peak is reached after several hours, with deep sedation.
+At the peak the body is heavy and sluggish, with poor balance and a strong pull toward sleep.
+
+Emotionally it is muted, foggy and sometimes low; in children and older adults it can paradoxically cause agitation.
+
+Because it lasts so long, sedation builds with repeated use. Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (10-12 h)
 
-Long plateau of many hours.
+The plateau can last a day or more, a long, slow-witted drowsiness.
+
+Memory and concentration are noticeably dulled.
+
+Some people develop depression on long-term use.
 
 ### Comedown (1-3 days)
 
-It fades over a day or more; its half-life is several days.
+The comedown is very gradual, with lingering grogginess.
+
+Mood may stay flat for days.
+
+After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Aprobarbital begins within about 30 to 60 minutes.
+Aprobarbital (Alurate) brings a moderate onset of warm drowsiness and heavy limbs.
+
+Mentally a loose, calm ease.
+
+Speech and balance soften.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Aprobarbital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -60,7 +64,11 @@ Calm and drowsiness.
 
 ### Peak (1-3 h)
 
-The peak is moderate sedation and sleep.
+At the peak strong sleepiness and clumsiness.
+
+Emotionally foggy contentment.
+
+Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (3-6 h)
 
-Several hours.
+The plateau is a long drowsy stretch.
+
+Thinking slow.
+
+Falls are a risk.
 
 ### Comedown (6-8 h)
 
-Fades over 6 to 8 hours.
+The comedown is groggy.
+
+Mood flat.
+
+After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

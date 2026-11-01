@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Barbital starts slowly, about an hour after swallowing.
+Barbital (Veronal), the first commercial barbiturate, has a slow onset of heavy, spreading drowsiness.
+
+Mentally a sleepy, hazy calm.
+
+Coordination fades as it builds.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Barbital is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -60,7 +64,11 @@ Heavy drowsiness creeps in.
 
 ### Peak (several hours)
 
-The peak is a deep, unrefreshing sleep.
+At the peak deep sedation and unsteadiness.
+
+Emotionally dull and drowsy, with memory gaps.
+
+Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (many hours)
 
-Many hours.
+Its very long action means a long, heavy plateau.
+
+Thinking stays slow.
+
+Accumulation with repeat use is a danger.
 
 ### Comedown (1-3 days)
 
-It lingers for a day or more because it is cleared slowly by the kidneys.
+The comedown is a prolonged hangover.
+
+Mood low and slowed.
+
+After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

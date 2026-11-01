@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (10-15 min)
 
-Swallowed, it starts within about 10 to 15 minutes.
+Secobarbital (the old 'red devils') comes on fairly quickly as a warm, spreading heaviness. The arms and legs feel thick and sluggish, the head sways slightly, and a pleasant flush of warmth moves up the chest into the face, very much like the first strong drink of an evening.
+
+Mentally the onset brings a loosening, disinhibited ease. Self-consciousness drops away, worries feel far off, and people often become talkative, giggly or emotional. Many who have tried both describe it as closer to being drunk than to the cooler, more contained calm of a benzodiazepine.
+
+Coordination slips early: speech slurs, steps become uncertain, and the eyes may flick side to side (nystagmus). Judgment fades before the person feels very impaired.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Secobarbital is processed by the liver with a half-life of about 15 to 40 hours, though the main effect is much shorter. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -60,7 +64,11 @@ A rapid wave of looseness and euphoria.
 
 ### Peak (about 1 h)
 
-Peak around 1 hour: heavy intoxication or sleep.
+At the peak the body feels heavy, rubbery and numb, as though wrapped in warm blankets. Walking is a stagger, fingers fumble, and the room may sway or spin when the eyes close. Pain and discomfort seem very distant.
+
+Emotionally the peak is a sloppy, carefree euphoria that can swing quickly: laughter turns to tears or to irritable, belligerent moods. Memory begins to fail, and many people later have gaps in what happened.
+
+Barbiturates have a narrow gap between a sedating amount and a fatal one, and unlike benzodiazepines they can stop breathing on their own. Very deep sleep that the person cannot be roused from, slow or irregular breathing, cold clammy skin, or blue lips is an emergency; with alcohol or opioids the danger rises steeply. Naloxone does not reverse barbiturates.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (1-3 h)
 
-A few hours.
+The plateau is a deep, drunken drowsiness that slides easily into heavy sleep. Those who stay awake are slurred, confused and clumsy.
+
+Thinking is foggy and emotional control is poor. People may repeat themselves or act on impulse.
+
+Falls, choking on vomit while sedated, and breathing failure are the main dangers in this stretch.
 
 ### Comedown (3-4 h main effect)
 
-Fades over about 3 to 4 hours of main effect.
+As secobarbital wears off, a heavy hangover sets in: dull headache, dry mouth, aching body and grogginess.
+
+Emotionally the comedown is often low, irritable and anxious, with shame or confusion about forgotten events.
+
+After regular use, barbiturate withdrawal is among the most dangerous of any drug: anxiety, tremor, sweating, delirium, high fever and grand mal seizures can occur, and it can be fatal. Stopping must be medically supervised.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 

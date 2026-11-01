@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Primidone takes 1 to 2 hours to begin; early doses often cause dizziness and nausea.
+Primidone (Mysoline) is an epilepsy and tremor medicine that the body converts partly to phenobarbital. The first doses often bring an unexpectedly strong, unpleasant onset: dizziness, nausea, unsteadiness and a heavy, drugged sleepiness.
+
+Mentally there is fogginess and slowed thinking rather than euphoria.
+
+Tolerance to these first-dose effects develops over days to weeks.
 
 Medically, the onset reflects how quickly the barbiturate dissolves in fat and crosses into the brain. Primidone is processed mainly by the liver. Short-acting barbiturates enter the brain fast; long-acting phenobarbital is slower.
 
@@ -60,7 +64,11 @@ Unsteadiness.
 
 ### Peak (3-4 h)
 
-The peak brings drowsiness and, in the first weeks, clumsiness.
+At the peak, people feel drowsy, unsteady and sometimes nauseated.
+
+Emotionally flat; some feel low or irritable.
+
+Overdose resembles phenobarbital overdose with deep sedation and slowed breathing.
 
 Medically, the peak is when GABA-A channels are held open longest. Unlike benzodiazepines, barbiturates at higher levels can open these channels directly, so there is no ceiling: breathing, blood pressure, and body temperature can all fall, and coma can follow.
 
@@ -68,11 +76,19 @@ The gap between sedation and fatal poisoning is narrow, and alcohol greatly narr
 
 ### Plateau (many hours)
 
-Long.
+The plateau is long, with steady drowsiness.
+
+Concentration is dulled.
+
+Driving should wait until effects are known.
 
 ### Comedown (1-3 days (phenobarbital))
 
-Its phenobarbital metabolite lasts for days.
+The comedown is gradual.
+
+Mood mostly steady on regular use.
+
+Stopping suddenly can trigger seizures.
 
 As levels fall, the person may remain clumsy and confused for hours, and barbiturates disturb normal sleep stages, so people often wake unrefreshed.
 
