@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Swallowed, it starts within about 30 minutes.
+Ramelteon (Rozerem) acts like the body's own melatonin. The onset is subtle: a mild sense that it is time for bed, with little else.
+
+Mentally neutral, no high.
+
+Some feel mild dizziness.
 
 Medically, the onset reflects absorption and entry into the brain. Ramelteon is processed by CYP1A2; fluvoxamine strongly raises its levels. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -60,7 +64,11 @@ Gentle sleepiness.
 
 ### Peak (about 45 min)
 
-Peak about 45 minutes.
+At the peak, gentle sleepiness.
+
+Emotionally unchanged.
+
+It is not known to cause overdose deaths alone.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -68,11 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-Sleep.
+The plateau is a quiet, natural-feeling sleep.
+
+Some notice vivid dreams.
+
+Next-day grogginess is uncommon.
 
 ### Comedown (2-5 h)
 
-Fades over a few hours.
+Waking is usually clear.
+
+Mood unchanged.
+
+It is not considered addictive.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

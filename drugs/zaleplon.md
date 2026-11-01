@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-20 min)
 
-Swallowed, it starts within about 15 to 20 minutes.
+Zaleplon (Sonata) has the fastest and shortest action of the 'Z-drugs'. The body grows heavy and relaxed quickly, with a soft, swimmy dizziness.
+
+Mentally a quick, dreamy drowsiness sets in. Fighting sleep can bring a brief zolpidem-like giddiness and odd perceptions.
+
+Memory for the period after taking it may be poor.
 
 Medically, the onset reflects absorption and entry into the brain. Zaleplon is processed by aldehyde oxidase and CYP3A4, with a half-life of about 1 hour. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -60,7 +64,11 @@ Fast heaviness.
 
 ### Peak (about 1 h)
 
-Peak around 1 hour.
+At the peak, the pull to sleep is strong; awake, people are unsteady and foggy.
+
+Emotionally mellow or slightly disinhibited, with possible mild visual distortions.
+
+Complex sleep behaviors can occur. Combining with alcohol or other depressants is dangerous.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -68,11 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (1-2 h)
 
-Short plateau.
+The plateau is brief, often under a couple of hours.
+
+Most people are asleep.
+
+Because it clears quickly, next-day grogginess is less common.
 
 ### Comedown (3-4 h total)
 
-Fades in about 3 to 4 hours.
+Waking is usually fairly clear.
+
+Mood steady.
+
+Tolerance and rebound insomnia can develop with regular use.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

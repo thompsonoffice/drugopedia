@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Swallowed, it begins within about 1 hour.
+Mirogabalin (Tarlige), used mainly in Japan for nerve pain, has an onset of mild drowsiness and dizziness with dulling of pain.
+
+Mentally a quiet calm, generally without much euphoria.
+
+Unsteadiness and swelling of the legs are reported.
 
 Medically, the onset reflects slow and variable absorption. Mirogabalin is cleared mostly by the kidneys with a half-life of about 3 hours. Gabapentin is absorbed by a transporter in the gut that saturates, so more is not absorbed in proportion; pregabalin is absorbed more fully and quickly.
 
@@ -60,7 +64,11 @@ Gradual dizziness.
 
 ### Peak (about 1 h)
 
-Peak around 1 hour for blood levels; effects feel steady.
+At the peak sleepiness and wobbly balance.
+
+Emotionally mellow.
+
+Combining with opioids or other depressants adds sedation.
 
 Medically, the peak brings the strongest dizziness, unsteadiness, and sedation. Some people feel calm sociability or mild euphoria; others feel only clumsy and sleepy.
 
@@ -68,11 +76,19 @@ In 2019 the FDA warned that gabapentinoids can cause serious breathing problems 
 
 ### Plateau (several hours)
 
-Several hours.
+The plateau is a steady mild sedation.
+
+Thinking slightly slowed.
+
+Falls are a risk in older adults.
 
 ### Comedown (about 12 h)
 
-Fades over about 12 hours.
+The comedown is mild tiredness.
+
+Mood mostly unchanged.
+
+Stopping suddenly may cause withdrawal symptoms.
 
 As levels fall, dizziness and sedation fade over several hours. Sleep is often deep.
 

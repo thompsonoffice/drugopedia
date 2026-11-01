@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Glutethimide began within about 30 minutes, with heavy sedation and a very dry mouth.
+Glutethimide (Doriden), a discontinued 1950s sleep drug, brings a slow, heavy drowsiness with strong dry mouth and blurry vision, because it has anticholinergic effects too.
+
+Mentally a sedated, dreamy calm. In the 1980s it was combined with codeine as 'loads' or 'hits', producing a heavy, long-lasting opioid-like high.
+
+Coordination slips early.
 
 Medically, the onset reflects absorption and entry into the brain. Glutethimide was processed by the liver. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -60,7 +64,11 @@ Clumsiness and drowsiness.
 
 ### Peak (1-2 h)
 
-The peak was barbiturate-like; with codeine ('loads') it greatly deepened opioid effects.
+At the peak deep sedation, dry skin, wide pupils and clumsiness.
+
+Emotionally a muffled, drunken contentment.
+
+Overdose was notoriously hard to treat, with fluctuating coma, low blood pressure and seizures. The codeine combination caused many deaths.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -68,11 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (2-6 h)
 
-Several hours.
+The plateau is very long.
+
+Thinking muddled.
+
+Effects can return after seeming to fade.
 
 ### Comedown (many hours)
 
-It faded over many hours, and its fat solubility made overdoses last days.
+The comedown is a heavy hangover.
+
+Mood low.
+
+Severe dependence and seizures on withdrawal occurred.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

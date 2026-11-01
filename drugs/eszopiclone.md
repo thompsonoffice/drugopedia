@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Swallowed, it starts within about 30 minutes.
+Eszopiclone (Lunesta) is known first for its taste: a strong bitter, metallic flavor that can linger in the mouth into the next day. The onset brings a heavy, warm drowsiness and loose limbs.
+
+Mentally it produces a calm, sinking sleepiness; awake, it can bring a mild dreamy disinhibition.
+
+Dizziness on standing is common.
 
 Medically, the onset reflects absorption and entry into the brain. Eszopiclone is processed by CYP3A4 with a half-life of about 6 hours. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -60,7 +64,11 @@ Drowsiness grows.
 
 ### Peak (about 1 h)
 
-Peak around 1 hour.
+At the peak sleep pulls strongly. Those awake are clumsy and forgetful.
+
+Emotionally mellow, sometimes confused.
+
+Complex sleep behaviors and dangerous combinations with alcohol or opioids apply as with zolpidem.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -68,11 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-Sleep.
+The plateau is longer than zolpidem's, carrying sedation through the night.
+
+Memory is patchy.
+
+Next-morning impairment is possible, so driving early is risky.
 
 ### Comedown (6-8 h total)
 
-Fades over about 6 to 8 hours.
+Waking may be groggy, with the bitter taste still present.
+
+Mood may be flat.
+
+Dependence and rebound insomnia can occur with regular use.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

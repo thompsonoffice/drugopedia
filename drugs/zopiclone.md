@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Swallowed, it starts within about 30 minutes.
+Zopiclone (Imovane, Zimovane) shares eszopiclone's bitter, metallic taste. The onset is a heavy, warm sleepiness and loosening of the body.
+
+Mentally a dreamy calm, and if sleep is resisted, a drunken giddiness and possible visual distortions.
+
+Coordination and memory fade early.
 
 Medically, the onset reflects absorption and entry into the brain. Zopiclone has a half-life of about 5 hours. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -60,7 +64,11 @@ Drowsiness.
 
 ### Peak (1-2 h)
 
-Peak 1 to 2 hours.
+At the peak strong sedation, slurring and unsteadiness.
+
+Emotionally disinhibited or confused, with memory gaps.
+
+Combining with alcohol, opioids or benzos is dangerous.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -68,11 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-Sleep.
+The plateau carries sedation through the night.
+
+Thinking foggy.
+
+Next-day drowsiness and impaired driving are documented.
 
 ### Comedown (6-8 h total)
 
-Fades over about 6 to 8 hours.
+Waking is often groggy, with a bad taste.
+
+Mood flat or irritable.
+
+Dependence and withdrawal similar to benzodiazepines can develop.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

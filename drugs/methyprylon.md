@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 45 min)
 
-Methyprylon began within about 45 minutes.
+Methyprylon (Noludar), a discontinued sleep drug, brought a gradual, heavy, barbiturate-like drowsiness.
+
+Mentally a calm, sleepy fog.
+
+Coordination slowed.
 
 Medically, the onset reflects absorption and entry into the brain. Methyprylon was processed by the liver. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -60,7 +64,11 @@ Drowsiness.
 
 ### Peak (1-2 h)
 
-The peak was barbiturate-like sleep.
+At the peak strong sedation.
+
+Emotionally dull.
+
+Overdose caused coma and low blood pressure.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -68,11 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-Sleep.
+The plateau is sleep.
+
+Thinking slow.
+
+Alcohol made it far more dangerous.
 
 ### Comedown (5-8 h)
 
-Faded over 5 to 8 hours.
+The comedown is a hangover.
+
+Mood flat.
+
+Dependence occurred with regular use.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (15-30 min)
 
-Swallowed, zolpidem usually starts within about 15 to 30 minutes.
+Zolpidem (Ambien) works fast. Within a short time the body feels suddenly heavy and warm, the eyelids droop, and a slightly drunken looseness spreads through the limbs. Some people feel a tingling or buzzing in the hands, face or scalp, and the floor can seem to tilt underfoot.
+
+Mentally zolpidem's onset is distinctive. If the person lies down in the dark, sleep usually comes quickly. If they fight it, the mind turns dreamy and strange: thoughts loosen, inhibitions drop, and a giddy, euphoric, slightly unreal feeling can take over. Many describe it as being drunk and half-dreaming at once.
+
+Perception can shift: surfaces seem to ripple or breathe, colors deepen, and patterns may appear on walls or ceilings. Memory starts to switch off almost immediately, often without the person noticing.
 
 Medically, the onset reflects absorption and entry into the brain. Zolpidem is processed mainly by CYP3A4 with a short half-life of about 2.5 hours; women clear it more slowly than men. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,7 +68,11 @@ A rapid heaviness and slowed thinking.
 
 ### Peak (1-2 h)
 
-Peak around 1 to 2 hours: strong sleepiness; awake people may have visual distortions and amnesia.
+At the peak, someone still awake is clumsy, slurring and disoriented, with heavy limbs and a floaty head. Mild hallucinations are common, such as moving shapes, faces or objects that aren't there, and sounds may echo or distort.
+
+Emotionally the peak can be euphoric, silly and uninhibited, or confused and anxious. People text, call, shop, eat, or have conversations they will not remember. Complex sleep behaviors like sleep-driving, sleep-walking and sleep-eating are a serious, well-documented danger, and are why the FDA added a boxed warning.
+
+Zolpidem alone rarely stops breathing, but combined with alcohol, opioids or benzodiazepines it becomes far more dangerous. Unrousable sleep, slow breathing or vomiting while sedated needs emergency help.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -72,11 +80,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (2-4 h)
 
-Sleep through most of the effect.
+The plateau is short. For most people it ends in deep sleep. Those who stay awake drift through a fragmented, dreamlike haze with patchy memory.
+
+Thinking is loose and judgment very poor.
+
+Women and older adults clear it more slowly, raising next-morning impairment.
 
 ### Comedown (6-8 h total)
 
-Effects fade over about 6 to 8 hours (immediate-release).
+Waking after zolpidem may feel fine, or groggy and slow with a mild headache. Some people find evidence of things they did and do not remember.
+
+Emotionally there can be confusion, embarrassment or anxiety about the lost time. Rebound insomnia can follow when it is stopped.
+
+Regular use builds tolerance and dependence; stopping after heavy use can cause insomnia, anxiety, tremor and, rarely, seizures.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (2-4 h)
 
-Swallowed, it takes about 2 to 4 hours to be felt.
+Phenibut is slow: it can take hours before anything happens, which leads people to take more and overshoot. When it arrives, there is a gradual warm calm and loosening of tension, with mild muscle relaxation.
+
+Mentally the onset feels like social anxiety quietly switching off. People feel more talkative, confident and content, with a mild, alcohol-like euphoria but clearer thinking at first.
+
+Some feel slight dizziness or nausea.
 
 Medically, the onset reflects absorption and entry into the brain. Phenibut is cleared mostly unchanged by the kidneys with a half-life of about 5 hours, though effects last longer. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -60,7 +64,11 @@ A slow-building calm and talkativeness.
 
 ### Peak (4-6 h)
 
-Peak around 4 to 6 hours.
+At the peak a relaxed, sociable glow, sometimes with music sounding richer and a desire to talk. With more, it becomes drunken: slurring, unsteadiness and sleepiness.
+
+Emotionally confident and calm, sometimes giddy.
+
+Excess causes heavy sedation, vomiting, confusion and, rarely, unconsciousness requiring hospital care. Combining with alcohol or other depressants is risky.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -68,11 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (several hours)
 
-Long plateau.
+The plateau is very long, often most of a day.
+
+Mood stays calm, then drowsy.
+
+Sleep can be heavy.
 
 ### Comedown (15-24 h total)
 
-Fades over about 15 to 24 hours.
+The comedown often brings next-day rebound anxiety, irritability and poor sleep.
+
+Mood can dip.
+
+Daily use quickly builds dependence, and withdrawal can be severe: intense anxiety, insomnia, agitation, hallucinations and sometimes psychosis.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

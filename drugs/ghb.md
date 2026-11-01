@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (10-20 min)
 
-Swallowed, effects begin within about 10 to 20 minutes.
+GHB has a fairly quick onset that many people compare to alcohol, but smoother. A warm, relaxed glow spreads through the body, muscles loosen, and there is a pleasant, tingly lightness. Some feel a mild, wavy dizziness.
+
+Mentally the onset is euphoric and disinhibiting: people feel sociable, affectionate, talkative and sometimes sexually aroused. Anxiety melts away and the mood feels bright and open.
+
+The line between a pleasant state and heavy sedation is very thin. Small differences in amount, or adding alcohol, can push someone from tipsy to unconscious quickly.
 
 Medically, the onset reflects absorption and entry into the brain. GHB is absorbed quickly and has a half-life of about 30 to 60 minutes, and its absorption is non-linear, so small increases can cause large jumps in effect. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -64,7 +68,11 @@ A fast, warm, loosening wave like several drinks at once.
 
 ### Peak (30-60 min)
 
-Peak around 30 to 60 minutes: euphoria, sociability, sometimes dizziness and sudden sleepiness.
+At the peak the body feels warm, loose and heavy, with strong relaxation and a dance-friendly, euphoric buzz. Speech can slur and balance falters, much like being drunk.
+
+Emotionally the peak is open, affectionate, and uninhibited. Many people report heightened touch and closeness. At higher levels, confusion, dizziness and nausea take over, and people may suddenly 'drop', falling into a deep, unrousable sleep, sometimes mid-conversation.
+
+GHB overdose can cause vomiting while unconscious, very slow breathing, seizure-like jerking, slow heart rate and coma. Combining with alcohol is especially dangerous. Anyone who cannot be woken should be placed in the recovery position and 911 called. GHB has also been used in drug-facilitated sexual assault.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -72,11 +80,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (30-90 min)
 
-A short plateau.
+The plateau is short, and as the euphoria fades people often feel drowsy and heavy.
+
+Mood stays relaxed or becomes sleepy.
+
+Re-dosing to extend the effect is a major cause of overdose.
 
 ### Comedown (1.5-3 h total)
 
-Effects fade within about 1.5 to 3 hours, sometimes with abrupt waking.
+The comedown can be surprisingly clean for some, while others feel tired, foggy or nauseated.
+
+Mood may dip into mild anxiety.
+
+People who use GHB around the clock can develop severe dependence, and withdrawal can cause rapid-onset anxiety, tremor, delirium, hallucinations and seizures that can be fatal. It needs medical care.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Swallowed, they start within about 30 minutes, slower after a heavy meal.
+Orexin antagonists (suvorexant/Belsomra, lemborexant/Dayvigo, daridorexant/Quviviq) work differently from other sleep drugs. Rather than sedating the whole brain, they switch off the wake signal. The onset feels like natural sleepiness arriving early: heavy eyes, a slowing mind, little 'drugged' feeling.
+
+Mentally there is no euphoria or giddiness, just a gentle pull toward sleep.
+
+Some notice a slight heaviness of the limbs.
 
 Medically, the onset reflects absorption and entry into the brain. Suvorexant, lemborexant and daridorexant are processed by CYP3A4; daridorexant has the shortest half-life. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -60,7 +64,11 @@ Gradual drowsiness.
 
 ### Peak (1-3 h)
 
-Peak around 1 to 3 hours.
+At the peak sleep is likely. A few people experience sleep paralysis, vivid or frightening dreams, or brief hallucinations as they fall asleep or wake.
+
+Emotionally neutral.
+
+Combining with alcohol or other depressants adds impairment.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -68,11 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (sleep)
 
-Sleep.
+The plateau lasts through the night.
+
+Dreams can be vivid.
+
+Next-morning grogginess can occur.
 
 ### Comedown (7-12 h)
 
-Fades over the night; next-day sleepiness possible.
+Waking can be slightly groggy.
+
+Mood generally unchanged.
+
+Abuse potential is low but not zero.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

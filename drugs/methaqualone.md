@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Swallowed, effects began within about 30 minutes.
+Methaqualone (Quaaludes, 'ludes', Mandrax) has a moderate onset of warm, tingly relaxation. A pins-and-needles buzzing can spread through the lips, fingers and toes, and the body loosens into a rubbery heaviness.
+
+Mentally the onset is euphoric and disinhibiting: calm, warm, chatty and affectionate, with lowered inhibitions. Its 1970s reputation as a party and 'love' drug came from this mix of sedation and euphoria.
+
+Coordination falls apart early: the term 'luding out' described the stumbling, rubber-legged state.
 
 Medically, the onset reflects absorption and entry into the brain. Methaqualone was processed by the liver with a half-life of about 20 to 60 hours. Most hypnotics are designed to work quickly so the person falls asleep soon after taking them.
 
@@ -60,7 +64,11 @@ Tingling, warmth, and loosening.
 
 ### Peak (1-2 h)
 
-Peak around 1 to 2 hours: euphoria, numbness, poor coordination.
+At the peak the body feels heavy, numb and tingly, and walking is uncoordinated. Speech slurs.
+
+Emotionally a dreamy, uninhibited euphoria, often with increased sociability and sexual interest, and fading memory.
+
+Overdose can cause delirium, muscle spasms, seizures, coma and death; with alcohol the risk is very high. Most 'Quaaludes' sold today are counterfeit and may contain other drugs.
 
 Medically, the peak is when sleep pressure is strongest. People who resist sleep at this point may walk, eat, talk, drive, or send messages with no memory afterward ('complex sleep behaviors'), which led to a 2019 FDA boxed warning for zolpidem, zaleplon, and eszopiclone.
 
@@ -68,11 +76,19 @@ Combined with alcohol, opioids, or other sedatives, breathing can slow dangerous
 
 ### Plateau (2-4 h)
 
-A few hours.
+The plateau is a heavy, sleepy intoxication.
+
+Judgment and memory are poor.
+
+Injury from falls or accidents is common.
 
 ### Comedown (4-8 h total)
 
-Faded over about 4 to 8 hours.
+The comedown is groggy and hungover.
+
+Mood can be low and anxious.
+
+Dependence and dangerous withdrawal with seizures can develop after regular use.
 
 As levels fall, most people sleep through the comedown. Those who wake early can feel groggy, unsteady, and slow, and next-morning impairment can affect driving, especially in women and older adults.
 

@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-3 h)
 
-Swallowed, effects begin within about 1 to 3 hours, often slowly.
+Gabapentin (Neurontin) has a slow, uneven onset because the gut absorbs it in a limited way. As it builds, the body feels heavy and slightly numb, as if wrapped in padding, and a light, wobbly dizziness appears.
+
+Mentally gabapentin brings a muted calm. Anxiety and nerve pain are dulled, and some people feel a mild, mellow, alcohol-like ease; for many others it simply feels sleepy and foggy.
+
+Blurry or doubled vision, mild unsteadiness and a 'drunk legs' feeling are common early signs.
 
 Medically, the onset reflects slow and variable absorption. Gabapentin is absorbed by a gut transporter that saturates and is cleared unchanged by the kidneys with a half-life of about 5 to 7 hours. Gabapentin is absorbed by a transporter in the gut that saturates, so more is not absorbed in proportion; pregabalin is absorbed more fully and quickly.
 
@@ -64,7 +68,11 @@ A gradual calm and lightness.
 
 ### Peak (2-4 h)
 
-Peak around 2 to 4 hours: dizziness, relaxation, sometimes mild euphoria.
+At the peak the body feels loose and slow, with unsteady walking and a warm, slightly tingly heaviness. Some describe a gentle euphoria and sociability; others feel spacey and clumsy.
+
+Emotionally the peak can be relaxed and contented, sometimes chatty. Memory and attention are noticeably dulled.
+
+Alone, gabapentin rarely stops breathing, but with opioids it sharply increases the risk of fatal overdose, a combination increasingly seen in deaths. Kidney problems raise blood levels too.
 
 Medically, the peak brings the strongest dizziness, unsteadiness, and sedation. Some people feel calm sociability or mild euphoria; others feel only clumsy and sleepy.
 
@@ -72,11 +80,19 @@ In 2019 the FDA warned that gabapentinoids can cause serious breathing problems 
 
 ### Plateau (3-6 h)
 
-Several hours.
+The plateau is a long, steady haze.
+
+Thinking slow and forgetful.
+
+Falls are common, especially in older adults.
 
 ### Comedown (5-8 h total)
 
-Fades over about 5 to 8 hours.
+The comedown is tiredness and mild fog.
+
+Mood may dip, with irritability or low mood; rarely, suicidal thoughts are reported.
+
+Stopping after regular use can cause anxiety, insomnia, sweating, pain and, rarely, seizures.
 
 As levels fall, dizziness and sedation fade over several hours. Sleep is often deep.
 

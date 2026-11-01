@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-Swallowed, effects begin within about 30 to 90 minutes.
+Pregabalin (Lyrica) is absorbed faster and more reliably than gabapentin, and the onset is smoother and stronger. Warmth and heaviness spread through the body, muscles loosen, and a light, floaty dizziness arrives.
+
+Mentally pregabalin can bring a clear, warm euphoria and calm. People often describe it as alcohol-like: sociable, confident, chatty and relaxed, with anxiety switched off.
+
+Blurry vision and unsteadiness show up early.
 
 Medically, the onset reflects slow and variable absorption. Pregabalin is absorbed fully and quickly and cleared unchanged by the kidneys with a half-life of about 6 hours. Gabapentin is absorbed by a transporter in the gut that saturates, so more is not absorbed in proportion; pregabalin is absorbed more fully and quickly.
 
@@ -64,7 +68,11 @@ Lightness, warmth, dizziness.
 
 ### Peak (1-3 h)
 
-Peak around 1 to 3 hours: euphoria and calm, unsteadiness.
+At the peak the body feels warm, loose and pleasantly drunk, with clumsy movements and slurred speech. Some report a tingling glow on the skin.
+
+Emotionally the peak is relaxed, giddy and uninhibited; with more, it becomes confused and sleepy.
+
+Combined with opioids, pregabalin greatly raises the risk of fatal breathing suppression. Swelling of the face or throat is a rare allergic emergency.
 
 Medically, the peak brings the strongest dizziness, unsteadiness, and sedation. Some people feel calm sociability or mild euphoria; others feel only clumsy and sleepy.
 
@@ -72,11 +80,19 @@ In 2019 the FDA warned that gabapentinoids can cause serious breathing problems 
 
 ### Plateau (3-6 h)
 
-Several hours.
+The plateau is a long, mellow, sedated glow.
+
+Memory and concentration are poor.
+
+Weight gain and swelling can occur with long use.
 
 ### Comedown (6-12 h total)
 
-Fades over about 6 to 12 hours.
+The comedown brings tiredness and sometimes headache.
+
+Mood can drop, with anxiety or irritability.
+
+Regular use can cause dependence, and stopping suddenly can trigger anxiety, insomnia, nausea, sweating and seizures.
 
 As levels fall, dizziness and sedation fade over several hours. Sleep is often deep.
 
