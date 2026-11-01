@@ -64,11 +64,11 @@ Gradual calm and looseness.
 
 ### Peak (1-3 h)
 
-At the peak the body feels heavy, warm and unsteady. Walking is like being tipsy, fine movements are clumsy, and the eyes may flick side to side. Muscles are loose and the urge to lie down is strong.
+At the peak the body feels heavy, warm and unsteady. Walking is like being tipsy, fine movements are clumsy, and the eyes may flick side to side. Muscles are loose, the shoulders drop, and the urge to lie down is strong. Some feel a tingly numbness in the hands and lips.
 
 Emotionally the peak is a contented, sedated mellowness with lowered inhibitions. People may become chatty and silly or quietly dreamy, and memory for this time can be fuzzy. Judgment is loosened more than the person realizes.
 
-Overdose resembles barbiturate overdose: deep sleep, low blood pressure, slow breathing and coma, sometimes with pill masses forming in the stomach that delay recovery. Alcohol and opioids make it far more dangerous.
+Overdose resembles barbiturate overdose: deep sleep, low blood pressure, slow breathing and coma, sometimes with pill masses in the stomach that delay recovery. Alcohol and opioids make it far more dangerous.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -76,17 +76,17 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (3-6 h)
 
-The plateau is a long, drowsy calm, lasting many hours. Many people nap heavily; those awake feel sluggish and slightly drunk.
+The meprobamate plateau is a long, drowsy calm lasting many hours. Many people nap heavily and wake still feeling slowed. Those awake feel sluggish and slightly drunk, with heavy limbs, slurred speech, a dry mouth and a tendency to sway when standing.
 
-Concentration is poor, reaction time slow, and judgment loosened. Conversation may be repetitive.
+Concentration is poor, reaction time slow, and judgment loosened. Conversation may be repetitive or forgetful, and the person may feel content to sit and do nothing. Anxiety stays muffled throughout.
 
-Driving or operating machinery is dangerous throughout this stretch.
+Driving or operating machinery is dangerous throughout this stretch, and adding alcohol or another sedative stacks onto sedation that is still present.
 
 ### Comedown (6-12 h total)
 
-The comedown is groggy and slow, with heavy limbs, dry mouth and sometimes headache, like a mild hangover.
+The comedown is groggy and slow, with heavy limbs, dry mouth, a dull headache and sometimes nausea, like a mild hangover. Coordination may remain a bit off into the next morning.
 
-Mood may turn flat, irritable or anxious as the calm fades, which can encourage taking more.
+Mood may turn flat, irritable or anxious as the calm fades, and that returning anxiety can encourage taking more, which is how dependence builds.
 
 Dependence develops with regular use, and stopping abruptly can cause tremor, insomnia, vomiting, hallucinations and seizures. Withdrawal should be medically supervised.
 

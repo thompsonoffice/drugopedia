@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Dantrolene works directly inside muscle fibers, blocking calcium release, rather than acting on the brain. Its onset is therefore felt as weakness more than relaxation: over hours, the arms and legs feel tired and heavy, grip strength softens, and climbing stairs takes more effort.
+Dantrolene works directly inside muscle fibers, blocking the release of calcium that makes muscles contract, rather than acting on the brain. Its onset is felt over hours as weakness more than relaxation: the arms and legs feel tired and heavy, grip strength softens, and climbing stairs takes more effort than usual.
 
-Mentally it brings some drowsiness, dizziness and lightheadedness, but no high or calm in the usual sense. Some feel a vague malaise, as if coming down with a cold.
+Mentally it brings some drowsiness, dizziness and lightheadedness, but no high or calm in the usual sense. Some feel a vague malaise, as if coming down with a cold, and a general reluctance to move.
 
-Diarrhea, nausea, loss of appetite and a general washed-out feeling are common early effects, and some people develop sensitivity to sunlight.
+Diarrhea, nausea, loss of appetite and a washed-out feeling are common early effects, and some people develop sensitivity to sunlight.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Dantrolene blocks calcium release inside muscle cells (ryanodine receptors) and has a half-life of about 9 hours. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -64,9 +64,9 @@ Gradual weakness.
 
 ### Peak (4-6 h)
 
-At the peak muscles can feel weak and floppy, and tasks like holding a cup, getting up from a chair or walking any distance become harder. People with spasticity may find stiffness much reduced.
+At the peak muscles can feel weak and floppy, and tasks like holding a heavy cup, rising from a chair, or walking any distance become harder. People with spasticity from spinal cord injury, stroke or cerebral palsy may find stiffness much reduced and movement smoother.
 
-Emotionally the peak is tired, sometimes low or irritable, without euphoria. Some report confusion or difficulty concentrating.
+Emotionally the peak is tired, sometimes low or irritable, without euphoria. Some report confusion, trouble concentrating or headache.
 
 Long-term oral use can cause serious and sometimes fatal liver damage, so liver tests are monitored. In hospitals, the IV form is a life-saving treatment for malignant hyperthermia, a dangerous reaction to certain anesthetics.
 
@@ -76,19 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (many hours)
 
-The plateau is lasting weakness and fatigue, since dantrolene stays in the body a long time.
+The dantrolene plateau is lasting weakness and fatigue, since the drug stays in the body a long time. Limbs feel heavy and tire quickly, and people may need to rest more often or use support when walking. Diarrhea or stomach upset can continue.
 
-Thinking may feel a little slow, and drowsiness can affect driving.
+Thinking may feel a little slow, and drowsiness can affect driving and work. Mood is generally flat or tired rather than changed in any dramatic way.
 
-Falls are a risk, especially when standing up or on stairs.
+Falls are a real risk, especially when standing up quickly or using stairs, because the muscles that catch a stumble respond more weakly.
 
 ### Comedown (about 9 h half-life)
 
-As levels drop, strength gradually returns over a day or more, and spasticity may come back.
+As levels slowly drop, strength gradually returns over a day or more, and spasticity may come back. Some people notice their muscles feel stiff again before they feel energetic again.
 
-Mood is usually unaffected, though fatigue can linger.
+Mood is usually unaffected, though fatigue and a washed-out feeling can linger, particularly in the first weeks of treatment.
 
-Dantrolene is not used recreationally and does not cause cravings.
+Dantrolene is not used recreationally and does not cause cravings or withdrawal, but anyone taking it long-term should watch for yellowing skin, dark urine or abdominal pain.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

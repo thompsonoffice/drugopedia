@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Tizanidine (Zanaflex) works on the same brain receptors as the blood-pressure drug clonidine, and its onset feels like the body's engine being turned down. A heavy, warm drowsiness spreads quickly, the mouth goes very dry, and standing up can bring a sudden lightheaded swoon as blood pressure drops.
+Tizanidine (Zanaflex) acts on the same brain receptors as the blood-pressure drug clonidine, and its onset feels like the body's engine being throttled down. Within an hour a heavy, warm drowsiness spreads quickly from the head into the limbs, the mouth goes very dry, and standing up can bring a sudden lightheaded swoon as blood pressure drops.
 
-Mentally the onset is a quiet, sinking calm. Anxiety and racing thoughts fade, and many people feel peaceful and detached. There is little giddy euphoria, more a soft, sleepy stillness.
+Mentally the onset is a quiet, sinking calm. Anxiety and racing thoughts fade, and many people feel peaceful, slowed and detached, as if the volume of the world has been turned down. There is little giddy euphoria, more a soft, sleepy stillness.
 
-Muscles, especially those with spasticity, slacken noticeably. Some people feel their heart slowing, a heaviness in the chest, or cold hands.
+Muscles, especially those with spasticity, slacken noticeably. Some feel their heart slowing, a heaviness in the chest, cold hands or a faint tingling.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Tizanidine is processed by CYP1A2 and has a short half-life of about 2.5 hours; tablets and capsules are not interchangeable when taken with food. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -64,11 +64,11 @@ Drowsiness and lightheadedness rise quickly.
 
 ### Peak (1-2 h)
 
-At the peak the body feels leaden and very relaxed, sometimes almost paralyzed by drowsiness. Dizziness, weakness and fainting on standing are common, and the dry mouth can be intense.
+At the peak the body feels leaden and deeply relaxed, sometimes almost pinned down by drowsiness. Dizziness, weakness and near-fainting on standing are common, and the dry mouth can be intense enough that the tongue sticks. Vision can blur slightly.
 
-Emotionally the peak is tranquil and foggy, with a dreamy, half-asleep quality. Some find it pleasant; others find it unpleasantly heavy or dysphoric. Vivid dreams or brief hallucinations can occur.
+Emotionally the peak is tranquil and foggy, with a dreamy, half-asleep quality. Some find it pleasant and soothing; others find it unpleasantly heavy or dysphoric. Vivid dreams or brief hallucinations at the edge of sleep can occur.
 
-Low blood pressure and a slow heart rate are the main risks, worse with alcohol, other depressants, or medicines like ciprofloxacin and fluvoxamine that block its breakdown. Fainting, very slow pulse or extreme sedation needs urgent care.
+Low blood pressure and a slow heart rate are the main risks, worse with alcohol, other depressants, blood-pressure medicines, or ciprofloxacin and fluvoxamine, which block its breakdown. Fainting, very slow pulse or extreme sedation needs urgent care.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -84,11 +84,11 @@ Because the effect wears off within a few hours, some people take repeated doses
 
 ### Comedown (3-6 h total)
 
-As tizanidine fades, the heaviness lifts quickly and can be replaced by a slightly jittery, tired-but-wired feeling. Muscle stiffness and spasm return, sometimes sharply. The mouth stays dry, and some people feel a headache or a pounding pulse as blood pressure rebounds upward.
+As tizanidine fades, the heaviness lifts fairly quickly and can be replaced by a slightly jittery, tired-but-wired feeling. Muscle stiffness and spasm return, sometimes sharply, and the mouth stays dry. Some feel a headache or a pounding pulse as blood pressure rebounds upward.
 
-Emotionally, the calm can give way to irritability, restlessness or anxiety, especially after frequent use. Sleep may be broken.
+Emotionally, the calm can give way to irritability, restlessness or anxiety, especially after frequent use through the day. Sleep may be broken and unrefreshing.
 
-After regular daily use, stopping suddenly can cause rebound high blood pressure, fast heartbeat, tremor, sweating and anxiety, sometimes severe. It should be tapered under medical guidance. Long-term use also needs liver monitoring.
+After regular daily use, stopping suddenly can cause rebound high blood pressure, fast heartbeat, tremor, sweating and anxiety, sometimes severe. It should be tapered under medical guidance, and long-term use needs liver monitoring.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

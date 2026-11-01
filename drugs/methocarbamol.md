@@ -76,19 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-4 h)
 
-The plateau is short and mellow, usually lasting a few hours. Many people take a nap and wake feeling somewhat looser. Those who stay up feel mildly drowsy, with heavy eyelids and a slight disinclination to move, but they can generally function in simple tasks.
+The methocarbamol plateau is short and mellow, usually a few hours. Many people take a nap and wake feeling noticeably looser through the back and neck. Those who stay up feel mildly drowsy, with heavy eyelids, slightly slowed movements and a disinclination to do anything strenuous, but they can generally manage simple tasks around the house.
 
-Mentally focus is slightly reduced and reaction time slower, similar to being moderately tired. Mood stays neutral; there is no notable emotional lift or drop. Some people feel slightly detached from minor annoyances.
+Mentally focus is slightly reduced and reaction time slower, much like being moderately tired at the end of a long day. Mood stays neutral; there is no notable lift or drop. Some people feel a little detached from minor annoyances, and pain feels less sharp and less attention-grabbing.
 
-Even though the effect is mild, driving or using machinery while drowsy is unsafe, and the combination with alcohol makes impairment noticeably worse.
+Even though the effect is mild, driving or using machinery while drowsy is unsafe, and alcohol, opioids or sleep medicines make the impairment noticeably worse.
 
 ### Comedown (4-6 h total)
 
-The comedown is barely noticeable for most people. As it wears off, a light tiredness lingers, the muscles may stiffen up again, and some notice a mild headache or slight stomach upset. There is no hangover in the usual sense.
+The comedown is barely noticeable for most people. As it wears off, a light tiredness lingers, the muscles may slowly stiffen up again, and some notice a mild headache, dry mouth or slight stomach upset. There is no hangover in the usual sense, and the body feels much as it did before.
 
-Emotionally the comedown is usually neutral, perhaps slightly groggy. Because the drug is short-acting, people often take it several times a day for spasm, and each dose rises and falls gently.
+Emotionally the comedown is neutral, perhaps a little groggy. Because methocarbamol is short-acting, people often take it several times a day for spasm, and each dose rises and falls gently, without cravings between doses.
 
-Methocarbamol carries little risk of dependence or withdrawal. Rarely, allergic reactions, a slow heart rate, or seizures in people with seizure disorders have been reported, and these need medical attention.
+It carries little risk of dependence or withdrawal. Rarely, allergic reactions, a slow heart rate, or seizures in people with seizure disorders have been reported, and these need medical attention.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

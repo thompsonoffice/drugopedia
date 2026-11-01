@@ -48,9 +48,9 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Baclofen acts on GABA-B receptors, the same receptor GHB touches, and its onset is a slow, creeping relaxation. Muscles feel softer and heavier, the body warms slightly, and a light, sleepy dizziness sets in.
+Baclofen acts on GABA-B receptors, the same receptor family GHB touches, and its onset is a slow, creeping relaxation over an hour or so. Muscles feel softer and heavier, especially in the legs, the body warms slightly, and a light, sleepy dizziness sets in that worsens on standing. Some people notice a faint tingling in the hands or face.
 
-Mentally the onset brings a mild calm and loosening of anxiety. Some describe a faint alcohol-like ease; others feel only drowsy and slightly muddled.
+Mentally the onset brings a mild calm and a loosening of anxiety. Some describe a faint alcohol-like ease, which is why baclofen is studied for alcohol use disorder; others feel only drowsy, slightly muddled and slow to find words.
 
 Early side effects include nausea, a weak or rubbery feeling in the legs, and a slight drunk-like unsteadiness.
 
@@ -64,11 +64,11 @@ Muscles loosen and drowsiness grows.
 
 ### Peak (1-3 h)
 
-At the peak muscles are clearly slack, coordination poor, and the body heavy. Some report a pleasant, warm body sensation; many notice weakness, slurred speech and confusion instead.
+At the peak muscles are clearly slack, coordination poor, and the body heavy and weak. Some report a pleasant, warm body sensation; many notice weakness, slurred speech, confusion and nausea instead. Climbing stairs or getting out of a chair takes effort.
 
-Emotionally the peak ranges from relaxed and content to foggy and disoriented. Higher amounts can bring an intoxicated, GHB-like state with lowered inhibitions, followed by sudden deep sleepiness.
+Emotionally the peak ranges from relaxed and content to foggy and disoriented. Higher amounts can bring an intoxicated, GHB-like state with lowered inhibitions, followed by sudden deep sleepiness that is hard to fight.
 
-Overdose can cause severe drowsiness, coma, slowed breathing, low body temperature, slow heart rate and seizures. Combining with alcohol, opioids or other sedatives multiplies the danger.
+Overdose can cause severe drowsiness, coma, slowed breathing, low body temperature, slow heart rate and seizures. Combining with alcohol, opioids or other sedatives multiplies the danger, and kidney problems allow it to build up.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -84,9 +84,9 @@ Falls, accidents and choking while sedated are real dangers during this phase. W
 
 ### Comedown (4-8 h total)
 
-As baclofen wears off, spasticity and tightness return, and many people feel tired, heavy and a little shaky. Headache, nausea and a dry mouth are common.
+As baclofen wears off, spasticity and tightness return, and many people feel tired, heavy and a little shaky. Headache, nausea, dry mouth and a lingering wobbliness are common, and sleep may be light or broken.
 
-Emotionally there can be a mild dip in mood, irritability or anxiety, and sleep may be disturbed. People taking it for alcohol use disorder sometimes notice cravings returning as it fades.
+Emotionally there can be a mild dip in mood, irritability or anxiety. People taking it for alcohol use disorder sometimes notice cravings returning as it fades.
 
 After regular use, abrupt stopping is dangerous: withdrawal can cause hallucinations, confusion, high fever, rebound muscle rigidity and seizures, and with pump (intrathecal) baclofen it can be life-threatening. Any change should be made with a doctor.
 

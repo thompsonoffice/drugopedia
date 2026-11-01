@@ -80,19 +80,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (4-8 h)
 
-The plateau is long, dry-mouthed and drowsy. Many people sleep heavily; others feel sluggish and parched for hours, with blurry near vision and a fast pulse.
+The orphenadrine plateau is long, dry-mouthed and drowsy. Many people sleep heavily for hours. Those awake feel sluggish and parched, with a sticky tongue, blurry near vision, a fast pulse that can be felt in the chest or ears, and warm, dry skin because sweating is reduced. Bladder emptying can be slow and uncomfortable.
 
-Memory and concentration are dulled, and older adults especially may become confused or disoriented.
+Memory and concentration are dulled, and older adults especially may become confused, disoriented or forgetful. Mood is foggy and indifferent, sometimes slightly anxious from the racing heart.
 
 Because sweating is suppressed, heat tolerance is reduced and overheating is possible in hot weather or with exertion.
 
 ### Comedown (12+ h total)
 
-The comedown feels like a heavy antihistamine hangover: dry mouth, headache, sluggish limbs and a dull, foggy head.
+The comedown feels like a heavy antihistamine hangover: dry mouth and throat, headache, sluggish limbs, sore eyes and a dull, foggy head that can last into the next morning. Constipation is common.
 
-Mood can be irritable or flat, and some people feel mentally slow for much of the next day.
+Mood can be irritable or flat, and some people feel mentally slow and unmotivated for much of the next day.
 
-Long-term heavy use of strongly anticholinergic drugs is linked to memory problems and possibly to higher dementia risk in older adults.
+Long-term heavy use of strongly anticholinergic drugs like orphenadrine is linked to memory problems and possibly to higher dementia risk in older adults. Overdose can cause dangerous heart rhythms and seizures.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

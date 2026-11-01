@@ -76,19 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-4 h)
 
-The plateau is a mild, steady relaxation lasting a few hours. People can often carry on quiet activities, though they may prefer to rest.
+The metaxalone plateau is a mild, steady relaxation lasting a few hours. The back and neck stay looser than before, and there is a light, pleasant heaviness in the limbs. People can usually carry on quiet activities such as reading or watching television, though many prefer to rest or nap.
 
-Thinking remains mostly clear, with a little slowing and drowsiness. Mood is calm and neutral.
+Thinking remains mostly clear, with some slowing and drowsiness, and mood is calm and neutral rather than euphoric. A few people feel slightly irritable or restless instead of relaxed, and some notice a mild headache or upset stomach lingering from the onset.
 
-Even so, reaction time is reduced enough that drivers should be cautious until they know how it affects them.
+Reaction time is reduced enough that drivers should be cautious until they know how it affects them, and alcohol or other sedatives deepen the drowsiness.
 
 ### Comedown (4-6 h total)
 
-The comedown is gentle: stiffness gradually returns and a light tiredness lingers. Some notice a mild headache or upset stomach.
+The comedown is gentle. Stiffness gradually returns over a few hours and a light tiredness lingers, sometimes with a mild headache, slight nausea or dry mouth. There is no real hangover, and most people simply notice the medicine wearing off as their pain comes back.
 
-Mood generally stays steady, without a crash.
+Mood generally stays steady, without a crash, craving or rebound anxiety. Some people feel a little sluggish for the rest of the evening.
 
-Dependence and withdrawal are rare. Very large overdoses, especially combined with other drugs, have caused deaths, so it should still be stored safely.
+Dependence and withdrawal are rare. Very large overdoses, especially combined with other drugs, have caused deaths, so it should still be stored safely away from children and others.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 

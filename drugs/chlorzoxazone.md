@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Chlorzoxazone (Parafon Forte, Lorzone) acts fairly quickly. Within an hour there is a light drowsiness and a gentle loosening of tight muscles, often noticed first in the lower back. Some people feel slightly lightheaded or off-balance.
+Chlorzoxazone (Parafon Forte, Lorzone) acts fairly quickly, often within an hour. A light drowsiness gathers behind the eyes, and tight muscles begin to loosen, usually noticed first in the lower back and hips as bending becomes a little easier. Some people feel slightly lightheaded or off-balance when they first stand.
 
-Mentally the effect is mild: a slight calm and sleepiness, with no real euphoria. Thinking stays mostly clear.
+Mentally the effect is mild: a slight calm and sleepiness, with no real euphoria. Thinking stays mostly clear, and many people would not notice much except the easing of pain and a pull toward resting.
 
-Some notice nausea, stomach upset or heartburn. Urine may turn orange or reddish-purple, which is harmless.
+Some notice nausea, stomach upset or heartburn early on. Urine may turn orange or reddish-purple, which is harmless.
 
 Medically, the onset reflects absorption from the gut and entry into the brain. Chlorzoxazone is processed by CYP2E1, the same enzyme used in alcohol metabolism. Muscle relaxants work mostly through central sedation rather than acting on the muscles themselves (dantrolene is the exception), so drowsiness usually arrives together with the loosening of tension.
 
@@ -64,11 +64,11 @@ Mild drowsiness.
 
 ### Peak (1-2 h)
 
-At the peak the body is a bit looser and sleepier, and moving a stiff back is easier. Dizziness is usually mild.
+At the peak the body is a bit looser and sleepier, and moving a stiff back or neck is easier and less painful. Dizziness is usually mild, though some feel a little unsteady or tired in the legs. The sensation is closer to tiredness than intoxication.
 
-Emotionally it is mostly neutral, with mild sedation and sometimes slight irritability or overstimulation instead of calm.
+Emotionally it is mostly neutral, with mild sedation; a minority feel irritable, overstimulated or headachy instead of calm.
 
-Rarely chlorzoxazone causes serious liver injury; yellowing of the skin or eyes, dark urine, pale stools, or pain in the upper right abdomen need prompt medical attention. Mixing with alcohol adds both sedation and liver strain.
+Rarely chlorzoxazone causes serious liver injury; yellowing skin or eyes, dark urine, pale stools, or pain in the upper right abdomen need prompt attention. Alcohol adds both sedation and liver strain.
 
 Medically, the peak is when sedation and dizziness are strongest. Several muscle relaxants have anticholinergic or blood-pressure effects as well, which can cause dry mouth, blurred vision, a fast or slow heartbeat, or fainting.
 
@@ -76,19 +76,19 @@ Alone they rarely stop breathing in healthy adults, but combined with opioids, b
 
 ### Plateau (2-3 h)
 
-The plateau is short and mild, lasting a few hours.
+The plateau is short and mild, usually lasting a few hours. The body stays slightly looser and heavier, and many people take the opportunity to lie down or nap. Those who stay active notice a gentle drowsiness and slightly slower movements but can generally function normally.
 
-Focus is slightly reduced and the person may feel a bit tired.
+Focus is slightly reduced and the person may feel a bit tired or dreamy, but there is no confusion or memory loss at usual amounts. Mood stays neutral.
 
-Driving should wait until the person knows how it affects them.
+Driving should wait until the person knows how it affects them, and other sedatives or alcohol make drowsiness worse.
 
 ### Comedown (3-6 h total)
 
-The comedown is barely noticeable apart from returning stiffness and maybe a little tiredness.
+The comedown is barely noticeable. Over a few hours stiffness returns, and some people feel a little tiredness, a mild headache or a lingering upset stomach. Because the drug is short-acting, people often take it several times a day, and each dose fades quietly.
 
-Mood is unchanged.
+Mood is unchanged; there is no crash, rebound anxiety or craving.
 
-Dependence and withdrawal are not typical, and it is rarely misused.
+Dependence and withdrawal are not typical and it is rarely misused, but any signs of liver trouble during regular use should be checked by a doctor.
 
 As levels fall, sedation lifts and muscle tension may return. Short-acting drugs wear off within hours, while drugs with active metabolites (carisoprodol to meprobamate) linger.
 
