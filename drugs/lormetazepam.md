@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 30 min)
 
-Lormetazepam (Noctamid) is a short-to-medium sleep benzodiazepine in Europe, also given by injection before anesthesia in Germany. It comes on quickly with a soft heaviness and sleepy calm.
+Lormetazepam (Noctamid, Loramet) is a short-to-medium sleep benzodiazepine in Europe and is also injected before anesthesia in Germany. It comes on fairly quickly with a soft heaviness behind the eyes. Muscles loosen, the jaw and shoulders release, and a mild heaviness settles into the limbs.
 
-Mentally thoughts soften and slow, drifting toward sleep.
+Mentally thoughts soften and slow, and the restless edge of insomnia melts. Worries recede and the mind becomes slower and quieter, without the sparkle of a stimulant or the warmth of an opioid.
 
-Its moderate length means less hangover than older sleep benzos.
+Staying up after taking it invites forgotten actions. Light-headedness on standing and slowed reactions start early, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Drowsiness.
 
 ### Peak (1-2 h)
 
-At its peak sleep; awake, unsteady and dreamy.
+At its peak sleep takes over; awake, people are unsteady and dreamy. Coordination is clumsy, speech may thicken and there is a pull toward sleep.
 
-Mentally hazy with amnesia.
+Mentally hazy, with amnesia for this window. Memory for events during this window is often weak, a common benzodiazepine effect called anterograde amnesia.
 
-Risky with alcohol.
+Alcohol greatly increases danger. With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (sleep)
 
-The plateau lasts through much of the night.
+The plateau carries through much of the night with fairly deep sleep. Balance and coordination stay poor, raising the risk of falls, especially for older people.
 
-Mentally sleep or fog.
+Mentally people woken at night are confused. Concentration, memory and reaction time remain reduced, so driving is unsafe even when the person feels normal.
 
-Morning effects are usually mild.
+Hangover is usually milder than with older long-acting sleep benzos. Taking more during this period stacks onto drug still in the body.
 
 ### Comedown (8-10 h total)
 
-The comedown is light: a slightly cloudy morning.
+The comedown is a slightly cloudy morning that clears within hours. Tiredness, a foggy head and sometimes a mild headache linger as it fades.
 
-Emotionally some notice early-waking anxiety.
+Emotionally some notice early-waking anxiety. Anxiety and poor sleep can return, sometimes stronger than before (rebound), with irritability or a flat mood.
 
-Tolerance builds with nightly use.
+Nightly use builds tolerance and rebound insomnia. Daily use causes tolerance and dependence within weeks; stopping suddenly can cause severe anxiety, insomnia, tremor and seizures, so tapering with a prescriber is essential.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

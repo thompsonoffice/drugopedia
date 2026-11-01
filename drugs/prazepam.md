@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Prazepam (Centrax) is a prodrug: the liver slowly turns it into nordazepam. So its onset is the slowest of the common benzos, a calm that arrives quietly over hours rather than a drop.
+Prazepam (Centrax, Demetrin) is a prodrug that the liver slowly turns into nordazepam, so its onset is the slowest of the common benzos. Calm arrives quietly over hours. Muscles loosen, the jaw and shoulders release, and a mild heaviness settles into the limbs.
 
-Mentally there is almost no 'hit'; people notice later that they have stopped worrying.
+Mentally there is almost no 'hit'; people realize later that their worry has faded. Worries recede and the mind becomes slower and quieter, without the sparkle of a stimulant or the warmth of an opioid.
 
-This slow start made it less attractive for misuse.
+This slow start made it less attractive for misuse. Light-headedness on standing and slowed reactions start early, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Slow relaxation.
 
 ### Peak (several hours)
 
-The peak is broad and gentle: relaxed muscles, mild sleepiness.
+Its peak is broad and gentle: relaxed muscles and mild sleepiness. Coordination is clumsy, speech may thicken and there is a pull toward sleep.
 
-Mentally even and calm.
+Mentally even and calm, with little euphoria. Memory for events during this window is often weak, a common benzodiazepine effect called anterograde amnesia.
 
-Still dangerous with other depressants.
+Still dangerous with alcohol or opioids. With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (long)
 
-The plateau lasts days as nordazepam lingers.
+The plateau lasts days as nordazepam lingers. Balance and coordination stay poor, raising the risk of falls, especially for older people.
 
-Mentally a steady dullness and weaker memory.
+Mentally a steady dullness and weaker memory. Concentration, memory and reaction time remain reduced, so driving is unsafe even when the person feels normal.
 
-Builds up in older adults.
+It builds up in older adults, causing confusion. Taking more during this period stacks onto drug still in the body.
 
 ### Comedown (days)
 
-The comedown is very gradual.
+The comedown is very gradual. Tiredness, a foggy head and sometimes a mild headache linger as it fades.
 
-Emotionally anxiety returns slowly.
+Emotionally anxiety returns slowly rather than suddenly. Anxiety and poor sleep can return, sometimes stronger than before (rebound), with irritability or a flat mood.
 
-Dependence with long use.
+Long use still causes dependence. Daily use causes tolerance and dependence within weeks; stopping suddenly can cause severe anxiety, insomnia, tremor and seizures, so tapering with a prescriber is essential.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

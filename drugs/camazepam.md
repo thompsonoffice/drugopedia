@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-90 min)
 
-Camazepam is a benzodiazepine used in Italy and a few other countries, related to temazepam. It comes on over a while with gentle relaxation and less heaviness than most.
+Camazepam (Albego) is a benzodiazepine used in Italy and a few other countries, partly converted into temazepam. It comes on over a while with gentle relaxation and less heaviness than most. Muscles loosen, the jaw and shoulders release, and a mild heaviness settles into the limbs.
 
-Mentally people describe a clear-headed easing of anxiety; studies found less impairment of memory and attention than diazepam.
+Mentally people describe a clear-headed easing of anxiety; studies found less effect on attention than diazepam. Worries recede and the mind becomes slower and quieter, without the sparkle of a stimulant or the warmth of an opioid.
 
-Sleepiness still appears at higher amounts.
+Sleepiness still appears with more. Light-headedness on standing and slowed reactions start early, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, a light starts to appear.
 
 ### Peak (1-3 h)
 
-At its peak calm and relaxed with light drowsiness.
+At its peak there is calm with light drowsiness. Coordination is clumsy, speech may thicken and there is a pull toward sleep.
 
-Mentally steady and focused.
+Mentally steady and fairly focused. Memory for events during this window is often weak, a common benzodiazepine effect called anterograde amnesia.
 
-Combining with depressants remains dangerous.
+Combining with depressants remains dangerous. With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau lasts several hours as it converts partly to temazepam.
+The plateau lasts several hours as it converts to temazepam. Balance and coordination stay poor, raising the risk of falls, especially for older people.
 
-Mentally mild slowing.
+Mentally slight slowing. Concentration, memory and reaction time remain reduced, so driving is unsafe even when the person feels normal.
 
-Driving is still impaired.
+Driving is still impaired. Taking more during this period stacks onto drug still in the body.
 
 ### Comedown (10-20 h)
 
-The comedown is soft.
+The comedown is soft. Tiredness, a foggy head and sometimes a mild headache linger as it fades.
 
-Emotionally mild rebound tension.
+Emotionally mild rebound tension. Anxiety and poor sleep can return, sometimes stronger than before (rebound), with irritability or a flat mood.
 
-Dependence possible.
+Dependence is possible. Daily use causes tolerance and dependence within weeks; stopping suddenly can cause severe anxiety, insomnia, tremor and seizures, so tapering with a prescriber is essential.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

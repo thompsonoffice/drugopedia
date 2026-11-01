@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Ethyl loflazepate (Victan, Meilax) is a very long-acting benzodiazepine used in France and Japan. Its onset is mild and slow, a gentle loosening of tension.
+Ethyl loflazepate (Victan, Meilax) is a very long-acting benzodiazepine used in France and Japan. Its onset is mild and slow, a gentle loosening. Muscles loosen, the jaw and shoulders release, and a mild heaviness settles into the limbs.
 
-Mentally people describe calm with relatively clear thinking, which is why it is chosen for daytime anxiety.
+Mentally people describe calm with relatively clear thinking, which is why it is used for daytime anxiety. Worries recede and the mind becomes slower and quieter, without the sparkle of a stimulant or the warmth of an opioid.
 
-Its active product stays in the body for days.
+Its active product stays in the body for days. Light-headedness on standing and slowed reactions start early, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, a mild starts to appear.
 
 ### Peak (2-4 h)
 
-At its peak mild relaxation, light drowsiness.
+At its peak mild relaxation and light drowsiness. Coordination is clumsy, speech may thicken and there is a pull toward sleep.
 
-Mentally even and steady.
+Mentally even and steady. Memory for events during this window is often weak, a common benzodiazepine effect called anterograde amnesia.
 
-Risks rise with other depressants.
+Risks rise with other depressants. With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau is very long and steady.
+The plateau is very long and steady. Balance and coordination stay poor, raising the risk of falls, especially for older people.
 
-Mentally low-level dulling may go unnoticed.
+Mentally low-level dulling may go unnoticed. Concentration, memory and reaction time remain reduced, so driving is unsafe even when the person feels normal.
 
-Builds up with repeated use.
+It builds up with repeated use. Taking more during this period stacks onto drug still in the body.
 
 ### Comedown (several days)
 
-The comedown is extremely gradual, which softens withdrawal.
+The comedown is extremely gradual, which softens withdrawal. Tiredness, a foggy head and sometimes a mild headache linger as it fades.
 
-Emotionally slow return of anxiety.
+Emotionally a slow return of anxiety. Anxiety and poor sleep can return, sometimes stronger than before (rebound), with irritability or a flat mood.
 
-Dependence still possible.
+Dependence is still possible. Daily use causes tolerance and dependence within weeks; stopping suddenly can cause severe anxiety, insomnia, tremor and seizures, so tapering with a prescriber is essential.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

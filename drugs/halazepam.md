@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-3 h)
 
-Halazepam (Paxipam) was a long-acting anxiety benzodiazepine sold in the US until the 2000s. It came on gently as tension slowly drained out of the body.
+Halazepam (Paxipam) was a long-acting anxiety benzodiazepine sold in the US until the 2000s. Mostly converted to nordazepam, it came on gently as tension slowly drained away. Muscles loosen, the jaw and shoulders release, and a mild heaviness settles into the limbs.
 
-Mentally it brought a mild, unhurried calm.
+Mentally it brought a mild, unhurried calm. Worries recede and the mind becomes slower and quieter, without the sparkle of a stimulant or the warmth of an opioid.
 
-Like prazepam, it worked mostly through nordazepam.
+It was valued for little sudden sedation. Light-headedness on standing and slowed reactions start early, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, a mild starts to appear.
 
 ### Peak (2-4 h)
 
-At its peak mild relaxation and drowsiness.
+At its peak there was mild relaxation and drowsiness. Coordination is clumsy, speech may thicken and there is a pull toward sleep.
 
-Mentally calm with little euphoria.
+Mentally calm with little euphoria. Memory for events during this window is often weak, a common benzodiazepine effect called anterograde amnesia.
 
-Risks rose with alcohol.
+Risks rose with alcohol. With alcohol, opioids or other sedatives, breathing and consciousness can be dangerously depressed.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau stretched over days.
+The plateau stretched over days. Balance and coordination stay poor, raising the risk of falls, especially for older people.
 
-Mentally dulled concentration.
+Mentally concentration was dulled. Concentration, memory and reaction time remain reduced, so driving is unsafe even when the person feels normal.
 
-Accumulated in older people.
+It accumulated in older people. Taking more during this period stacks onto drug still in the body.
 
 ### Comedown (1-3 days)
 
-The comedown was slow.
+The comedown was slow. Tiredness, a foggy head and sometimes a mild headache linger as it fades.
 
-Emotionally gradual return of worry.
+Emotionally worry returned gradually. Anxiety and poor sleep can return, sometimes stronger than before (rebound), with irritability or a flat mood.
 
-Dependence possible with long use.
+Dependence was possible with long use. Daily use causes tolerance and dependence within weeks; stopping suddenly can cause severe anxiety, insomnia, tremor and seizures, so tapering with a prescriber is essential.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
