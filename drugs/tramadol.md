@@ -82,19 +82,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-6 h)
 
-The plateau brings steady mild relief with warmth, sweating and sometimes itch.
+Tramadol's plateau is steady and mild: a light warmth, eased pain, sweating and sometimes a faint itch. Some feel a buzzing restlessness in the legs rather than heaviness.
 
-Mentally people feel calm or slightly stimulated.
+Mentally people feel calm, chatty or mildly upbeat, an antidepressant-like brightness rather than dreamy sedation. Concentration is mostly preserved.
 
-Nausea and dizziness may continue.
+Nausea and dizziness may continue, and the seizure and serotonin syndrome risks persist throughout, especially with antidepressants, other opioids or alcohol.
 
 ### Comedown (6-10 h)
 
-The comedown brings tiredness and sometimes irritability.
+As tramadol fades, the body feels tired and slightly achy, and sweating can continue.
 
-Some notice low mood or anxiety.
+Emotionally some feel irritable, anxious or low, a dip linked to its serotonin and noradrenaline effects.
 
-Regular use causes dependence, and withdrawal can include both opioid symptoms and antidepressant-like symptoms such as anxiety, 'brain zaps' and confusion.
+Regular use causes dependence. Withdrawal combines opioid symptoms (aches, runny nose, diarrhea) with antidepressant-like ones: anxiety, 'brain zaps', confusion and sometimes hallucinations. Stopping should be tapered.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

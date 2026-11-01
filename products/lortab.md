@@ -20,11 +20,11 @@ Times vary between people; this describes swallowed tablets.
 
 ### Onset
 
-Lortab, another hydrocodone-acetaminophen brand, has the same mellow onset: warmth in the chest and stomach and loosening in the limbs. The syrup form is absorbed somewhat faster than tablets.
+Lortab, a hydrocodone-acetaminophen brand, begins with hydrocodone's soft, rounded warmth: a loosening in the chest and stomach, a gentle heaviness creeping into the arms, and shoulders that drop without effort. The syrup form, sweet and fruit-flavored, is absorbed somewhat faster than tablets, so its first effects can arrive a little sooner.
 
-Mentally the onset is calm and relaxed.
+Mentally the onset is mellow and easygoing. Tension and irritability ease, and people describe feeling cozy and settled rather than energized; thinking slows slightly but stays clear.
 
-Itch and nausea can appear early.
+An early tickling itch on the face, neck or upper back is common, and some feel queasy, especially on an empty stomach. The mouth dries and pupils narrow. Because every tablet or measure also contains acetaminophen, the liver risk travels with each use.
 
 ### Peak
 
@@ -36,19 +36,19 @@ Breathing is most suppressed now. Because Lortab syrup is a liquid, measuring er
 
 ### Plateau
 
-The plateau is drowsy and warm. Limbs stay heavy, eyelids droop, and light nodding can occur, especially lying down. Itching continues in patches, and the mouth stays dry.
+Lortab's plateau is a long, warm heaviness. The body sinks into the bed or couch, eyelids feel weighted, and people may nod off and startle awake. Itch drifts from place to place, and a dry, sticky mouth persists; with the syrup, a lingering sweet taste is common.
 
-Mentally people drift into relaxed, unfocused daydreams. Time stretches and motivation fades; the mood is calm and passive rather than euphoric.
+Mentally the plateau is passive and dreamy. Attention slides off tasks, half-dreams appear when the eyes close, and the mood is contented but sleepy. People caring for someone on Lortab syrup often notice slurred, slow speech in this phase.
 
-Constipation and slow urination build, and breathing stays slowed. Combining with alcohol, benzodiazepines or sleep aids makes this phase dangerous.
+Constipation and slow urination build, the face may be flushed, and breathing stays slowed. Sleeping through this phase after alcohol or another sedative, or after a mismeasured dose of syrup, is a common overdose setting, especially for children.
 
 ### Comedown
 
-The comedown is gradual, with tiredness, mild aches and sometimes nausea.
+The comedown is gradual: warmth leaves the limbs first, then tiredness, a dull headache and returning aches take its place.
 
-Mood turns flat or sleepy, with restlessness and craving in regular users.
+Emotionally people feel flat, sluggish or slightly low; regular users notice restlessness, yawning and a pull toward the next dose.
 
-Constipation can linger, and repeat use builds dependence and adds acetaminophen liver risk.
+Nausea and constipation can linger into the next day. Repeat doses to avoid the comedown build tolerance and add acetaminophen to the liver each time.
 
 ## What the added ingredients bring, and their risks
 

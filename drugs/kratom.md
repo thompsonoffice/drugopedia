@@ -74,19 +74,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-The plateau holds mild warmth and drowsiness or stimulation depending on amount.
+At lower amounts the plateau feels like a long, mild stimulant: alert, slightly tingly, talkative. At higher amounts it becomes warm and heavy, with relaxed muscles, sweating and narrowed pupils.
 
-Mentally people feel calm or energized.
+Mentally people feel calm and content or focused and sociable depending on amount; the mood is milder and less dreamy than prescription opioids.
 
-Constipation and dry mouth build.
+Constipation, dry mouth and nausea build, and combining with other sedatives raises breathing risk.
 
 ### Comedown (3-7 h total)
 
-The comedown is gradual with tiredness.
+The comedown is gradual: tiredness, mild aches and sometimes a headache.
 
-Some feel irritable or low.
+Mood may dip into irritability or low energy, especially in daily users.
 
-Daily use causes dependence, with withdrawal including aches, irritability, runny nose and insomnia.
+Daily use causes dependence; withdrawal includes aches, irritability, runny nose, jerky limbs and insomnia, similar to but usually milder than opioid withdrawal.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 

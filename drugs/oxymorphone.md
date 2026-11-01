@@ -80,19 +80,19 @@ Hospital staff monitor sedation and breathing most closely at this point. Signs 
 
 ### Plateau (2-4 h)
 
-The plateau is long and heavily sedated, with nodding and warm, flushed skin.
+Oxymorphone's plateau, especially with extended-release forms, is long and heavily sedated. The body feels sunk and slack, skin is warm and flushed, and nodding is frequent. Itch is usually mild.
 
-Mentally people are drowsy, dreamy and slow.
+Mentally the plateau is drowsy and dreamlike; people drift in and out of awareness, and conversation fades. The euphoria settles into deep, sleepy contentment, and time passes without notice.
 
-Breathing stays suppressed, and constipation builds.
+Breathing remains suppressed for many hours, and the long duration means overdose can develop during sleep. Constipation and dry mouth build.
 
 ### Comedown (4-6 h)
 
-The comedown is gradual for extended-release forms and quicker for immediate-release.
+The comedown is slow for extended-release tablets and quicker for immediate-release: heaviness lifts into tiredness and aching.
 
-People feel tired and flat.
+Emotionally people describe a flat, gray mood and restlessness as the strong calm drains away.
 
-Dependence and withdrawal follow regular use.
+Regular use leads to dependence; withdrawal brings sweating, yawning, goosebumps, cramps and craving. Taking more during the comedown stacks on drug still in the body.
 
 The comedown reflects falling blood levels as the liver and kidneys clear the drug. Receptor activity decreases, and the brain's normal pain and stress signals return. In people who have used opioids regularly, the nervous system has adapted, so falling levels trigger the beginnings of withdrawal: increased noradrenaline activity causes anxiety, sweating, yawning, and goosebumps.
 
