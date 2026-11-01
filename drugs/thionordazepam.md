@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Thionordazepam is a sulfur-containing nordazepam relative. It is thought to bring a slow, steady calm.
+Thionordazepam is a sulfur-containing relative of nordazepam; it is essentially unstudied in humans. It is thought to bring a slow, steady calm. Unlike prescription tablets, the strength of each pill, powder or blotter is a guess.
 
-Mentally quiet.
+Mentally quiet relief. The early effect is often mistaken for 'not working', which is how people end up taking more.
 
-Its safety is essentially unstudied. Its strength in street pills, powders and blotters is unknown, and it is increasingly found mixed with fentanyl.
+Nothing reliable is known about its strength. Reaction time and coordination are already impaired here, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, a long starts to appear.
 
 ### Peak (2-4 h)
 
-At its peak relaxed.
+At its peak relaxation and drowsiness are expected. Walking becomes swaying, hands fumble, speech thickens and the eyes grow heavy and unfocused.
 
-Mentally calm.
+Mentally calm with some forgetfulness. Blackouts are the hallmark of designer benzos: people may talk, text, drive or argue and later remember nothing, and others often cannot tell anything is wrong.
 
-Risky with depressants.
+Dangerous with depressants. With opioids, alcohol, gabapentinoids or other sedatives, breathing can slow dangerously; give naloxone in any suspected overdose because fentanyl is so often present, and call emergency services.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau may be long.
+The plateau may be long, like nordazepam. Balance stays poor and falls, burns and other injuries are common during this stretch.
 
-Mentally dull.
+Mentally dulled. People frequently forget they already took a dose and take another, stacking the effect.
 
-Unknown.
+Accumulation is possible. Driving, swimming, cooking or caring for children during this time is unsafe.
 
 ### Comedown (long)
 
-The comedown is gradual.
+The comedown is likely gradual. The body feels heavy and dull, sometimes with a headache, dry mouth and nausea.
 
-Emotionally slow.
+Emotionally slow return of anxiety. Rebound anxiety, irritability, low mood and worry about what happened during a blackout are common.
 
-Dependence possible.
+Dependence is expected with repeated use. Daily use builds dependence within weeks; stopping suddenly can cause seizures and psychosis, so withdrawal should be managed by a doctor, often by switching to a long-acting prescribed benzodiazepine and tapering slowly.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

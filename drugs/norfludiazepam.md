@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Norfludiazepam is a very long-acting metabolite of flurazepam and other benzos. It comes on slowly with a steady calm.
+Norfludiazepam (N-desalkylflurazepam) is the long-lived metabolite behind flurazepam and several other benzos, sold on its own as a designer drug. It comes on slowly with a steady, creeping calm. Unlike prescription tablets, the strength of each pill, powder or blotter is a guess.
 
-Mentally an even quieting.
+Mentally the onset is an even quieting, without a noticeable rush. The early effect is often mistaken for 'not working', which is how people end up taking more.
 
-Its strength in street pills, powders and blotters is unknown, and it is increasingly found mixed with fentanyl.
+Because it can stay in the body for days, a first dose is never the whole story. Reaction time and coordination are already impaired here, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ Gradual calm.
 
 ### Peak (3-8 h)
 
-At its peak relaxed.
+At its peak the body feels relaxed and drowsy. Walking becomes swaying, hands fumble, speech thickens and the eyes grow heavy and unfocused.
 
-Mentally calm.
+Mentally calm and slowed, with weaker memory. Blackouts are the hallmark of designer benzos: people may talk, text, drive or argue and later remember nothing, and others often cannot tell anything is wrong.
 
-Risky with depressants.
+Late interactions with alcohol or opioids remain possible a day or more later. With opioids, alcohol, gabapentinoids or other sedatives, breathing can slow dangerously; give naloxone in any suspected overdose because fentanyl is so often present, and call emergency services.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (many hours)
 
-The plateau lasts days.
+The plateau lasts days, a background sedation that thickens with repeated use. Balance stays poor and falls, burns and other injuries are common during this stretch.
 
-Mentally dull.
+Mentally people feel dull, unmotivated and forgetful. People frequently forget they already took a dose and take another, stacking the effect.
 
-Accumulates.
+Older people are especially prone to confusion. Driving, swimming, cooking or caring for children during this time is unsafe.
 
 ### Comedown (2-5 days)
 
-The comedown is slow.
+The comedown is very slow. The body feels heavy and dull, sometimes with a headache, dry mouth and nausea.
 
-Emotionally gradual.
+Emotionally anxiety and sleeplessness return gradually. Rebound anxiety, irritability, low mood and worry about what happened during a blackout are common.
 
-Dependence possible.
+Withdrawal can be long. Daily use builds dependence within weeks; stopping suddenly can cause seizures and psychosis, so withdrawal should be managed by a doctor, often by switching to a long-acting prescribed benzodiazepine and tapering slowly.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 

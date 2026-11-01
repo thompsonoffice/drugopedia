@@ -48,11 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (1-2 h)
 
-Rilmazafone is a Japanese sleep medicine that is not itself a benzodiazepine but turns into one in the body. It comes on gradually with drowsiness.
+Rilmazafone (Rhythmy) is a Japanese sleep medicine that is not a benzodiazepine itself but is turned into one in the small intestine. Swallowed, it builds gradually into a heavy drowsiness. Unlike prescription tablets, the strength of each pill, powder or blotter is a guess.
 
-Mentally sleepy and slow.
+Mentally the mind slows and drifts toward sleep. The early effect is often mistaken for 'not working', which is how people end up taking more.
 
-It has appeared as a designer drug and been linked to deaths in Europe.
+It has been sold in Europe as a designer drug and linked to several deaths. Reaction time and coordination are already impaired here, even when the person feels only relaxed.
 
 From a medical point of view, the onset reflects how quickly the drug is absorbed and enters the brain. Like other benzodiazepines, it enhances the effect of the calming neurotransmitter GABA at GABA-A receptors and is cleared mostly by the liver. As it binds to GABA-A receptors, brain activity slows: anxiety eases, muscles relax, and reaction time lengthens.
 
@@ -64,11 +64,11 @@ As it builds, heavy sleepiness that arrives later than people expect starts to a
 
 ### Peak (2-3 h)
 
-At its peak sleep.
+At its peak sleep usually takes over; awake, people are clumsy and slurred. Walking becomes swaying, hands fumble, speech thickens and the eyes grow heavy and unfocused.
 
-Mentally hazy.
+Mentally hazy with amnesia. Blackouts are the hallmark of designer benzos: people may talk, text, drive or argue and later remember nothing, and others often cannot tell anything is wrong.
 
-Risky with depressants.
+With opioids or alcohol, deaths have occurred. With opioids, alcohol, gabapentinoids or other sedatives, breathing can slow dangerously; give naloxone in any suspected overdose because fentanyl is so often present, and call emergency services.
 
 Medically, the peak is when sedation, muscle relaxation, and memory impairment are strongest. Benzodiazepines can block the formation of new memories (anterograde amnesia), so people may act normally yet remember nothing later.
 
@@ -76,19 +76,19 @@ On their own, benzodiazepines rarely stop breathing in healthy adults, but combi
 
 ### Plateau (several hours)
 
-The plateau lasts the night.
+The plateau lasts through the night. Balance stays poor and falls, burns and other injuries are common during this stretch.
 
-Mentally sleep.
+Mentally sleep or confusion on waking. People frequently forget they already took a dose and take another, stacking the effect.
 
-Morning grogginess possible.
+Morning grogginess is possible. Driving, swimming, cooking or caring for children during this time is unsafe.
 
 ### Comedown (8-12 h)
 
-The comedown is mild.
+The comedown is a slow-clearing morning fog. The body feels heavy and dull, sometimes with a headache, dry mouth and nausea.
 
-Emotionally mild.
+Emotionally mild flatness. Rebound anxiety, irritability, low mood and worry about what happened during a blackout are common.
 
-Dependence possible.
+Nightly use leads to dependence. Daily use builds dependence within weeks; stopping suddenly can cause seizures and psychosis, so withdrawal should be managed by a doctor, often by switching to a long-acting prescribed benzodiazepine and tapering slowly.
 
 As levels fall, the calming effect wears off. With short-acting benzodiazepines, rebound anxiety and insomnia can be sharp. Long-acting ones and their active metabolites can linger for days, causing next-day drowsiness and impaired driving.
 
