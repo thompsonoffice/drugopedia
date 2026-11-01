@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30 min-2 h)
 
-Effects begin 30 minutes to 2 hours after eating.
+Amanita muscaria mushrooms bring a slow onset with nausea, sweating, drooling and muscle twitching.
+
+Mentally a dreamy, drunken, sometimes delirious state.
+
+Sleepiness alternates with excitement.
 
 Ibotenic acid is converted to muscimol.
 
@@ -60,7 +64,11 @@ Nausea and drowsiness.
 
 ### Peak (2-3 h)
 
-Peak at 2 to 3 hours.
+At the peak, confusion, distorted size perception, and dreamlike visions.
+
+Emotionally unpredictable.
+
+Poisoning can cause seizures and coma; mistaking deadly Amanita species is a serious risk.
 
 At peak, deep sedation and delirium.
 
@@ -68,11 +76,19 @@ Seizures and coma in severe cases.
 
 ### Plateau (3-6 h)
 
-Several hours.
+The plateau is long and sleepy.
+
+Thinking confused.
+
+Vomiting possible.
 
 ### Comedown (6-10 h)
 
-Slow fade.
+The comedown is groggy.
+
+Mood tired.
+
+Medical help may be needed.
 
 Effects last hours.
 

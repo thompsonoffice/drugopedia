@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20 min)
 
-Drowsiness within 20 minutes.
+Promethazine, an antihistamine in lean-style cough syrups, brings a heavy, syrupy sleepiness and a thick, dry mouth.
+
+Mentally a dreamy, sinking fog.
+
+Restless legs can occur.
 
 Promethazine is absorbed well and crosses into the brain.
 
@@ -60,7 +64,11 @@ Heaviness.
 
 ### Peak (2-3 h)
 
-Peak at 2 to 3 hours.
+At the peak, heavy sedation and slowed movement.
+
+Emotionally detached and drowsy.
+
+With opioids or alcohol it deepens breathing suppression; large amounts can cause delirium and seizures.
 
 At high levels, delirium and seizures; with opioids, breathing depression.
 
@@ -68,11 +76,19 @@ It can cause neuroleptic malignant syndrome rarely.
 
 ### Plateau (4-6 h)
 
-Sedation for 4 to 6 hours.
+The plateau is long and sleepy.
+
+Thinking slow.
+
+Driving unsafe.
 
 ### Comedown (6-12 h)
 
-Slow fade.
+The comedown is groggy.
+
+Mood flat.
+
+Repeated heavy use worsens memory.
 
 Long half-life.
 

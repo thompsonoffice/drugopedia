@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Effects begin within an hour.
+Misused antidepressants (bupropion, trazodone, amitriptyline and others) vary. Bupropion brings a jittery stimulant-like edge; trazodone and amitriptyline bring heavy sedation and dry mouth.
+
+Mentally there is usually little pleasure.
+
+Side effects dominate.
 
 Bupropion blocks dopamine and noradrenaline reuptake; trazodone blocks serotonin 5-HT2A and H1; amitriptyline blocks reuptake and many receptors.
 
@@ -64,7 +68,11 @@ Stimulation (bupropion) or sedation (trazodone, amitriptyline).
 
 ### Peak (2-4 h)
 
-Peak at 2 to 4 hours.
+At the peak, stimulation (bupropion) or deep sedation (trazodone, tricyclics).
+
+Emotionally unpleasant for many.
+
+Bupropion can cause seizures, and tricyclic overdose causes deadly heart rhythms.
 
 At high levels, bupropion lowers the seizure threshold; tricyclics block cardiac sodium channels.
 
@@ -72,11 +80,19 @@ Serotonin syndrome is possible when combined with other serotonergic drugs.
 
 ### Plateau (4-8 h)
 
-Several hours.
+The plateau varies.
+
+Thinking foggy or wired.
+
+Medical help may be needed.
 
 ### Comedown (8-12 h)
 
-Fade.
+The comedown is draining.
+
+Mood low.
+
+Combinations can cause serotonin syndrome.
 
 Half-lives range widely.
 

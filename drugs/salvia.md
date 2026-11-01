@@ -48,7 +48,11 @@ Times below are typical for the inhaled and smoked route and vary a lot between 
 
 ### Onset (seconds)
 
-Effects begin within seconds.
+Salvia divinorum hits within seconds when smoked: a pulling or twisting pressure in the body and a sudden shift of reality.
+
+Mentally a bizarre, overwhelming dissociation, often feeling like becoming an object or being pulled into another world.
+
+People may move or speak without awareness.
 
 Salvinorin A reaches the brain within seconds.
 
@@ -60,7 +64,11 @@ Rapid loss of contact.
 
 ### Peak (1-5 min)
 
-Peak within 1 to 5 minutes.
+The peak is brief and intense.
+
+Emotionally confusing, often frightening.
+
+Accidental injuries are the main danger; a sober sitter is essential.
 
 At peak, kappa-opioid activation causes dissociation and dysphoria.
 
@@ -68,11 +76,19 @@ Accidents are the main risk.
 
 ### Plateau (5-10 min)
 
-Short plateau.
+Effects fade within minutes.
+
+Mind returns slowly.
+
+Laughter or confusion follows.
 
 ### Comedown (15-30 min)
 
-Return over 15 to 30 minutes.
+The comedown is quick.
+
+Mood unsettled.
+
+It is not addictive.
 
 Rapid metabolism ends effects quickly.
 

@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (about 1 h)
 
-Effects begin within an hour.
+Anticholinergic medicines (like benztropine and trihexyphenidyl) at ordinary amounts causes drowsiness. When misused, the onset is a heavy, sluggish body, bone-dry mouth, flushed hot skin and blurred vision.
+
+Mentally a confused, uneasy fog rather than euphoria; many describe a creeping dread.
+
+The heart races and urination becomes difficult.
 
 Both are absorbed well.
 
@@ -60,7 +64,11 @@ Dry mouth.
 
 ### Peak (2-4 h)
 
-Peak at 2 to 4 hours.
+At the peak, realistic hallucinations: talking to people who are not there, seeing insects or shadow figures, phantom cigarettes or phones in hand.
+
+Emotionally frightening and confused; people often cannot tell what is real.
+
+Deliriants cause true delirium: people lose track of what is real, cannot recognize that they are intoxicated, and may wander into traffic or water. Very fast heart rate, high temperature, seizures and dangerous heart rhythms can occur; it is a medical emergency.
 
 Delirium at high levels.
 
@@ -68,11 +76,19 @@ Overheating is a danger.
 
 ### Plateau (4-12 h)
 
-Long plateau.
+The plateau is long and disoriented.
+
+Memory of it is patchy.
+
+Restless pacing and picking at things are common.
 
 ### Comedown (12-24 h)
 
-Slow fade.
+The comedown brings a heavy, confused hangover.
+
+Mood low and anxious.
+
+Repeated heavy use is linked to lasting memory problems.
 
 Long half-life for benztropine.
 

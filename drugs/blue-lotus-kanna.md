@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30 min)
 
-Effects begin within 30 minutes.
+Blue lotus brings a mild, dreamy relaxation; kanna brings a gentle mood lift and slight numbness.
+
+Mentally calm and contented.
+
+Effects are subtle.
 
 Absorption varies.
 
@@ -60,7 +64,11 @@ Mild calm.
 
 ### Peak (about 1 h)
 
-Peak at about 1 hour.
+At the peak, mild euphoria and calm.
+
+Emotionally pleasant.
+
+Kanna with serotonergic drugs may risk serotonin syndrome.
 
 Kanna inhibits serotonin reuptake.
 
@@ -68,11 +76,19 @@ Serotonin syndrome risk with other drugs.
 
 ### Plateau (1-2 h)
 
-1 to 2 hours.
+The plateau is short.
+
+Mood mellow.
+
+Products vary.
 
 ### Comedown (2-3 h)
 
-Gradual fade.
+The comedown is gentle.
+
+Mood steady.
+
+Unregulated.
 
 Effects fade within hours.
 

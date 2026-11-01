@@ -48,7 +48,11 @@ Times below are typical for the transdermal (skin patches) route and vary a lot 
 
 ### Onset (4-6 h)
 
-Patch effects build over hours; swallowed or injected forms act within minutes to an hour.
+Scopolamine, used medically for motion sickness, causes dry mouth and drowsiness. Misused, it brings a confused, sedated delirium.
+
+Mentally a fog, with loss of will and memory.
+
+It has been used in crimes ('burundanga') to make victims compliant.
 
 Scopolamine from patches is absorbed slowly through the skin behind the ear.
 
@@ -60,7 +64,11 @@ Dry mouth and drowsiness.
 
 ### Peak (8-24 h)
 
-Peak sedation and confusion.
+At the peak, delirium and amnesia.
+
+Emotionally confused.
+
+Deliriants cause true delirium: people lose track of what is real, cannot recognize that they are intoxicated, and may wander into traffic or water. Very fast heart rate, high temperature, seizures and dangerous heart rhythms can occur; it is a medical emergency.
 
 At high levels, delirium, amnesia and hallucinations.
 
@@ -68,11 +76,19 @@ Older adults are especially vulnerable to confusion.
 
 ### Plateau (up to 72 h)
 
-Long plateau with patch.
+The plateau is long.
+
+Memory absent.
+
+Hospital care needed.
 
 ### Comedown (after removal)
 
-Gradual fade.
+The comedown is foggy.
+
+Mood anxious.
+
+Memory of events often never returns.
 
 Effects persist after patch removal.
 

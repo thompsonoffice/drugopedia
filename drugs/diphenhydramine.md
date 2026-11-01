@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Drowsiness begins within 30 to 60 minutes.
+Diphenhydramine (Benadryl) at ordinary amounts causes drowsiness. When misused, the onset is a heavy, sluggish body, bone-dry mouth, flushed hot skin and blurred vision.
+
+Mentally a confused, uneasy fog rather than euphoria; many describe a creeping dread.
+
+The heart races and urination becomes difficult.
 
 Diphenhydramine is absorbed well and crosses easily into the brain, unlike newer antihistamines.
 
@@ -60,7 +64,11 @@ Dry mouth, fast heartbeat, and confusion at higher amounts.
 
 ### Peak (2-4 h)
 
-Peak delirium at 2 to 4 hours.
+At the peak, realistic hallucinations: talking to people who are not there, seeing insects or shadow figures, phantom cigarettes or phones in hand.
+
+Emotionally frightening and confused; people often cannot tell what is real.
+
+Deliriants cause true delirium: people lose track of what is real, cannot recognize that they are intoxicated, and may wander into traffic or water. Very fast heart rate, high temperature, seizures and dangerous heart rhythms can occur; it is a medical emergency.
 
 At high levels, muscarinic blockade in the brain causes delirium, and sodium channel blockade in the heart widens the QRS complex, risking fatal arrhythmias.
 
@@ -68,11 +76,19 @@ Seizures are common in severe poisoning; overheating occurs because sweating sto
 
 ### Plateau (4-8 h)
 
-Delirium can last many hours.
+The plateau is long and disoriented.
+
+Memory of it is patchy.
+
+Restless pacing and picking at things are common.
 
 ### Comedown (8-12 h)
 
-Long comedown with confusion.
+The comedown brings a heavy, confused hangover.
+
+Mood low and anxious.
+
+Repeated heavy use is linked to lasting memory problems.
 
 Delirium can outlast the drowsiness by many hours.
 

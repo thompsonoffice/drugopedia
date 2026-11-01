@@ -52,7 +52,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Sedation within an hour.
+Quetiapine (Seroquel) brings a heavy, pulling sleepiness and a stuffy nose.
+
+Mentally a thick, dull calm; misused, a sedated haze rather than a high.
+
+Standing up can bring dizziness.
 
 Quetiapine is absorbed quickly.
 
@@ -64,7 +68,11 @@ Heaviness.
 
 ### Peak (1-2 h)
 
-Peak at 1 to 2 hours.
+At the peak strong sedation.
+
+Emotionally flat.
+
+Overdose can cause low blood pressure, fast heart rate and coma.
 
 At high levels, deep sedation and QT prolongation.
 
@@ -72,11 +80,19 @@ Mixing with depressants adds danger.
 
 ### Plateau (4-8 h)
 
-Sedation for many hours.
+The plateau is long sleep.
+
+Thinking slow.
+
+Next-day grogginess common.
 
 ### Comedown (8-12 h)
 
-Slow fade.
+The comedown is groggy.
+
+Mood flat.
+
+Stopping suddenly can cause insomnia and nausea.
 
 Half-life about 6 hours (XR longer).
 

@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Effects begin within 30 minutes to 1 hour.
+Datura (jimsonweed) has a slow, unpredictable onset with extreme dry mouth, burning hot skin, wide pupils and blurred vision.
+
+Mentally a confusing, dreamlike slide into delirium.
+
+Potency varies wildly between plants.
 
 Tropane alkaloids are absorbed from the gut over hours.
 
@@ -60,7 +64,11 @@ Dry mouth, wide pupils, confusion.
 
 ### Peak (3-12 h)
 
-Delirium peaks over several hours.
+At the peak, total delirium with vivid, real-seeming hallucinations and no awareness of being intoxicated.
+
+Emotionally terrifying for many.
+
+Deliriants cause true delirium: people lose track of what is real, cannot recognize that they are intoxicated, and may wander into traffic or water. Very fast heart rate, high temperature, seizures and dangerous heart rhythms can occur; it is a medical emergency.
 
 At peak, delirium with realistic hallucinations; overheating, arrhythmias and seizures can be fatal.
 
@@ -68,11 +76,19 @@ Physostigmine, given in hospitals, can reverse severe anticholinergic delirium.
 
 ### Plateau (12-48 h)
 
-Delirium can last 24 to 48 hours.
+The plateau can last a day or more.
+
+Thinking disorganized.
+
+Hospital care is often needed.
 
 ### Comedown (1-3 days)
 
-Slow recovery over days.
+The comedown lasts days, with blurred vision.
+
+Mood shaken.
+
+Deaths from accidents and overheating occur.
 
 Delirium can last days.
 

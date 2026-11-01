@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (minutes)
 
-Effects begin within minutes.
+Betel (areca nut) chewing brings a warm flush, sweating and mild alertness.
+
+Mentally a slight euphoric lift.
+
+The mouth turns red.
 
 Arecoline is absorbed through the mouth.
 
@@ -60,7 +64,11 @@ Warmth and alertness.
 
 ### Peak (10-15 min)
 
-Peak within 15 minutes.
+At the peak, mild stimulation.
+
+Emotionally upbeat.
+
+Long-term use causes mouth cancer.
 
 At peak, mild stimulation.
 
@@ -68,11 +76,19 @@ Long-term oral cancer risk.
 
 ### Plateau (1-2 h)
 
-Lasts an hour or two.
+The plateau is short.
+
+Mood steady.
+
+Dependence common.
 
 ### Comedown (2-3 h)
 
-Gradual fade.
+The comedown is mild.
+
+Mood slight craving.
+
+Withdrawal can cause irritability.
 
 Effects fade within hours.
 

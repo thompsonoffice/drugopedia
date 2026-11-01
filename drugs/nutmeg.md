@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (3-6 h)
 
-Effects begin after 3 to 6 hours.
+Nutmeg's onset is very slow, often many hours, with nausea, dry mouth and a racing heart.
+
+Mentally a confused, dreamlike state.
+
+Many find it unpleasant.
 
 Myristicin is absorbed slowly.
 
@@ -60,7 +64,11 @@ Slow nausea and confusion.
 
 ### Peak (6-12 h)
 
-Peak at 6 to 12 hours.
+At the peak, drowsy confusion, possible hallucinations and anxiety.
+
+Emotionally uneasy.
+
+Poisoning causes vomiting, palpitations and agitation.
 
 At peak, confusion and fast heart rate.
 
@@ -68,11 +76,19 @@ Combined with other drugs, risk rises.
 
 ### Plateau (12-24 h)
 
-Long plateau.
+The plateau can last a day or more.
+
+Thinking foggy.
+
+Exhaustion builds.
 
 ### Comedown (24-48 h)
 
-Slow fade.
+The comedown lasts days.
+
+Mood drained.
+
+Medical help may be needed.
 
 Effects last a day or two.
 

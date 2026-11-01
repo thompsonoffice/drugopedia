@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (20-30 min)
 
-Effects begin within 20 to 30 minutes.
+Kava has a quick onset with a numb, tingly tongue and lips, then a gentle body relaxation.
+
+Mentally a clear-headed calm and sociability.
+
+Muscles loosen.
 
 Kavalactones are absorbed within an hour.
 
@@ -60,7 +64,11 @@ Mouth numbness and relaxation.
 
 ### Peak (1-2 h)
 
-Peak at 1 to 2 hours.
+At the peak, relaxed, content and chatty, with heavy legs.
+
+Emotionally peaceful.
+
+Heavy use is linked to liver damage and skin scaling.
 
 At high levels, sedation and loss of coordination.
 
@@ -68,11 +76,19 @@ Liver injury reports led to bans.
 
 ### Plateau (2-3 h)
 
-Several hours.
+The plateau is a few hours.
+
+Mood calm.
+
+Combining with alcohol raises liver risk.
 
 ### Comedown (3-6 h)
 
-Gentle fade.
+The comedown is mild tiredness.
+
+Mood steady.
+
+Dependence is uncommon.
 
 Effects last several hours.
 

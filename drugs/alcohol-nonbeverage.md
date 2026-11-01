@@ -48,7 +48,11 @@ Times below are typical for the oral (swallowed) route and vary a lot between pe
 
 ### Onset (30-60 min)
 
-Intoxication within 30 to 60 minutes.
+Non-beverage alcohols (hand sanitizer, mouthwash, rubbing alcohol, methanol-containing products) feel at first like drinking: warmth, looseness and dizziness. Rubbing alcohol (isopropanol) is roughly twice as intoxicating and burns the stomach.
+
+Mentally drunken disinhibition.
+
+Nausea and stomach pain are common.
 
 Methanol and isopropyl alcohol are absorbed quickly from the gut.
 
@@ -60,7 +64,11 @@ Drunkenness similar to ethanol.
 
 ### Peak (1-2 h)
 
-Ethanol-like peak; methanol's real toxicity is delayed.
+At the peak, heavy drunkenness and stupor.
+
+Emotionally sloppy.
+
+Methanol can cause blindness and death hours after drinking, with blurred 'snowfield' vision and breathing problems. Any suspected methanol ingestion needs emergency care, even if the person feels fine.
 
 Methanol's metabolite formic acid causes severe metabolic acidosis and damages the optic nerve, causing blurry 'snowfield' vision and blindness.
 
@@ -68,11 +76,19 @@ Isopropyl alcohol causes deep sedation, low blood pressure and stomach bleeding.
 
 ### Plateau (2-6 h)
 
-Hours later, vision changes and breathing difficulty (methanol).
+The plateau is heavy and sick.
+
+Thinking confused.
+
+Vomiting common.
 
 ### Comedown (12-24 h)
 
-Severe illness 12 to 24 hours after methanol.
+The comedown brings a harsh hangover.
+
+Mood low.
+
+Organ damage can follow.
 
 Fomepizole blocks alcohol dehydrogenase, preventing methanol's toxic breakdown; dialysis removes it.
 
